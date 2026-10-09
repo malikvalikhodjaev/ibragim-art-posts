@@ -1,0 +1,114 @@
+---
+title: "From Studio to Gallery: How Valikhodjaev Makes Space for Art"
+language: "en"
+theme: 20
+description: "From studio to gallery: Valikhodjaev as painter, teacher, curator and founder, and the encounters created by an exhibition."
+published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html"
+edition_date: "2026-10-09"
+---
+
+# From Studio to Gallery: How Valikhodjaev Makes Space for Art
+
+[https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html>)
+
+Artist, curator, founder
+
+A painting begins with the artist's personal decision. The exhibition and gallery create the conditions for its encounter with others.
+
+Valikhodjaev Gallery House · October 6, 2026
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/de-latelier-la-galerie-valikhodjaev.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dallo-studio-alla-galleria-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_40.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_216.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_620.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_90.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/del-taller-la-galeria-valikhodjaev-crea.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_66.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_12.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_505.html>)
+
+[Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
+
+Ibragim Valikhodjaev, artist and founder of Valikhodjaev Gallery House. Portrait from the Art Vernissage professional profile. [Source](<https://artvernissage.art/en/artists/33/>) .
+
+In this article
+
+- A Personal Exploration Enters Public Space
+- The founder creates a meeting place
+- The curator connects independent voices
+- Teacher and artistic continuity
+- The Work Continues the Conversation
+- Exhibitions Create New Relationships
+
+An artist works in front of the canvas and around the work: to display it, to include it in an exhibition, to give the viewer the opportunity to examine it. In Ibragim Valikhodjaev's work, these aspects are combined with teaching, curating, and organising international projects. His practice is revealed through his paintings and the conditions he creates for artistic communication.
+
+Valikhodjaev founded the Valikhodjaev Gallery House; a second gallery opened on August 5, 2021. This fact from his published biography helps us understand the artist's broader professional role. A discussion of the gallery can begin with the simplest question: what happens to a work once it leaves the studio and reaches the public?
+
+## A Personal Exploration Enters Public Space
+
+In the studio, the artist considers the relationship between colour, form, and composition. The Namangan series stems from Valikhodjaev's interest in the people and everyday life of the bazaar; RED, from his exploration of red; and New View, from the possibilities of abstraction. Each direction develops from specific artistic goals.
+
+At the exhibition, these decisions become an experience for the viewer. Distance, lighting, and juxtaposition of works change; individual works can be compared. The gallery environment helps us see the artistic exploration in progress, returning from the entire itinerary to a single painting.
+
+[Ibragim Valikhodjaev, "Namangan Suite." "Namangan Suite": one of the motifs of Valikhodjaev's artistic exploration.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
+
+Ibragim Valikhodjaev, "Namangan Suite." "Namangan Suite": one of the motifs of Valikhodjaev's artistic exploration. [Full painting](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>) .
+
+## The founder creates a meeting place
+
+The gallery provides a space for artwork to be seen and discussed. For the artist-founder, this is a continuation of his professional focus on how painting presents itself to the public. In Valikhodjaev's biography, the founding of Gallery House is part of this aspect of his work.
+
+The opening date of the second gallery—August 5, 2021—marks a specific milestone. It complements the artist's exhibition history and participation in international projects. When viewing his paintings, it's also useful to remember his experience of creating a cultural space where artistic work reaches an audience.
+
+## The curator connects independent voices
+
+Curatorial work requires thinking through the substantive connections between works and participants. The overall program sets the direction of the conversation, while each artist maintains their own approach. In Valikhodjaev's experience, such work includes a fine arts festival in Andijan in 2026.
+
+In international sculpture symposia, the task expands: works are created in a shared space, where materials, time, and conditions are needed for different concepts. His biography lists eight symposia he organised and curated in Turkey and Uzbekistan. Here, attention to art is combined with the responsibility of giving artists the conditions they need to work.
+
+## Teacher and artistic continuity
+
+Valikhodjaev's education is rooted in the workshop of Master Rahim Ahmedov at the Tashkent Theatre and Art Institute, where he studied from 1986 to 1991. His own teaching practice continues this professional conversation with his students: through observation, comparison, and work on the surface of the painting.
+
+An archival video from 2014 shows him working with students; since 2026, his biography also records his teaching in the master's program at Kimyo International University in Tashkent. This sharing of experience connects the workshop to the broader artistic community. In a painting demonstration, students can see how an explanation translates into decisions on the canvas.
+
+## The Work Continues the Conversation
+
+Solo exhibitions in Dubai and Harbin, group projects, and the artist's own gallery offer different ways to engage with audiences. Each one emphasises the works and their context: where they are displayed, how they are arranged, and what themes offer opportunities for comparison. Videos and publications preserve part of this experience and help continue the conversation after the exhibition.
+
+Behind his multiple professional roles, Valikhodjaev maintains a constant interest in new directions and relationships between colour, form, and composition. The artist creates the image, the teacher explains the work, and the curator and organiser establish the conditions for exchange. Together, these aspects allow art to move from a personal quest to a meaningful public conversation.
+
+## Watch the video
+
+[Working with students, August 8, 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+
+[Video](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+
+## The paintings meet in the exhibition space
+
+The archival gallery display allows for a different perspective on the artwork. Wide, light-coloured spaces remain between the individual canvases. These pauses allow each work to stand on its own, allowing the viewer to compare their scale, colour, and compositional structure.
+
+This observation is significant for a discussion of gallery practice: the juxtaposition of works influences how they are read. The photograph lacks a reliable caption with the gallery name and date, so it is presented as an archival example of the exhibition space and is not presented as a specific hall of the Valikhodjaev Gallery House.
+
+[Paintings on display at a gallery. Photograph from the artist's archive; gallery name, location, and date unknown.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkVYmZ7jn6LrI1ABlxpM8boa0XBu1E66S88bgeizXiXTDy_9s-WmKuVp85I4nW3_rcF3_DMN6TqgSCq-j7PFT_1p4BRwukCBPi87qfnNl2T-l4QmDmYIe33YiYAro-Zvl5gtsGPPPeBowzJURRt48wQYQ15qoOcyo-uA1Oq4jaY1QwbyotsyDgRi60l9sk/s1600/clipboard.png>)
+
+Paintings on display at a gallery. Photograph from the artist's archive; gallery name, location, and date unknown.
+
+## Exhibitions Create New Relationships
+
+Hanging becomes especially meaningful when it reveals different sides of a single artist. A portrait next to a still life allows one to compare how a light figure or vase captures attention. A landscape next to an abstraction helps one appreciate the role of a large colour field. Such juxtapositions support the independence of the works while simultaneously revealing connections that are more difficult to discern when viewed separately.
+
+In the archival gallery photograph, the spaces between paintings make these relationships easier to see. The paintings don't merge into a continuous strip: the viewer has space to linger and then move on to the next image. The distance between the canvases becomes part of the itinerary, like the interval within the composition. For the artist, who also works as an organiser, the gallery offers another dimension of professional attention—from the individual work to the conditions of its public encounter.
+
+## About the artist
+
+Ibragim Valikhodjaev is an artist and sculptor from Uzbekistan, an academician of the Academy of Arts of Uzbekistan, and the chairman of the Union of Artists of Uzbekistan. He works as a curator, expert, teacher, and organiser of international projects; he founded the Valikhodjaev Gallery House. [Biography and CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>) .
+
+Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin), in the collection of the Maltepe Municipality (Turkey, Istanbul), and also in a private collection in Moscow, Russia.
+
+## Sources and materials
+
+- [Biography and CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
+- [Art Vernissage: Artist Profile](<https://artvernissage.art/en/artists/33/>)
+
+## Read also
+
+- [In Ibragim Valikhodjaev's workshop: observation, teaching, and painting](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>)
+- [From Stone to Public Space: Ibragim Valikhodjaev's Sculptural Symposia](<https://ibragim-valikhodjaev.blogspot.com/2026/10/from-stone-to-shared-space-ibragim.html>)
+- [The Life of a Painting After the Exhibition: Ibragim Valikhodjaev's Museums and Collections](<https://ibragim-valikhodjaev.blogspot.com/2026/10/after-exhibition-ibragim-valikhodjaevs.html>)
+
+[Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+[Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)

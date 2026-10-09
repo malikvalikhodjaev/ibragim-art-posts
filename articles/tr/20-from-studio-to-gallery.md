@@ -1,0 +1,114 @@
+---
+title: "Atölyeden galeriye: sanat için alan yaratmak"
+language: "tr"
+theme: 20
+description: "Valikhodjaev’in ressam, küratör, organizatör ve galeri kurucusu olarak çalışmaları: atölyeden izleyiciyle buluşmaya."
+published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html"
+edition_date: "2026-10-09"
+---
+
+# Atölyeden galeriye: sanat için alan yaratmak
+
+[https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html>)
+
+Sanatçı, küratör, kurucu
+
+Bir resim, sanatçının kişisel kararıyla başlar. Sergi ve galeri ise, resmin diğerleriyle buluşması için koşulları yaratır.
+
+Valikhodjaev Gallery House · 6 Ekim 2026
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/de-latelier-la-galerie-valikhodjaev.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dallo-studio-alla-galleria-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_40.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_216.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_620.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_90.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/del-taller-la-galeria-valikhodjaev-crea.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_66.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_12.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_505.html>)
+
+[İbrahim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
+
+İbragim Valikhodjaev, sanatçı ve Valikhodjaev Gallery House’un kurucusu. Art Vernissage’daki sanatçı profilinden portre. [Kaynak](<https://artvernissage.art/en/artists/33/>) .
+
+Bu makalede
+
+- Kişisel Bir Keşif Kamusal Alana Giriyor
+- Kurucu bir buluşma yeri oluşturuyor.
+- Küratör, bağımsız sesleri bir araya getiriyor.
+- Öğretmen ve sanatsal süreklilik
+- Bu çalışma, diyaloğu sürdürüyor.
+- Sergiler Yeni İlişkiler Yaratır
+
+Bir sanatçı tuvalin önünde ve eserin etrafında çalışır: onu sergilemek, bir sergiye dahil etmek, izleyiciye onu inceleme fırsatı vermek için. İbrahim Valikhodjaev'in çalışmalarında bu yönler, öğretim, küratörlük ve uluslararası projeler düzenleme ile birleşiyor. Uygulaması, resimleri ve sanatsal iletişim için yarattığı koşullar aracılığıyla ortaya çıkıyor.
+
+Valikhodjaev, Valikhodjaev Gallery House’u kurdu; ikinci galeri 5 Ağustos 2021'de açıldı. Yayınlanmış biyografisindeki bu bilgi, sanatçının daha geniş profesyonel rolünü anlamamıza yardımcı oluyor. Galeri hakkındaki tartışma, en basit soruyla başlayabilir: Bir eser stüdyodan çıktıktan ve halka ulaştıktan sonra ne olur?
+
+## Kişisel Bir Keşif Kamusal Alana Giriyor
+
+Sanatçı, stüdyosunda renk, biçim ve kompozisyon arasındaki ilişkiyi inceler. Namangan serisi, Valikhodjaev'in çarşı insanlarına ve günlük yaşamına olan ilgisinden; RED serisi, kırmızının keşfinden; Yeni Bakış serisi ise soyutlamanın olanaklarından doğar. Her bir yaklaşım, belirli sanatsal hedeflerden gelişir.
+
+Sergide, bu kararlar izleyici için bir deneyime dönüşüyor. Mesafe, ışıklandırma ve eserlerin yan yana yerleştirilmesi değişiyor; bireysel eserler karşılaştırılabiliyor. Galeri ortamı, tüm yolculuktan tek bir tabloya geri dönerek, sanatsal keşfin ilerleyişini görmemize yardımcı oluyor.
+
+[Ibragim Valikhodjaev, "Namangan Süiti." "Namangan Süiti": Valikhodjaev'in sanatsal keşfinin motiflerinden biri.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
+
+İbrahim Valikhodjaev, "Namangan Süiti." "Namangan Süiti": Valikhodjaev'in sanatsal keşiflerinin motiflerinden biri. [Tablonun tamamı](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>) .
+
+## Kurucu bir buluşma yeri oluşturuyor.
+
+Galeri, sanat eserlerinin görülebileceği ve tartışılabileceği bir alan sağlıyor. Sanatçı-kurucu için bu, resmin halka nasıl sunulduğu konusundaki profesyonel odağının bir devamı niteliğinde. Valikhodjaev'in biyografisinde, Gallery House'nin kuruluşu, çalışmalarının bu yönünün bir parçası olarak yer alıyor.
+
+İkinci galerinin açılış tarihi olan 5 Ağustos 2021, önemli bir dönüm noktasıdır. Sanatçının sergi geçmişini ve uluslararası projelerdeki katılımını tamamlamaktadır. Resimlerine bakarken, sanatsal çalışmaların izleyiciye ulaştığı kültürel bir alan yaratma deneyimini de hatırlamak faydalı olacaktır.
+
+## Küratör, bağımsız sesleri bir araya getiriyor.
+
+Küratörlük çalışması, eserler ve katılımcılar arasındaki temel bağlantıları düşünmeyi gerektirir. Genel program, konuşmanın yönünü belirlerken, her sanatçı kendi yaklaşımını korur. Valikhodjaev'in mesleki yaşamında, bu tür çalışmalar arasında 2026 tarihli Andican Güzel Sanatlar Festivali de yer alıyor.
+
+Uluslararası heykel sempozyumlarında görev genişliyor: farklı kavramlar için malzeme, zaman ve koşulların gerekli olduğu ortak bir alanda eserler yaratılıyor. Biyografisinde Türkiye ve Özbekistan'da düzenlediği ve küratörlüğünü yaptığı sekiz sempozyumdan bahsediliyor. Burada sanata gösterilen özen, sanatçıların çalışabilmesi için gerekli koşulları sağlama sorumluluğuyla birleşiyor.
+
+## Öğretmen ve sanatsal süreklilik
+
+Valikhodjaev'in eğitimi, 1986-1991 yılları arasında öğrenim gördüğü Taşkent Tiyatro ve Sanat Enstitüsü'nde Usta Rahim Ahmedov'un atölyesine dayanmaktadır. Kendi öğretim pratiği de öğrencileriyle bu profesyonel diyaloğu sürdürmektedir: gözlem, karşılaştırma ve resmin yüzeyinde çalışma yoluyla.
+
+2014 yılına ait bir arşiv videosu, onun öğrencilerle çalışmasını gösteriyor; 2026'dan beri biyografisinde, Taşkent'teki Kimyo Uluslararası Üniversitesi'ndeki yüksek lisans programında verdiği dersler de yer alıyor. Bu deneyim paylaşımı, atölyeyi daha geniş sanat topluluğuna bağlıyor. Bir resim gösterisinde, öğrenciler bir açıklamanın tuval üzerindeki kararlara nasıl dönüştüğünü görebiliyorlar.
+
+## Bu çalışma, diyaloğu sürdürüyor.
+
+Dubai ve Harbin'deki kişisel sergiler, grup projeleri ve sanatçının kendi galerisi, izleyicilerle etkileşim kurmanın farklı yollarını sunuyor. Her biri eserleri ve bağlamlarını vurguluyor: nerede sergilendikleri, nasıl düzenlendikleri ve hangi temaların karşılaştırma fırsatları sunduğu. Videolar ve yayınlar bu deneyimin bir bölümünü koruyor ve sergiden sonra da sohbetin devam etmesine yardımcı oluyor.
+
+Valikhodjaev, çok yönlü profesyonel rollerinin ardında, renk, biçim ve kompozisyon arasındaki yeni yönlere ve ilişkilere olan sürekli ilgisini koruyor. Sanatçı görüntüyü yaratır, öğretmen eseri açıklar ve küratör ile organizatör, değişimin koşullarını oluşturur. Bu unsurlar birlikte, sanatın kişisel bir arayıştan anlamlı bir kamusal diyaloğa dönüşmesini sağlar.
+
+## Videoyu izleyin
+
+[Öğrencilerle çalışma, 8 Ağustos 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+
+## Resimler sergi alanında buluşuyor.
+
+Arşivdeki galeri fotoğrafı, sanat eserlerine farklı bir bakış açısı sunuyor. Her bir tuval arasında geniş, açık renkli boşluklar bırakılıyor. Bu boşluklar, her bir eserin kendi başına değerlendirilmesine ve izleyicinin ölçeklerini, renklerini ve kompozisyon yapılarını karşılaştırmasına olanak tanıyor.
+
+Bu gözlem, galeri uygulamaları üzerine bir tartışma için önemlidir: eserlerin yan yana sergilenmesi, nasıl yorumlandıklarını etkiler. Fotoğrafta galeri adı ve tarihi içeren güvenilir bir alt yazı bulunmadığından, sergi alanının arşivsel bir örneği olarak sunulmakta ve Valikhodjaev Gallery House’un belirli bir salonu olarak gösterilmemektedir.
+
+[Bir galeride sergilenen resimler. Fotoğraf, sanatçının arşivinden; galeri adı, yeri ve tarihi bilinmiyor.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkVYmZ7jn6LrI1ABlxpM8boa0XBu1E66S88bgeizXiXTDy_9s-WmKuVp85I4nW3_rcF3_DMN6TqgSCq-j7PFT_1p4BRwukCBPi87qfnNl2T-l4QmDmYIe33YiYAro-Zvl5gtsGPPPeBowzJURRt48wQYQ15qoOcyo-uA1Oq4jaY1QwbyotsyDgRi60l9sk/s1600/clipboard.png>)
+
+Bir galeride sergilenen resimler. Fotoğraf, sanatçının arşivinden; galeri adı, yeri ve tarihi bilinmiyor.
+
+## Sergiler Yeni İlişkiler Yaratır
+
+Eserlerin yan yana sergilenmesi, özellikle tek bir sanatçının farklı yönlerini ortaya koyduğunda anlamlı hale gelir. Bir portrenin bir natürmortun yanında sergilenmesi, açık renkli bir figürün veya vazonun nasıl dikkat çektiğini karşılaştırmaya olanak tanır. Bir manzara resminin bir soyutlamanın yanında sergilenmesi, geniş bir renk alanının rolünü takdir etmeyi sağlar. Bu tür yan yana yerleştirmeler, eserlerin bağımsızlığını desteklerken aynı zamanda ayrı ayrı incelendiğinde fark edilmesi daha zor olan bağlantıları da ortaya çıkarır.
+
+Arşivdeki galeri fotoğrafında, resimler arasındaki boşluklar bu ilişkilerin daha kolay görülmesini sağlıyor. Resimler sürekli bir şerit halinde birleşmiyor: izleyici oyalanıp sonra bir sonraki resme geçebiliyor. Tuvaller arasındaki mesafe, kompozisyon içindeki aralık gibi, yolculuğun bir parçası haline geliyor. Aynı zamanda organizatör olarak da çalışan sanatçı için galeri, bireysel çalışmadan kamusal karşılaşma koşullarına kadar profesyonel ilginin başka bir boyutunu sunuyor.
+
+## Sanatçı hakkında
+
+İbrahim Valikhodjaev, Özbekistanlı bir ressam ve heykeltıraştır; 2023’ten bu yana Özbekistan Sanat Akademisi üyesi, 2017’den bu yana Özbekistan Sanatçılar Birliği başkanıdır. Küratör, uzman, öğretmen ve uluslararası projelerin organizatörü olarak çalışmaktadır; Valikhodjaev Gallery House'u kurmuştur. [Biyografi ve CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>) .
+
+İbrahim Valikhodjaev'in eserleri Yu Shun Art Museum’da (Çin, Harbin), Maltepe Belediyesi koleksiyonunda (Türkiye, İstanbul) ve ayrıca Moskova, Rusya'da özel bir koleksiyonda bulunmaktadır.
+
+## Kaynaklar ve materyaller
+
+- [Biyografi ve Özgeçmiş](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
+- [Art Vernissage: Sanatçı Profili](<https://artvernissage.art/en/artists/33/>)
+
+## Ayrıca okuyun
+
+- [İbrahim Valikhodjaev'in atölyesinde: gözlem, öğretim ve resim.](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>)
+- [Taştan Kamusal Alana: İbrahim Valikhodjaev'in Heykel Sempozyumları](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tastan-kamusal-alana-ibragim.html>)
+- [Sergiden Sonra Bir Tablonun Yaşamı: İbrahim Valikhodjaev'in Müzeleri ve Koleksiyonları](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sergiden-sonra-ibragim-valikhodjaevin.html>)
+
+[Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+[Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
