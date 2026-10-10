@@ -4,7 +4,7 @@ language: "uz"
 theme: 21
 description: "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li
@@ -135,3 +135,27 @@ Arxiv ishlarida bu qiziqish turli shakllarda namoyon bo‘ladi. Och rangli “Ko
 [O‘zA — Pekinda O‘zbekiston san’ati ko‘rgazmasi, 2024-yil 23-yanvar (o‘zbekcha matn)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 Rassom havolalari: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## Rassomning shaxsiy arxividan
+
+[Ibrohim Valixodjayev yoshligida, o‘quv gips byusti yonida. Rassom arxivi; surat sanasi aniqlanmagan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibrohim Valixodjayev yoshligida, o‘quv gips byusti yonida. Rassom arxivi; surat sanasi aniqlanmagan.
+
+[Ibrohim Valixodjayev — Maxsus fond rahbari. Rassom arxivi; suratning aniq sanasi ma’lum emas.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibrohim Valixodjayev — Maxsus fond rahbari. Rassom arxivi; suratning aniq sanasi ma’lum emas.
+
+[Ibrohim Valixodjayev 2008-yildagi yubiley ko‘rgazmasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibrohim Valixodjayev 2008-yildagi yubiley ko‘rgazmasida. Rassom arxivi.
+
+## Tajribani ulashish: Siandagi mahorat darsi
+
+2025-yil sentabrida Valixodjayev Xitoydagi Sian tasviriy san’at akademiyasining rangtasvir yo‘nalishi talabalari uchun mahorat darsi o‘tkazdi. U CASIEning «Bir makon, bir yo‘l — Markaziy Osiyo» dasturi bilan bog‘liq 14–19-sentabrdagi tashrifda rassom va O‘zbekiston Rassomlar uyushmasi raisi sifatida qatnashdi. Bir soat yigirma daqiqada yaratilgan kompozitsiya akademiyaga hadya qilindi. Quyidagi videoyozuvda tasvirning dastlabki chiziqlardan rang dog‘lari o‘rtasidagi munosabatlar va yakuniy kompozitsiyagacha shakllanishini kuzatish mumkin.
+
+[Videoyozuv](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

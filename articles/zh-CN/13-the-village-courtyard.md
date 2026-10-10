@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 13
 description: "从《乡村庭院》到瓦尔齐克、归途与米拉基：建筑、人物与乡村风景的色彩结构。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_668.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 庭院、墙壁与归途：乌兹别克斯坦乡村的色彩
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [伊布拉吉姆·瓦利霍贾耶夫。《乡村庭院》，2013年。布面油画。90×100厘米。艺术家档案中的作品图像。](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 伊布拉吉姆·瓦利霍贾耶夫。《乡村庭院》，2013年。布面油画。90×100厘米。艺术家档案中的作品图像。
+
+
 
 
 
@@ -63,7 +65,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 墙外，一座浅色房屋和黄色屋顶映入眼帘，与绿树交相辉映。左侧高耸狭窄的垂直线条与右侧圆润的屋顶形成对比，构成另一种重复。建筑的水平延伸将这些形态连接起来。下方的红色区域几乎与绿色区域直接相连，而黄色则在两者之间引入了更多关联。
 
-[伊布拉吉姆·瓦利霍贾耶夫。“瓦尔齐克。乡村风景”，2013 年。根据档案说明，尺寸为 52 × 68 厘米。艺术家档案中的作品图像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫。“瓦尔齐克。乡村风景”，2013 年。根据档案说明，尺寸为 52 × 68 厘米。艺术家档案中的作品图像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍贾耶夫。“瓦尔齐克。乡村风景”，2013 年。根据档案说明，尺寸为 52 × 68 厘米。艺术家档案中的作品图像。
 

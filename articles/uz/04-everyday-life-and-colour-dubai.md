@@ -4,7 +4,7 @@ language: "uz"
 theme: 4
 description: "Dubaydagi Mondoir galereyasida «Sukutda», 2024: maishiy motivlar, ifodali ranglar va turli davrlarga oid asarlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/kundalik-hayotning-ranglari-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Kundalik hayot va rang ifodasi: Dubaydagi «Sukutda» ko‘rgazmasi

@@ -4,7 +4,7 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
@@ -135,3 +135,27 @@ In den Archivarbeiten nimmt diese Neugierde verschiedene Formen an. Die blassget
 [UzA – Usbekische Kunstausstellung in Peking, 23. Januar 2024 (usbekischer Text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 Künstlerlinks: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## Aus dem persönlichen Archiv des Künstlers
+
+[Der junge Ibragim Valikhodjaev neben einer Studienbüste aus Gips. Archiv des Künstlers; undatierte Aufnahme.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Der junge Ibragim Valikhodjaev neben einer Studienbüste aus Gips. Archiv des Künstlers; undatierte Aufnahme.
+
+[Ibragim Valikhodjaev, Leiter des Sonderfonds. Archiv des Künstlers; das genaue Aufnahmedatum ist unbekannt.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, Leiter des Sonderfonds. Archiv des Künstlers; das genaue Aufnahmedatum ist unbekannt.
+
+[Ibragim Valikhodjaev bei seiner Jubiläumsausstellung 2008. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev bei seiner Jubiläumsausstellung 2008. Archiv des Künstlers.
+
+## Erfahrung weitergeben: ein Meisterkurs in Xi’an
+
+Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Malerei an der Kunstakademie Xi’an in China. Als Künstler und Vorsitzender des Künstlerverbands Usbekistans nahm er am Besuch vom 14. bis 19. September teil, der mit dem CASIE-Programm ‘Ein Gürtel, eine Straße — Zentralasien’ verbunden war. Die in einer Stunde und zwanzig Minuten entstandene Komposition wurde der Akademie geschenkt. Das Video des Meisterkurses unten zeigt, wie sich das Bild entwickelt: von den ersten Linien über das Zusammenspiel der Farbflächen bis zur fertigen Komposition.
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

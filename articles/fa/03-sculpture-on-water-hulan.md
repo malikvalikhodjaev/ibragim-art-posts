@@ -4,7 +4,7 @@ language: "fa"
 theme: 3
 description: "ولی‌خوجایف در پروژهٔ مجسمه‌های شناور هولان، چین، ۲۰۲۴: فرم فلزی، آب، بازتاب و مقیاس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # مجسمه روی آب: ابراهیم ولی‌خوجایف در هولان
@@ -20,6 +20,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+
 
 در این مقاله
 
@@ -104,6 +106,16 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [پیوندهای گالری](<https://linktr.ee/ibragim.valikhodjaev>)
 
 مطالب مربوط به سرمقاله از Valikhodjaev Gallery House. منابع تصاویر در توضیحات ذکر شده است.
+
+## از آرشیو پروژه مجسمه‌سازی در چین
+
+[مجسمه فلزی ابراهیم ولی‌خواجه‌اف در مرحله آماده‌سازی برای نصب روی آب. آرشیو هنرمند؛ تاریخ عکاسی تأیید نشده است.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+مجسمه فلزی ابراهیم ولی‌خواجه‌اف در مرحله آماده‌سازی برای نصب روی آب. آرشیو هنرمند؛ تاریخ عکاسی تأیید نشده است.
+
+[مجسمه شناور ابراهیم ولی‌خواجه‌اف در رودخانه‌ای یخ‌زده در چین. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+مجسمه شناور ابراهیم ولی‌خواجه‌اف در رودخانه‌ای یخ‌زده در چین. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.
 
 
 </div>

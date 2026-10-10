@@ -4,7 +4,7 @@ language: "tr"
 theme: 2
 description: "Harbin’de Kar Üzerinde Güneş, 2026: Yu Shun Art Museum’da Valikhodjaev’in büyük boyutlu resimleri ve izleyicinin mekân deneyimi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resim-bir-mekana-donustugunde-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Bir resim mekâna dönüştüğünde: Harbin’de «Kar Üzerinde Güneş»

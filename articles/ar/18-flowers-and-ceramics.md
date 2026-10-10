@@ -4,7 +4,7 @@ language: "ar"
 theme: 18
 description: "الباقات والمزهريات والبتلات: كيف يختبر فاليخودجاييف الإيقاع والملمس في الطبيعة الساكنة الزهرية."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_76.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # أكثر من باقة: الزهور والخزف وضربات الفرشاة

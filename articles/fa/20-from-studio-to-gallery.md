@@ -4,7 +4,7 @@ language: "fa"
 theme: 20
 description: "نقاش، مدرس، نمایشگاه‌گردان و مؤسس گالری: چگونه اثر از آتلیه به گفتگویی با مخاطب می‌رسد."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_90.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # از آتلیه تا گالری: چگونه ولی‌خوجایف فضایی برای هنر می‌سازد
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [ابراهیم ولی‌خوجایف](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 ابراهیم ولی‌خوجایف، هنرمند و بنیانگذار Valikhodjaev Gallery House. عکس از صفحهٔ حرفه‌ای ArtVernissage. [ArtVernissage: معرفی و سابقهٔ حرفه‌ای هنرمند](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 در این مقاله
 
@@ -114,6 +116,18 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [گالری هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## فعالیت نمایشگاهی در ویدیو
+
+این دو ویدیوی آرشیوی، مشارکت هنرمند در آماده‌سازی و بازدید از یک نمایشگاه را نشان می‌دهند. نام نمایشگاه، محل و تاریخ فیلم‌برداری هنوز مشخص نشده است.
+
+[ویدئو](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[آماده‌سازی نمایشگاه — ابراهیم ولی‌خواجه‌اف، رئیس اتحادیه هنرمندان ازبکستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[ویدئو](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[بازدید از نمایشگاه — ابراهیم ولی‌خواجه‌اف، رئیس اتحادیه هنرمندان ازبکستان](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 
 </div>

@@ -4,7 +4,7 @@ language: "he"
 theme: 2
 description: "התערוכה «שמש על שלג» בחרבין: ציורי ענק, אדריכלות המוזיאון וחוויית הצופה ביצירות וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_61.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # כשהציור נעשה מרחב: תערוכה בחרבין

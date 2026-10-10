@@ -4,7 +4,7 @@ language: "uz"
 theme: 2
 description: "Xarbindagi «Qor ustidagi quyosh», 2026: monumental kartinalar, geometriya va Yu Shun Art Museum makonidagi tomosha tajribasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/22-metrlik-rangtasvir-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Kartina makonga aylanganda: Valixo‘jayevning Xarbindagi ko‘rgazmasi

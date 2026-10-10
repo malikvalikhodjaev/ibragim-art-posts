@@ -4,7 +4,7 @@ language: "en"
 theme: 12
 description: "Higher Harmony, Sleeping and Nude: three approaches to the reclining figure, contour, colour and pictorial space in Valikhodjaev’s work."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # The reclining figure: line and colour in Ibragim Valikhodjaev’s nudes

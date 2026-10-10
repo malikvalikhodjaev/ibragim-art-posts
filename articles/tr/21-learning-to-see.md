@@ -4,7 +4,7 @@ language: "tr"
 theme: 21
 description: "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı
@@ -135,3 +135,27 @@ Arşiv çalışmalarında bu merak çeşitli biçimler alır. Soluk tonlu "Süra
 [UzA - Pekin'deki Özbekistan Sanat Sergisi, 23 Ocak 2024 (Özbekçe metin)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 Sanatçı Bağlantıları: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## Sanatçının kişisel arşivinden
+
+[Genç Ibragim Valikhodjaev, bir alçı etüt büstünün yanında. Sanatçının arşivi; fotoğraf tarihsizdir.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Genç Ibragim Valikhodjaev, bir alçı etüt büstünün yanında. Sanatçının arşivi; fotoğraf tarihsizdir.
+
+[Özel Fon yöneticisi Ibragim Valikhodjaev. Sanatçının arşivi; fotoğrafın kesin tarihi bilinmiyor.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Özel Fon yöneticisi Ibragim Valikhodjaev. Sanatçının arşivi; fotoğrafın kesin tarihi bilinmiyor.
+
+[Ibragim Valikhodjaev, 2008 yılındaki jübile sergisinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, 2008 yılındaki jübile sergisinde. Sanatçının arşivi.
+
+## Deneyimi paylaşmak: Xi’an’da resim atölyesi
+
+Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’nin resim öğrencilerine uygulamalı bir ders verdi. CASIE’nin ‘Bir Kuşak, Bir Yol — Orta Asya’ programıyla bağlantılı 14–19 Eylül ziyaretine sanatçı ve Özbekistan Sanatçılar Birliği başkanı olarak katıldı. Bir saat yirmi dakikada tamamlanan kompozisyon Akademiye bağışlandı. Aşağıdaki atölye videosunda ilk çizgilerden renk alanları arasındaki ilişkilere ve tamamlanmış kompozisyona uzanan çalışma süreci izlenebilir.
+
+[Video kaydı](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

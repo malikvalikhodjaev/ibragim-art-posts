@@ -4,7 +4,7 @@ language: "fa"
 theme: 1
 description: "رنگ، خط، ریتم و مقیاس در نقاشی‌های انتزاعی ابراهیم ولی‌خوجایف؛ نگاهی نزدیک به زبان نمایشگاه «نگاه نو»."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_97.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # چگونه هنر انتزاعی را ببینیم؟ راهنمایی در میان نقاشی‌های ولی‌خوجایف

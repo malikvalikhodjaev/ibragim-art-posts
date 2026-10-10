@@ -4,7 +4,7 @@ language: "ko"
 theme: 14
 description: "주제, 실루엣, 구도, 리듬, 질감, 스케일. 작품을 구체적으로 보는 데 도움이 되는 열 가지 미술 용어."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_71.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 그림을 읽는 열 가지 열쇠 — 작품으로 익히는 미술 용어

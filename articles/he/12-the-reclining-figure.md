@@ -4,7 +4,7 @@ language: "he"
 theme: 12
 description: "שלושה ציורי עירום: גוף, קווי מתאר, תנוחה ויחסי צבע ביצירתו של איברגים וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_93.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # הגוף כצורה: שלושה ציורי עירום של וליכודג'ייב

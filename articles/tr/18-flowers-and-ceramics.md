@@ -4,7 +4,7 @@ language: "tr"
 theme: 18
 description: "Buketler ve Seramik Vazoda Papatyalar, 2008: Valikhodjaev’in çiçekli natürmortlarında vazo, fırça izi ve renk ritmi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-buketten-fazlas-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Bir buketten fazlası: çiçekler, seramik ve fırça izleri

@@ -4,7 +4,7 @@ language: "ko"
 theme: 7
 description: "터키와 우즈베키스탄에서 기획하고 큐레이팅한 여덟 차례의 국제 조각 심포지엄. 재료와 교류, 공공 공간의 의미."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_837.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 돌에서 공공 공간으로 — 조각 심포지엄을 만드는 일

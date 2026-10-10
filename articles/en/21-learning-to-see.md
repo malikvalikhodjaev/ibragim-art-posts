@@ -4,7 +4,7 @@ language: "en"
 theme: 21
 description: "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Learning to See: Ibragim Valikhodjaev on a Life in Art
@@ -135,3 +135,27 @@ In the archival works, this curiosity takes various forms. The pale-toned “Jug
 [UzA — Uzbekistan Art Exhibition in Beijing, January 23, 2024 (Uzbek text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 Artist Links: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## From the artist’s personal archive
+
+[Ibragim Valikhodjaev as a young artist, beside a plaster study bust. Artist’s archive; photograph undated.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev as a young artist, beside a plaster study bust. Artist’s archive; photograph undated.
+
+[Ibragim Valikhodjaev, head of the Special Fund. Artist’s archive; the photograph’s exact date is unknown.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, head of the Special Fund. Artist’s archive; the photograph’s exact date is unknown.
+
+[Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.
+
+## Passing on experience: a masterclass in Xi’an
+
+In September 2025, Valikhodjaev led a painting masterclass for students at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
+
+[Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

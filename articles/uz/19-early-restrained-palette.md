@@ -4,7 +4,7 @@ language: "uz"
 theme: 19
 description: "«Ibodat», «Ko‘zalar», «Nigoh» va «Muqaddas toshlar»: ilk asarlardagi vazmin kolorit va nozik tonal munosabatlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Vazmin palitradagi sokinlik: ilk oq-kulrang asarlar
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibrohim Valixo‘jayev. "Ibodat", 1998. Arxiv yozuviga ko‘ra o‘lchami: 63 × 78 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibrohim Valixo‘jayev. "Ibodat", 1998. Arxiv yozuviga ko‘ra o‘lchami: 63 × 78 sm. Rassom arxividagi reproduksiya.
+
+
 
 
 
@@ -70,7 +72,7 @@ Bu vazifa keyinchalik katta rang maydonini o‘rganish bilan bog‘liq, garchi b
 
 O‘ng tomondagi mavimsi maydon iliq, kulrang tosh bilan ziddiyatga ega. Och rangli qo‘l bu bo‘shliqqa kirib, vertikal chiziqlar orasida kichik, ammo ifodali gorizontal aksentga aylanadi. Rasm turli xil hissiy o‘qishlarga imkon beradi, ammo arxiv modelning tarjimai holini yoki tasvirlangan uchrashuv hikoyasini ochib bermaydi. Oshkor qilingan va yashirin o‘rtasidagi ko‘rinadigan ziddiyat allaqachon juda mazmunli.
 
-[Ibrohim Valixo‘jayev. "Nigoh", 1997. Arxiv yozuviga ko‘ra o‘lchami: 70 × 60 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibrohim Valixo‘jayev. "Nigoh", 1997. Arxiv yozuviga ko‘ra o‘lchami: 70 × 60 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibrohim Valixo‘jayev. "Nigoh", 1997. Arxiv yozuviga ko‘ra o‘lchami: 70 × 60 sm. Rassom arxividagi reproduksiya.
 

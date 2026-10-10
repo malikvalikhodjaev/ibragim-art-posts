@@ -4,7 +4,7 @@ language: "es"
 theme: 20
 description: "Valikhodjaev Gallery House, docencia, curaduría y proyectos internacionales: crear las condiciones para el encuentro con el arte."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/del-taller-la-galeria-valikhodjaev-crea.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Del taller a la galería: Valikhodjaev crea espacios para el arte
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 de octubre de 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev, artista y fundador de la Valikhodjaev Gallery House. Retrato del perfil profesional de Art Vernissage. [Fuente](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 En este artículo
 
@@ -112,3 +114,15 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## El trabajo de exposición en vídeo
+
+Estos dos vídeos de archivo muestran al artista participando en la preparación y el recorrido de una exposición. Su título, ubicación y fecha de grabación aún no se han determinado.
+
+[Vídeo](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Preparación de la exposición — Ibragim Valikhodjaev, presidente de la Unión de Artistas de Uzbekistán](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Vídeo](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Recorrido por la exposición — Ibragim Valikhodjaev, presidente de la Unión de Artistas de Uzbekistán](<https://www.youtube.com/watch?v=VkvPfztejWY>)

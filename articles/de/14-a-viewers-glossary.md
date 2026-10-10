@@ -4,7 +4,7 @@ language: "de"
 theme: 14
 description: "Zehn Begriffe für den Blick auf Valikhodjaevs Malerei: Komposition, Silhouette, Farbe, Rhythmus, Textur und das Porträt von Gulchehra."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/das-worterbuch-des-betrachtens-zehn.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Das Wörterbuch des Betrachtens: zehn Schlüssel zur Malerei

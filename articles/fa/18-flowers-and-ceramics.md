@@ -4,7 +4,7 @@ language: "fa"
 theme: 18
 description: "گل‌ها و گلدان‌ها: ریتم، بافت و نقش قلم‌مو در طبیعت بی‌جان‌های گل‌دار ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_919.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # فراتر از یک دسته‌گل: گل‌ها، سفال و ضربه‌های قلم‌مو

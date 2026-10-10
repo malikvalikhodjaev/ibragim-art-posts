@@ -4,7 +4,7 @@ language: "en"
 theme: 6
 description: "Boats, palms, pale stone and deep blue: a close look at two Perast paintings from Valikhodjaev’s Montenegro series of 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. "The Harbour at Perast," 2012. Dimensions recorded in the artist’s archive: 60 × 70 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "The Harbour at Perast," 2012. Dimensions recorded in the artist’s archive: 60 × 70 cm. Reproduction from the artist's archive.
+
+
 
 
 
@@ -99,3 +101,13 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Reproductions from the artist’s archive
+
+[«On the Seashore», 2012. Ibragim Valikhodjaev. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«On the Seashore», 2012. Ibragim Valikhodjaev. Reproduction from the artist’s archive.
+
+[«Fortress Wall in Budva», 2012. Ibragim Valikhodjaev. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Fortress Wall in Budva», 2012. Ibragim Valikhodjaev. Reproduction from the artist’s archive.

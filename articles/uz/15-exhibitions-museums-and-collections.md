@@ -4,7 +4,7 @@ language: "uz"
 theme: 15
 description: "Valixo‘jayev asarlari muzey, galereya va shaxsiy kolleksiyalarda: ko‘rgazma tarixi bilan saqlanish tarixining farqi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/korgazmadan-keyingi-hayot-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ko‘rgazmadan keyin: asarning muzey va kolleksiyalardagi hayoti
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026-yil 6-oktabr
 [Ibrohim Valixo‘jayev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibrohim Valixo‘jayev. Art Vernissage professional profilidan olingan portret. [Manba](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 Ushbu maqolada
 
@@ -107,3 +109,7 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [O‘zA — Pekinda O‘zbekiston san’ati ko‘rgazmasi, 2024-yil 23-yanvar (o‘zbekcha matn)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[Ibrohim Valixodjayev asarlari namoyish etilgan ko‘rgazma zalining umumiy ko‘rinishi. Rassom arxivi; ko‘rgazma nomi va sanasi tasdiqlanmagan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Ibrohim Valixodjayev asarlari namoyish etilgan ko‘rgazma zalining umumiy ko‘rinishi. Rassom arxivi; ko‘rgazma nomi va sanasi tasdiqlanmagan.

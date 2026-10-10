@@ -4,7 +4,7 @@ language: "en"
 theme: 18
 description: "Bouquets, Daisies in a Ceramic Vase and roses: flowers, painted pottery, brushwork and the changing rhythms of Valikhodjaev’s still lifes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/more-than-bouquet-flowers-ceramics-and.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # More Than a Bouquet: Flowers, Ceramics and Brushwork by Valikhodjaev

@@ -4,7 +4,7 @@ language: "fr"
 theme: 3
 description: "Valikhodjaev, sculpteur participant à Hulan en Chine en 2024 : métal, silhouette, reflets et sculptures flottantes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Des sculptures sur la rivière : Ibragim Valikhodjaev à Hulan
@@ -18,6 +18,8 @@ Sculptures flottantes à Hulan : comment la forme métallique interagit avec l'e
 Valikhodjaev Gallery House · 6 octobre 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+
 
 Dans cet article
 
@@ -102,3 +104,13 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Liens vers la galerie](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
+
+## Dans les archives d’un projet de sculpture en Chine
+
+[La sculpture en métal d’Ibragim Valikhodjaev, en préparation pour son installation sur l’eau. Archives de l’artiste ; date de prise de vue non confirmée.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+La sculpture en métal d’Ibragim Valikhodjaev, en préparation pour son installation sur l’eau. Archives de l’artiste ; date de prise de vue non confirmée.
+
+[La sculpture flottante d’Ibragim Valikhodjaev dans une rivière gelée, en Chine. Archives de l’artiste ; photographie non datée.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+La sculpture flottante d’Ibragim Valikhodjaev dans une rivière gelée, en Chine. Archives de l’artiste ; photographie non datée.

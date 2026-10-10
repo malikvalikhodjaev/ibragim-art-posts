@@ -4,7 +4,7 @@ language: "ko"
 theme: 2
 description: "중국 하얼빈 위순 미술관의 개인전 「눈 위의 태양」. 대형 회화와 건축, 관람자의 몸이 만드는 감상 경험."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_48.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 그림이 공간이 될 때 — 하얼빈 개인전 속으로

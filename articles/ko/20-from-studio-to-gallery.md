@@ -4,7 +4,7 @@ language: "ko"
 theme: 20
 description: "화가와 교육자, 큐레이터와 갤러리 설립자. 발리호자예프가 작품과 관객의 만남을 만드는 방식."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_505.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 작업실에서 갤러리까지 — 예술의 자리를 만드는 일
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [이브라김 발리호자예프](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 이브라김 발리호자예프, 예술가이자 Valikhodjaev Gallery House의 설립자. ArtVernissage 작가 소개에 실린 초상 사진. [ArtVernissage: 작가 소개](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 이 기사에서
 
@@ -112,3 +114,15 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 영상으로 보는 전시 활동
+
+이 두 기록 영상은 작가가 전시 준비와 관람에 참여하는 모습을 보여 준다. 전시명, 장소와 촬영 날짜는 아직 확인되지 않았다.
+
+[영상](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[전시 준비 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[영상](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[전시장 둘러보기 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=VkvPfztejWY>)

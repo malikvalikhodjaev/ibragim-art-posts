@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 20
 description: "畫家、策展人、教師與畫廊創辦人：瓦利霍賈耶夫如何把個人探索帶入公共藝術交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 從工作室到畫廊：藝術家如何創造相遇的空間
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [伊布拉吉姆·瓦利霍賈耶夫](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 伊布拉吉姆·瓦利霍賈耶夫，藝術家，瓦利霍賈耶夫畫廊創辦人。肖像來自Art Vernissage 專業簡介。[來源](<https://artvernissage.art/en/artists/33/>)。
+
+
 
 在本文中
 
@@ -112,3 +114,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 展覽工作影片
+
+這兩段檔案影片呈現藝術家參與展覽籌備及巡視展廳的情景。展覽名稱、地點和拍攝日期目前尚未確定。
+
+[影片](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[展覽籌備——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[影片](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[巡視展覽——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=VkvPfztejWY>)

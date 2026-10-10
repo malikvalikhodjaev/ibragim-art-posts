@@ -4,7 +4,7 @@ language: "ru"
 theme: 12
 description: "«Высшая гармония», «Спящая» и «Ню» Валиходжаева: три решения лежащей фигуры, линия, пластика и цветовое окружение."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_530.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Лежащая фигура: линия и цвет в ню Ибрагима Валиходжаева

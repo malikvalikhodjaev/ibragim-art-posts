@@ -4,7 +4,7 @@ language: "fa"
 theme: 19
 description: "«دعا»، «کوزه‌ها» و «نگاه»: تفاوت‌های ظریف تُن و رنگ در نقاشی‌های آغازین ابراهیم ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_502.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # سکوت رنگ‌های محدود: نقاشی‌های آغازین با سفید و خاکستری
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House
 [ابراهیم ولی‌خوجایف. «دعا»، ۱۹۹۸. ابعاد طبق شرح بایگانی: ۶۳ × ۷۸ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 ابراهیم ولی‌خوجایف. «دعا»، ۱۹۹۸. ابعاد طبق شرح بایگانی: ۶۳ × ۷۸ سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+
 
 
 
@@ -72,7 +74,7 @@ Valikhodjaev Gallery House
 
 زمینه آبی‌رنگ سمت راست با سنگ گرم و خاکستری‌رنگ در تضاد است. دستی با رنگ روشن وارد این فضا می‌شود و به یک تأکید افقی کوچک اما رسا در میان خطوط عمودی تبدیل می‌شود. این نقاشی امکان خوانش‌های احساسی مختلفی را فراهم می‌کند، اما آرشیو، زندگینامه مدل یا داستان مواجهه به تصویر کشیده شده را فاش نمی‌کند. تنش مشهود بین آشکار و پنهان، از قبل کاملاً معنادار است.
 
-[ابراهیم ولی‌خوجایف. «نگاه»، ۱۹۹۷. ابعاد طبق شرح آرشیوی: ۷۰ × ۶۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[ابراهیم ولی‌خوجایف. «نگاه»، ۱۹۹۷. ابعاد طبق شرح آرشیوی: ۷۰ × ۶۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 ابراهیم ولی‌خوجایف. «نگاه»، ۱۹۹۷. ابعاد طبق شرح آرشیوی: ۷۰ × ۶۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 

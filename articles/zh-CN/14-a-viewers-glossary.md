@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 14
 description: "以《古尔切赫拉肖像》和集市画为例，理解构图、母题、节奏、肌理与尺度等绘画术语。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_322.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 从《古尔切赫拉肖像》出发：观看绘画的十个关键词

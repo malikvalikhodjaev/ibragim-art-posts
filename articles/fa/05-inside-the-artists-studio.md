@@ -4,7 +4,7 @@ language: "fa"
 theme: 5
 description: "از آتلیهٔ استاد رحیم احمدوف تا کار با هنرجویان؛ مشاهده، ترکیب‌بندی و انتقال تجربه در نقاشی."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # در آتلیهٔ هنرمند: دیدن، آموختن و نقاشی با ابراهیم ولی‌خوجایف
@@ -24,6 +24,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 در این مقاله
 
@@ -112,6 +114,16 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 مطالب مربوط به سرمقاله از Valikhodjaev Gallery House. منابع تصاویر در توضیحات ذکر شده است.
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## انتقال تجربه: کلاس نقاشی در شی‌آن
+
+در سپتامبر ۲۰۲۵، ولی‌خواجه‌اف برای دانشجویان نقاشی آکادمی هنرهای زیبای شی‌آن در چین کلاس عملی برگزار کرد. او به‌عنوان هنرمند و رئیس اتحادیه هنرمندان ازبکستان در سفر ۱۴ تا ۱۹ سپتامبر، مرتبط با برنامه CASIE «یک کمربند، یک راه — آسیای مرکزی»، حضور داشت. اثری که در یک ساعت و بیست دقیقه خلق شد، به آکادمی اهدا شد. ویدیوی کلاس در پایین، روند شکل‌گیری تصویر را از نخستین خطوط تا روابط میان سطوح رنگی و ترکیب‌بندی نهایی نشان می‌دهد.
+
+[ویدئو](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[ویدیوی کلاس نقاشی · چین، شی‌آن، ۲۰۲۵](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[گزارش سفر و کلاس نقاشی · Facebook، ۸ اکتبر ۲۰۲۵](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
 
 </div>

@@ -4,7 +4,7 @@ language: "fr"
 theme: 17
 description: "Dias Rakhmatov, Lena et Sasha : trois portraits, trois manières de relier un visage, une pose et l’espace environnant."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dun-portrait-la-presence.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Visage, pose et espace : trois portraits de Valikhodjaev

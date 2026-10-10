@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 9
 description: "從《紅馬》到米拉基風景與 RED 系列：紅色、藍色、輪廓和色塊如何構成畫面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED：紅色如何組織瓦利霍賈耶夫的畫面

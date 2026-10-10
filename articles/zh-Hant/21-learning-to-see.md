@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 21
 description: "依據公開訪談與藝術家檔案，回望瓦利霍賈耶夫從納曼干市集到抽象、雕塑與教學的藝術探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 學會觀看：伊布拉吉姆·瓦利霍賈耶夫的藝術人生
@@ -135,3 +135,27 @@ edition_date: "2026-10-09"
 [烏茲別克國家通訊社— 烏茲別克藝術展，北京，2024年1月23日（烏茲別克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 藝術家連結：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## 藝術家的私人檔案
+
+[年輕時期的伊布拉吉姆·瓦利霍賈耶夫與用於學習的石膏胸像。藝術家檔案；拍攝日期不詳。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+年輕時期的伊布拉吉姆·瓦利霍賈耶夫與用於學習的石膏胸像。藝術家檔案；拍攝日期不詳。
+
+[擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫。藝術家檔案；照片的確切日期不詳。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫。藝術家檔案；照片的確切日期不詳。
+
+[伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。
+
+## 傳授經驗：西安繪畫大師課
+
+2025年9月，瓦利霍賈耶夫在中國西安美術學院為繪畫專業學生開設大師課。他以藝術家及烏茲別克斯坦藝術家聯盟主席的身分，參加了9月14日至19日與CASIE「一帶一路—中亞」計畫有關的訪問。課堂上以一小時二十分鐘完成的作品贈予了學院。下方的大師課影片記錄了畫面的形成過程：從最初的線條，到色塊之間的關係，直至完整構圖。
+
+[影片](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

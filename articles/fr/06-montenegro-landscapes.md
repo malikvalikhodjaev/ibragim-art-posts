@@ -4,7 +4,7 @@ language: "fr"
 theme: 6
 description: "Barques, palmiers et pierre claire : deux paysages de Perast dans la série monténégrine de Valikhodjaev, réalisée en 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. « Le port de Perast », 2012. Dimensions relevées dans les archives de l'artiste : 60 × 70 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. « Le port de Perast », 2012. Dimensions relevées dans les archives de l'artiste : 60 × 70 cm. Reproduction issue des archives de l'artiste.
+
+
 
 
 
@@ -99,3 +101,13 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Reproductions issues des archives de l’artiste
+
+[«Au bord de la mer», 2012. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«Au bord de la mer», 2012. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.
+
+[«Le rempart de Budva», 2012. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Le rempart de Budva», 2012. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.

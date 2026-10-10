@@ -4,7 +4,7 @@ language: "de"
 theme: 6
 description: "Montenegro 2012: Boote, Palmen und Uferpromenaden in Valikhodjaevs Pleinair-Malerei. Zwei Landschaften aus Perast im genauen Blick."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Einundzwanzig Tage in Montenegro: Valikhodjaevs Küstenlandschaften
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. „Anlegestelle in Perast“, 2012. Im Künstlerarchiv verzeichnete Maße: 60 × 70 cm. Reproduktion aus dem Künstlerarchiv.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. „Anlegestelle in Perast“, 2012. Im Künstlerarchiv verzeichnete Maße: 60 × 70 cm. Reproduktion aus dem Künstlerarchiv.
+
+
 
 
 
@@ -99,3 +101,13 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Reproduktionen aus dem Archiv des Künstlers
+
+[«Am Meeresufer», 2012. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«Am Meeresufer», 2012. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.
+
+[«Die Festungsmauer von Budva», 2012. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Die Festungsmauer von Budva», 2012. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.

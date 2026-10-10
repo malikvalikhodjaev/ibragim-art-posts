@@ -4,7 +4,7 @@ language: "es"
 theme: 1
 description: "Color, composición, ritmo y escala: una guía para observar la abstracción de Valikhodjaev a través de New View."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/como-mirar-la-abstraccion-color-y-forma.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Cómo mirar la abstracción: color y forma en Valikhodjaev

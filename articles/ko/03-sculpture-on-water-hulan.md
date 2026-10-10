@@ -4,7 +4,7 @@ language: "ko"
 theme: 3
 description: "중국 후란의 2024년 수상 조각 프로젝트. 조각가로 참여한 발리호자예프의 금속 작업과 물, 빛, 반사의 관계."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 수면 위의 조각 — 이브라김 발리호자예프, 중국 후란에서
@@ -18,6 +18,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026년 10월 6일
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+
 
 이 기사에서
 
@@ -102,3 +104,13 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 링크](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
+
+## 중국 조각 프로젝트의 기록
+
+[수상 설치를 위해 준비 중인 이브라김 발리호자예프의 금속 조각. 작가 소장 사진. 촬영 날짜는 확인되지 않았다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+수상 설치를 위해 준비 중인 이브라김 발리호자예프의 금속 조각. 작가 소장 사진. 촬영 날짜는 확인되지 않았다.
+
+[중국의 얼어붙은 강에 설치된 이브라김 발리호자예프의 부유 조각. 작가 소장 사진. 촬영 연도 미상.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+중국의 얼어붙은 강에 설치된 이브라김 발리호자예프의 부유 조각. 작가 소장 사진. 촬영 연도 미상.

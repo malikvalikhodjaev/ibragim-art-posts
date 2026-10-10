@@ -4,7 +4,7 @@ language: "ar"
 theme: 19
 description: "«صلاة» و«أباريق» و«نظرة»: الفروق اللونية الدقيقة والتكوين في لوحات فاليخودجاييف المبكرة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_048.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # هدوء الألوان القليلة: لوحات مبكرة بالأبيض والرمادي
@@ -24,6 +24,8 @@ edition_date: "2026-10-09"
 [إبراهيم فاليخودجاييف. "صلاة"، 1998. الأبعاد وفقًا للتعليق الأرشيفي: 63 × 78 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 إبراهيم فاليخودجاييف. "صلاة"، 1998. الأبعاد وفقًا للتعليق الأرشيفي: 63 × 78 سم. نسخة مصوّرة من أرشيف الفنان.
+
+
 
 
 
@@ -72,7 +74,7 @@ edition_date: "2026-10-09"
 
 يتناقض الحقل الأزرق على اليمين مع الحجر الرمادي الدافئ. تدخل يد فاتحة اللون إلى هذا الفضاء، لتصبح لمسة أفقية صغيرة لكنها معبرة وسط الخطوط العمودية. تتيح اللوحة قراءات عاطفية متعددة، لكن الأرشيف لا يكشف عن سيرة العارضة أو قصة اللقاء المصور. التوتر الظاهر بين الظاهر والخفي يحمل في طياته دلالة عميقة.
 
-[إبراهيم فاليخودجاييف. "نظرة"، 1997. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 60 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[إبراهيم فاليخودجاييف. "نظرة"، 1997. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 60 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 إبراهيم فاليخودجاييف. "نظرة"، 1997. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 60 سم. نسخة مصوّرة من أرشيف الفنان.
 

@@ -4,7 +4,7 @@ language: "ja"
 theme: 7
 description: "トルコとウズベキスタンで企画・キュレーションした8回の国際彫刻シンポジウム。素材と交流、公共空間を考える。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_692.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 石から公共空間へ――彫刻シンポジウムをつくる

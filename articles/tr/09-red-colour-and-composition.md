@@ -4,7 +4,7 @@ language: "tr"
 theme: 9
 description: "Kırmızı Atlar, Miraki ve RED: Valikhodjaev’in resimlerinde baskın renk, kontur ve maviyle karşıtlığın oluşturduğu yapı."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: Kırmızının bir resmin yapısını belirlemesi

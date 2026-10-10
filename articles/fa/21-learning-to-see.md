@@ -4,7 +4,7 @@ language: "fa"
 theme: 21
 description: "چهره‌ای از زندگی ابراهیم ولی‌خوجایف بر پایهٔ مصاحبه‌ها و آثار آرشیوی؛ بازار، RED، انتزاع، مجسمه‌سازی و آموزش."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # آموختن دیدن: ابراهیم ولی‌خوجایف و زندگی در هنر
@@ -137,6 +137,30 @@ edition_date: "2026-10-09"
 [UzA - نمایشگاه هنر ازبکستان در پکن، 23 ژانویه 2024 (متن ازبکی)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 لینک‌های هنرمند: [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [فیسبوک](<https://www.facebook.com/valikhodjaev/>)
+
+## از آرشیو شخصی هنرمند
+
+[ابراهیم ولی‌خواجه‌اف در جوانی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+ابراهیم ولی‌خواجه‌اف در جوانی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.
+
+[ابراهیم ولی‌خواجه‌اف، مدیر صندوق ویژه. آرشیو هنرمند؛ تاریخ دقیق عکس مشخص نیست.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+ابراهیم ولی‌خواجه‌اف، مدیر صندوق ویژه. آرشیو هنرمند؛ تاریخ دقیق عکس مشخص نیست.
+
+[ابراهیم ولی‌خواجه‌اف در نمایشگاه سالگرد خود در سال ۲۰۰۸. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+ابراهیم ولی‌خواجه‌اف در نمایشگاه سالگرد خود در سال ۲۰۰۸. آرشیو هنرمند.
+
+## انتقال تجربه: کلاس نقاشی در شی‌آن
+
+در سپتامبر ۲۰۲۵، ولی‌خواجه‌اف برای دانشجویان نقاشی آکادمی هنرهای زیبای شی‌آن در چین کلاس عملی برگزار کرد. او به‌عنوان هنرمند و رئیس اتحادیه هنرمندان ازبکستان در سفر ۱۴ تا ۱۹ سپتامبر، مرتبط با برنامه CASIE «یک کمربند، یک راه — آسیای مرکزی»، حضور داشت. اثری که در یک ساعت و بیست دقیقه خلق شد، به آکادمی اهدا شد. ویدیوی کلاس در پایین، روند شکل‌گیری تصویر را از نخستین خطوط تا روابط میان سطوح رنگی و ترکیب‌بندی نهایی نشان می‌دهد.
+
+[ویدئو](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[ویدیوی کلاس نقاشی · چین، شی‌آن، ۲۰۲۵](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[گزارش سفر و کلاس نقاشی · Facebook، ۸ اکتبر ۲۰۲۵](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
 
 </div>

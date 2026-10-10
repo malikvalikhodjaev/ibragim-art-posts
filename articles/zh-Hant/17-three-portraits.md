@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 17
 description: "比較迪亞斯·拉赫馬托夫、莉娜與薩沙肖像：面部、服裝、留白與繪畫空間。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 面孔、姿態與留白：瓦利霍賈耶夫的三幅肖像

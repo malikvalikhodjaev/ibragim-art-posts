@@ -4,7 +4,7 @@ language: "en"
 theme: 7
 description: "Eight international sculpture symposia organised and curated by Valikhodjaev in Turkey and Uzbekistan: stone, exchange and public space."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-stone-to-shared-space-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # From Stone to Shared Space: Ibragim Valikhodjaev and the Sculpture Symposium

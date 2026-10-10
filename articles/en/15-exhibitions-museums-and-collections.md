@@ -4,7 +4,7 @@ language: "en"
 theme: 15
 description: "Valikhodjaev’s works in museum, municipal and private collections: how to distinguish an exhibition record from a collection holding."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/after-exhibition-ibragim-valikhodjaevs.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # After the Exhibition: Ibragim Valikhodjaev’s Paintings in Museums and Collections
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · October 6, 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev. Portrait from the Art Vernissage professional profile. [Source](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 In this article
 
@@ -107,3 +109,7 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Sources for illustrations are indicated in the captions.
 
 [UzA — Uzbekistan Art Exhibition in Beijing, January 23, 2024 (Uzbek text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[An exhibition hall displaying works by Ibragim Valikhodjaev. Artist’s archive; the exhibition title and date have not been confirmed.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+An exhibition hall displaying works by Ibragim Valikhodjaev. Artist’s archive; the exhibition title and date have not been confirmed.

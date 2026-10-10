@@ -4,7 +4,7 @@ language: "fa"
 theme: 4
 description: "نمایشگاه «در سکوت» در دبی؛ زندگی روزمرهٔ ازبکستان، مردم بازار و روابط رنگی در نقاشی ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_96.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # زندگی روزمره، رنگ‌های شگفت‌انگیز: ولی‌خوجایف در دبی

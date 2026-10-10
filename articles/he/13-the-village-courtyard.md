@@ -4,7 +4,7 @@ language: "he"
 theme: 13
 description: "בתים, חצרות, דרכים ועבודת יום־יום: איך נבנה המרחב הכפרי בציוריו של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_790.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # בתים ודרכים: החיים בכפר בציור
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [איברגים וליכודג'ייב. "חצר כפרית", 2013. שמן על בד. 90 × 100 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 איברגים וליכודג'ייב. "חצר כפרית", 2013. שמן על בד. 90 × 100 ס"מ. רפרודוקציה מארכיון האמן.
+
+
 
 
 
@@ -65,7 +67,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 מעבר לחומה, נראים בית בצבע בהיר וגגות צהובים, לצד עצים ירוקים. האנכיים הגבוהים והצרים משמאל וצמרות העצים המעוגלות יותר מימין יוצרים חזרה שונה. ההרחבה האופקית של האדריכלות מחזיקה את הצורות הללו יחד. השדה האדום למטה פוגש את הירוק כמעט ישירות, והצהוב מציג קשרים נוספים ביניהן.
 
-[איברגים וליכודג'ייב. "ורזיק. נוף כפרי", 2013. גודל לפי כיתוב ארכיוני: 52 × 68 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[איברגים וליכודג'ייב. "ורזיק. נוף כפרי", 2013. גודל לפי כיתוב ארכיוני: 52 × 68 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 איברגים וליכודג'ייב. "ורזיק. נוף כפרי", 2013. גודל לפי כיתוב ארכיוני: 52 × 68 ס"מ. רפרודוקציה מארכיון האמן.
 

@@ -4,7 +4,7 @@ language: "es"
 theme: 13
 description: "Patio rural, De visita, Varzik y Regreso del trabajo: arquitectura, color y presencia humana en los paisajes de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/patios-y-caminos-sinuosos-los-colores.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Patios y caminos sinuosos: los colores de las aldeas uzbekas
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 de octubre de 2026
 [Ibragim Valikhodjaev. "Patio rural", 2013. Óleo sobre lienzo. 90 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibragim Valikhodjaev. "Patio rural", 2013. Óleo sobre lienzo. 90 × 100 cm. Reproducción del archivo del artista.
+
+
 
 
 
@@ -63,7 +65,7 @@ En «Varzik. Paisaje rural» (2013), una pequeña figura se alza frente a un lar
 
 Más allá del muro, se divisa una casa de color claro y tejados amarillos, en contraste con los árboles verdes. Las altas y estrechas verticales de la izquierda y las copas más redondeadas de la derecha crean una repetición distinta. La extensión horizontal de la arquitectura cohesiona estas formas. El campo rojo de abajo se encuentra casi directamente con el verde, y el amarillo introduce relaciones adicionales entre ellos.
 
-[Ibragim Valikhodjaev. "Varzik. Paisaje rural", 2013. Dimensiones según la descripción del archivo: 52 × 68 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Varzik. Paisaje rural", 2013. Dimensiones según la descripción del archivo: 52 × 68 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Varzik. Paisaje rural", 2013. Dimensiones según la ficha de archivo: 52 × 68 cm. Reproducción del archivo del artista.
 

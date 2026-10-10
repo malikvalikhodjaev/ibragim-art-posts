@@ -4,7 +4,7 @@ language: "fa"
 theme: 2
 description: "نمایشگاه «خورشید بر برف» در موزهٔ هنر یو شون، هاربین، ۲۰۲۶؛ بوم‌های بزرگ و تجربهٔ تماشا در تالار موزه."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_92.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # وقتی نقاشی به فضا بدل می‌شود: نمایشگاهی در هاربین

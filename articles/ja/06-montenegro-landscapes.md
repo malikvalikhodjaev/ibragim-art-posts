@@ -4,7 +4,7 @@ language: "ja"
 theme: 6
 description: "2012年のペラストの港とヤシの風景。水、石造りの町、空を通して見るヴァリホジャエフのモンテネグロ作品。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # モンテネグロの21日間――ヴァリホジャエフが描く海辺の町
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [イブラギム・ヴァリホジャエフ。「ペラストの港」、2012年。作家のアーカイブに記録された寸法：60×70cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 イブラギム・ヴァリホジャエフ。「ペラストの港」、2012年。作家のアーカイブに記録された寸法：60×70cm。作家のアーカイブからの複製。
+
+
 
 
 
@@ -99,3 +101,13 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 画家のアーカイブからの作品図版
+
+[«海辺にて», 2012. イブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«海辺にて», 2012. イブラギム・ヴァリホジャエフ。画家のアーカイブより。
+
+[«ブドヴァの城壁», 2012. イブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«ブドヴァの城壁», 2012. イブラギム・ヴァリホジャエフ。画家のアーカイブより。

@@ -4,7 +4,7 @@ language: "ja"
 theme: 16
 description: "「ザクロ」、2012年。オレンジの色面と暗い果実、筆触を観察し、初期の「壺」と比較する。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_21.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # オレンジの色面に浮かぶザクロ――一枚の静物画をじっくり見る

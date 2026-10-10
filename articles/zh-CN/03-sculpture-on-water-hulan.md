@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 3
 description: "呼兰2024年漂浮雕塑项目：瓦利霍贾耶夫以雕塑家身份参与，探索金属造型、水面与光线。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 河面上的雕塑：伊布拉吉姆·瓦利霍贾耶夫在呼兰
@@ -18,6 +18,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026年10月6日
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+
 
 在本文中
 
@@ -102,3 +104,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[画廊链接](<https://linktr.ee/ibragim.valikhodjaev>)
 
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
+
+## 中国雕塑项目档案
+
+[伊布拉吉姆·瓦利霍贾耶夫的金属雕塑，正在为水上安装做准备。艺术家档案；拍摄日期尚未确认。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫的金属雕塑，正在为水上安装做准备。艺术家档案；拍摄日期尚未确认。
+
+[伊布拉吉姆·瓦利霍贾耶夫的漂浮雕塑，位于中国一条结冰的河流中。艺术家档案；拍摄日期不详。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫的漂浮雕塑，位于中国一条结冰的河流中。艺术家档案；拍摄日期不详。

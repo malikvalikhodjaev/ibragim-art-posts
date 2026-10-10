@@ -4,7 +4,7 @@ language: "fr"
 theme: 14
 description: "Dix notions pour regarder un tableau : composition, palette, silhouette, rythme et matière chez Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-lexique-du-regard-dix-cles-pour.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Le lexique du regard : dix clés pour comprendre la peinture

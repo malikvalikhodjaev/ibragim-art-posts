@@ -4,7 +4,7 @@ language: "tr"
 theme: 6
 description: "Karadağ 2012: Perast’ın tekneleri, rıhtımı ve palmiyeleri. Valikhodjaev’in iki manzarasında renk ve mekânın kuruluşu."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Karadağ’da yirmi bir gün: Valikhodjaev’in kıyı manzaraları
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [İbrahim Valikhodjaev. "Perast İskelesi", 2012. Sanatçının arşivinde kayıtlı boyutlar: 60 × 70 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 İbrahim Valikhodjaev. "Perast İskelesi", 2012. Sanatçının arşivinde kayıtlı boyutlar: 60 × 70 cm. Sanatçının arşivinden reprodüksiyon.
+
+
 
 
 
@@ -99,3 +101,13 @@ Perast'ın iki reprodüksiyonu bu karşılaştırma için görsel bir temel olu�
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Sanatçının arşivinden eser görselleri
+
+[«Deniz Kıyısında», 2012. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«Deniz Kıyısında», 2012. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.
+
+[«Budva’daki Kale Duvarı», 2012. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Budva’daki Kale Duvarı», 2012. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.

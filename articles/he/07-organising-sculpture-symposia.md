@@ -4,7 +4,7 @@ language: "he"
 theme: 7
 description: "ארגון ואוצרות של שמונה סימפוזיוני פיסול: עבודתו של וליכודג'ייב והמפגש בין חומר, אמנים ומרחב ציבורי."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_645.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # מאבן למרחב המשותף: סימפוזיוני הפיסול של וליכודג'ייב

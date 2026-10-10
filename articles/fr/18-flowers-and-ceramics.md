@@ -4,7 +4,7 @@ language: "fr"
 theme: 18
 description: "Bouquets, marguerites et roses : fleurs, céramiques peintes et rythmes de la touche dans les natures mortes de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bien-plus-quun-bouquet-fleurs-ceramique.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Bien plus qu’un bouquet : fleurs, céramique et matière chez Valikhodjaev

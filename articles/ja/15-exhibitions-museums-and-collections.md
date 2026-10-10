@@ -4,7 +4,7 @@ language: "ja"
 theme: 15
 description: "ハルビンの美術館、イスタンブールの自治体コレクション、モスクワの個人所蔵。展覧会と収蔵の違いを読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_49.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 展覧会のその先へ――美術館とコレクションにある作品
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [イブラギム・ヴァリホジャエフ](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 イブラギム・ヴァリホジャエフ。ArtVernissageの作家紹介に掲載された肖像写真。[ArtVernissage：作家紹介](<https://artvernissage.art/en/artists/33/>)。
+
+
 
 この記事では
 
@@ -107,3 +109,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプションに記載されている。
 
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[イブラギム・ヴァリホジャエフの作品が並ぶ展示室の全景。画家のアーカイブより。展覧会名と撮影日は未確認。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+イブラギム・ヴァリホジャエフの作品が並ぶ展示室の全景。画家のアーカイブより。展覧会名と撮影日は未確認。

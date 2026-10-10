@@ -4,7 +4,7 @@ language: "it"
 theme: 21
 description: "La vita artistica di Valikhodjaev attraverso interviste pubblicate: il bazar, RED, l’astrazione, la scultura e la formazione."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Imparare a vedere: Ibragim Valikhodjaev e una vita nell’arte
@@ -135,3 +135,27 @@ Nelle opere d'archivio, questa curiosità assume diverse forme. Le "Brocche" dai
 [UzA — Mostra d'arte dell'Uzbekistan a Pechino, 23 gennaio 2024 (testo uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 Link dell'artista: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## Dall’archivio personale dell’artista
+
+[Ibragim Valikhodjaev da giovane, accanto a un busto di studio in gesso. Archivio dell’artista; fotografia non datata.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev da giovane, accanto a un busto di studio in gesso. Archivio dell’artista; fotografia non datata.
+
+[Ibragim Valikhodjaev, direttore del Fondo speciale. Archivio dell’artista; la data esatta della fotografia è sconosciuta.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, direttore del Fondo speciale. Archivio dell’artista; la data esatta della fotografia è sconosciuta.
+
+[Ibragim Valikhodjaev alla sua mostra giubilare del 2008. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev alla sua mostra giubilare del 2008. Archivio dell’artista.
+
+## Trasmettere l’esperienza: una masterclass a Xi’an
+
+Nel settembre 2025 Valikhodjaev ha tenuto una masterclass per gli studenti di pittura dell’Accademia di belle arti di Xi’an, in Cina. Ha partecipato, come artista e presidente dell’Unione degli artisti dell’Uzbekistan, alla visita del 14–19 settembre legata al programma CASIE ‘Una cintura, una via — Asia centrale’. La composizione, realizzata in un’ora e venti minuti, è stata donata all’Accademia. Il video della masterclass qui sotto permette di seguire la costruzione dell’immagine, dalle prime linee ai rapporti tra le campiture di colore e alla composizione conclusa.
+
+[Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Video della masterclass · Cina, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Resoconto della visita e della masterclass · Facebook, 8 ottobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

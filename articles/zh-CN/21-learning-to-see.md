@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 21
 description: "依据公开访谈与艺术家档案，回望瓦利霍贾耶夫从纳曼干集市到抽象、雕塑与教学的艺术探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 学会观看：伊布拉吉姆·瓦利霍贾耶夫的艺术人生
@@ -135,3 +135,27 @@ edition_date: "2026-10-09"
 [乌兹别克斯坦国家通讯社 — 乌兹别克斯坦艺术展，北京，2024年1月23日（乌兹别克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 艺术家链接：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## 艺术家的私人档案
+
+[年轻时期的伊布拉吉姆·瓦利霍贾耶夫与用于学习的石膏胸像。艺术家档案；拍摄日期不详。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+年轻时期的伊布拉吉姆·瓦利霍贾耶夫与用于学习的石膏胸像。艺术家档案；拍摄日期不详。
+
+[担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫。艺术家档案；照片的确切日期不详。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫。艺术家档案；照片的确切日期不详。
+
+[伊布拉吉姆·瓦利霍贾耶夫在2008年周年纪念展上。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫在2008年周年纪念展上。艺术家档案。
+
+## 传授经验：西安绘画大师课
+
+2025年9月，瓦利霍贾耶夫在中国西安美术学院为绘画专业学生开设大师课。他以艺术家及乌兹别克斯坦艺术家联盟主席的身份，参加了9月14日至19日与CASIE“一带一路—中亚”项目有关的访问。课堂上用一小时二十分钟完成的作品赠予了学院。下方的大师课视频记录了画面的形成过程：从最初的线条，到色块之间的关系，直至完整构图。
+
+[视频](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

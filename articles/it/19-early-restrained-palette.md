@@ -4,7 +4,7 @@ language: "it"
 theme: 19
 description: "Preghiera, Brocche, Sguardo e Pietre sacre: sfumature tonali e forza espressiva della tavolozza sobria di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Il silenzio di una tavolozza contenuta: le prime opere in bianco e grigio
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. "Preghiera", 1998. Dimensioni secondo la didascalia d'archivio: 63 × 78 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Preghiera", 1998. Dimensioni secondo la didascalia d'archivio: 63 × 78 cm. Riproduzione dall'archivio dell'artista.
+
+
 
 
 
@@ -70,7 +72,7 @@ In "Sguardo", una parete verticale di colore chiaro cela parzialmente una figura
 
 Il campo bluastro sulla destra contrasta con la pietra calda e grigiastra. Una mano chiara entra in questo spazio, diventando un piccolo ma espressivo accento orizzontale tra le verticali. Il dipinto si presta a diverse interpretazioni emotive, ma l'archivio non rivela la biografia della modella né la storia dell'incontro raffigurato. La tensione visibile tra ciò che è rivelato e ciò che è nascosto è già di per sé molto significativa.
 
-[Ibragim Valikhodjaev. "Sguardo", 1997. Dimensioni secondo la didascalia d'archivio: 70 × 60 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Sguardo", 1997. Dimensioni secondo la didascalia d'archivio: 70 × 60 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Sguardo", 1997. Dimensioni secondo la didascalia d'archivio: 70 × 60 cm. Riproduzione dall'archivio dell'artista.
 

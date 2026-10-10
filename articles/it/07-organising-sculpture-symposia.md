@@ -4,7 +4,7 @@ language: "it"
 theme: 7
 description: "Otto simposi internazionali di scultura organizzati e curati da Valikhodjaev: materia, scambio e spazio pubblico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dalla-pietra-allo-spazio-pubblico-i.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Dalla pietra allo spazio pubblico: i simposi di scultura di Ibragim Valikhodjaev

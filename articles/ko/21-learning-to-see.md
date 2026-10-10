@@ -4,7 +4,7 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
@@ -135,3 +135,27 @@ edition_date: "2026-10-09"
 [UzA — 2024년 1월 23일 베이징에서 열린 우즈베키스탄 미술 전시회(우즈베크어 원문)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 아티스트 링크: [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [페이스북](<https://www.facebook.com/valikhodjaev/>)
+
+## 작가의 개인 기록에서
+
+[학습용 석고 흉상 옆에 선 젊은 시절의 이브라김 발리호자예프. 작가 소장 사진. 촬영 연도 미상.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+학습용 석고 흉상 옆에 선 젊은 시절의 이브라김 발리호자예프. 작가 소장 사진. 촬영 연도 미상.
+
+[특별기금 책임자를 지낸 이브라김 발리호자예프. 작가 소장 사진. 정확한 촬영 날짜는 알려지지 않았다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+특별기금 책임자를 지낸 이브라김 발리호자예프. 작가 소장 사진. 정확한 촬영 날짜는 알려지지 않았다.
+
+[2008년 기념 전시에서의 이브라김 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+2008년 기념 전시에서의 이브라김 발리호자예프. 작가 소장 사진.
+
+## 경험을 전하다: 시안에서 열린 회화 마스터클래스
+
+2025년 9월, 발리호자예프는 중국 시안미술학원의 회화 전공 학생들을 위해 마스터클래스를 진행했다. 그는 화가이자 우즈베키스탄 예술가연맹 회장으로서 CASIE의 ‘일대일로 — 중앙아시아’ 프로그램과 관련된 9월 14~19일 방문에 참여했다. 한 시간 이십 분 동안 완성한 작품은 학원에 기증했다. 아래 마스터클래스 영상에서는 첫 선에서 색면 간의 관계를 거쳐 완성된 구도에 이르기까지 화면이 형성되는 과정을 볼 수 있다.
+
+[영상](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

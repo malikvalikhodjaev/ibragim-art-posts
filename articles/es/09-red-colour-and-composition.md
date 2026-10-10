@@ -4,7 +4,7 @@ language: "es"
 theme: 9
 description: "Caballos rojos, Miraki y RED: cómo el color dominante, los contornos y el azul construyen la imagen en Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: cómo el rojo construye un cuadro

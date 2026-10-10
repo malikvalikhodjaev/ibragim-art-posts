@@ -4,7 +4,7 @@ language: "tr"
 theme: 19
 description: "Dua, Sürahiler ve Bakış: Valikhodjaev’in erken dönem resimlerinde açık tonlar, ölçülü renk ve ince yüzey farklılıkları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ölçülü bir paletin gücü: Valikhodjaev’in erken dönem resimleri
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [İbrahim Valikhodjaev. "Dua", 1998. Arşiv açıklamasına göre boyutları: 63 × 78 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 İbrahim Valikhodjaev. "Dua", 1998. Arşiv açıklamasına göre boyutları: 63 × 78 cm. Sanatçının arşivinden reprodüksiyon.
+
+
 
 
 
@@ -70,7 +72,7 @@ Bu çalışma, daha sonra yapılan geniş bir renk alanı çalışmasıyla bağl
 
 Sağdaki mavimsi alan, sıcak, grimsi taşla tezat oluşturuyor. Açık renkli bir el bu alana girerek, dikey çizgiler arasında küçük ama etkileyici bir yatay vurgu haline geliyor. Resim çeşitli duygusal yorumlara olanak tanıyor, ancak arşiv modelin biyografisini veya tasvir edilen karşılaşmanın öyküsünü ortaya koymuyor. Açığa çıkan ve gizlenen arasındaki görünür gerilim zaten oldukça anlamlı.
 
-[İbrahim Valikhodjaev. "Bakış," 1997. Arşiv açıklamasına göre boyut: 70 × 60 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[İbrahim Valikhodjaev. "Bakış," 1997. Arşiv açıklamasına göre boyut: 70 × 60 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 İbrahim Valikhodjaev. "Bakış," 1997. Arşiv açıklamasına göre boyut: 70 × 60 cm. Sanatçının arşivinden reprodüksiyon.
 

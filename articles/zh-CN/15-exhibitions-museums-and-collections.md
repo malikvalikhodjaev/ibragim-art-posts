@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 15
 description: "作品的展览经历与收藏地点：禹舜美术馆、马尔特佩市政府艺术收藏和莫斯科私人收藏。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_608.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 展览之后：作品在博物馆与收藏中的生命
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [伊布拉吉姆·瓦利霍贾耶夫](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 伊布拉吉姆·瓦利霍贾耶夫。Art Vernissage 专业简介中的肖像。[来源](<https://artvernissage.art/en/artists/33/>)。
+
+
 
 在本文中
 
@@ -107,3 +109,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文内容来自瓦利霍贾耶夫画廊。插图来源已在图注中注明。
 
 [乌兹别克斯坦国家通讯社 — 乌兹别克斯坦艺术展，北京，2024年1月23日（乌兹别克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[陈列伊布拉吉姆·瓦利霍贾耶夫作品的展厅全景。艺术家档案；展览名称和日期尚未确认。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+陈列伊布拉吉姆·瓦利霍贾耶夫作品的展厅全景。艺术家档案；展览名称和日期尚未确认。

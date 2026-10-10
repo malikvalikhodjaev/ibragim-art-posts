@@ -4,7 +4,7 @@ language: "fr"
 theme: 13
 description: "Cours, murs rouges et présences humaines : la couleur et la composition dans les paysages de villages ouzbeks."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/cours-et-chemins-sinueux-les-couleurs.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Cours et chemins sinueux : les couleurs des villages ouzbeks
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 octobre 2026
 [Ibragim Valikhodjaev. « Cour rurale », 2013. Huile sur toile. 90 × 100 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibragim Valikhodjaev. « Cour rurale », 2013. Huile sur toile. 90 × 100 cm. Reproduction issue des archives de l'artiste.
+
+
 
 
 
@@ -63,7 +65,7 @@ Dans « Varzik. Paysage rural » (2013), une silhouette se détache devant un lo
 
 Au-delà du mur, une maison claire aux toits jaunes se détache sur le vert des arbres. Les lignes verticales élancées à gauche et les cimes plus arrondies à droite créent une répétition différente. L'horizontalité de l'architecture assure la cohérence de ces formes. Le champ rouge en contrebas rejoint presque directement le vert, et le jaune introduit des liens supplémentaires entre eux.
 
-[Ibragim Valikhodjaev. « Varzik. Paysage rural », 2013. Dimensions selon la légende d'archives : 52 × 68 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. « Varzik. Paysage rural », 2013. Dimensions selon la légende d'archives : 52 × 68 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. « Varzik. Paysage rural », 2013. Dimensions selon la légende d'archives : 52 × 68 cm. Reproduction issue des archives de l'artiste.
 

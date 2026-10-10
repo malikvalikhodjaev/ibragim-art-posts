@@ -4,7 +4,7 @@ language: "ru"
 theme: 17
 description: "«Портрет Диаса Рахматова», «Портрет Лены» и «Портрет Саши»: как Валиходжаев строит образ человека через цвет, позу и пространство."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_82.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Лицо, поза, пространство: три портрета Валиходжаева

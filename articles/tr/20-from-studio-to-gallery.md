@@ -4,7 +4,7 @@ language: "tr"
 theme: 20
 description: "Valikhodjaev’in ressam, küratör, organizatör ve galeri kurucusu olarak çalışmaları: atölyeden izleyiciyle buluşmaya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Atölyeden galeriye: sanat için alan yaratmak
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 Ekim 2026
 [İbrahim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 İbragim Valikhodjaev, sanatçı ve Valikhodjaev Gallery House’un kurucusu. Art Vernissage’daki sanatçı profilinden portre. [Kaynak](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 Bu makalede
 
@@ -112,3 +114,15 @@ Arşivdeki galeri fotoğrafında, resimler arasındaki boşluklar bu ilişkileri
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Sergi çalışmalarından video kayıtları
+
+Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesine katılımını gösteriyor. Serginin adı, yeri ve çekim tarihi henüz belirlenmemiştir.
+
+[Video kaydı](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Sergi hazırlığı — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Sergiyi incelemek — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=VkvPfztejWY>)

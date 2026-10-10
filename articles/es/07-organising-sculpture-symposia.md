@@ -4,7 +4,7 @@ language: "es"
 theme: 7
 description: "Ocho simposios de escultura organizados y comisariados por Valikhodjaev en Turquía y Uzbekistán: material, lugar e intercambio."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-la-piedra-al-espacio-publico-los.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # De la piedra al espacio público: los simposios de escultura de Ibragim Valikhodjaev

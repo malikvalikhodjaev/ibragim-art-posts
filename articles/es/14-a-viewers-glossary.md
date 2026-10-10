@@ -4,7 +4,7 @@ language: "es"
 theme: 14
 description: "Diez claves para observar un cuadro: tema, motivo, silueta, composición, ritmo, colorido, contraste, textura, escala y abstracción."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-vocabulario-de-la-mirada-diez-claves.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # El vocabulario de la mirada: diez claves para entender la pintura

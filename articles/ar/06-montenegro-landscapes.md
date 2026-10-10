@@ -4,7 +4,7 @@ language: "ar"
 theme: 6
 description: "ميناء بيراست ونخيل الكورنيش: قراءة لوحتين من مشاركة فاليخودجاييف في ملتقى الرسم بالجبل الأسود عام 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_955.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # واحد وعشرون يومًا في الجبل الأسود: لوحات الساحل عند فاليخودجاييف
@@ -24,6 +24,8 @@ edition_date: "2026-10-09"
 [إبراهيم فاليخودجاييف. "ميناء بيراست"، 2012. الأبعاد المسجلة في أرشيف الفنان: 60 × 70 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 إبراهيم فاليخودجاييف. "ميناء بيراست"، 2012. الأبعاد المسجلة في أرشيف الفنان: 60 × 70 سم. نسخة مصوّرة من أرشيف الفنان.
+
+
 
 
 
@@ -101,6 +103,16 @@ edition_date: "2026-10-09"
 [انستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [غاليري هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## صور الأعمال من أرشيف الفنان
+
+[«على شاطئ البحر», 2012. إبراهيم فاليخوجاييف. صورة العمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«على شاطئ البحر», 2012. إبراهيم فاليخوجاييف. صورة العمل من أرشيف الفنان.
+
+[«سور القلعة في بودفا», 2012. إبراهيم فاليخوجاييف. صورة العمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«سور القلعة في بودفا», 2012. إبراهيم فاليخوجاييف. صورة العمل من أرشيف الفنان.
 
 
 </div>

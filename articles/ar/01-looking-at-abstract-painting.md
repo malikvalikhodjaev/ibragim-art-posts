@@ -4,7 +4,7 @@ language: "ar"
 theme: 1
 description: "مساحات اللون والخط والمقياس في تجريد إبراهيم فاليخودجاييف: قراءة قريبة للأعمال وصورها وتكوينها."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_669.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # كيف ننظر إلى الفن التجريدي؟ دليل عبر لوحات فاليخودجاييف

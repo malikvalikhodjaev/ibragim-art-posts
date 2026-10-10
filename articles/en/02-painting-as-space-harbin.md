@@ -4,7 +4,7 @@ language: "en"
 theme: 2
 description: "Inside Sun on Snow at Yu Shun Art Museum, Harbin: monumental paintings, geometric colour and Valikhodjaev’s encounters with China."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_883.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # When a Painting Becomes a Space: An Exhibition in Harbin

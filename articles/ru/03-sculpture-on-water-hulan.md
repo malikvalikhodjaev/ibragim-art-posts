@@ -4,7 +4,7 @@ language: "ru"
 theme: 3
 description: "Плавающие скульптуры в Хулане, Китай, 2024: участие Ибрагима Валиходжаева как скульптора, работа с силуэтом, водой и отражением."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Скульптура на воде: Ибрагим Валиходжаев в Хулане, Китай
@@ -102,3 +102,13 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Ссылки галереи](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Редакционный материал Valikhodjaev Gallery House. Источники изображений указаны в подписях.
+
+## Из архива скульптурного проекта в Китае
+
+[Металлическая скульптура Ибрагима Валиходжаева на стадии подготовки к установке на воде. Архив художника; точная дата съёмки не подтверждена.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+Металлическая скульптура Ибрагима Валиходжаева на стадии подготовки к установке на воде. Архив художника; точная дата съёмки не подтверждена.
+
+[Плавающая скульптура Ибрагима Валиходжаева в замёрзшей реке, Китай. Архив художника; дата снимка не установлена.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+Плавающая скульптура Ибрагима Валиходжаева в замёрзшей реке, Китай. Архив художника; дата снимка не установлена.

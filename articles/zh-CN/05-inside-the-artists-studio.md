@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 5
 description: "从拉希姆·艾哈迈多夫大师工作室到指导学生：绘画中的观察、构图与专业经验的传递。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 在画家工作室：观察、教学与经验的传递
@@ -22,6 +22,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026年10月6日
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 在本文中
 
@@ -110,3 +112,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 传授经验：西安绘画大师课
+
+2025年9月，瓦利霍贾耶夫在中国西安美术学院为绘画专业学生开设大师课。他以艺术家及乌兹别克斯坦艺术家联盟主席的身份，参加了9月14日至19日与CASIE“一带一路—中亚”项目有关的访问。课堂上用一小时二十分钟完成的作品赠予了学院。下方的大师课视频记录了画面的形成过程：从最初的线条，到色块之间的关系，直至完整构图。
+
+[视频](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

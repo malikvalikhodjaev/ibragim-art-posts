@@ -4,7 +4,7 @@ language: "he"
 theme: 1
 description: "צבע, קו, קצב וקנה מידה בציוריו המופשטים של איברגים וליכודג'ייב ובתערוכה «מבט חדש»."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_18.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # איך מתבוננים בהפשטה? מסע בין ציוריו של וליכודג'ייב

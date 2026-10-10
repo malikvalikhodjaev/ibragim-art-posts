@@ -4,7 +4,7 @@ language: "fr"
 theme: 11
 description: "Dans Suite de Namangan : gestes quotidiens, foulards blancs et vêtements colorés composent une vaste scène de bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Suite de Namangan» : la vie dans une grande toile
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 octobre 2026
 [Ibragim Valikhodjaev, « Suite de Namangan ». Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 Ibragim Valikhodjaev, « Suite de Namangan ». Reproduction issue des archives de l'artiste. [Tableau entier](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 Dans cet article
 
@@ -114,3 +116,13 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 Documents éditoriaux de la Valikhodjaev Gallery House. Les sources des illustrations sont indiquées dans les légendes.
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Reproductions issues des archives de l’artiste
+
+[«Marché aux berceaux», 2002. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Marché aux berceaux», 2002. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.
+
+[«Marché aux calottes», 2006. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Marché aux calottes», 2006. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.

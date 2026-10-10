@@ -4,7 +4,7 @@ language: "en"
 theme: 19
 description: "Prayer, Jugs, Gaze and Holy Stones: restrained colour, tonal nuances and the expressive forms of Valikhodjaev’s early paintings."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # The quiet of a restricted palette: early paintings in white and grey
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. "Prayer," 1998. Size according to archival caption: 63 × 78 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Prayer," 1998. Size according to archival caption: 63 × 78 cm. Reproduction from the artist's archive.
+
+
 
 
 
@@ -70,7 +72,7 @@ In "Glance," a light-coloured vertical wall partially obscures a female figure. 
 
 The bluish field on the right contrasts with the warm, greyish stone. A light-coloured hand enters this space, becoming a small but expressive horizontal accent amid the verticals. The painting allows for various emotional readings, but the archive does not reveal the model's biography or the story of the encounter depicted. The visible tension between the revealed and the hidden is already quite meaningful.
 
-[Ibragim Valikhodjaev. "Gaze," 1997. Size according to archival caption: 70 × 60 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Gaze," 1997. Size according to archival caption: 70 × 60 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Gaze," 1997. Size according to archival caption: 70 × 60 cm. Reproduction from the artist's archive.
 

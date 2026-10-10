@@ -4,7 +4,7 @@ language: "fa"
 theme: 9
 description: "از «اسب‌های سرخ» تا مناظر مجموعهٔ RED؛ قدرت رنگ قرمز و رابطهٔ آن با خط، معماری و رنگ‌های مجاور."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_1.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: رنگ قرمز چگونه نقاشی را می‌سازد

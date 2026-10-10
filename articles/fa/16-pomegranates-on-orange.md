@@ -4,7 +4,7 @@ language: "fa"
 theme: 16
 description: "انارها، زمینهٔ نارنجی و سفال: رنگ، حجم و فاصله‌ها در طبیعت بی‌جان ابراهیم ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_41.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # انارها بر زمینهٔ نارنجی: دنیای کوچک یک نقاشی

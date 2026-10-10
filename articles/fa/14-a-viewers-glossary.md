@@ -4,7 +4,7 @@ language: "fa"
 theme: 14
 description: "از موضوع و ترکیب‌بندی تا بافت و مقیاس؛ ده اصطلاح برای نگاه دقیق‌تر به نقاشی‌های ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_64.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # واژه‌نامهٔ بیننده: ده کلید برای خواندن نقاشی

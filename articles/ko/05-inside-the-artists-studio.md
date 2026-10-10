@@ -4,7 +4,7 @@ language: "ko"
 theme: 5
 description: "거장 라힘 아흐메도프의 작업실에서 자신의 교육 활동까지. 관찰, 구도, 제작 과정을 통해 보는 발리호자예프의 회화."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 작업실 안으로 — 보고, 배우고, 그리는 일
@@ -22,6 +22,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026년 10월 6일
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 이 기사에서
 
@@ -110,3 +112,13 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 경험을 전하다: 시안에서 열린 회화 마스터클래스
+
+2025년 9월, 발리호자예프는 중국 시안미술학원의 회화 전공 학생들을 위해 마스터클래스를 진행했다. 그는 화가이자 우즈베키스탄 예술가연맹 회장으로서 CASIE의 ‘일대일로 — 중앙아시아’ 프로그램과 관련된 9월 14~19일 방문에 참여했다. 한 시간 이십 분 동안 완성한 작품은 학원에 기증했다. 아래 마스터클래스 영상에서는 첫 선에서 색면 간의 관계를 거쳐 완성된 구도에 이르기까지 화면이 형성되는 과정을 볼 수 있다.
+
+[영상](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

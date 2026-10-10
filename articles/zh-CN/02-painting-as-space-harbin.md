@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 2
 description: "哈尔滨禹舜美术馆2026年《雪地之阳》个展：巨幅抽象绘画、展厅建筑与观看距离。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_91.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 当绘画成为空间：瓦利霍贾耶夫在哈尔滨的个展

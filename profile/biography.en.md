@@ -4,7 +4,7 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
@@ -21,7 +21,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 *Alternative transliterations of his name include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.*
 
-[View and download the complete artist CV (DOCX, version 24)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+[View and download the complete artist CV (DOCX, version 25)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
 ## Institutional roles and teaching
 
@@ -175,4 +175,46 @@ Gallery: [valikhodjaev.gallery.house@gmail.com](<mailto:valikhodjaev.gallery.hou
 
 [View and download the complete artist CV (DOCX)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
-*Updated 9 October 2026.*
+## Additional teaching and institutional experience
+
+Archival records also document his work as a tutor at the Mannon Uygur Tashkent State Art Institute (1991–1994), Chairman of the Special Fund of the Academy of Arts of Uzbekistan (1999–2005), teacher at the Kamoliddin Bekhzod National Institute of Arts and Design (2006–2007), and Head of Creative Activities and Exhibition Coordination at the Academy of Arts of Uzbekistan (2017–2018). The Special Fund is listed separately from his chairmanship of the Art Fund of the Republic of Uzbekistan (1999–2012).
+
+His 50th-birthday exhibition at the Central Exhibition Hall in Uzbekistan, Tashkent, in 2008 presented more than 200 works. That year he was also awarded the Gold Medal of the Academy of Arts of Uzbekistan. The updated CV includes further exhibitions documented in the archive, including international exhibitions in the United States in 1996.
+
+## From the artist’s personal archive
+
+[Ibragim Valikhodjaev as a young artist, beside a plaster study bust. Artist’s archive; photograph undated.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev as a young artist, beside a plaster study bust. Artist’s archive; photograph undated.
+
+[Ibragim Valikhodjaev, head of the Special Fund. Artist’s archive; the photograph’s exact date is unknown.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, head of the Special Fund. Artist’s archive; the photograph’s exact date is unknown.
+
+[Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.
+
+## Passing on experience: a masterclass in Xi’an
+
+In September 2025, Valikhodjaev led a painting masterclass for students at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
+
+[Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Exhibition work on video
+
+These two archival videos show the artist taking part in preparing and viewing an exhibition. Its title, location and filming date have not yet been established.
+
+[Video](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+*Updated 10 October 2026.*

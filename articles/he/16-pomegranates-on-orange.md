@@ -4,7 +4,7 @@ language: "he"
 theme: 16
 description: "«רימונים», 2012: רקע כתום, צלליות כהות ומשיכות מכחול; מבט מקרוב והשוואה לטבע הדומם המוקדם «כדים»."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_297.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # רימונים על רקע כתום: עולם קטן של ציור

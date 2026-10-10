@@ -4,7 +4,7 @@ language: "fr"
 theme: 2
 description: "Sun on Snow au Yu Shun Art Museum de Harbin : peintures monumentales, géométrie et rencontres de Valikhodjaev avec la Chine."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/quand-la-peinture-devient-un-espace-une.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Quand la peinture devient un espace : une exposition à Harbin

@@ -4,7 +4,7 @@ language: "fr"
 theme: 7
 description: "Huit symposiums internationaux de sculpture organisés et dirigés par Valikhodjaev : création, échanges et espace public."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-la-pierre-lespace-public-les.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # De la pierre à l’espace public : les symposiums de sculpture d’Ibragim Valikhodjaev

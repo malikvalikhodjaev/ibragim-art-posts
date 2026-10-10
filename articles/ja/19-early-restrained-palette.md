@@ -4,7 +4,7 @@ language: "ja"
 theme: 19
 description: "「祈り」「壺」「まなざし」「聖なる石」。抑制された色彩と微妙な明暗が形を生む初期作品を読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 抑えた色彩の静けさ――白と灰色の初期作品
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [イブラギム・ヴァリホジャエフ。「祈り」、1998年。保存資料のキャプションによるとサイズは63×78cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 イブラギム・ヴァリホジャエフ。「祈り」、1998年。保存資料のキャプションによるとサイズは63×78cm。作家のアーカイブからの複製。
+
+
 
 
 
@@ -70,7 +72,7 @@ Valikhodjaev Gallery House
 
 右側の青みがかった背景は、温かみのある灰色がかった石と対照をなしている。明るい色の手がこの空間に入り込み、垂直線の中に小さくも表情豊かな水平のアクセントとなっている。この絵画は様々な感情的な解釈を可能にするが、資料からはモデルの経歴や描かれた出会いの物語は明らかにされていない。明らかにされたものと隠されたものの間の目に見える緊張感は、すでに非常に意味深い。
 
-[イブラギム・ヴァリホジャエフ。「まなざし」、1997年。資料の説明によるとサイズは70×60cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフ。「まなざし」、1997年。資料の説明によるとサイズは70×60cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 イブラギム・ヴァリホジャエフ。「まなざし」、1997年。資料の説明によるとサイズは70×60cm。作家のアーカイブからの複製。
 

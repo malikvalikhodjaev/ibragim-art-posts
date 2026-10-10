@@ -4,7 +4,7 @@ language: "he"
 theme: 11
 description: "«סוויטת נמנגן»: אנשים, מחוות, מטפחות לבנות והמבנה הקצבי של סצנת השוק."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_94.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «סוויטת נמנגן»: החיים בתוך ציור גדול
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [איברגים וליכודג'ייב, "סוויטת נמנגן". רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 איברגים וליכודג'ייב, "סוויטת נמנגן". רפרודוקציה מארכיון האמן. [ציור מלא](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 במאמר זה
 
@@ -116,6 +118,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 חומר עריכה מValikhodjaev Gallery House. מקורות האיורים מצוינים בכיתובים.
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## תצלומי יצירות מארכיון האמן
+
+[«שוק העריסות», 2002. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«שוק העריסות», 2002. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.
+
+[«שוק הכיפות המסורתיות», 2006. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«שוק הכיפות המסורתיות», 2006. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.
 
 
 </div>

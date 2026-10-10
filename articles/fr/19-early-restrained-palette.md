@@ -4,7 +4,7 @@ language: "fr"
 theme: 19
 description: "Prière, Cruches, Regard et Pierres sacrées : nuances de tons et formes expressives dans les premières peintures."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Le silence d’une palette retenue : les premières œuvres en blanc et gris
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. « Prière », 1998. Dimensions selon la légende d'archives : 63 × 78 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. « Prière », 1998. Dimensions selon la légende d'archives : 63 × 78 cm. Reproduction issue des archives de l'artiste.
+
+
 
 
 
@@ -70,7 +72,7 @@ Dans « Regard », un mur vertical clair masque partiellement une silhouette fé
 
 Le champ bleuâtre à droite contraste avec la pierre chaude et grise. Une main claire s'insère dans cet espace, devenant un petit accent horizontal expressif au milieu des verticales. Le tableau se prête à diverses interprétations émotionnelles, mais les archives ne révèlent ni la biographie du modèle ni le récit de la rencontre représentée. La tension palpable entre le dévoilé et le caché est déjà riche de sens.
 
-[Ibragim Valikhodjaev. « Regard », 1997. Dimensions selon la légende d'archives : 70 × 60 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. « Regard », 1997. Dimensions selon la légende d'archives : 70 × 60 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. « Regard », 1997. Dimensions selon la légende d'archives : 70 × 60 cm. Reproduction issue des archives de l'artiste.
 

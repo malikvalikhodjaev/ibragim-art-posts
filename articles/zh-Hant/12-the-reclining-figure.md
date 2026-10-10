@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 12
 description: "比較《至高和諧》《沉睡》與《人體》：輪廓、姿態、周圍色域和不同尺幅。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_299.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 斜倚的人體：線條、姿態與色彩的三種關係

@@ -4,7 +4,7 @@ language: "it"
 theme: 11
 description: "Dentro la Suite di Namangan: gesti quotidiani, foulard bianchi e copricapi ricamati nella grande scena di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Suite di Namangan»: la vita dentro una grande tela
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 ottobre 2026
 [Ibragim Valikhodjaev, "Suite di Namangan". Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 Ibragim Valikhodjaev, "Suite di Namangan". Riproduzione dall'archivio dell'artista. [Dipinto completo](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 In questo articolo
 
@@ -114,3 +116,13 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle illustrazioni sono indicate nelle didascalie.
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Riproduzioni dall’archivio dell’artista
+
+[«Mercato delle culle», 2002. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Mercato delle culle», 2002. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.
+
+[«Mercato delle calotte», 2006. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Mercato delle calotte», 2006. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.

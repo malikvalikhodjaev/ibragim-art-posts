@@ -4,7 +4,7 @@ language: "it"
 theme: 2
 description: "Sun on Snow al Museo Yu Shun di Harbin, 2026: grandi tele geometriche, spazio museale e incontro con il pubblico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/quando-un-dipinto-diventa-uno-spazio.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Quando un dipinto diventa uno spazio: una mostra ad Harbin

@@ -4,7 +4,7 @@ language: "ru"
 theme: 15
 description: "Работы Ибрагима Валиходжаева в музеях, галереях и частных коллекциях: Харбин, Ташкент, Санкт-Петербург, Стамбул и другие города."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_389.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Жизнь картины после выставки: музеи и коллекции Ибрагима Валиходжаева
@@ -107,3 +107,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 Редакционный материал Valikhodjaev Gallery House. Источники иллюстраций указаны в подписях.
 
 [УзА — выставка искусства Узбекистана в Пекине, 23 января 2024 года (узбекский текст)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[Общий вид выставочного зала с произведениями Ибрагима Валиходжаева. Архив художника; название выставки и дата не подтверждены.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Общий вид выставочного зала с произведениями Ибрагима Валиходжаева. Архив художника; название выставки и дата не подтверждены.

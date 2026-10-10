@@ -4,7 +4,7 @@ language: "uz"
 theme: 16
 description: "«Anorlar», 2012: to‘q mevalar, to‘q sariq rang sohasi, siluet chegaralari va ifodali mo‘yqalam surtmalari."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/toq-sariq-maydondagi-anorlar-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # To‘q sariq fondagi anorlar: natyurmortning kichik olami

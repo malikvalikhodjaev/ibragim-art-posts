@@ -4,7 +4,7 @@ language: "fa"
 theme: 13
 description: "حیاط روستایی، راه، خانه و تراکتور آبی؛ نگاهی نزدیک به زندگی روستایی در آثار آرشیوی ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_342.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # حیاط‌ها و راه‌های پیچان: رنگ زندگی در روستاهای ازبکستان
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [ابراهیم ولی‌خوجایف. «حیاط روستایی»، ۲۰۱۳. رنگ روغن روی بوم. ۹۰ × ۱۰۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 ابراهیم ولی‌خوجایف. «حیاط روستایی»، ۲۰۱۳. رنگ روغن روی بوم. ۹۰ × ۱۰۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+
 
 
 
@@ -65,7 +67,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 آن سوی دیوار، خانه‌ای با رنگ روشن و سقف‌های زرد رنگ در کنار درختان سبز دیده می‌شوند. ستون‌های عمودی بلند و باریک در سمت چپ و تاج‌های گردتر در سمت راست، تکرار متفاوتی ایجاد می‌کنند. امتداد افقی معماری، این فرم‌ها را در کنار هم نگه می‌دارد. زمینه قرمز زیرین تقریباً مستقیماً به سبز می‌رسد و رنگ زرد روابط بیشتری بین آنها ایجاد می‌کند.
 
-[ابراهیم ولی‌خوجایف. «وارزیک. چشم‌انداز روستایی»، ۲۰۱۳. ابعاد طبق شرح آرشیوی: ۵۲ × ۶۸ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[ابراهیم ولی‌خوجایف. «وارزیک. چشم‌انداز روستایی»، ۲۰۱۳. ابعاد طبق شرح آرشیوی: ۵۲ × ۶۸ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 ابراهیم ولی‌خوجایف. «وارزیک. چشم‌انداز روستایی»، ۲۰۱۳. ابعاد طبق شرح آرشیوی: ۵۲ × ۶۸ سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 

@@ -4,7 +4,7 @@ language: "en"
 theme: 4
 description: "In Silence at Mondoir Gallery, Dubai, in 2024: everyday Uzbek life, vivid colour and an exhibition curated by Zahra Habibizad."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/everyday-life-extraordinary-colour.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Everyday Life, Extraordinary Colour: Valikhodjaev in Dubai

@@ -4,7 +4,7 @@ language: "ar"
 theme: 20
 description: "الفنان والمعلّم والقيّم الفني ومؤسس الغاليري: كيف تصل اللوحة من المرسم إلى الجمهور."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_620.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # من المرسم إلى الغاليري: كيف يهيّئ فاليخودجاييف مساحة للفن
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 [إبراهيم فاليخودجاييف](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 إبراهيم فاليخودجاييف، فنان ومؤسس Valikhodjaev Gallery House. صورة للفنان من صفحته المهنية على ArtVernissage. [المصدر](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 في هذه المقالة
 
@@ -114,6 +116,18 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 [انستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [غاليري هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## العمل في المعارض بالفيديو
+
+يُظهر هذان الفيديوهان الأرشيفيان مشاركة الفنان في تجهيز معرض ومعاينة الأعمال المعروضة. لم يُحدَّد بعد اسم المعرض ومكانه وتاريخ التصوير.
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[تجهيز المعرض — إبراهيم فاليخوجاييف بصفته رئيس اتحاد فناني أوزبكستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[جولة في المعرض — إبراهيم فاليخوجاييف بصفته رئيس اتحاد فناني أوزبكستان](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 
 </div>

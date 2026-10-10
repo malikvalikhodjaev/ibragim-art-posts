@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 11
 description: "《纳曼干组曲》中的集市生活：人物姿态、白色头巾、刺绣小帽与横幅构图。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_844.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 《纳曼干组曲》：一幅全景画中的日常生活
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [伊布拉吉姆·瓦利霍贾耶夫，《纳曼干组曲》。图像来自艺术家档案。](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 伊布拉吉姆·瓦利霍贾耶夫，《纳曼干组曲》。艺术家档案中的作品图像。[完整画作](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>)。
+
+
 
 在本文中
 
@@ -114,3 +116,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文内容来自瓦利霍贾耶夫画廊。插图来源已在图注中注明。
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 艺术家档案中的作品图版
+
+[«摇篮市场», 2002. 伊布拉吉姆·瓦利霍贾耶夫。图版来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«摇篮市场», 2002. 伊布拉吉姆·瓦利霍贾耶夫。图版来自艺术家档案。
+
+[«传统花帽市场», 2006. 伊布拉吉姆·瓦利霍贾耶夫。图版来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«传统花帽市场», 2006. 伊布拉吉姆·瓦利霍贾耶夫。图版来自艺术家档案。

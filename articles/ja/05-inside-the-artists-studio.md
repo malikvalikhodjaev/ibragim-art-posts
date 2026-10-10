@@ -4,7 +4,7 @@ language: "ja"
 theme: 5
 description: "巨匠ラヒム・アフメドフのアトリエから自身の指導へ。ヴァリホジャエフの観察、構図、制作過程に触れる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # アトリエの内側へ――見ること、学ぶこと、描くこと
@@ -22,6 +22,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026年10月6日
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 この記事では
 
@@ -110,3 +112,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 経験を伝える――西安での絵画マスタークラス
+
+2025年9月、ヴァリホジャエフは中国の西安美術学院で絵画を学ぶ学生たちにマスタークラスを行った。CASIEの「一帯一路――中央アジア」プログラムに関連する9月14日から19日までの訪問に、画家およびウズベキスタン芸術家連盟会長として参加した。1時間20分で制作した作品は同学院に寄贈された。下のマスタークラスの映像では、最初の線から色面の関係、そして完成した構図へと画面が形づくられる過程を見ることができる。
+
+[映像](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

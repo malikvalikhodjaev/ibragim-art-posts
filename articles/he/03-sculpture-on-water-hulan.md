@@ -4,7 +4,7 @@ language: "he"
 theme: 3
 description: "וליכודג'ייב כפסל בפרויקט חולאן 2024: מתכת, מים, צללית והשתקפות במרחב הנהר."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # פיסול על פני המים: איברגים וליכודג'ייב בחולאן
@@ -20,6 +20,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+
 
 במאמר זה
 
@@ -104,6 +106,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [קישורים לגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
 
 חומר עריכה מValikhodjaev Gallery House. מקורות התמונה מצוינים בכיתובים.
+
+## מארכיון פרויקט הפיסול בסין
+
+[פסל המתכת של איברגים וליחודז'אייב במהלך ההכנה להצבה על המים. ארכיון האמן; תאריך הצילום לא אושר.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+
+פסל המתכת של איברגים וליחודז'אייב במהלך ההכנה להצבה על המים. ארכיון האמן; תאריך הצילום לא אושר.
+
+[הפסל הצף של איברגים וליחודז'אייב בנהר קפוא בסין. ארכיון האמן; תאריך הצילום אינו ידוע.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+
+הפסל הצף של איברגים וליחודז'אייב בנהר קפוא בסין. ארכיון האמן; תאריך הצילום אינו ידוע.
 
 
 </div>

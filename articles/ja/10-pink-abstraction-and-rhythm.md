@@ -4,7 +4,7 @@ language: "ja"
 theme: 10
 description: "「ピンクの抽象 No.1」を近くから見る。一本の暗い線、重なる筆触、密度の変化がつくるリズム。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_306.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # ピンクの色面、暗い一本の線――絵画に生まれるリズム

@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 1
 description: "从抽象作品出发，观察色块、轮廓、间隔与尺幅，理解伊布拉吉姆·瓦利霍贾耶夫如何组织画面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_938.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 如何观看抽象绘画：从色彩、线条到画面尺度

@@ -4,7 +4,7 @@ language: "it"
 theme: 18
 description: "Mazzi di fiori, margherite e rose: ceramiche, intervalli e pennellate nelle nature morte floreali di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/oltre-il-bouquet-fiori-ceramica-e.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Oltre il bouquet: fiori, ceramica e pennellate di Valikhodjaev

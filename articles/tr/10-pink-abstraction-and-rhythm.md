@@ -4,7 +4,7 @@ language: "tr"
 theme: 10
 description: "Pembe Soyutlama No. 1: koyu bir yatay çizgi, ince fırça izleri ve geniş renk alanı resimde nasıl ritim oluşturur?"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev_01887514916.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Pembe bir renk alanı ve koyu bir çizgi: resimde ritim

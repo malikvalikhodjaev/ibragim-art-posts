@@ -4,7 +4,7 @@ language: "de"
 theme: 2
 description: "Valikhodjaevs Einzelausstellung Sonne auf Schnee im Yu Shun Art Museum in Harbin, 2026: großformatige Malerei und der Blick des Publikums."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/wenn-ein-gemalde-zum-raum-wird-eine.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Wenn ein Gemälde zum Raum wird: eine Ausstellung in Harbin

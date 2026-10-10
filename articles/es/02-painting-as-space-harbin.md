@@ -4,7 +4,7 @@ language: "es"
 theme: 2
 description: "Sol sobre la nieve: Valikhodjaev en el Museo de Arte Yu Shun de Harbin, China, 2026. Pintura monumental y experiencia del espectador."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/cuando-un-cuadro-se-convierte-en.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Cuando un cuadro se convierte en espacio: una exposición en Harbin

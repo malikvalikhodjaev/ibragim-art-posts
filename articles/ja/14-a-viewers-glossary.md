@@ -4,7 +4,7 @@ language: "ja"
 theme: 14
 description: "主題、シルエット、構図、リズム、質感、スケール。作品を具体的に見るための10の美術用語。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_07.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 絵画を読む10の鍵――ヴァリホジャエフの作品から

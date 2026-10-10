@@ -4,7 +4,7 @@ language: "en"
 theme: 10
 description: "Pink Abstraction No. 1: a dark horizontal line, intersecting brushstrokes and the changing rhythms of Valikhodjaev’s colour field."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-rhythm-of-painting-how-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # A Pink Field and One Dark Line: How Valikhodjaev Creates Rhythm

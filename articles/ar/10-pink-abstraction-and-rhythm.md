@@ -4,7 +4,7 @@ language: "ar"
 theme: 10
 description: "الإيقاع في التجريد: المساحة الوردية والخط الداكن والتوازن بين الأشكال في لوحات فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_33.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # مساحة وردية وخط داكن: كيف يصنع فاليخودجاييف الإيقاع

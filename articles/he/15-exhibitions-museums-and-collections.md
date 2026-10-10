@@ -4,7 +4,7 @@ language: "he"
 theme: 15
 description: "יצירות וליכודג'ייב בחרבין, איסטנבול ובאוסף פרטי במוסקבה; תערוכות ומפגש עם קהל מחוץ לאוזבקיסטן."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_05.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # מעבר לגבולות: יצירות וליכודג'ייב במוזיאונים ובאוספים
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [איברגים וליכודג'ייב](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 איברגים וליכודג'ייב. דיוקן מתוך הפרופיל המקצועי ב-ArtVernissage. [ArtVernissage: פרופיל מקצועי של האמן](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 במאמר זה
 
@@ -109,6 +111,10 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 חומר עריכה מValikhodjaev Gallery House. מקורות האיורים מצוינים בכיתובים.
 
 [UzA - תערוכת אמנות אוזבקיסטן בבייג'ינג, 23 בינואר 2024 (טקסט אוזבקי)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[מבט כללי על אולם שבו מוצגות יצירות של איברגים וליחודז'אייב. ארכיון האמן; שם התערוכה ותאריכה לא אושרו.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+מבט כללי על אולם שבו מוצגות יצירות של איברגים וליחודז'אייב. ארכיון האמן; שם התערוכה ותאריכה לא אושרו.
 
 
 </div>

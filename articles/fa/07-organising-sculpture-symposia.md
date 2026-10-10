@@ -4,7 +4,7 @@ language: "fa"
 theme: 7
 description: "هشت سمپوزیوم مجسمه‌سازی در ترکیه و ازبکستان؛ تجربهٔ ابراهیم ولی‌خوجایف در برگزاری و نمایشگاه‌گردانی."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_15.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # از سنگ تا فضای مشترک: ابراهیم ولی‌خوجایف و سمپوزیوم مجسمه‌سازی

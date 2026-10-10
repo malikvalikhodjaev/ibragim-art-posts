@@ -4,7 +4,7 @@ language: "en"
 theme: 14
 description: "Ten useful painting terms, explained through portraits, bazaar scenes, landscapes and abstraction: composition, palette, rhythm and texture."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ten-ways-into-painting-viewers-guide-to.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # A Viewer’s Glossary: Ten Keys to Painting

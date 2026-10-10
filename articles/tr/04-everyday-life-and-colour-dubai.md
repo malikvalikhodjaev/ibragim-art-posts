@@ -4,7 +4,7 @@ language: "tr"
 theme: 4
 description: "In Silence, Dubai 2024: Valikhodjaev’in gündelik yaşamı resmetmesi ve Zahra Habibizad’ın küratörlüğündeki kişisel sergi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gundelik-hayatn-renkleri-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Gündelik hayatın renkleri: Valikhodjaev Dubai’de

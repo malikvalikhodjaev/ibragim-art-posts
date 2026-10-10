@@ -4,7 +4,7 @@ language: "ru"
 theme: 13
 description: "«Сельский дворик», «В гости», «Варзик», «Возвращение с работы» и «Мираки»: цвет и повседневная жизнь узбекского кишлака."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_182.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Дворы и извилистые дороги: колорит узбекского кишлака
@@ -63,7 +63,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 За стеной видны светлый дом и жёлтые кровли, сближенные с зелёными деревьями. Высокие узкие вертикали слева и более округлые кроны справа дают разный характер повторения. Горизонтальная протяжённость архитектуры удерживает эти формы вместе. Красное поле внизу встречается с зелёным почти напрямую, а жёлтый вводит между ними дополнительные отношения.
 
-[Ибрагим Валиходжаев. «Варзик. Сельский пейзаж», 2013. Размер по архивной подписи: 52 × 68 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ибрагим Валиходжаев. «Варзик. Сельский пейзаж», 2013. Размер по архивной подписи: 52 × 68 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ибрагим Валиходжаев. «Варзик. Сельский пейзаж», 2013. Размер по архивной подписи: 52 × 68 см. Репродукция из архива художника.
 

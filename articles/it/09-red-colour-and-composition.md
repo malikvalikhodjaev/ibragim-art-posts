@@ -4,7 +4,7 @@ language: "it"
 theme: 9
 description: "Cavalli rossi, paesaggi RED e astrazione: come Valikhodjaev costruisce un dipinto attraverso i rapporti cromatici."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: come il rosso costruisce un dipinto

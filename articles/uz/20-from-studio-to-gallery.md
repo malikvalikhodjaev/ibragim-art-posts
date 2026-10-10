@@ -4,7 +4,7 @@ language: "uz"
 theme: 20
 description: "Valixo‘jayevning rassom, ustoz, kurator va galereya asoschisi sifatidagi faoliyati: asardan tomoshabin bilan uchrashuvgacha."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ustaxonadan galereyagacha: ijodkor uchrashuv makonini yaratadi
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026-yil 6-oktabr
 [Ibrohim Valixo‘jayev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibrohim Valixo‘jayev, rassom va Valikhodjaev Gallery House galereyasining asoschisi. Art Vernissage professional profilidan olingan portret. [Manba](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 Ushbu maqolada
 
@@ -112,3 +114,15 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ko‘rgazma faoliyati videoyozuvlarda
+
+Ikki arxiv videoyozuvi rassomning ko‘rgazmani tayyorlash va ko‘zdan kechirishdagi ishtirokini ko‘rsatadi. Ko‘rgazma nomi, joyi va videoyozuv sanasi hozircha aniqlanmagan.
+
+[Videoyozuv](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Ko‘rgazmaga tayyorgarlik — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Ekspozitsiyani ko‘zdan kechirish — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=VkvPfztejWY>)

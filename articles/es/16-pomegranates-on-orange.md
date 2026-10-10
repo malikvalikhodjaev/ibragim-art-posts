@@ -4,7 +4,7 @@ language: "es"
 theme: 16
 description: "Granadas sobre un fondo naranja: siluetas oscuras, pinceladas y espacios entre los frutos en una naturaleza muerta de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/granadas-sobre-naranja-el-pequeno-mundo.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Granadas sobre naranja: el pequeño mundo de una naturaleza muerta

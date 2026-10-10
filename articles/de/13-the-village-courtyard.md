@@ -4,7 +4,7 @@ language: "de"
 theme: 13
 description: "Der ländliche Hof, Varzik und Heimkehr von der Arbeit: Valikhodjaevs Blick auf Wege, Mauern und alltägliche Gesten im ländlichen Usbekistan."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/hofe-und-gewundene-wege-die-farben.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Höfe und gewundene Wege: die Farben usbekischer Dörfer
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6. Oktober 2026
 [Ibragim Valikhodjaev. „Ländlicher Hof“, 2013. Öl auf Leinwand. 90 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibragim Valikhodjaev. „Ländlicher Hof“, 2013. Öl auf Leinwand. 90 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+
+
 
 
 
@@ -63,7 +65,7 @@ In „Varzik. Ländliche Landschaft“ (2013) steht eine kleine Figur vor einer 
 
 Hinter der Mauer sind ein helles Haus und gelbe Dächer zu sehen, die sich von grünen Bäumen abheben. Die hohen, schmalen Vertikalen links und die runderen Kronen rechts erzeugen eine andere Wiederholung. Die horizontale Ausdehnung der Architektur verbindet diese Formen. Das rote Feld unten trifft fast direkt auf das grüne, und das Gelb schafft zusätzliche Verbindungen zwischen ihnen.
 
-[Ibragim Valikhodjaev. „Varzik. Ländliche Landschaft“, 2013. Größe laut Archivbeschreibung: 52 × 68 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. „Varzik. Ländliche Landschaft“, 2013. Größe laut Archivbeschreibung: 52 × 68 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. „Varzik. Ländliche Landschaft“, 2013. Größe laut Archivbeschreibung: 52 × 68 cm. Reproduktion aus dem Archiv des Künstlers.
 

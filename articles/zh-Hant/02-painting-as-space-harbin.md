@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 2
 description: "哈爾濱禹舜美術館2026年《雪地之陽》個展：巨幅抽象繪畫、展廳建築與觀看距離。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_625.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 當繪畫成為空間：瓦利霍賈耶夫在哈爾濱的個展

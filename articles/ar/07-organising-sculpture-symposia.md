@@ -4,7 +4,7 @@ language: "ar"
 theme: 7
 description: "ثمانية ملتقيات نحت في تركيا وأوزبكستان: دور فاليخودجاييف في التنظيم والقيّمية الفنية وشروط إنجاز الأعمال."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_78.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # من الحجر إلى الفضاء المشترك: إبراهيم فاليخودجاييف وملتقيات النحت

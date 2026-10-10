@@ -4,7 +4,7 @@ language: "ar"
 theme: 4
 description: "معرض دبي ومشاهد الحياة الأوزبكية: كيف يجمع فاليخودجاييف اللون والإيماءة والناس في لوحة واحدة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_971.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # حياة يومية وألوان استثنائية: فاليخودجاييف في دبي

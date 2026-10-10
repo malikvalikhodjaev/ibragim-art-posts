@@ -4,7 +4,7 @@ language: "he"
 theme: 19
 description: "«תפילה», «כדים», «מבט» ו«אבנים קדושות»: גוונים עדינים, מרווחים ומתח בציוריו המוקדמים של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_803.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # פלטה מצומצמת, מתח רב: בציוריו המוקדמים של וליכודג'ייב
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House
 [איברגים וליכודג'ייב. "תפילה", 1998. גודל לפי כיתוב ארכיוני: 63 × 78 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 איברגים וליכודג'ייב. "תפילה", 1998. גודל לפי כיתוב ארכיוני: 63 × 78 ס"מ. רפרודוקציה מארכיון האמן.
+
+
 
 
 
@@ -72,7 +74,7 @@ Valikhodjaev Gallery House
 
 השדה הכחלחל מימין מנוגד לאבן החמה והאפרפרה. יד בהירה נכנסת לחלל הזה, והופכת למבטא אופקי קטן אך אקספרסיבי בין הקווים האנכיים. הציור מאפשר קריאות רגשיות שונות, אך הארכיון אינו חושף את הביוגרפיה של הדוגמנית או את סיפור המפגש המתואר. המתח הגלוי בין הגלוי לנסתר כבר משמעותי למדי.
 
-[איברגים וליכודג'ייב. "מבט", 1997. גודל לפי כיתוב ארכיוני: 70 × 60 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[איברגים וליכודג'ייב. "מבט", 1997. גודל לפי כיתוב ארכיוני: 70 × 60 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 איברגים וליכודג'ייב. "מבט", 1997. גודל לפי כיתוב ארכיוני: 70 × 60 ס"מ. רפרודוקציה מארכיון האמן.
 

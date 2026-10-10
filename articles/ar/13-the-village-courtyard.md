@@ -4,7 +4,7 @@ language: "ar"
 theme: 13
 description: "الدرب والبيت والجرّار الأزرق: قراءة لوحات الحياة الريفية الأوزبكية من أرشيف فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_02.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # أفنية وطرق متعرّجة: ألوان الحياة في الريف الأوزبكي
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 [إبراهيم فاليخودجاييف. "فناء ريفي"، 2013. زيت على قماش. 90 × 100 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 إبراهيم فاليخودجاييف. "فناء ريفي"، 2013. زيت على قماش. 90 × 100 سم. نسخة مصوّرة من أرشيف الفنان.
+
+
 
 
 
@@ -65,7 +67,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 خلف الجدار، يظهر منزل فاتح اللون وأسطح صفراء، تتجاور مع أشجار خضراء. تخلق الخطوط الرأسية الطويلة والضيقة على اليسار والتيجان الأكثر استدارة على اليمين تكرارًا مختلفًا. يربط الامتداد الأفقي للهندسة المعمارية هذه الأشكال معًا. يلتقي الحقل الأحمر في الأسفل بالأخضر بشكل مباشر تقريبًا، ويُضفي اللون الأصفر علاقات إضافية بينهما.
 
-[إبراهيم فاليخودجاييف. "فارزيك. منظر ريفي"، 2013. الأبعاد وفقًا للتعليق الأرشيفي: 52 × 68 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[إبراهيم فاليخودجاييف. "فارزيك. منظر ريفي"، 2013. الأبعاد وفقًا للتعليق الأرشيفي: 52 × 68 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 إبراهيم فاليخودجاييف. "فارزيك. منظر ريفي"، 2013. الأبعاد وفقًا للتعليق الأرشيفي: 52 × 68 سم. نسخة مصوّرة من أرشيف الفنان.
 

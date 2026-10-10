@@ -4,7 +4,7 @@ language: "de"
 theme: 19
 description: "Gebet, Krüge und Blick: Valikhodjaevs frühe Gemälde zeigen die expressive Kraft einer hellen, zurückhaltenden Farbpalette."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Eine zurückhaltende Palette: Valikhodjaevs frühe Gemälde
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. „Gebet“, 1998. Größe laut Archivangabe: 63 × 78 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. „Gebet“, 1998. Größe laut Archivangabe: 63 × 78 cm. Reproduktion aus dem Archiv des Künstlers.
+
+
 
 
 
@@ -70,7 +72,7 @@ In „Blick“ verdeckt eine helle, vertikale Wand teilweise eine weibliche Figu
 
 Das bläuliche Feld rechts kontrastiert mit dem warmen, grauen Stein. Eine helle Hand tritt in diesen Raum und bildet inmitten der Vertikalen einen kleinen, aber ausdrucksstarken horizontalen Akzent. Das Gemälde lässt Raum für verschiedene emotionale Interpretationen, doch das Archiv gibt weder die Biografie des Modells noch die Geschichte der dargestellten Begegnung preis. Die sichtbare Spannung zwischen dem Offenbaren und dem Verborgenen ist bereits sehr aussagekräftig.
 
-[Ibragim Valikhodjaev. „Blick“, 1997. Größe laut Archivangabe: 70 × 60 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. „Blick“, 1997. Größe laut Archivangabe: 70 × 60 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. „Blick“, 1997. Größe laut Archivangabe: 70 × 60 cm. Reproduktion aus dem Archiv des Künstlers.
 

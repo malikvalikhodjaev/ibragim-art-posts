@@ -4,7 +4,7 @@ language: "he"
 theme: 5
 description: "בסטודיו של איברגים וליכודג'ייב: התבוננות, הוראה ועבודה עם תלמידים, והקשר למורו רחים אחמדוב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # בסטודיו של האמן: להתבונן, ללמוד ולצייר
@@ -24,6 +24,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 במאמר זה
 
@@ -112,6 +114,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 חומר עריכה מValikhodjaev Gallery House. מקורות התמונה מצוינים בכיתובים.
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## להעביר ניסיון: כיתת אמן בשיאן
+
+בספטמבר 2025 הנחה וליחודז'אייב כיתת אמן לסטודנטים לציור באקדמיה לאמנויות יפות בשיאן, סין. הוא השתתף כאמן וכיו״ר איגוד האמנים של אוזבקיסטן בביקור שנערך ב־14–19 בספטמבר, במסגרת הקשורה לתוכנית CASIE ‘חגורה אחת, דרך אחת — מרכז אסיה’. היצירה, שהושלמה בשעה ועשרים דקות, נתרמה לאקדמיה. סרטון כיתת האמן שלהלן מאפשר לעקוב אחר התפתחות התמונה, מן הקווים הראשונים אל היחסים בין משטחי הצבע והקומפוזיציה המוגמרת.
+
+[סרטון](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[סרטון כיתת האמן · סין, שיאן, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[דיווח על הביקור ועל כיתת האמן · Facebook, 8 באוקטובר 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
 
 </div>

@@ -4,7 +4,7 @@ language: "uz"
 theme: 12
 description: "«Oliy uyg‘unlik», «Uyquda» va «Yalang‘och»: Valixo‘jayevning nyu asarlarida siluet, kontur va atrofdagi rang sohasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Yonboshlagan qomat: chiziq, poza va rangning uch xil munosabati

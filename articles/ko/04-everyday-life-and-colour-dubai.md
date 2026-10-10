@@ -4,7 +4,7 @@ language: "ko"
 theme: 4
 description: "두바이 Mondoir 갤러리의 In Silence. 우즈베키스탄의 일상과 색채가 새로운 관객을 만나는 전시."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_29.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 평범한 일상, 비범한 색채 — 두바이에서 만난 발리호자예프

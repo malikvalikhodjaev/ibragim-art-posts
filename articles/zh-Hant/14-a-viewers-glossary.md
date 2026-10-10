@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 14
 description: "以《古爾切赫拉肖像》和市集畫為例，理解構圖、母題、節奏、肌理與尺度等繪畫術語。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_8.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 從《古爾切赫拉肖像》出發：觀看繪畫的十個關鍵詞

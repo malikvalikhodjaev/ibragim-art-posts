@@ -4,7 +4,7 @@ language: "ko"
 theme: 8
 description: "터키, 우즈베키스탄, 몬테네그로, 아제르바이잔의 야외 제작. 변화하는 빛과 예술가들의 교류를 살펴본다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_13.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 그림을 위한 자리 — 야외 제작과 예술가들의 만남
@@ -18,6 +18,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026년 10월 6일
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_81.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_764.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_73.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_89.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_800.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_743.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_13.html>)
+
+
 
 이 기사에서
 
@@ -105,3 +107,21 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 작가 소장 자료에서 선별한 작품 이미지
+
+[«미라키 마을의 길», 2013. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)
+
+«미라키 마을의 길», 2013. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.
+
+[«미라키», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpldRKc2Kh_H66E9Quem9JOfqol-7bIpHgibWPdy3BnTZd4tsB5M3gyCfg8jC086749qz48aipYbgWEIO0ktQmDUo8xIsedawFK4ZbdXBmkWeVX0kDNPvfc-CdI3HtIubsGc2g7B1rZMAHW27X8JGmvHH4iaym_DBgnAXt1w1co14cdlATnjYK9ZSGwa_p/s1600/clipboard.png>)
+
+«미라키», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.
+
+[«미라키의 거리», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlFRDG3fKFNYZVs1bI7IiwVCbyzdwQz4uCsMirlWcBy3320Sr8adutsNhnVHbQ53EXI2vrGwoxxzxwxlSErzAR0ZAQGny89XOR23_N09AKnDDgzVBpv_khxsFNacPALv1S_EN7SEarmTmrpfIsHs3MYwh85f1P76ULsi-meCVzZFQaRu8Rw778Y41yOO9/s1600/clipboard.png>)
+
+«미라키의 거리», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.
+
+[«미라키의 겨울», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
+
+«미라키의 겨울», 2011. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.

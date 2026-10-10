@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 5
 description: "從拉希姆·艾哈邁多夫大師工作室到指導學生：繪畫中的觀察、構圖與專業經驗的傳遞。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 走進畫家工作室：觀察、教學與經驗的傳遞
@@ -22,6 +22,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 2026年10月6日
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 在本文中
 
@@ -110,3 +112,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 傳授經驗：西安繪畫大師課
+
+2025年9月，瓦利霍賈耶夫在中國西安美術學院為繪畫專業學生開設大師課。他以藝術家及烏茲別克斯坦藝術家聯盟主席的身分，參加了9月14日至19日與CASIE「一帶一路—中亞」計畫有關的訪問。課堂上以一小時二十分鐘完成的作品贈予了學院。下方的大師課影片記錄了畫面的形成過程：從最初的線條，到色塊之間的關係，直至完整構圖。
+
+[影片](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

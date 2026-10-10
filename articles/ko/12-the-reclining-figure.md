@@ -4,7 +4,7 @@ language: "ko"
 theme: 12
 description: "「지고의 조화」「잠자는 여인」「누드」. 세 작품에서 인체와 윤곽, 자세, 주변 색면의 관계를 비교한다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_09.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 누워 있는 인체 — 발리호자예프의 누드화에 담긴 선과 색

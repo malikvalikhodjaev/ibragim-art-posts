@@ -4,7 +4,7 @@ language: "fr"
 theme: 1
 description: "Couleur, composition et échelle : comprendre la peinture abstraite de Valikhodjaev à travers son exposition New View."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/comment-regarder-labstraction-couleur.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Comment regarder l’abstraction ? Couleur et forme chez Valikhodjaev

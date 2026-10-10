@@ -4,7 +4,7 @@ language: "tr"
 theme: 7
 description: "Valikhodjaev’in düzenlediği sekiz heykel sempozyumu: malzeme, ortak çalışma alanı, küratörlük ve kamusal heykelin yaşamı."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tastan-kamusal-alana-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Taştan kamusal alana: heykel sempozyumlarının içinden

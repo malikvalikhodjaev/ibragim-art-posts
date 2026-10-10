@@ -4,7 +4,7 @@ language: "ru"
 theme: 1
 description: "Абстрактная живопись Ибрагима Валиходжаева: цвет, ритм и масштаб на примере выставки «Новый взгляд» в Ташкенте."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_541.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Как смотреть абстрактную живопись: картины Валиходжаева

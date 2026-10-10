@@ -4,7 +4,7 @@ language: "he"
 theme: 9
 description: "«סוסים אדומים», RED ונופי מיראקי: איך וליכודג'ייב בוחן את כוחו של האדום לצד צבעים אחרים."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_4.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: איך הצבע האדום בונה ציור

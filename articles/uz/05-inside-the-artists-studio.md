@@ -4,7 +4,7 @@ language: "uz"
 theme: 5
 description: "Rahim Ahmedov ustaxonasidan shogirdlar bilan mashg‘ulotlargacha: kuzatish, kompozitsiya va professional tajribani yetkazish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Rassom ustaxonasida: kuzatish, ta’lim va tajriba
@@ -22,6 +22,8 @@ Ustoz Rahim Ahmedovning ustaxonasidan Ibrohim Valixo‘jayevning o‘z shogirdla
 Valikhodjaev Gallery House · 2026-yil 6-oktabr
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 Ushbu maqolada
 
@@ -110,3 +112,13 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Tajribani ulashish: Siandagi mahorat darsi
+
+2025-yil sentabrida Valixodjayev Xitoydagi Sian tasviriy san’at akademiyasining rangtasvir yo‘nalishi talabalari uchun mahorat darsi o‘tkazdi. U CASIEning «Bir makon, bir yo‘l — Markaziy Osiyo» dasturi bilan bog‘liq 14–19-sentabrdagi tashrifda rassom va O‘zbekiston Rassomlar uyushmasi raisi sifatida qatnashdi. Bir soat yigirma daqiqada yaratilgan kompozitsiya akademiyaga hadya qilindi. Quyidagi videoyozuvda tasvirning dastlabki chiziqlardan rang dog‘lari o‘rtasidagi munosabatlar va yakuniy kompozitsiyagacha shakllanishini kuzatish mumkin.
+
+[Videoyozuv](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

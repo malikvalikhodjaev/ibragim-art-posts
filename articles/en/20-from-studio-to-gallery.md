@@ -4,7 +4,7 @@ language: "en"
 theme: 20
 description: "From studio to gallery: Valikhodjaev as painter, teacher, curator and founder, and the encounters created by an exhibition."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # From Studio to Gallery: How Valikhodjaev Makes Space for Art
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · October 6, 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev, artist and founder of Valikhodjaev Gallery House. Portrait from the Art Vernissage professional profile. [Source](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 In this article
 
@@ -112,3 +114,15 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Exhibition work on video
+
+These two archival videos show the artist taking part in preparing and viewing an exhibition. Its title, location and filming date have not yet been established.
+
+[Video](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)

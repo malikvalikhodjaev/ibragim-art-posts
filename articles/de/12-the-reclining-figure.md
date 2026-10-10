@@ -4,7 +4,7 @@ language: "de"
 theme: 12
 description: "Höhere Harmonie, Schlafend und Akt: Wie Valikhodjaev den menschlichen Körper durch Farbflächen, Konturen und kompositorische Ruhe gestaltet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Die liegende Figur: Linie und Farbe in Ibragim Valikhodjaevs Aktbildern

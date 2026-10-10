@@ -4,7 +4,7 @@ language: "tr"
 theme: 13
 description: "Kırsal Avlu, Varzik ve İşten Dönüş: Valikhodjaev’in Özbek köylerinde mimariyi ve gündelik insan varlığını resmetmesi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/renkle-kurulan-bir-dunya-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Avlular ve kıvrılan yollar: Özbek köylerinin renkleri
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 Ekim 2026
 [İbrahim Valikhodjaev. "Kırsal Avlu", 2013. Tuval üzerine yağlı boya. 90 × 100 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 İbrahim Valikhodjaev. "Kırsal Avlu", 2013. Tuval üzerine yağlı boya. 90 × 100 cm. Sanatçının arşivinden reprodüksiyon.
+
+
 
 
 
@@ -63,7 +65,7 @@ Evin arkasında sarı bir alan uzanıyor ve koyu silüetler ile daha soğuk alan
 
 Duvarın ötesinde, açık renkli bir ev ve sarı çatılar, yeşil ağaçlarla yan yana görülüyor. Soldaki uzun, dar dikey yapılar ve sağdaki daha yuvarlak ağaç taçları farklı bir tekrar oluşturuyor. Mimari yapının yatay uzantısı bu formları bir arada tutuyor. Aşağıdaki kırmızı alan yeşil alanla neredeyse doğrudan buluşuyor ve sarı renk aralarında ek ilişkiler kuruyor.
 
-[İbrahim Valikhodjaev. "Varzik. Kırsal Manzara," 2013. Arşiv açıklamasına göre boyut: 52 × 68 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[İbrahim Valikhodjaev. "Varzik. Kırsal Manzara," 2013. Arşiv açıklamasına göre boyut: 52 × 68 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 İbrahim Valikhodjaev. "Varzik. Kırsal Manzara," 2013. Arşiv açıklamasına göre boyut: 52 × 68 cm. Sanatçının arşivinden reprodüksiyon.
 

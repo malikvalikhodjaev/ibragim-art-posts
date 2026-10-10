@@ -4,7 +4,7 @@ language: "tr"
 theme: 14
 description: "Resme bakmak için on kavram: konu, motif, silüet, kompozisyon, ritim, renk, kontrast, doku, format ve soyutlama."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resme-bakmann-on-yolu-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Resme bakma sözlüğü: on temel kavram

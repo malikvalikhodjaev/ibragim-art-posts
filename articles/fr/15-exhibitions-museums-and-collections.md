@@ -4,7 +4,7 @@ language: "fr"
 theme: 15
 description: "Musées et collections de Valikhodjaev : distinguer la présentation en exposition de l’entrée d’une œuvre dans une collection."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/apres-lexposition-ibragim-valikhodjaev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Après l’exposition : Ibragim Valikhodjaev dans les musées et les collections
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 octobre 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev. Portrait tiré du profil professionnel d'Art Vernissage. [Source](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 Dans cet article
 
@@ -107,3 +109,7 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 Documents éditoriaux de la Valikhodjaev Gallery House. Les sources des illustrations sont indiquées dans les légendes.
 
 [OuzA — Exposition d'art d'Ouzbékistan à Pékin, 23 janvier 2024 (texte ouzbek)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[Vue d’ensemble d’une salle d’exposition présentant des œuvres d’Ibragim Valikhodjaev. Archives de l’artiste ; titre et date de l’exposition non confirmés.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Vue d’ensemble d’une salle d’exposition présentant des œuvres d’Ibragim Valikhodjaev. Archives de l’artiste ; titre et date de l’exposition non confirmés.

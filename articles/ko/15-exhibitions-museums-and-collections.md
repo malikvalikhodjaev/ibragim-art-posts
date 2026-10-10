@@ -4,7 +4,7 @@ language: "ko"
 theme: 15
 description: "하얼빈 미술관, 이스탄불 자치구 컬렉션, 모스크바 개인 소장처. 전시 이력과 작품 소장의 차이를 읽는다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_842.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 전시가 끝난 뒤 — 미술관과 컬렉션 속의 작품들
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [이브라김 발리호자예프](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 이브라김 발리호자예프. ArtVernissage 작가 소개에 실린 초상 사진. [ArtVernissage: 작가 소개](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 이 기사에서
 
@@ -107,3 +109,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에 표시되어 있다.
 
 [UzA — 2024년 1월 23일 베이징에서 열린 우즈베키스탄 미술 전시회(우즈베크어 원문)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[이브라김 발리호자예프의 작품이 전시된 공간의 전경. 작가 소장 사진. 전시명과 날짜는 확인되지 않았다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+이브라김 발리호자예프의 작품이 전시된 공간의 전경. 작가 소장 사진. 전시명과 날짜는 확인되지 않았다.

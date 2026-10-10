@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 6
 description: "蒙特內哥羅2012年戶外寫生系列：比較《佩拉斯特港》與棕櫚樹風景中的海水、建築和空間。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_351.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 在蒙特內哥羅的二十一天：佩拉斯特的海岸風景
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [伊布拉吉姆·瓦利霍賈耶夫。 “佩拉斯特港”，2012 年。藝術家檔案中記錄的尺寸：60 × 70 公分。藝術家檔案中的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫。 “佩拉斯特港”，2012 年。藝術家檔案中記錄的尺寸：60 × 70 公分。藝術家檔案中的作品圖像。
+
+
 
 
 
@@ -99,3 +101,13 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 藝術家檔案中的作品圖版
+
+[«海邊», 2012. 伊布拉吉姆·瓦利霍賈耶夫。圖版來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«海邊», 2012. 伊布拉吉姆·瓦利霍賈耶夫。圖版來自藝術家檔案。
+
+[«布德瓦的城牆», 2012. 伊布拉吉姆·瓦利霍賈耶夫。圖版來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«布德瓦的城牆», 2012. 伊布拉吉姆·瓦利霍賈耶夫。圖版來自藝術家檔案。

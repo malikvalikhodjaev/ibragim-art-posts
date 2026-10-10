@@ -4,7 +4,7 @@ language: "de"
 theme: 18
 description: "Margeriten und Blumensträuße von 2008: Wie Valikhodjaev aus Blüten, Gefäßen und freien Farbflächen einen bildnerischen Rhythmus schafft."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/mehr-als-ein-blumenstrau-blumen-keramik.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Mehr als ein Blumenstrauß: Blumen, Keramik und Pinselspuren bei Valikhodjaev

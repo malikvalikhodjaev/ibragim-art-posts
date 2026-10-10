@@ -4,7 +4,7 @@ language: "ar"
 theme: 2
 description: "معرض «الشمس على الثلج» في متحف يو شون بهاربين عام 2026: كيف تغيّر اللوحات الضخمة تجربة المشاهدة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_52.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # حين تصبح اللوحة فضاءً: معرض إبراهيم فاليخودجاييف في هاربين

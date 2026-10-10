@@ -4,7 +4,7 @@ language: "ru"
 theme: 11
 description: "«Наманганская сюита» Ибрагима Валиходжаева: как люди, бытовые жесты, белые платки и яркая одежда складываются в живописную панораму."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_678.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Наманганская сюита»: жизнь внутри большой картины
@@ -114,3 +114,13 @@ Valikhodjaev Gallery House · 6 октября 2026
 Редакционный материал Valikhodjaev Gallery House. Источники иллюстраций указаны в подписях.
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Репродукции из архива художника
+
+[«Бешик базар», 2002. Ибрагим Валиходжаев. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Бешик базар», 2002. Ибрагим Валиходжаев. Репродукция из архива художника.
+
+[«Дуппи базар», 2006. Ибрагим Валиходжаев. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Дуппи базар», 2006. Ибрагим Валиходжаев. Репродукция из архива художника.

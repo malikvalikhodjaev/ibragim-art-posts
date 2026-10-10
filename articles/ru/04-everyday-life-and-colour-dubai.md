@@ -4,7 +4,7 @@ language: "ru"
 theme: 4
 description: "Выставка Ибрагима Валиходжаева In Silence в галерее Mondoir, Дубай, 2024: узбекская повседневность, выразительный цвет и развитие живописи."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_920.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Повседневная жизнь и выразительный цвет: Валиходжаев в Дубае

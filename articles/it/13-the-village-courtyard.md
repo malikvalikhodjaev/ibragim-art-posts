@@ -4,7 +4,7 @@ language: "it"
 theme: 13
 description: "Cortili, muri rossi, Varzik e Miraki: colore, architettura e presenze umane nei villaggi dipinti da Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/cortili-e-strade-sinuose-i-colori-dei.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Cortili e strade sinuose: i colori dei villaggi uzbeki
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 ottobre 2026
 [Ibragim Valikhodjaev. "Cortile rurale", 2013. Olio su tela. 90 × 100 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibragim Valikhodjaev. "Cortile rurale", 2013. Olio su tela. 90 × 100 cm. Riproduzione dall'archivio dell'artista.
+
+
 
 
 
@@ -63,7 +65,7 @@ In "Varzik. Paesaggio rurale" (2013), una piccola figura si erge davanti a un lu
 
 Oltre il muro, si scorgono una casa chiara e tetti gialli, in contrasto con gli alberi verdi. Le alte e strette verticali a sinistra e le chiome più arrotondate a destra creano una ripetizione diversa. L'estensione orizzontale dell'architettura tiene insieme queste forme. Il campo rosso sottostante incontra il verde quasi direttamente, e il giallo introduce ulteriori relazioni tra di essi.
 
-[Ibragim Valikhodjaev. "Varzik. Paesaggio rurale", 2013. Dimensioni secondo la didascalia d'archivio: 52 × 68 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Varzik. Paesaggio rurale", 2013. Dimensioni secondo la didascalia d'archivio: 52 × 68 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Varzik. Paesaggio rurale", 2013. Dimensioni secondo la didascalia d'archivio: 52 × 68 cm. Riproduzione dall'archivio dell'artista.
 

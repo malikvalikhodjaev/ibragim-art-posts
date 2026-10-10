@@ -4,7 +4,7 @@ language: "es"
 theme: 19
 description: "Oración, Jarras, Mirada y Piedras sagradas: tonos, contornos y matices en la paleta contenida de las primeras obras de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Una paleta contenida: las primeras pinturas de Valikhodjaev
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibragim Valikhodjaev. "Oración", 1998. Dimensiones según la ficha de archivo: 63 × 78 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Oración", 1998. Dimensiones según la ficha de archivo: 63 × 78 cm. Reproducción del archivo del artista.
+
+
 
 
 
@@ -70,7 +72,7 @@ En «Mirada», una pared vertical de color claro oculta parcialmente una figura 
 
 El campo azulado de la derecha contrasta con la piedra cálida y grisácea. Una mano de color claro irrumpe en este espacio, convirtiéndose en un pequeño pero expresivo acento horizontal entre las verticales. La pintura permite diversas interpretaciones emocionales, pero el archivo no revela la biografía de la modelo ni la historia del encuentro representado. La tensión visible entre lo revelado y lo oculto ya resulta bastante significativa.
 
-[Ibragim Valikhodjaev. "Mirada", 1997. Dimensiones según la ficha de archivo: 70 × 60 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Mirada", 1997. Dimensiones según la ficha de archivo: 70 × 60 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Mirada", 1997. Dimensiones según la ficha de archivo: 70 × 60 cm. Reproducción del archivo del artista.
 

@@ -4,7 +4,7 @@ language: "ru"
 theme: 19
 description: "«Молитва», «Кувшины», «Взгляд» и «Святые камни»: сдержанная палитра, тональные нюансы и выразительность ранней живописи Валиходжаева."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_46.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Тишина сдержанной палитры: ранняя живопись в белых и серых тонах
@@ -70,7 +70,7 @@ Valikhodjaev Gallery House
 
 Голубоватое поле справа отличается от тёплого и сероватого камня. Светлая рука входит в это пространство и становится небольшим, но выразительным горизонтальным акцентом среди вертикалей. Картина допускает разные эмоциональные прочтения, однако биографию модели и историю изображённой встречи архив не раскрывает. Видимое напряжение между открытым и скрытым уже достаточно содержательно.
 
-[Ибрагим Валиходжаев. «Взгляд», 1997. Размер по архивной подписи: 70 × 60 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[Ибрагим Валиходжаев. «Взгляд», 1997. Размер по архивной подписи: 70 × 60 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 Ибрагим Валиходжаев. «Взгляд», 1997. Размер по архивной подписи: 70 × 60 см. Репродукция из архива художника.
 

@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 16
 description: "《石榴》2012年静物画的近距离观看：橙色底、深色果实、果冠、笔触与物体之间的空隙。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_623.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 橙色底上的石榴：一幅静物画的小世界

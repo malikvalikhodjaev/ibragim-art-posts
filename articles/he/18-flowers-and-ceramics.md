@@ -4,7 +4,7 @@ language: "he"
 theme: 18
 description: "חינניות, זרים וורדים: פרחים, כלי קרמיקה וקצב בשלושה ציורי טבע דומם של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_32.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # יותר מזר פרחים: קצב וצבע בציורי הפרחים

@@ -4,7 +4,7 @@ language: "fa"
 theme: 15
 description: "آثار ولی‌خوجایف در موزهٔ یو شون هاربین، مجموعهٔ شهرداری مالتپه در استانبول و مجموعه‌ای خصوصی در مسکو."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_57.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # پس از نمایشگاه: آثار ابراهیم ولی‌خوجایف در موزه‌ها و مجموعه‌ها
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [ابراهیم ولی‌خوجایف](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 ابراهیم ولی‌خوجایف. عکس از صفحهٔ حرفه‌ای ArtVernissage. [ArtVernissage: معرفی و سابقهٔ حرفه‌ای هنرمند](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 در این مقاله
 
@@ -109,6 +111,10 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 مطالب مربوط به ویراستاری از Valikhodjaev Gallery House. منابع تصاویر در زیرنویس‌ها ذکر شده است.
 
 [UzA - نمایشگاه هنر ازبکستان در پکن، 23 ژانویه 2024 (متن ازبکی)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[نمای کلی تالاری با آثار ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند؛ نام و تاریخ نمایشگاه تأیید نشده است.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+نمای کلی تالاری با آثار ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند؛ نام و تاریخ نمایشگاه تأیید نشده است.
 
 
 </div>

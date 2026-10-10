@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 13
 description: "從《鄉村庭院》到瓦爾齊克、歸途與米拉基：建築、人物與鄉村風景的色彩結構。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_352.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 庭院、牆壁與歸途：烏茲別克鄉村的色彩
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [伊布拉吉姆·瓦利霍賈耶夫。 《鄉村庭院》，2013年。布面油畫。 90×100公分。藝術家檔案中的作品圖像。](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 伊布拉吉姆·瓦利霍賈耶夫。 《鄉村庭院》，2013年。布面油畫。 90×100公分。藝術家檔案中的作品圖像。
+
+
 
 
 
@@ -63,7 +65,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 牆外，一棟淺色房屋和黃色屋頂映入眼簾，與綠樹交相輝映。左側高聳狹窄的垂直線條與右側圓潤的屋頂形成對比，構成另一個重複。建築的水平延伸將這些形狀連結起來。下方的紅色區域幾乎與綠色區域直接相連，而黃色則在兩者之間引入了更多關聯。
 
-[伊布拉吉姆·瓦利霍賈耶夫。 “瓦爾齊克。鄉村風景”，2013 年。根據檔案說明，尺寸為52 × 68 公分。藝術家檔案中的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍賈耶夫。 “瓦爾齊克。鄉村風景”，2013 年。根據檔案說明，尺寸為52 × 68 公分。藝術家檔案中的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫。 “瓦爾齊克。鄉村風景”，2013 年。根據檔案說明，尺寸為52 × 68 公分。藝術家檔案中的作品圖像。
 

@@ -4,7 +4,7 @@ language: "de"
 theme: 16
 description: "Granatäpfel und Krüge: Wie Valikhodjaev im Stillleben Farbe, Tischfläche und Zwischenräume zu einer Komposition verbindet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/granatapfel-auf-orange-die-kleine-welt.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Granatäpfel auf Orange: die kleine Welt eines Stilllebens

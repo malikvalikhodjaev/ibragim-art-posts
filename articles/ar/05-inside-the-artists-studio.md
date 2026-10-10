@@ -4,7 +4,7 @@ language: "ar"
 theme: 5
 description: "من مرسم الأستاذ رحيم أحمدوف إلى التدريس: الملاحظة والعمل مع الطلاب في تجربة إبراهيم فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # داخل مرسم الفنان: الملاحظة والتعلّم والرسم مع إبراهيم فاليخودجاييف
@@ -24,6 +24,8 @@ edition_date: "2026-10-09"
 Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 في هذه المقالة
 
@@ -112,6 +114,16 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 مواد تحريرية من Valikhodjaev Gallery House. مصادر الصور موضحة في التعليقات.
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## نقل الخبرة: درس في الرسم في شيآن
+
+في سبتمبر 2025، قدّم فاليخوجاييف درسًا تطبيقيًا لطلاب الرسم في أكاديمية شيآن للفنون الجميلة في الصين. شارك بصفته فنانًا ورئيسًا لاتحاد فناني أوزبكستان في زيارة من 14 إلى 19 سبتمبر، مرتبطة ببرنامج CASIE «الحزام والطريق — آسيا الوسطى». وأُهدي العمل الذي أنجزه في ساعة وعشرين دقيقة إلى الأكاديمية. يتيح فيديو الدرس أدناه متابعة بناء الصورة، من الخطوط الأولى إلى العلاقات بين المساحات اللونية والتكوين المكتمل.
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[فيديو الدرس · الصين، شيآن، 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[تقرير عن الزيارة والدرس · Facebook، 8 أكتوبر 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
 
 </div>

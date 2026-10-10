@@ -4,7 +4,7 @@ language: "uz"
 theme: 13
 description: "«Qishloq hovlisi», «Mehmonda», «Varzik» va «Ishdan qaytish»: arxitektura, rang va kichik inson qiyofasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/uylar-va-yollar-ibrohim-valixodjayev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Hovli, devor va qaytish yo‘li: o‘zbek qishlog‘ining ranglari
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026-yil 6-oktabr
 [Ibrohim Valixo‘jayev. "Qishloq hovlisi", 2013. Mato, moybo‘yoq. 90 × 100 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibrohim Valixo‘jayev. "Qishloq hovlisi", 2013. Mato, moybo‘yoq. 90 × 100 sm. Rassom arxividagi reproduksiya.
+
+
 
 
 
@@ -63,7 +65,7 @@ Tomning qiyaligi va yog‘och ramkaning diagonallari ko‘zni yuqoriga qaratadi.
 
 Devorning ortida och rangli uy va sariq tomlar ko‘rinib turibdi, ular yashil daraxtlar bilan yonma-yon joylashgan. Chapdagi baland, tor vertikallar va o‘ngdagi yumaloqroq daraxt shox-shabbalari boshqacha takrorlanishni yaratadi. Arxitekturaning gorizontal kengaytmasi bu shakllarni birlashtiradi. Quyidagi qizil maydon yashil rang bilan deyarli to‘g‘ridan-to‘g‘ri uchrashadi va sariq rang ular o‘rtasida qo‘shimcha munosabatlarni keltirib chiqaradi.
 
-[Ibrohim Valixo‘jayev. "Varzik. Qishloq manzarasi", 2013. Arxiv yozuviga ko‘ra o‘lchami: 52 × 68 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibrohim Valixo‘jayev. "Varzik. Qishloq manzarasi", 2013. Arxiv yozuviga ko‘ra o‘lchami: 52 × 68 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibrohim Valixo‘jayev. "Varzik. Qishloq manzarasi", 2013. Arxiv yozuviga ko‘ra o‘lchami: 52 × 68 sm. Rassom arxividagi reproduksiya.
 

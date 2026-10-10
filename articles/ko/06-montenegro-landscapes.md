@@ -4,7 +4,7 @@ language: "ko"
 theme: 6
 description: "2012년 페라스트의 항구와 야자수 풍경. 물, 돌집, 하늘을 통해 읽는 발리호자예프의 몬테네그로 작품."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 몬테네그로의 21일 — 발리호자예프가 그린 해안 도시
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [이브라김 발리호자예프. "페라스트 항구", 2012. 작가 아카이브에 기록된 크기: 60 × 70 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 이브라김 발리호자예프. "페라스트 항구", 2012. 작가 아카이브에 기록된 크기: 60 × 70 cm. 작가 아카이브의 도판.
+
+
 
 
 
@@ -99,3 +101,13 @@ Valikhodjaev Gallery House
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 작가 소장 자료에서 선별한 작품 이미지
+
+[«바닷가에서», 2012. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«바닷가에서», 2012. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.
+
+[«부드바의 성벽», 2012. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«부드바의 성벽», 2012. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.

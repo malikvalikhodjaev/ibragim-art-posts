@@ -4,7 +4,7 @@ language: "es"
 theme: 18
 description: "Ramos de flores, margaritas y rosas: cerámica, pétalos, intervalos y pinceladas en tres bodegones de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/mas-que-un-ramo-flores-ceramica-y.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Más que un ramo: flores, cerámica y pinceladas de Valikhodjaev

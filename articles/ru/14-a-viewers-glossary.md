@@ -4,7 +4,7 @@ language: "ru"
 theme: 14
 description: "Десять понятий для внимательного взгляда: композиция, колорит, ритм и фактура на примере портрета, базара, пейзажа и абстракции."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_189.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Словарь зрителя: десять ключей к живописи

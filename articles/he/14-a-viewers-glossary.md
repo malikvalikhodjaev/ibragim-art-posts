@@ -4,7 +4,7 @@ language: "he"
 theme: 14
 description: "מנושא וצללית ועד מרקם וקנה מידה: עשרה מושגים לצפייה מדוקדקת ביצירות וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_26.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # עשרה מפתחות לציור: מדריך דרך יצירות וליכודג'ייב

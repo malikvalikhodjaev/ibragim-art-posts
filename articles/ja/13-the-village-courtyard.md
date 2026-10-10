@@ -4,7 +4,7 @@ language: "ja"
 theme: 13
 description: "「村の中庭」「訪問」「ヴァルジク」「仕事帰り」。建築、色、人の小さな姿に見る村の日常。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_35.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 家、庭、曲がり道――ウズベキスタンの村を描く
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [イブラギム・ヴァリホジャエフ。「村の中庭」、2013年。油彩、キャンバス。90×100cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 イブラギム・ヴァリホジャエフ。「村の中庭」、2013年。油彩、キャンバス。90×100cm。作家のアーカイブからの複製。
+
+
 
 
 
@@ -63,7 +65,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 壁の向こうには、明るい色の家と黄色の屋根が、緑の木々と対照的に見える。左側の高く細い垂直線と右側の丸みを帯びた樹冠が、異なる反復を生み出している。建築物の水平方向への広がりが、これらの形態を一体化させている。下の赤い部分は緑の部分とほぼ直接的に接しており、黄色が両者の間に新たな関係性をもたらしている。
 
-[イブラギム・ヴァリホジャエフ。「ヴァルジク、田園風景」、2013年。保存資料のキャプションによるとサイズは52×68cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフ。「ヴァルジク、田園風景」、2013年。保存資料のキャプションによるとサイズは52×68cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 イブラギム・ヴァリホジャエフ。「ヴァルジク、田園風景」、2013年。保存資料のキャプションによるとサイズは52×68cm。作家のアーカイブからの複製。
 

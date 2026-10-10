@@ -4,7 +4,7 @@ language: "ar"
 theme: 16
 description: "الرمان والسطح البرتقالي والأواني: اللون والكتلة والمسافات في الطبيعة الساكنة لدى فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_584.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # رمان على خلفية برتقالية: عالم صغير من الرسم

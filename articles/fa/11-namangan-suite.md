@@ -4,7 +4,7 @@ language: "fa"
 theme: 11
 description: "آدم‌ها، عرقچین‌ها و روسری‌های سفید در «سوئیت نامانگان»؛ حرکت زندگی روزمره در یک ترکیب‌بندی گسترده."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_25.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «سوئیت نامانگان»: زندگی درون یک نقاشی بزرگ
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [ابراهیم ولی‌خوجایف، «سوئیت نامانگان». تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 ابراهیم ولی‌خوجایف، «سوئیت نامانگان». تصویر اثر از آرشیو هنرمند. [نقاشی کامل](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 در این مقاله
 
@@ -116,6 +118,16 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 مطالب مربوط به ویراستاری از Valikhodjaev Gallery House. منابع تصاویر در زیرنویس‌ها ذکر شده است.
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## تصاویر آثار از آرشیو هنرمند
+
+[«بازار گهواره», 2002. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«بازار گهواره», 2002. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.
+
+[«بازار کلاه‌های سنتی», 2006. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«بازار کلاه‌های سنتی», 2006. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.
 
 
 </div>

@@ -4,7 +4,7 @@ language: "uz"
 theme: 18
 description: "«Guldastalar», moychechaklar va atirgullar: sopol vaza, gulbarg, och-to‘qlik va mo‘yqalam harakatining ritmi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/guldastadan-kengroq-olam-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Guldastadan kengroq: vaza, gulbarg va mo‘yqalam ritmi

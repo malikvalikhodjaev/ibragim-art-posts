@@ -4,7 +4,7 @@ language: "fa"
 theme: 17
 description: "پرتره‌های دیاس رحمتوف، لنا و ساشا؛ رابطهٔ چهره، حالت بدن، پس‌زمینه و رنگ در سه اثر."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_10.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # چهره، حالت بدن و فضا: سه پرتره از ولی‌خوجایف

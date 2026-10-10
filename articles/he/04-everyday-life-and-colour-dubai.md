@@ -4,7 +4,7 @@ language: "he"
 theme: 4
 description: "תערוכת «בדממה» בגלריית Mondoir בדובאי: חיי היום־יום באוזבקיסטן, צבע ומפגש עם קהל בינלאומי."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_79.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # חיי יום־יום, צבע יוצא דופן: וליכודג'ייב בדובאי

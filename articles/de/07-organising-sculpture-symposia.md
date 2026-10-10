@@ -4,7 +4,7 @@ language: "de"
 theme: 7
 description: "Wie internationale Bildhauersymposien entstehen: Valikhodjaevs Erfahrung als Organisator, gemeinsame Arbeitsorte und künstlerische Freiheit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-stein-in-den-offentlichen-raum.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Vom Stein in den öffentlichen Raum: Ibragim Valikhodjaevs Bildhauersymposien

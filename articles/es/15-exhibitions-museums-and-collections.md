@@ -4,7 +4,7 @@ language: "es"
 theme: 15
 description: "Las obras de Valikhodjaev en museos y colecciones: Harbin, Estambul y Moscú. La historia de una exposición y la de una colección."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/despues-de-la-exposicion-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Después de la exposición: Ibragim Valikhodjaev en museos y colecciones
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 de octubre de 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev. Retrato del perfil profesional de Art Vernissage. [Fuente](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 En este artículo
 
@@ -107,3 +109,7 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las ilustraciones se indican en los pies de foto.
 
 [UzA — Exposición de arte de Uzbekistán en Beijing, 23 de enero de 2024 (texto en uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.

@@ -4,7 +4,7 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
@@ -135,3 +135,27 @@ edition_date: "2026-10-09"
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 アーティスト関連リンク：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
+
+## 画家の個人アーカイブから
+
+[石膏の胸像とともに写る若き日のイブラギム・ヴァリホジャエフ。画家のアーカイブより。撮影年不明。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+石膏の胸像とともに写る若き日のイブラギム・ヴァリホジャエフ。画家のアーカイブより。撮影年不明。
+
+[特別基金の責任者を務めたイブラギム・ヴァリホジャエフ。画家のアーカイブより。正確な撮影日は不明。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+特別基金の責任者を務めたイブラギム・ヴァリホジャエフ。画家のアーカイブより。正確な撮影日は不明。
+
+[2008年の記念展におけるイブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+2008年の記念展におけるイブラギム・ヴァリホジャエフ。画家のアーカイブより。
+
+## 経験を伝える――西安での絵画マスタークラス
+
+2025年9月、ヴァリホジャエフは中国の西安美術学院で絵画を学ぶ学生たちにマスタークラスを行った。CASIEの「一帯一路――中央アジア」プログラムに関連する9月14日から19日までの訪問に、画家およびウズベキスタン芸術家連盟会長として参加した。1時間20分で制作した作品は同学院に寄贈された。下のマスタークラスの映像では、最初の線から色面の関係、そして完成した構図へと画面が形づくられる過程を見ることができる。
+
+[映像](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

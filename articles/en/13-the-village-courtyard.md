@@ -4,7 +4,7 @@ language: "en"
 theme: 13
 description: "Rural Courtyard, Visiting, Varzik, Returning from Work and Miraki: colour, architecture and everyday life in the Uzbek village."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/a-world-built-from-colour-houses-and.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Courtyards and winding roads: the colour of Uzbek village life
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · October 6, 2026
 [Ibragim Valikhodjaev. "Rural Courtyard", 2013. Oil on canvas. 90 × 100 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 Ibragim Valikhodjaev. "Rural Courtyard", 2013. Oil on canvas. 90 × 100 cm. Reproduction from the artist's archive.
+
+
 
 
 
@@ -63,7 +65,7 @@ In "Varzik. Rural Landscape" (2013), a small figure stands in front of a long re
 
 Beyond the wall, a light-coloured house and yellow roofs are visible, juxtaposed with green trees. The tall, narrow verticals on the left and the more rounded crowns on the right create a different repetition. The horizontal extension of the architecture holds these forms together. The red field below meets the green almost directly, and the yellow introduces additional relationships between them.
 
-[Ibragim Valikhodjaev. "Varzik. Rural Landscape," 2013. Size according to archival caption: 52 × 68 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Varzik. Rural Landscape," 2013. Size according to archival caption: 52 × 68 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev. "Varzik. Rural Landscape," 2013. Size according to archival caption: 52 × 68 cm. Reproduction from the artist's archive.
 

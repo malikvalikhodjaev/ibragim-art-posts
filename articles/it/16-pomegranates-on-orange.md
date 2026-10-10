@@ -4,7 +4,7 @@ language: "it"
 theme: 16
 description: "Melagrane, 2012: frutti scuri, campiture arancioni e pennellate dense. Un’analisi ravvicinata della natura morta."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/melagrane-su-fondo-arancione-il-piccolo.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Melagrane su fondo arancione: il piccolo mondo di una natura morta

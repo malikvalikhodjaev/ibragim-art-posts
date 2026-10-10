@@ -4,7 +4,7 @@ language: "ar"
 theme: 21
 description: "بورتريه سيري لإبراهيم فاليخودجاييف من مقابلات منشورة وأعمال أرشيفية: البازار وRED والتجريد والنحت والتدريس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # تعلّم الرؤية: إبراهيم فاليخودجاييف وحياة في الفن
@@ -137,6 +137,30 @@ edition_date: "2026-10-09"
 [وكالة الأنباء الأوزبكية – معرض الفن الأوزبكي في بكين، 23 يناير 2024 (النص الأوزبكي)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
 روابط الفنان: [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [إنستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [فيسبوك](<https://www.facebook.com/valikhodjaev/>)
+
+## من الأرشيف الشخصي للفنان
+
+[إبراهيم فاليخوجاييف في شبابه، إلى جوار تمثال نصفي من الجص للتدريب. أرشيف الفنان؛ تاريخ الصورة غير معروف.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+إبراهيم فاليخوجاييف في شبابه، إلى جوار تمثال نصفي من الجص للتدريب. أرشيف الفنان؛ تاريخ الصورة غير معروف.
+
+[إبراهيم فاليخوجاييف، مدير الصندوق الخاص. أرشيف الفنان؛ التاريخ الدقيق للصورة غير معروف.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+إبراهيم فاليخوجاييف، مدير الصندوق الخاص. أرشيف الفنان؛ التاريخ الدقيق للصورة غير معروف.
+
+[إبراهيم فاليخوجاييف في معرضه اليوبيلـي عام 2008. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+إبراهيم فاليخوجاييف في معرضه اليوبيلـي عام 2008. أرشيف الفنان.
+
+## نقل الخبرة: درس في الرسم في شيآن
+
+في سبتمبر 2025، قدّم فاليخوجاييف درسًا تطبيقيًا لطلاب الرسم في أكاديمية شيآن للفنون الجميلة في الصين. شارك بصفته فنانًا ورئيسًا لاتحاد فناني أوزبكستان في زيارة من 14 إلى 19 سبتمبر، مرتبطة ببرنامج CASIE «الحزام والطريق — آسيا الوسطى». وأُهدي العمل الذي أنجزه في ساعة وعشرين دقيقة إلى الأكاديمية. يتيح فيديو الدرس أدناه متابعة بناء الصورة، من الخطوط الأولى إلى العلاقات بين المساحات اللونية والتكوين المكتمل.
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[فيديو الدرس · الصين، شيآن، 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[تقرير عن الزيارة والدرس · Facebook، 8 أكتوبر 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
 
 </div>

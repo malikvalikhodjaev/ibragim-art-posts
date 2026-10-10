@@ -4,7 +4,7 @@ language: "de"
 theme: 4
 description: "In Silence in Dubai, 2024: Valikhodjaevs Malerei, Alltagsfiguren und kulturelle Erinnerung in einer von Zahra Habibizad kuratierten Schau."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-farben-des-alltags-valikhodjaev-in.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Die Farben des Alltags: Valikhodjaev in Dubai

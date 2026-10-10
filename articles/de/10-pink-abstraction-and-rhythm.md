@@ -4,7 +4,7 @@ language: "de"
 theme: 10
 description: "Rosa Abstraktion Nr. 1: Wie eine dunkle Horizontale, feine Linien und offene Farbflächen den Rhythmus des Gemäldes bestimmen."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bogen-flachen-und-pausen-der-rhythmus.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Ein rosa Farbfeld und eine dunkle Linie: Rhythmus bei Valikhodjaev

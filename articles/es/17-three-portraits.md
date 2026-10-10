@@ -4,7 +4,7 @@ language: "es"
 theme: 17
 description: "Dias Rakhmatov, Lena y Sasha: rostro, pose, ropa y espacio en tres retratos de Valikhodjaev de 1987, 2006 y 2013."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-un-retrato-la-presencia.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Rostro, pose y espacio: tres retratos de Valikhodjaev

@@ -4,7 +4,7 @@ language: "ja"
 theme: 20
 description: "画家、教師、キュレーター、ギャラリー創設者。ヴァリホジャエフが作品と観客の出会いをつくる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_12.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # アトリエからギャラリーへ――芸術の居場所をつくる
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026年10月6日
 [イブラギム・ヴァリホジャエフ](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 イブラギム・ヴァリホジャエフ、アーティストであり、Valikhodjaev Gallery Houseの創設者。ArtVernissageのプロフィールからのポートレート。[ArtVernissage：作家紹介](<https://artvernissage.art/en/artists/33/>)。
+
+
 
 この記事では
 
@@ -112,3 +114,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 展覧会の仕事を映像で見る
+
+この2本の記録映像には、画家が展示の準備と見学に参加する様子が収められている。展覧会名、場所、撮影日は現時点では不明。
+
+[映像](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[展覧会の準備――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[映像](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[展示を見て回る――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=VkvPfztejWY>)

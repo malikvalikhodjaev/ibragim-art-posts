@@ -4,7 +4,7 @@ language: "tr"
 theme: 11
 description: "Namangan Süiti’nde çarşı hayatı: insan grupları, el hareketleri, işlemeli takkeler, beyaz başörtüleri ve canlı renkler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Namangan Süiti»: büyük bir tablonun içindeki hayat
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6 Ekim 2026
 [İbrahim Valikhodjaev, "Namangan Süiti." Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 İbrahim Valikhodjaev, "Namangan Süiti." Sanatçının arşivinden reprodüksiyon. [Resmin tamamı](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 Bu makalede
 
@@ -114,3 +116,13 @@ Oksana Kadysheva, 2012'de San'at'ta yazdığı bir yazıda, sanatçının çarş
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsellerin kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Sanatçının arşivinden eser görselleri
+
+[«Beşik Pazarı», 2002. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Beşik Pazarı», 2002. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.
+
+[«Doppa Pazarı», 2006. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Doppa Pazarı», 2006. Ibragim Valikhodjaev. Sanatçının arşivinden eser görseli.

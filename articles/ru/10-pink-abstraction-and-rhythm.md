@@ -4,7 +4,7 @@ language: "ru"
 theme: 10
 description: "«Розовая абстракция № 1» Валиходжаева: тёмная горизонталь, следы кисти и ритм большого цветового поля."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_136.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Розовое поле и одна линия: как Валиходжаев создаёт ритм

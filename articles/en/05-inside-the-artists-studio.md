@@ -4,7 +4,7 @@ language: "en"
 theme: 5
 description: "From Master Rahim Ahmedov’s studio to teaching his own students: looking, composing and developing a painting with Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Inside the Artist’s Studio: Looking, Learning and Making with Ibragim Valikhodjaev
@@ -22,6 +22,8 @@ From the studio of Master Rahim Ahmedov to his own lessons with students: observ
 Valikhodjaev Gallery House · October 6, 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 In this article
 
@@ -110,3 +112,13 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Passing on experience: a masterclass in Xi’an
+
+In September 2025, Valikhodjaev led a painting masterclass for students at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
+
+[Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

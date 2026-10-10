@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 7
 description: "瓦利霍贾耶夫在土耳其和乌兹别克斯坦组织并策划八届国际雕塑创作营的专业经验。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_700.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 从石材到公共空间：组织国际雕塑创作营

@@ -4,7 +4,7 @@ language: "es"
 theme: 4
 description: "In Silence en Mondoir, Dubái, 2024: vida cotidiana uzbeka, color expresivo y distintas etapas de la obra de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/los-colores-de-la-vida-cotidiana.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Los colores de la vida cotidiana: Valikhodjaev en Dubái

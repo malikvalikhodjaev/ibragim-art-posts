@@ -4,7 +4,7 @@ language: "ko"
 theme: 17
 description: "디아스 라흐마토프, 레나, 사샤. 세 초상화의 얼굴과 자세, 옷, 여백이 전하는 인간의 존재감."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 얼굴과 자세, 공간 — 세 점의 초상화를 읽다

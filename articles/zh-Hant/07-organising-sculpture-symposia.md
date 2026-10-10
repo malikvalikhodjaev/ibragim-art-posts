@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 7
 description: "瓦利霍賈耶夫在土耳其和烏茲別克組織並策劃八屆國際雕塑創作營的專業經驗。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_2.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 從石材到公共空間：組織國際雕塑創作營

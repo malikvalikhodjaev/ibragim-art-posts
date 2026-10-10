@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 19
 description: "《祈禱》《水罐》《凝視》與《聖石》：早期克制色調中的形體、邊界與緩慢觀看。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_738.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 克制用色中的寧靜：早期白灰色調作品
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [伊布拉吉姆·瓦利霍賈耶夫，《祈禱》，1998 年。依檔案說明，尺寸為63 × 78 公分。圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫，《祈禱》，1998 年。依檔案說明，尺寸為63 × 78 公分。圖像來自藝術家檔案。
+
+
 
 
 
@@ -70,7 +72,7 @@ Valikhodjaev Gallery House
 
 右側的藍色色域與溫暖的灰色石頭形成鮮明對比。一隻淺色的手伸入這片空間，在垂直線條中成為一道雖小卻富有表現力的水平線條。這幅畫作可以引發多種情緒解讀，但檔案資料並未揭示模特兒的生平或畫中相遇的故事。可見與不可見之間的張力本身就蘊含著深刻的意義。
 
-[伊布拉吉姆·瓦利霍賈耶夫，《凝視》，1997 年。依檔案說明，尺寸為70 × 60 公分。圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍賈耶夫，《凝視》，1997 年。依檔案說明，尺寸為70 × 60 公分。圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫，《凝視》，1997 年。依檔案說明，尺寸為70 × 60 公分。圖像來自藝術家檔案。
 

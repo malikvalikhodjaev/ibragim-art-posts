@@ -4,7 +4,7 @@ language: "es"
 theme: 10
 description: "Abstracción rosa n.º 1: una línea oscura, pinceladas y pausas revelan cómo Valikhodjaev construye el ritmo pictórico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/arcos-planos-y-pausas-el-ritmo-de-la.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Un campo rosa y una línea oscura: el ritmo en Valikhodjaev

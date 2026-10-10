@@ -4,7 +4,7 @@ language: "uz"
 theme: 14
 description: "«Gulchehra portreti» va bozor panoramalari orqali syujet, siluet, kompozitsiya, kolorit, faktura va miqyosni tushunish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tomoshabin-lugati-ibrohim-valixodjayev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Gulchehra portreti»dan boshlab: rangtasvirni tushunishning o‘nta kaliti

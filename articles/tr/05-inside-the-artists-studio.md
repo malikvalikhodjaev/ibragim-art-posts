@@ -4,7 +4,7 @@ language: "tr"
 theme: 5
 description: "Üstat Rahim Ahmedov’un atölyesinden öğrencilerle çalışmaya: gözlem, kompozisyon ve resim deneyiminin aktarılması."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Atölyede görmek, öğrenmek ve resim yapmak
@@ -22,6 +22,8 @@ Atölye ve sanat okulu
 Valikhodjaev Gallery House · 6 Ekim 2026
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_53.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_31.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html>)
+
+
 
 Bu makalede
 
@@ -110,3 +112,13 @@ Stüdyo turu, tamamlanmış resimlerin algılanışını zenginleştiriyor. Renk
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Deneyimi paylaşmak: Xi’an’da resim atölyesi
+
+Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’nin resim öğrencilerine uygulamalı bir ders verdi. CASIE’nin ‘Bir Kuşak, Bir Yol — Orta Asya’ programıyla bağlantılı 14–19 Eylül ziyaretine sanatçı ve Özbekistan Sanatçılar Birliği başkanı olarak katıldı. Bir saat yirmi dakikada tamamlanan kompozisyon Akademiye bağışlandı. Aşağıdaki atölye videosunda ilk çizgilerden renk alanları arasındaki ilişkilere ve tamamlanmış kompozisyona uzanan çalışma süreci izlenebilir.
+
+[Video kaydı](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+
+[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)

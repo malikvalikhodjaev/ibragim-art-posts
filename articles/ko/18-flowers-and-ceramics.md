@@ -4,7 +4,7 @@ language: "ko"
 theme: 18
 description: "「꽃다발」「도자기 꽃병 속 데이지」「장미가 있는 정물」. 꽃과 화병, 붓질이 만드는 서로 다른 리듬."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_256.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 꽃다발 너머 — 꽃과 도자기, 붓질의 리듬

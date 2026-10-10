@@ -4,7 +4,7 @@ language: "ja"
 theme: 2
 description: "ハルビンの禹舜美術館で開かれた個展「雪上の太陽」。大型絵画と建築、鑑賞者の身体が生む体験を考える。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_4078.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 絵画が空間になるとき――ハルビンの個展を歩く

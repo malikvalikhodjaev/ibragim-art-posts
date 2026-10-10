@@ -4,7 +4,7 @@ language: "ko"
 theme: 19
 description: "「기도」「항아리들」「시선」「성스러운 돌들」. 절제된 색채와 미묘한 명암으로 형태를 만드는 초기 작품들."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_06.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 절제된 색채의 고요 — 흰색과 회색의 초기 작품들
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [이브라김 발리호자예프. "기도", 1998. 아카이브 설명에 따른 크기: 63 × 78 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAF2dHLG8VW4XpMXoJLcehLHoiow7CU9XQgNF5LcIvjDY2_rV9e59_vNelbYQRaI9AWGsOcweIhYOp1huo3qwyYWylQvvX2CVxguO29V_9zPWzdNPNNaiayPAu409xnv-s8NDv6fqELhbqR8ncYKO7GG3PqKfTngDp30PRJW8QnPk0pZGz5huMSmmHNWxb/s1600/clipboard.png>)
 
 이브라김 발리호자예프. "기도", 1998. 아카이브 설명에 따른 크기: 63 × 78 cm. 작가 아카이브의 도판.
+
+
 
 
 
@@ -70,7 +72,7 @@ Valikhodjaev Gallery House
 
 오른쪽의 푸른빛 배경은 따뜻한 회색빛 돌과 대비를 이룬다. 밝은 색의 손이 이 공간으로 들어와 수직선들 사이에서 작지만 강렬한 수평적 악센트를 이룬다. 이 그림은 다양한 감정적 해석을 가능하게 하지만, 자료에는 모델의 생애나 그림에 묘사된 만남의 이야기가 드러나지 않는다. 드러난 것과 숨겨진 것 사이의 시각적 긴장감 자체가 이미 상당한 의미를 지닌다.
 
-[이브라김 발리호자예프. "시선", 1997. 아카이브 설명에 따른 크기: 70 × 60 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmZPpL_5FyUgWGkaGioM2qij3XOK54Ke6dqKI4p_UGtTgVnB_Y8KPSksNA1R5Yod6OMEdA8nKb_uIhujvHgzn4Y3ysOWmz_cx8jUprLI6HNgGUpo6tLXYYN8HDou91iPAtHIAmd99zSz1EjeOd7EFILKlSVUcPHDITn-zcnv1C-w4m0BlM7Ah3yRx5_1p/s1600/clipboard.png>)
+[이브라김 발리호자예프. "시선", 1997. 아카이브 설명에 따른 크기: 70 × 60 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJSEBrmtdkNQC8EHR1tsdWZHEYJiRAI9lek9M8TvjNKxojDD-SK9rqIU53CBMRxyBtsuY8VZA_RSWuau57VEeAtYg4OzA5za4Vf-79ZPPBHXTd-C0N-xgklEDpC_m-0lqsWdzp-Sjtf2Ef9vc_0Yw8_7yXqdfLgRfhN_1MrazaGl3n52C_SFSZQtWp7B/s1600/clipboard.png>)
 
 이브라김 발리호자예프. "시선", 1997. 아카이브 설명에 따른 크기: 70 × 60 cm. 작가 아카이브의 도판.
 

@@ -4,7 +4,7 @@ language: "ru"
 theme: 6
 description: "Пейзажи Пераста 2012 года: лодки, пальмы, светлый камень и глубокая синева. Черногорская серия Ибрагима Валиходжаева."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_513.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Двадцать один день в Черногории: приморские пейзажи Валиходжаева
@@ -99,3 +99,13 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Репродукции из архива художника
+
+[«На берегу моря», 2012. Ибрагим Валиходжаев. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«На берегу моря», 2012. Ибрагим Валиходжаев. Репродукция из архива художника.
+
+[«Крепостная стена в городе Будва», 2012. Ибрагим Валиходжаев. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Крепостная стена в городе Будва», 2012. Ибрагим Валиходжаев. Репродукция из архива художника.

@@ -4,7 +4,7 @@ language: "tr"
 theme: 1
 description: "Yeni Bakış (New View): Valikhodjaev’in soyut resimlerinde renk alanları, konturlar, ritim ve büyük ölçek arasındaki ilişkiler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/soyut-resme-nasl-baklr-ibragim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Soyut resme nasıl bakılır: Valikhodjaev’de renk, çizgi ve kompozisyon

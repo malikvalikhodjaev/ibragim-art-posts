@@ -4,7 +4,7 @@ language: "uz"
 theme: 6
 description: "Perastning ikki manzarasi, 2012: qayiq, sohil, palma va tog‘lar Valixo‘jayevning Chernogoriya turkumida."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Chernogoriyada yigirma bir kun: Perastning sohil manzaralari
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House
 [Ibrohim Valixo‘jayev. "Perastdagi port", 2012. Rassom arxivida qayd etilgan o‘lchamlar: 60 × 70 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 Ibrohim Valixo‘jayev. "Perastdagi port", 2012. Rassom arxivida qayd etilgan o‘lchamlar: 60 × 70 sm. Rassom arxividagi reproduksiya.
+
+
 
 
 
@@ -99,3 +101,13 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Rassom arxividagi asarlar reproduksiyalari
+
+[«Dengiz sohilida», 2012. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«Dengiz sohilida», 2012. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.
+
+[«Budvadagi qal’a devori», 2012. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«Budvadagi qal’a devori», 2012. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.

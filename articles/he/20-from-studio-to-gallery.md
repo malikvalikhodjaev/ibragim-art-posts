@@ -4,7 +4,7 @@ language: "he"
 theme: 20
 description: "צייר, מורה, אוצר ומייסד גלריה: כיצד עבודתו של וליכודג'ייב מקשרת בין הסטודיו, התערוכה והקהל."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_66.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # מהסטודיו לגלריה: וליכודג'ייב יוצר מקום לאמנות
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [איברגים וליכודג'ייב](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 איברגים וליכודג'ייב, אמן ומייסד Valikhodjaev Gallery House. דיוקן מהפרופיל המקצועי ב-ArtVernissage. [ArtVernissage: פרופיל מקצועי של האמן](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 במאמר זה
 
@@ -114,6 +116,18 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [בית הגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## עבודת התערוכה בסרטונים
+
+שני סרטוני הארכיון מציגים את השתתפות האמן בהכנת תערוכה ובסיור בה. שם התערוכה, מקומה ותאריך הצילום עדיין אינם ידועים.
+
+[סרטון](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[הכנת התערוכה — איברגים וליחודז'אייב כיו״ר איגוד האמנים של אוזבקיסטן](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[סרטון](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[סיור בתערוכה — איברגים וליחודז'אייב כיו״ר איגוד האמנים של אוזבקיסטן](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 
 </div>

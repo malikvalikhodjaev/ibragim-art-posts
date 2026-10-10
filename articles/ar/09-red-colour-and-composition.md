@@ -4,7 +4,7 @@ language: "ar"
 theme: 9
 description: "الخيول الحمراء والغرفة الحمراء: كيف يختبر إبراهيم فاليخودجاييف قوة الأحمر وعلاقته بالألوان المجاورة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_8.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: كيف يبني اللون الأحمر اللوحة

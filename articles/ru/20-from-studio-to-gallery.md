@@ -4,7 +4,7 @@ language: "ru"
 theme: 20
 description: "Ибрагим Валиходжаев: художник и основатель Valikhodjaev Gallery House, куратор и организатор международных проектов. От мастерской к зрителю."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_216.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # От мастерской к галерее: как Валиходжаев создаёт пространство для искусства
@@ -112,3 +112,15 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Выставочная работа в видеозаписях
+
+Эти две архивные видеозаписи показывают участие художника в подготовке и осмотре экспозиции. Название выставки, место и дата съёмки пока не установлены.
+
+[Видеозапись](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Подготовка выставки — Ибрагим Валиходжаев как председатель Союза художников Узбекистана](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Видеозапись](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Осмотр экспозиции — Ибрагим Валиходжаев как председатель Союза художников Узбекистана](<https://www.youtube.com/watch?v=VkvPfztejWY>)

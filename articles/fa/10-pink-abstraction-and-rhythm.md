@@ -4,7 +4,7 @@ language: "fa"
 theme: 10
 description: "پهنهٔ صورتی، خط افقی تیره و رد قلم‌مو: چگونه ریتم در یک نقاشی انتزاعی شکل می‌گیرد."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_01.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # پهنه‌ای صورتی و خطی تیره: ریتم در نقاشی ولی‌خوجایف

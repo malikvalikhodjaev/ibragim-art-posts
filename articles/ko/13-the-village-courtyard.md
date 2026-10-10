@@ -4,7 +4,7 @@ language: "ko"
 theme: 13
 description: "「시골 안뜰」「방문」「바르지크」「퇴근길」. 건축과 색채, 작은 인물이 드러내는 마을의 일상."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_42.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # 집과 안뜰, 굽은 길 — 우즈베키스탄 마을을 그리다
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [이브라김 발리호자예프. "시골 안뜰", 2013. 캔버스에 유채. 90 × 100 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/a/AVvXsEgf4F3-RSs4ypNsqOiWgYVMLsAF_UwVF9oKCosEbt3DEc0kcBi3NXnIn31gFrSNqPla58QzNdJ30X89tHsf7sx1iF94WJZZXB6VSLrD-4zIFnOdFqlR5eUaonUljTMx2P-vMd3gIZSK050lBz13qY_aCmbaDtKJ3V4B0zRcGxN6vc98UfJRrF9Ai3RR_y6i>)
 
 이브라김 발리호자예프. "시골 안뜰", 2013. 캔버스에 유채. 90 × 100 cm. 작가 아카이브의 도판.
+
+
 
 
 
@@ -63,7 +65,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 담장 너머로 밝은 색 집과 노란 지붕들이 초록 나무들과 어우러져 보인다. 왼쪽에 있는 길고 좁은 수직선들과 오른쪽에 있는 둥근 수관들은 서로 다른 반복을 만들어낸다. 건축물의 수평적인 확장은 이러한 형태들을 하나로 묶어준다. 아래쪽의 붉은 색면은 초록과 거의 정면으로 맞닿아 있고, 노란색은 그 둘 사이의 추가적인 연결고리를 만들어낸다.
 
-[이브라김 발리호자예프. "바르지크. 시골 풍경", 2013. 아카이브 설명에 따른 크기: 52 × 68 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyLC75pZpIM8aBPQaek4vtiTQRbmxTs3f2iJ7EgD4naLHEYSzdDfC23wetjpGD_Ziwrwj8112Vp3XHLwqvnuzEOuchv7GdxWU-p4CG9U0wA0kPvdfwder1y1Pn6OmdCOfu72ozroPRr69KAOTt3AXbfOhJqqSZ7KAmx8ibYjlVgrMR0_HSKwG2po4O4vT3/s1600/clipboard.png>)
+[이브라김 발리호자예프. "바르지크. 시골 풍경", 2013. 아카이브 설명에 따른 크기: 52 × 68 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ2Tpwyz2de0WSY7YNLAdktqADTTHpHVg19eEWYMtsnN9Mq_NfJqqFGnjenNYZXhtZcN-0tOV0QKUfI2S6JuD9UTiUg_aTG-o2mMG8LPdnZIsYx3Bf8lzlERLd4ppHJkd3MIuDVevK-pvmPD63XRLSrsEDxlPNfp3rymfOYawkak4-gx63frZAcc4sIfWA/s1600/clipboard.png>)
 
 이브라김 발리호자예프. "바르지크. 시골 풍경", 2013. 아카이브 설명에 따른 크기: 52 × 68 cm. 작가 아카이브의 도판.
 

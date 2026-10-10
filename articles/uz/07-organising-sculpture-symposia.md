@@ -4,7 +4,7 @@ language: "uz"
 theme: 7
 description: "Turkiya va O‘zbekistondagi sakkiz haykaltaroshlik simpoziumi: ijodiy jarayon, tashkilotchilik, kuratorlik va jamoat makoni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/toshdan-umumiy-makongacha-ibrohim.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Toshdan jamoat makonigacha: haykaltaroshlik simpoziumlarini tashkil etish

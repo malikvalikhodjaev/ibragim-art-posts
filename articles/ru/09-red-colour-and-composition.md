@@ -4,7 +4,7 @@ language: "ru"
 theme: 9
 description: "Красный цвет у Валиходжаева: «Красные кони», пейзажи RED и переход к абстракции. Силуэт, цветовые поля и композиция."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_918.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED: как красный цвет строит картину

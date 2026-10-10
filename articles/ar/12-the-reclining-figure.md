@@ -4,7 +4,7 @@ language: "ar"
 theme: 12
 description: "قراءة «الانسجام الأسمى» و«نائمة» و«عارية»: الجسد والخط واللون في أعمال إبراهيم فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_86.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # الجسد المستلقي: الخط واللون في لوحات إبراهيم فاليخودجاييف

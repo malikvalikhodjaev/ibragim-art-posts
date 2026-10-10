@@ -4,7 +4,7 @@ language: "it"
 theme: 17
 description: "Dias Rakhmatov, Lena e Sasha: come Valikhodjaev costruisce il ritratto attraverso colore, posa e spazio."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Volto, posa, spazio: tre ritratti di Valikhodjaev

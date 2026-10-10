@@ -4,7 +4,7 @@ language: "ko"
 theme: 9
 description: "「붉은 말들」과 RED 풍경, 「미라키」. 색면과 윤곽을 통해 읽는 발리호자예프의 붉은색 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # RED — 붉은색은 어떻게 그림을 구성하는가

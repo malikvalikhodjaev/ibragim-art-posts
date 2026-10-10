@@ -4,7 +4,7 @@ language: "de"
 theme: 11
 description: "Die Namangan-Suite: Alltagsgesten, weiße Kopftücher und bunte Kleidung verdichten sich bei Valikhodjaev zu einer großen Basarszene."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Namangan-Suite»: das Leben in einem großen Gemälde
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6. Oktober 2026
 [Ibragim Valikhodjaev, „Namangan-Suite“. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 Ibragim Valikhodjaev, „Namangan-Suite“. Reproduktion aus dem Archiv des Künstlers. [Vollständiges Gemälde](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 In diesem Artikel
 
@@ -114,3 +116,13 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 Redaktionelles Material aus dem Valikhodjaev Gallery House. Die Quellen der Abbildungen sind in den Bildunterschriften angegeben.
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Reproduktionen aus dem Archiv des Künstlers
+
+[«Wiegenbasar», 2002. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Wiegenbasar», 2002. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.
+
+[«Basar der traditionellen Kappen», 2006. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Basar der traditionellen Kappen», 2006. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.

@@ -4,7 +4,7 @@ language: "uz"
 theme: 11
 description: "«Namangan syuitasi»da bozor hayoti: qo‘l harakatlari, do‘ppilar, oq ro‘mollar va ko‘p figurali kompozitsiya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # «Namangan syuitasi»: katta kartina ichidagi kundalik hayot
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 2026-yil 6-oktabr
 [Ibrohim Valixo‘jayev, "Namangan syuitasi." Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 Ibrohim Valixo‘jayev, "Namangan syuitasi." Rassom arxividagi reproduksiya. [Asarning to‘liq tasviri](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s0>) .
+
+
 
 Ushbu maqolada
 
@@ -114,3 +116,13 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Rassom arxividagi asarlar reproduksiyalari
+
+[«Beshik bozori», 2002. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)
+
+«Beshik bozori», 2002. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.
+
+[«Do‘ppi bozori», 2006. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
+
+«Do‘ppi bozori», 2006. Ibrohim Valixodjayev. Rassom arxividan reproduksiya.

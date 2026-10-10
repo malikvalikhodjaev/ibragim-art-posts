@@ -4,7 +4,7 @@ language: "es"
 theme: 12
 description: "Armonía superior, Durmiente y Desnudo: contorno, pose y relaciones entre el cuerpo y el campo de color en Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # La figura reclinada: línea y color en los desnudos de Ibragim Valikhodjaev

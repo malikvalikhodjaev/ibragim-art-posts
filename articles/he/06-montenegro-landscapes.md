@@ -4,7 +4,7 @@ language: "he"
 theme: 6
 description: "שני נופי פראסט משנת 2012 חושפים את המים, האדריכלות והקצב בציוריו של וליכודג'ייב במונטנגרו."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_427.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # עשרים ואחד ימים במונטנגרו: נופי החוף של וליכודג'ייב
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House
 [איברגים וליכודג'ייב. "הנמל בפראסט", 2012. מידות שתועדו בארכיון האמן: 60 × 70 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 איברגים וליכודג'ייב. "הנמל בפראסט", 2012. מידות שתועדו בארכיון האמן: 60 × 70 ס"מ. רפרודוקציה מארכיון האמן.
+
+
 
 
 
@@ -101,6 +103,16 @@ Valikhodjaev Gallery House
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [בית הגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## תצלומי יצירות מארכיון האמן
+
+[«על שפת הים», 2012. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«על שפת הים», 2012. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.
+
+[«חומת המצודה בבודווה», 2012. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«חומת המצודה בבודווה», 2012. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.
 
 
 </div>

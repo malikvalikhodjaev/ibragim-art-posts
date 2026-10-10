@@ -4,7 +4,7 @@ language: "fa"
 theme: 6
 description: "«بندر پراست» و نخل‌های ساحل: دو نقاشی از سفر و شرکت ولی‌خوجایف در برنامهٔ نقاشی مونته‌نگرو در ۲۰۱۲."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_58.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # بیست‌ویک روز در مونته‌نگرو: نقاشی‌های ساحلی ولی‌خوجایف
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House
 [ابراهیم ولی‌خوجایف. «بندر پراست»، ۲۰۱۲. ابعاد ثبت‌شده در آرشیو هنرمند: ۶۰ × ۷۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdskLLslUBQ6TNVi0OX08i79rV93Mdco50-pMFJ1HwcAfuTFCXRdlZiD03xUF5C0VWRJsjiGqpHpCXnk5Mf4VIgOTgW86CPgUqTmaqqdVx79ljitqsFStl9Vf7xbfLtO9OD90l4e-upLUgYeCzKBLiGkYe2TE8dWXVZW627PDUCJaliKo37_7wjkh8pqiX/s1600/clipboard.png>)
 
 ابراهیم ولی‌خوجایف. «بندر پراست»، ۲۰۱۲. ابعاد ثبت‌شده در آرشیو هنرمند: ۶۰ × ۷۰ سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+
 
 
 
@@ -101,6 +103,16 @@ Valikhodjaev Gallery House
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [گالری هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## تصاویر آثار از آرشیو هنرمند
+
+[«در ساحل دریا», 2012. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)
+
+«در ساحل دریا», 2012. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.
+
+[«دیوار قلعه در بودوا», 2012. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzx2I_KBSwEXd4BgJb5vn-0mYrqVmciuigj45Z_5zbBn0qqtj6gcdw0u6zxULPAbXCh6Z0J7SZlFvb9uSFN4RqzODuLtocJz-2ypvQbxvaBR1ODR39QK1KGOwshlaomREbI5qqpuae390ZWBj59tpiQdBbVZ7xA6tmlzxHnp2ktpuhztGjcpY384JPA1Y/s1600/clipboard.png>)
+
+«دیوار قلعه در بودوا», 2012. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.
 
 
 </div>

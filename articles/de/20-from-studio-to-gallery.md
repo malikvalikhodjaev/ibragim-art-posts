@@ -4,7 +4,7 @@ language: "de"
 theme: 20
 description: "Valikhodjaev als Künstler, Organisator und Galeriegründer: Wie Atelier, Ausstellungsraum und Begegnungen mit dem Publikum zusammenwirken."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Vom Atelier zur Galerie: Valikhodjaev schafft Räume für die Kunst
@@ -22,6 +22,8 @@ Valikhodjaev Gallery House · 6. Oktober 2026
 [Ibragim Valikhodjaev](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 Ibragim Valikhodjaev, Künstler und Gründer des Valikhodjaev Gallery House. Porträt aus dem professionellen Profil auf Art Vernissage. [Quelle](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 In diesem Artikel
 
@@ -112,3 +114,15 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ausstellungsarbeit im Video
+
+Die beiden Archivvideos zeigen den Künstler bei der Vorbereitung und Besichtigung einer Ausstellung. Titel, Ort und Aufnahmedatum sind noch nicht geklärt.
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Ausstellungsvorbereitung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+[Rundgang durch die Ausstellung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=VkvPfztejWY>)

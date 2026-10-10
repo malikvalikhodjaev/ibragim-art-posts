@@ -4,7 +4,7 @@ language: "ar"
 theme: 15
 description: "أعمال فاليخودجاييف في متحف يو شون بهاربين وبلدية مالتيبي بإسطنبول ومجموعة خاصة في موسكو."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_37.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # بعد المعرض: أعمال إبراهيم فاليخودجاييف في المتاحف والمجموعات
@@ -24,6 +24,8 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 [إبراهيم فاليخودجاييف](<https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg>)
 
 إبراهيم فاليخودجاييف. صورة للفنان من صفحته المهنية على ArtVernissage. [المصدر](<https://artvernissage.art/en/artists/33/>) .
+
+
 
 في هذه المقالة
 
@@ -109,6 +111,10 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 مواد تحريرية من Valikhodjaev Gallery House. مصادر الرسوم التوضيحية مذكورة في التعليقات.
 
 [وكالة الأنباء الأوزبكية – معرض الفن الأوزبكي في بكين، 23 يناير 2024 (النص الأوزبكي)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+[منظر عام لقاعة تعرض أعمال إبراهيم فاليخوجاييف. أرشيف الفنان؛ اسم المعرض وتاريخه غير مؤكدين.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+منظر عام لقاعة تعرض أعمال إبراهيم فاليخوجاييف. أرشيف الفنان؛ اسم المعرض وتاريخه غير مؤكدين.
 
 
 </div>

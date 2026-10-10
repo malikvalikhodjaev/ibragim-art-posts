@@ -4,7 +4,7 @@ language: "ar"
 theme: 14
 description: "من التكوين إلى المقياس والملمس: عشرة مصطلحات تساعد على قراءة أعمال إبراهيم فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_953.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # معجم المشاهد: عشرة مفاتيح لفهم اللوحة

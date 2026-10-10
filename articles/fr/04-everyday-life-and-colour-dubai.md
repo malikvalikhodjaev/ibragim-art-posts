@@ -4,7 +4,7 @@ language: "fr"
 theme: 4
 description: "In Silence à la galerie Mondoir de Dubaï en 2024 : scènes ouzbèkes et couleur, dans une exposition de Zahra Habibizad."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/les-couleurs-du-quotidien-valikhodjaev.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Les couleurs du quotidien : Valikhodjaev à Dubaï

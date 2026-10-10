@@ -4,7 +4,7 @@ language: "it"
 theme: 14
 description: "Dieci termini per guardare la pittura: soggetto, composizione, ritmo e materia attraverso ritratti, paesaggi e scene di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-lessico-dello-sguardo-dieci-chiavi.html"
-edition_date: "2026-10-09"
+edition_date: "2026-10-10"
 ---
 
 # Il lessico dello sguardo: dieci chiavi per capire la pittura
