@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_895.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
-人生と芸術についての会話
+芸術とともに歩む人生 · ナマンガン、工房、絵画
 
-ラヒム・アフメドフのスタジオから美術館のホールを埋め尽くすキャンバスまで、このウズベキスタン人アーティストの歩みは、観察、問いかけ、そして新たな探求の連続である。
+学校に通う頃から画家を志したナマンガンの少年。家族の記憶、初期の受注制作、ラヒム・アフメドフの指導をたどり、独自の絵画表現への道を探る。
 
-この伝記は、公表されたインタビュー、展覧会歴、そしてアーティストのアーカイブ資料に基づいて作成されている。
+本稿は公表されたインタビュー、展覧会の記録、画家のアーカイブに基づく。幼少期と最初の工房については家族の回想を加えた。
+
+[自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+自身の作品に囲まれた若き画家。 画家のアーカイブより。
+
+## ナマンガン：物語が始まる家
+
+展覧会場や海外への旅、大画面の絵画に先立つのは、故郷ナマンガンでの暮らしだった。イブラギム・ヴァリホジャエフは三人の姉とともに育った。父は職人で、それ以前には市の兵役事務所で働いていた。母は家事と子育てを担った。末の息子にとって、家族の家は絵画を職業とした後も大切な場所であり続けた。
+
+学校に通う頃から画家になりたいと考えていた。しかし、その幼い願いから専門教育を受けるまでには、自ら働く年月があった。後年の市場の情景、肖像、農村生活の絵画には、人々とその仕事、暮らしの環境への関心が表れている。画家の歩みはここで、故郷と家族の歴史に重なる。
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## インタビューを見る
+
+[映像](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+「Ijod formulasi」、2026年6月9日、マダニヤット・ヴァ・マリファットTVチャンネル。上に掲載した映像はウズベク語である。以下のリンクから、会話の関連部分を見ることができる。
+
+## 最初の受注制作：卒業前に始まった仕事
+
+二十代のヴァリホジャエフは、すでに依頼を受けた美術制作を取りまとめていた。実務と共同の仕事を進める経験は、専門教育の修了に先立っている。自ら絵を描くことと、他の芸術家が働ける条件を整えること。この二つは、その後も並行して発展していく。
+
+アーカイブ写真には、作品に囲まれ、仕事の場にいる若い画家の姿がある。物語は後年の美術館展示や公的な役職からではなく、自分の職業人生を築いている一人の人間から始まる。
+
+[自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+自身の作品に囲まれた若き画家。 画家のアーカイブより。
+
+## 教師は道を切り開き、芸術家は自らの言語を探し求める。
+
+美術学校に進んだのは成人してからだった。1986年から1991年まで、アレクサンドル・オストロフスキーの名を冠したタシケント国立演劇美術大学で絵画を学び、師ラヒム・アフメドフの工房で指導を受けた。初期の仕事を経て、学校時代の願いは自覚的な職業選択となった。
+
+[学生時代のイブラギム・ヴァリホジャエフ。習作に用いる石膏の胸像とともに。1988年。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+学生時代のイブラギム・ヴァリホジャエフ。習作に用いる石膏の胸像とともに。1988年。画家のアーカイブより。
+
+ヴァリホジャエフはナマンガンで生まれ、タシュケントのラヒム・アフメドフ師の工房で専門的な訓練を受けた。2017年のインタビューで、彼は師を自身の色彩感覚を形成した人物だと述べている。これは重要なつながりである。彼の絵画の自由さの背後には、独自の芸術言語の基盤となった厳格な訓練があるのだ。
+
+テレビインタビューの中で、このアーティストはデッサンとアーティストの成長を区別している。訓練は可能性の広大な世界を開くが、その中で自分自身の方向性を見出すのはアーティスト自身にかかっている。この道のりは、肖像画、静物画、風景画、そして複数の人物が登場する風俗画など、彼の作品を通して辿ることができる。
+
+[上に掲載した映像 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## 師ラヒム・アフメドフとともに
+
+ラヒム・アフメドフはウズベク絵画を代表する巨匠の一人で、数世代の画家を育てた教育者だった。ウズベク・ソビエト社会主義共和国およびソビエト連邦の人民芸術家の称号を持ち、教授、ソ連美術アカデミーの通信会員を務めた。肖像、風俗画、風景画では、確かな絵画の伝統とウズベキスタンの人々や文化への関心を結びつけている。その指導を受けたことは、ヴァリホジャエフの専門的な形成を考えるうえで重要である。
+
+[ラヒム・アフメドフの略歴 — ロシア美術アカデミー](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+ラヒム・アフメドフはウズベキスタンの画家・美術教育者で、人民芸術家の称号を持ち、美術アカデミーの会員でもありました。彼の肖像画は同国の近代絵画の発展に重要な位置を占めています。ヴァリホジャエフは1986年から1991年までそのアトリエで学びました。これらの資料写真は、師と若い画家が同じ美術界の仲間とともに歩んだ姿を伝えています。下のリンクは、サザビーズのカタログに掲載されたアフメドフの作品です。
+
+[師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。
+
+[師ラヒム・アフメドフを祝福するウラジーミル・イワノヴィチ・ブルマキン。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+師ラヒム・アフメドフを祝福する[ウラジーミル・イワノヴィチ・ブルマキン](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>)。画家の個人アーカイブより。
+
+**サザビーズのカタログに掲載されたラヒム・アフメドフの作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987年：最初の私設美術工房
+
+1987年、在学中のヴァリホジャエフは最初の私設美術工房を開いた。家族の回想では、ウズベク・ソビエト社会主義共和国で自主的な事業活動への制限が緩和され始めた時期にあたる。大学の工房が専門教育の基礎を与え、自分の工房は実制作や受注制作の場となった。
+
+この人生では、学びと仕事が並行している。後に展覧会の企画運営、キュレーション、ギャラリーの設立も加わる。最初の工房は、その連続性を見せてくれる。画家は作品を作ると同時に、美術の仕事を実現する条件を探してきた。
+
+## 卒業後：母のいる故郷へ
+
+1991年に卒業すると、ヴァリホジャエフは母のそばにいるためナマンガンへ戻った。末の息子として、その選択を家族の家を支えることと結びつけていた。彼の家族の物語には、世代のつながりを保ち、年長者を敬い、親を支えるというウズベクの伝統が表れている。帰郷は個人の選択であるとともに、家族の絆の継続でもあった。
+
+故郷への帰還は、画家としての歩みの一部でもある。市場の連作、日常の観察、同時代の人々の姿を通じ、ナマンガンは絵画の重要な場所であり続ける。後の旅と表現の変化はその視野を広げるが、具体的な人間と日々の暮らしへの関心は保たれている。
 
 [イブラギム・ヴァリホジャエフ。「In Silence（静寂の中で）」展カタログ掲載の肖像。作家のアーカイブ写真の複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ edition_date: "2026-10-11"
 - **業務分野:** 絵画、彫刻、美術プロジェクトの企画・運営
 - **専門職の役割:** ウズベキスタン芸術アカデミー会員、ウズベキスタン芸術家連盟会長、Valikhodjaev Gallery House創設者
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## インタビューを見る
-
-[映像](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-「Ijod formulasi」、2026年6月9日、マダニヤット・ヴァ・マリファットTVチャンネル。上に掲載した映像はウズベク語である。以下のリンクから、会話の関連部分を見ることができる。
-
 番組「創造性の公式」（Ijod formulasi）では、イブラギム・ヴァリホジャエフのスタジオ訪問から話が始まる。市場の風景、赤い風景、大きな抽象画など、様々な時期の作品が並んでいる。それらの背後には、一人のアーティストの創作活動が息づいているが、どの作品においても、アーティストは新たな挑戦に挑んでいる。このスタジオでの出会いを通して、最も重要なことが分かる。それは、ヴァリホジャエフの好奇心が、常に新たな探求の方向性を切り開いているということである。
 
 彼は画家であり彫刻家であり、企画者でありキュレーターであり、ギャラリーの創設者であり、指導者でもある。これらの活動すべてに共通する問いは、「いかにして新鮮な視点を維持するか」ということだ。出版された対談の中で、彼は経験を、研究を続け、実験を重ね、新たな表現方法を見出す機会として捉えている。
-
-## 教師は道を切り開き、芸術家は自らの言語を探し求める。
-
-ヴァリホジャエフはナマンガンで生まれ、タシュケントのラヒム・アフメドフ師の工房で専門的な訓練を受けた。2017年のインタビューで、彼は師を自身の色彩感覚を形成した人物だと述べている。これは重要なつながりである。彼の絵画の自由さの背後には、独自の芸術言語の基盤となった厳格な訓練があるのだ。
-
-テレビインタビューの中で、このアーティストはデッサンとアーティストの成長を区別している。訓練は可能性の広大な世界を開くが、その中で自分自身の方向性を見出すのはアーティスト自身にかかっている。この道のりは、肖像画、静物画、風景画、そして複数の人物が登場する風俗画など、彼の作品を通して辿ることができる。
-
-[上に掲載した映像 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## バザールは単なる主題以上のものだ
 
@@ -108,6 +164,8 @@ edition_date: "2026-10-11"
 
 [上に掲載した映像 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+現在、ヴァリホジャエフの作品は600点以上が知られ、その大半を絵画が占める。初期の抑制された色調、ナマンガンの市場、肖像、静物、裸体、野外制作の風景、RED、抽象と、時期も探求も多岐にわたる。色、形、構図への新しい問いを通じて、制作は今も続いている。
+
 ## 異なる時期の作品をつなぐもの
 
 2012年にSan’at誌に掲載された人物紹介記事の中で、オクサナ・カディシェワはヴァリホジャエフの創作の軌跡を、初期の抑制された色彩、市場の風景、モンテネグロの風景、そして花の静物画など、様々な方向から描いている。彼女の解釈の中心にあるのは、観察を構図へと昇華させるヴァリホジャエフの能力である。こうした背景を知ることで、彼の創作活動をより包括的に理解することができる。イメージに関する新たな問いから新たな方向性が生まれ、同時に以前のテーマも共存し続けているのだ。
@@ -138,10 +196,6 @@ edition_date: "2026-10-11"
 
 ## 画家の個人アーカイブから
 
-[学生時代のイブラギム・ヴァリホジャエフ。習作に用いる石膏の胸像とともに。1988年。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-学生時代のイブラギム・ヴァリホジャエフ。習作に用いる石膏の胸像とともに。1988年。画家のアーカイブより。
-
 [特別基金の責任者を務めていた頃のイブラギム・ヴァリホジャエフ。2002年。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 特別基金の責任者を務めていた頃のイブラギム・ヴァリホジャエフ。2002年。画家のアーカイブより。
@@ -163,14 +217,6 @@ edition_date: "2026-10-11"
 ## 写真でたどる歩み：アトリエと美術の世界
 
 アーカイブ写真には、展覧会の一覧だけでは伝わらない生活が写っている。手狭なアトリエ、未完成のカンヴァスとすでに形を得た作品、絵の前で交わされる会話。白黒の肖像では若い画家が自分の仕事と向き合い、展覧会の写真では教師や仲間、観客とともにいる。どちらもその歩みに欠かせない。作品は個人の探究から生まれ、その後は美術の世界との関わりのなかで生き続ける。
-
-[自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-自身の作品に囲まれた若き画家。 画家のアーカイブより。
-
-[自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
 [自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ edition_date: "2026-10-11"
 
 これらの制作記録は、風景画に場所の大きさ、変化する光、表面の質感を補う。壁、屋根、地面の帯、木の枝葉が色彩関係の素材となる。完成作では観察がより自由で簡潔になることもあるが、実景とのつながりは空間の構成に残る。写真の撮影場所と年は確定していない。見た目だけから、ミラキ、モンテネグロ、アゼルバイジャンでの特定の制作滞在に結びつけることはできない。
 
+[戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。
+
 [戸外制作の旅：村の道と山の風景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 戸外制作の旅：村の道と山の風景。 画家のアーカイブより。
@@ -247,10 +297,6 @@ edition_date: "2026-10-11"
 [戸外制作の旅：中庭と村の建物。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 戸外制作の旅：中庭と村の建物。 画家のアーカイブより。
-
-[戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。
 
 ## RED：観客の前で描く
 
@@ -280,13 +326,13 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 展示写真は作品と観客の出会いを示す。壁の余白、作品同士の間隔、後ろへ下がる空間が鑑賞条件を変える。全景は大きさを伝え、来場者を写した写真は近くで見た後に離れて眺める動きを伝える。
 
+[イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)
+
 [ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。
-
-[展示会場の全景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-展示会場の全景。 画家のアーカイブより。
 
 ## 評価と画家の歩み
 
@@ -299,17 +345,3 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 [授賞式でのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 授賞式でのヴァリホジャエフ。 画家のアーカイブより。
-
-## 師ラヒム・アフメドフとともに
-
-ラヒム・アフメドフはウズベキスタンの画家・美術教育者で、人民芸術家の称号を持ち、美術アカデミーの会員でもありました。彼の肖像画は同国の近代絵画の発展に重要な位置を占めています。ヴァリホジャエフは1986年から1991年までそのアトリエで学びました。これらの資料写真は、師と若い画家が同じ美術界の仲間とともに歩んだ姿を伝えています。下のリンクは、サザビーズのカタログに掲載されたアフメドフの作品です。
-
-[師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。
-
-[師ラヒム・アフメドフを祝福するブルマキン。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-師ラヒム・アフメドフを祝福するブルマキン。画家の個人アーカイブより。
-
-**サザビーズのカタログに掲載されたラヒム・アフメドフの作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_08.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
-生活與關於藝術的對話
+藝術人生 · 納曼干、工作室與繪畫
 
-從拉希姆·艾哈邁多夫的工作室到博物館展廳裡的畫布，這位烏茲別克藝術家的旅程是一段觀察、質疑和全新探索的旅程。
+一個在學生時代便立志成為畫家的納曼干男孩：從家庭記憶、早期委託和拉希姆・艾哈邁多夫的指導，到尋找自己的繪畫語言。
 
-這篇人物傳記是根據已發表的訪談、展覽歷史以及藝術家檔案中的資料撰寫而成。
+這篇傳記文章以已發表的訪談、展覽紀錄和藝術家檔案為依據；童年與第一間工作室的敘述，另以家人的回憶補充。
+
+[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+年輕時的藝術家與自己的作品。 藝術家檔案。
+
+## 納曼干：故事從家開始
+
+在展廳、國際旅行和巨幅畫作之前，是納曼干。伊布拉吉姆・瓦利霍賈耶夫在這裡與三位姊姊一同長大。父親是一名工匠，此前曾在市徵兵辦公室工作；母親照料家務與孩子。作為家中最小的兒子，即使後來以繪畫為業，故鄉的家仍在他的生活中佔有重要位置。
+
+他在求學時就想成為畫家。不過，從童年的願望到進入高等藝術院校，中間還有多年獨立工作的經歷。後來創作的市集場景、肖像和鄉村生活畫作，呈現他對日常經驗的關注：人們、他們的勞作，以及周遭的環境。在這裡，畫家的個人歷程與故鄉及家庭的歷史相遇。
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## 觀看訪談
+
+[影片](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+“Ijod formulasi”，2026年6月9日，Madaniyat va Ma'rifat電視台。以上影片為烏茲別克語；以下連結指向對話的相關摘錄。
+
+## 早期委託：先工作，後取得文憑
+
+二十多歲時，瓦利霍賈耶夫已在組織藝術委託的製作。實際工作與協調共同計畫的經驗，早於專業學習的完成。此後，這兩條線索繼續並行發展：自己的繪畫，以及為其他藝術家創造工作的條件。
+
+檔案照片中的年輕畫家置身於作品和工作環境之間。它們讓故事從一個仍在建立職業生活的人開始，而非從多年後的博物館展覽和公共職務開始。
+
+[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+年輕時的藝術家與自己的作品。 藝術家檔案。
+
+## 教師開路，藝術家尋找語言
+
+他成年後才進入學院。1986至1991年，他在以亞歷山大・奧斯特洛夫斯基命名的塔什干國立戲劇與美術學院學習繪畫，師從拉希姆・艾哈邁多夫。在最初的工作經歷之後，學生時代的願望成為經過思考的職業選擇。
+
+[學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，1988年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，1988年。藝術家檔案。
+
+瓦利霍賈耶夫出生於納曼干，在塔什干拉希姆·艾哈邁多夫大師的工作室接受專業訓練。在2017年的一次訪談中，他稱自己的老師塑造了他對色彩的理解。這其中有著重要的連結：他繪畫中自由奔放的風格背後，是嚴謹的訓練，而正是這些訓練為他形成獨立的藝術語言奠定了基礎。
+
+在一次電視採訪中，這位藝術家區分了繪畫和藝術家自身的發展。訓練開啟了廣闊的可能性世界，但如何在其中找到自己的方向取決於藝術家本人。這一歷程可以從他的作品中追溯，包括肖像畫、靜物畫、風景畫和多人物風俗畫。
+
+[上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## 與拉希姆・艾哈邁多夫老師在一起
+
+拉希姆・艾哈邁多夫是烏茲別克繪畫的重要大師，也培養了幾代藝術家。他獲授烏茲別克蘇維埃社會主義共和國人民藝術家和蘇聯人民藝術家稱號，擔任教授，並為蘇聯藝術科學院通訊院士。他的肖像、風俗畫與風景畫，把扎實的繪畫傳統與對烏茲別克人民及文化的關注結合起來。師從他，是瓦利霍賈耶夫專業成長的重要部分。
+
+[拉希姆・艾哈邁多夫——俄羅斯藝術科學院傳記](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+拉希姆・艾哈邁多夫是烏茲別克畫家與美術教育家，獲人民藝術家稱號，並為藝術科學院院士。他的肖像畫在烏茲別克現代繪畫的發展中占有重要地位。瓦利霍賈耶夫於1986至1991年在他的畫室學習。這些檔案照片為這段師承關係留下了生動的見證：老師與年輕畫家身處同業之中，共同參與當時的藝術生活。下方連結指向蘇富比圖錄中收錄的艾哈邁多夫作品。
+
+[拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。
+
+[弗拉基米爾・伊萬諾維奇・布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[弗拉基米爾・伊萬諾維奇・布爾馬金](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>)向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。
+
+**蘇富比圖錄中的拉希姆・艾哈邁多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987年：第一間私人藝術工作室
+
+1987年，仍在求學的瓦利霍賈耶夫建立了自己的第一間私人藝術工作室。家人回憶，那是烏茲別克蘇維埃社會主義共和國開始放寬獨立經營限制的時期。學院工作室提供專業訓練，自己的工作室則為實際創作和藝術委託提供空間。
+
+在這段人生經歷中，學習與工作始終並行。後來，組織展覽、策展和創辦畫廊也加入其中。第一間工作室讓這種延續變得清晰：藝術家創作作品，同時尋找讓藝術工作得以開展的條件。
+
+## 畢業之後：回到母親身邊
+
+1991年畢業後，瓦利霍賈耶夫回到納曼干，希望陪伴母親。身為幼子，他把這個決定與照顧家庭聯繫在一起。在他的家庭故事中，這體現了烏茲別克重視代際聯繫、敬重長輩和扶養父母的傳統。返鄉既是個人選擇，也是家庭紐帶的延續。
+
+返回故鄉也成為職業道路的一部分。納曼干始終是他繪畫中的重要地點：市集系列、日常生活觀察，以及同時代人的形象，都與這裡相連。後來的旅行和繪畫語言的變化拓展了這個視野，但他對具體人物與日常生活的關注一直延續。
 
 [伊布拉吉姆·瓦利霍賈耶夫。 《寂靜之中》展覽圖錄中的肖像。藝術家檔案照片的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ edition_date: "2026-10-11"
 - **工作領域:** 繪畫、雕塑、策展與組織藝術項目
 - **專業角色:** 烏茲別克藝術科學院院士；烏茲別克美術家協會主席；Valikhodjaev Gallery House創辦人
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## 觀看訪談
-
-[影片](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-“Ijod formulasi”，2026年6月9日，Madaniyat va Ma'rifat電視台。以上影片為烏茲別克語；以下連結指向對話的相關摘錄。
-
 在節目“創意公式”（Ijod formulasi）中，對話以參觀伊布拉吉姆·瓦利霍賈耶夫的工作室開始。不同時期的作品並排陳列：市場場景、紅色風景、大型抽象作品。它們背後是同一個創作生涯，但每一件作品都展現了藝術家迎接新的挑戰。這次工作室之旅幫助我們了解最重要的一點：瓦利霍賈耶夫的好奇心不斷為他的探索開闢新的方向。
 
 他身兼畫家、雕塑家、組織者、策展人、畫廊創辦人以及導師等多重身分。貫穿所有這些身分的共同問題是：如何保持新鮮的視角？在他發表的訪談中，經驗被視為持續研究、實驗和尋找新的表達方式的契機。
-
-## 教師開路，藝術家尋找語言
-
-瓦利霍賈耶夫出生於納曼干，在塔什干拉希姆·艾哈邁多夫大師的工作室接受專業訓練。在2017年的一次訪談中，他稱自己的老師塑造了他對色彩的理解。這其中有著重要的連結：他繪畫中自由奔放的風格背後，是嚴謹的訓練，而正是這些訓練為他形成獨立的藝術語言奠定了基礎。
-
-在一次電視採訪中，這位藝術家區分了繪畫和藝術家自身的發展。訓練開啟了廣闊的可能性世界，但如何在其中找到自己的方向取決於藝術家本人。這一歷程可以從他的作品中追溯，包括肖像畫、靜物畫、風景畫和多人物風俗畫。
-
-[上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## 市集不只是一個主題
 
@@ -108,6 +164,8 @@ edition_date: "2026-10-11"
 
 [上方影片· 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+目前已知瓦利霍賈耶夫的作品超過600件，以繪畫為主。它們橫跨不同階段與探索方向：早期克制的色調、納曼干市集、肖像、靜物、人體、戶外寫生風景、RED與抽象。他仍透過色彩、形態和構圖的新問題推進創作。
+
 ## 作品連結不同年份
 
 在2012年為《San'at》藝術雜誌撰寫的一篇人物特寫文章中，奧克薩娜·卡德舍娃描述了瓦利霍賈耶夫的藝術歷程，涵蓋了多個方向：他早期克制的色彩運用、市場場景、蒙特內哥羅風景以及花卉靜物。她解讀的核心在於藝術家將觀察轉化為構圖的能力。這個視角有助於我們更全面地理解他的創作生涯：新的方向源自於對畫面提出新的問題，而先前的主題則繼續並存。
@@ -138,10 +196,6 @@ edition_date: "2026-10-11"
 
 ## 藝術家的私人檔案
 
-[學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，1988年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，1988年。藝術家檔案。
-
 [擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。
@@ -163,14 +217,6 @@ edition_date: "2026-10-11"
 ## 照片中的人生：畫室與藝術界
 
 檔案照片呈現出展覽清單無法表達的生活：狹小的畫室、未完成的畫布與已經成形的作品，以及畫前的交談。黑白肖像中的年輕畫家獨自面對創作；展覽照片中的他則置身於老師、同行和觀眾之間。這兩種場景同樣重要。作品始於個人探索，此後的生命則在藝術界的交流中展開。
-
-[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-年輕時的藝術家與自己的作品。 藝術家檔案。
-
-[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-年輕時的藝術家與自己的作品。 藝術家檔案。
 
 [年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ edition_date: "2026-10-11"
 
 這些工作照片為風景畫補充了場地的尺度、變化的光線和表面質感。牆壁、屋頂、地面與樹冠構成色彩關係的材料。在完成的畫作中，觀察可以更自由、更概括，而與實景的聯繫仍保留在空間組織中。這些照片的具體地點和年份尚未確定，不能僅憑畫面便將其歸入米拉基、蒙特內哥羅或亞塞拜然的某次寫生活動。
 
+[戶外寫生途中：岩石與秋日樹木。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+戶外寫生途中：岩石與秋日樹木。 藝術家檔案。
+
 [戶外寫生途中：鄉村街巷與山景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 戶外寫生途中：鄉村街巷與山景。 藝術家檔案。
@@ -247,10 +297,6 @@ edition_date: "2026-10-11"
 [戶外寫生途中：院落與鄉村建築。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 戶外寫生途中：院落與鄉村建築。 藝術家檔案。
-
-[戶外寫生途中：岩石與秋日樹木。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-戶外寫生途中：岩石與秋日樹木。 藝術家檔案。
 
 ## RED：在觀眾面前作畫
 
@@ -280,13 +326,13 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 展覽照片展示了作品與觀眾相遇的另一面。牆面的留白、畫作之間的距離，以及向後退步的空間，都會改變觀看條件。全景表現作品的尺度，觀眾入鏡的照片則呈現近看與遠觀之間的切換。
 
+[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
+
 [觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
-
-[展覽陳列全景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-展覽陳列全景。 藝術家檔案。
 
 ## 肯定與職業歷程
 
@@ -299,17 +345,3 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 [瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。
-
-## 與拉希姆・艾哈邁多夫老師在一起
-
-拉希姆・艾哈邁多夫是烏茲別克畫家與美術教育家，獲人民藝術家稱號，並為藝術科學院院士。他的肖像畫在烏茲別克現代繪畫的發展中占有重要地位。瓦利霍賈耶夫於1986至1991年在他的畫室學習。這些檔案照片為這段師承關係留下了生動的見證：老師與年輕畫家身處同業之中，共同參與當時的藝術生活。下方連結指向蘇富比圖錄中收錄的艾哈邁多夫作品。
-
-[拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。
-
-[布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。
-
-**蘇富比圖錄中的拉希姆・艾哈邁多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

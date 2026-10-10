@@ -13,11 +13,83 @@ edition_date: "2026-10-11"
 
 <div dir="rtl" lang="he">
 
-חיים ושיחות על אמנות
+חיים באמנות · נמנגן, הסדנה והציור
 
-מהסטודיו של רחים אחמדוב ועד לבדים הממלאים אולם מוזיאון, מסעו של האמן האוזבקי הוא מסע של התבוננות, שאלות וחקירה חדשה.
+ילד מנמנגן שרצה להיות צייר כבר בבית הספר: זיכרונות משפחתיים, עבודות מוזמנות ראשונות, לימודים אצל רחים אחמדוב וחיפוש אחר שפה ציורית אישית.
 
-הדיוקן הביוגרפי מבוסס על ראיונות שפורסמו, היסטוריית התערוכות וחומרים מארכיון האמן.
+הדיוקן הביוגרפי מבוסס על ראיונות שפורסמו, תיעוד תערוכות וארכיון האמן; זיכרונות המשפחה משלימים את סיפור הילדות והסדנה הראשונה.
+
+[האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+האמן הצעיר בין יצירותיו. ארכיון האמן.
+
+## נמנגן: הבית שבו מתחיל הסיפור
+
+לפני אולמות התצוגה, הנסיעות לחו״ל והציורים הגדולים, הייתה נמנגן. כאן גדל איברגים וליחודז׳אייב עם שלוש אחיות גדולות. אביו היה בעל מלאכה, ולפני כן עבד בלשכת הגיוס העירונית. אמו טיפלה בבית ובמשפחה. עבור הבן הצעיר, בית המשפחה נותר חלק חשוב מחייו גם לאחר שהציור היה למקצועו.
+
+הוא רצה להיות אמן כבר בשנות בית הספר. אולם בין משאלת הילדות לבין הכניסה ללימודים הגבוהים היו שנים של עבודה עצמאית. סצנות השוק, הדיוקנאות וציורי החיים הכפריים שיצר בהמשך מעידים על תשומת לבו ליומיום: לאנשים, לעיסוקיהם ולסביבתם. כאן נפגש סיפורו של הצייר עם תולדות עיר הולדתו ומשפחתו.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## צפו בריאיון
+
+[סרטון](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+"Ijod formulasi", 9 ביוני 2026, ערוץ הטלוויזיה Madaniyat va Ma’rifat. הסרטון למעלה באוזבקית; הקישורים למטה מובילים לקטעים הרלוונטיים מהשיחה.
+
+## העבודות המוזמנות הראשונות: עבודה לפני התעודה
+
+בשנות העשרים לחייו וליחודז׳אייב כבר ארגן ביצוע של עבודות אמנות מוזמנות. ההתנסות המעשית והניסיון בניהול עבודה משותפת קדמו להשלמת ההכשרה המקצועית. שתי דרכים אלה יוסיפו להתפתח יחד: הציור שלו ויצירת תנאים שבהם אמנים אחרים יכולים לעבוד.
+
+בתצלומי הארכיון נראה האמן הצעיר בין יצירות ובסביבת העבודה. הם מאפשרים להתחיל באדם שעדיין בונה את חייו המקצועיים, זמן רב לפני התערוכות במוזיאונים והתפקידים הציבוריים של השנים המאוחרות.
+
+[האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+האמן הצעיר בין יצירותיו. ארכיון האמן.
+
+## המורה פותח את הדרך, האמן מחפש את שפתו
+
+הוא נכנס למוסד ללימודי אמנות כאדם בוגר. בין 1986 ל־1991 למד ציור במכון הממלכתי לתיאטרון ולאמנות בטשקנט על שם אלכסנדר אוסטרובסקי, בסדנה של המורה רחים אחמדוב. אחרי שנות העבודה הראשונות הפכה משאלת הילדות לבחירה מקצועית מודעת.
+
+[איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, 1988. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, 1988. ארכיון האמן.
+
+וליכודג'ייב נולד בנמנגן וקיבל את הכשרתו המקצועית בטשקנט, בסטודיו של האמן והמורה רחים אחמדוב. בראיון בשנת 2017, הוא תיאר את מורו כמי שעיצב את הבנתו את הצבע. זהו קשר חשוב: מאחורי חופש הציור שלו ניצבת הכשרה קפדנית שסיפקה את היסודות לשפה אמנותית עצמאית.
+
+בראיון טלוויזיוני, האמן מבחין בין רישום להתפתחותו של אמן. הכשרה פותחת עולם עצום של אפשרויות, אך מציאת הכיוון האישי בתוכו תלויה בידיו של האמן. ניתן לעקוב אחר מסע זה דרך עבודותיו, דרך דיוקנאות, טבע דומם, נופים וקומפוזיציות ז'אנריות מרובות דמויות.
+
+[הסרטון למעלה · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 באפריל 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## לצד המורה רחים אחמדוב
+
+רחים אחמדוב היה מן האמנים הבולטים בציור האוזבקי ומורה שהכשיר כמה דורות של אמנים. הוא נשא את התארים אמן העם של הרפובליקה הסובייטית הסוציאליסטית האוזבקית ושל ברית המועצות, היה פרופסור וחבר מתכתב באקדמיה הסובייטית לאמנויות. הדיוקנאות, סצנות היומיום והנופים שלו מחברים מסורת ציורית מוצקה עם התעניינות באנשים ובתרבות של אוזבקיסטן. הלימודים אצלו הם חלק חשוב בהתפתחותו המקצועית של וליחודז׳אייב.
+
+[רחים אחמדוב — ביוגרפיה באקדמיה הרוסית לאמנויות](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+רחים אחמדוב היה צייר ומורה אוזבקי, בעל התואר אמן העם וחבר האקדמיה לאמנויות. לדיוקנאותיו מקום חשוב בהתפתחות הציור המודרני באוזבקיסטן. וליחודג׳אייב למד בסטודיו שלו בשנים 1986–1991. תצלומי הארכיון מעניקים לקשר הזה ממד אנושי: המורה והאמן הצעיר נראים לצד עמיתיהם, כחלק מאותה סביבה אמנותית. הקישורים שלהלן מובילים ליצירות של אחמדוב המתועדות בקטלוגים של סותביס.
+
+[המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.
+
+[ולדימיר איוונוביץ׳ בורמקין מברך את המורה רחים אחמדוב. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[ולדימיר איוונוביץ׳ בורמקין](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) מברך את המורה רחים אחמדוב. מהארכיון האישי של האמן.
+
+**יצירות של רחים אחמדוב בקטלוגים של סותביס:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: סדנת האמנות הפרטית הראשונה
+
+ב־1987, עוד בתקופת לימודיו, הקים וליחודז׳אייב את סדנת האמנות הפרטית הראשונה שלו. משפחתו זוכרת זאת כתקופה שבה החלו להתרופף ההגבלות על פעילות עצמאית ברפובליקה הסובייטית הסוציאליסטית האוזבקית. סדנת המכון העניקה בסיס מקצועי; הסדנה שלו סיפקה מקום לעבודה מעשית ולהזמנות אמנות.
+
+בביוגרפיה הזאת הלימודים והעבודה מתקדמים יחד. בהמשך יצטרפו ארגון תערוכות, אוצרות והקמת גלריה. הסדנה הראשונה חושפת את רציפות הדרך: האמן יוצר עבודות ובה בעת מחפש את התנאים שבהם עשייה אמנותית יכולה להתקיים.
+
+## אחרי הלימודים: לחזור אל האם
+
+לאחר שסיים את לימודיו ב־1991, חזר וליחודז׳אייב לנמנגן כדי להיות קרוב לאמו. כבן הצעיר, הוא קשר את ההחלטה לדאגה לבית המשפחה. בתולדות משפחתו היא ביטאה מסורת אוזבקית של שמירת הקשר בין הדורות, כבוד למבוגרים ותמיכה בהורים. החזרה הייתה בחירה אישית וגם המשך של הקשר המשפחתי.
+
+החזרה לעיר הולדתו הייתה גם חלק מדרכו המקצועית. נמנגן נשארה מקום מרכזי בציוריו, בסדרת השוק, בהתבוננות בחיי היומיום ובדמויות בני זמנו. הנסיעות המאוחרות והשינויים בשפה הציורית הרחיבו את המבט הזה, תוך שמירה על תשומת הלב לאדם ולחייו.
 
 [איברגים וליכודג'ייב. דיוקן מקטלוג התערוכה "בשקט". רפרודוקציה של תצלום ארכיון של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -28,25 +100,9 @@ edition_date: "2026-10-11"
 - **תחומי עבודה:** ציור, פיסול, אוצרות וארגון פרויקטים אמנותיים
 - **תפקידים מקצועיים:** אקדמאי של האקדמיה לאמנויות של אוזבקיסטן; יו"ר איגוד האמנים של אוזבקיסטן; מייסד Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## צפו בריאיון
-
-[סרטון](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-"Ijod formulasi", 9 ביוני 2026, ערוץ הטלוויזיה Madaniyat va Ma’rifat. הסרטון למעלה באוזבקית; הקישורים למטה מובילים לקטעים הרלוונטיים מהשיחה.
-
 בתוכנית "Ijod formulasi" (הנוסחה ליצירתיות), השיחה מתחילה בביקור בסטודיו של איברגים וליכודג'ייב. עבודות מתקופות שונות ניצבות זו לצד זו: סצנת שוק, נוף אדום, קומפוזיציה מופשטת גדולה. מאחוריהן נפרש מסלול יצירה אחד, אך בכל עבודה מתמודד האמן עם אתגר חדש. מפגש זה בסטודיו עוזר לנו להבין את הדבר החשוב ביותר: סקרנותו של וליכודג'ייב פותחת ללא הרף כיוונים חדשים לחקריו.
 
 הוא צייר ופסל, מארגן ואוצר, מייסד גלריה ומנטור. שאלה משותפת עוברת בכל הפעילויות הללו: כיצד לשמור על פרספקטיבה רעננה? בשיחות שפורסמו, החוויה מוצגת כהזדמנות להמשיך במחקר, להתנסות ולמצוא פתרונות אקספרסיביים חדשים.
-
-## המורה פותח את הדרך, האמן מחפש את שפתו
-
-וליכודג'ייב נולד בנמנגן וקיבל את הכשרתו המקצועית בטשקנט, בסטודיו של האמן והמורה רחים אחמדוב. בראיון בשנת 2017, הוא תיאר את מורו כמי שעיצב את הבנתו את הצבע. זהו קשר חשוב: מאחורי חופש הציור שלו ניצבת הכשרה קפדנית שסיפקה את היסודות לשפה אמנותית עצמאית.
-
-בראיון טלוויזיוני, האמן מבחין בין רישום להתפתחותו של אמן. הכשרה פותחת עולם עצום של אפשרויות, אך מציאת הכיוון האישי בתוכו תלויה בידיו של האמן. ניתן לעקוב אחר מסע זה דרך עבודותיו, דרך דיוקנאות, טבע דומם, נופים וקומפוזיציות ז'אנריות מרובות דמויות.
-
-[הסרטון למעלה · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 באפריל 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## הבזאר הוא יותר מנושא
 
@@ -110,6 +166,8 @@ edition_date: "2026-10-11"
 
 [הסרטון למעלה · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+כיום ידועות יותר מ־600 יצירות של איברגים וליחודז׳אייב, בעיקר ציורים. הן כוללות תקופות וחיפושים שונים: הצבעוניות המאופקת של ראשית הדרך, שוק נמנגן, דיוקנאות, טבע דומם, עירום, נופים בציור באוויר הפתוח, RED והפשטה. עבודתו נמשכת דרך שאלות חדשות על צבע, צורה וקומפוזיציה.
+
 ## הקומפוזיציה מחברת בין שנים שונות
 
 במאמר פרופיל משנת 2012 עבור San'at, תיארה אוקסנה קדישבה את מסעו של וליכודג'ייב דרך מספר כיוונים: פלטת הצבעים המוקדמת והמאופקת שלו, סצנות שוק, נופים מונטנגריים ודימויי טבע דומם פרחוניים. במרכז קריאתה עומדת יכולתו של האמן להפוך תצפית לקומפוזיציה. הקשר זה עוזר לנו לראות את חייו היצירתיים בצורה מקיפה יותר: כיוון חדש צומח משאלה נוספת על התמונה, בעוד נושאים קודמים ממשיכים להתקיים יחד.
@@ -140,10 +198,6 @@ edition_date: "2026-10-11"
 
 ## מן הארכיון האישי של האמן
 
-[איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, 1988. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, 1988. ארכיון האמן.
-
 [איברגים וליחודז'אייב, מנהל הקרן המיוחדת, 2002. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 איברגים וליחודז'אייב, מנהל הקרן המיוחדת, 2002. ארכיון האמן.
@@ -165,14 +219,6 @@ edition_date: "2026-10-11"
 ## חיים בתצלומים: הסטודיו והסביבה האמנותית
 
 תצלומי הארכיון מגלים את מה שרשימת תערוכות אינה מספרת: הצפיפות בסטודיו, בד שטרם הושלם לצד ציור שכבר מצא את צורתו, ושיחות מול יצירות. בדיוקנאות בשחור־לבן האמן הצעיר לבדו עם עבודתו; בתצלומי התערוכות הוא נמצא בין מורים, עמיתים וצופים. שני המצבים חשובים לסיפורו. ציור מתחיל בחיפוש אישי, אך המשך חייו מתרחש בתוך סביבה אמנותית.
-
-[האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-האמן הצעיר בין יצירותיו. ארכיון האמן.
-
-[האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-האמן הצעיר בין יצירותיו. ארכיון האמן.
 
 [האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -242,6 +288,10 @@ edition_date: "2026-10-11"
 
 תצלומי העבודה משלימים את ציורי הנוף בתחושת קנה מידה, אור משתנה ומרקם. קיר, גג, רצועת אדמה וצמרת עץ מספקים חומר ליחסי צבע. בציור המוגמר ההתבוננות יכולה להיות חופשית ומרוכזת יותר, והקשר לטבע נשאר בבניית המרחב. מקום התצלומים ושנתם לא נקבעו. אי אפשר לשייך אותם, על סמך המראה בלבד, למסע מסוים במיראקי, במונטנגרו או באזרבייג׳ן.
 
+[במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.
+
 [במסע לציור מן הטבע: רחוב כפרי ונוף הררי. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 במסע לציור מן הטבע: רחוב כפרי ונוף הררי. ארכיון האמן.
@@ -249,10 +299,6 @@ edition_date: "2026-10-11"
 [במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.
-
-[במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.
 
 ## RED: לצייר מול קהל
 
@@ -282,13 +328,13 @@ edition_date: "2026-10-11"
 
 תצלומי התצוגה מראים את המפגש של הציור עם הצופים. שטחי הקיר הריקים, המרווחים בין היצירות והאפשרות לסגת לאחור משנים את תנאי ההתבוננות. המראה הכללי מבהיר קנה מידה, ותצלום המבקרים מראה את התנועה בין מבט מקרוב למבט מרחוק.
 
+[תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. [על התערוכה From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
+
 [מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.
-
-[מראה כללי של התצוגה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-מראה כללי של התצוגה. ארכיון האמן.
 
 ## הוקרה והמסלול המקצועי
 
@@ -301,20 +347,6 @@ edition_date: "2026-10-11"
 [וליחודז'אייב בטקס הוקרה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 וליחודז'אייב בטקס הוקרה. ארכיון האמן.
-
-## לצד המורה רחים אחמדוב
-
-רחים אחמדוב היה צייר ומורה אוזבקי, בעל התואר אמן העם וחבר האקדמיה לאמנויות. לדיוקנאותיו מקום חשוב בהתפתחות הציור המודרני באוזבקיסטן. וליחודג׳אייב למד בסטודיו שלו בשנים 1986–1991. תצלומי הארכיון מעניקים לקשר הזה ממד אנושי: המורה והאמן הצעיר נראים לצד עמיתיהם, כחלק מאותה סביבה אמנותית. הקישורים שלהלן מובילים ליצירות של אחמדוב המתועדות בקטלוגים של סותביס.
-
-[המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.
-
-[בורמקין מברך את המורה רחים אחמדוב. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-בורמקין מברך את המורה רחים אחמדוב. מהארכיון האישי של האמן.
-
-**יצירות של רחים אחמדוב בקטלוגים של סותביס:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
 
 
 </div>

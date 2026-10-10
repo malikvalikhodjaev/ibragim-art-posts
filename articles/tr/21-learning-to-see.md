@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
-Hayat ve sanat üzerine sohbetler
+Sanatla geçen bir hayat · Namangan, atölye ve resim
 
-Rahim Ahmedov'un atölyesinden bir müze salonunu dolduran tuvallere uzanan yolculuğu, gözlem, sorgulama ve yeni keşiflerle dolu bir süreçtir.
+Okul yıllarında ressam olmaya karar veren Namanganlı bir çocuğun hikâyesi: aile anıları, ilk siparişler, Rahim Ahmedov’un atölyesi ve kendine özgü bir resim dili arayışı.
 
-Bu biyografik portre, yayınlanmış röportajlara, sergi geçmişine ve sanatçının arşivindeki materyallere dayanmaktadır.
+Bu biyografik portre yayımlanmış söyleşilere, sergi kayıtlarına ve sanatçının arşivine dayanır; çocukluğu ve ilk atölyesiyle ilgili anlatı aile anılarıyla tamamlanmıştır.
+
+[Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
+
+## Namangan: hikâyenin başladığı ev
+
+Sergi salonlarından, uluslararası yolculuklardan ve büyük tuvallerden önce Namangan vardı. Ibragim Valikhodjaev burada üç ablasıyla büyüdü. Babası zanaatkârdı; daha önce şehrin askerlik şubesinde çalışmıştı. Annesi ev ve aileyle ilgileniyordu. Ailenin en küçük oğlu için doğduğu ev, resim mesleği olduktan sonra da hayatındaki önemini korudu.
+
+Daha okuldayken ressam olmak istiyordu. Ancak bu çocukluk isteğiyle yükseköğrenime başlaması arasında kendi başına çalıştığı yıllar bulunur. Daha sonra yaptığı pazar sahneleri, portreler ve kırsal yaşam resimleri gündelik hayata verdiği önemi gösterir: insanlar, uğraşları ve çevreleri. Sanatçının hikâyesi burada doğduğu şehrin ve ailesinin tarihiyle buluşur.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## Söyleşiyi izleyin
+
+[Video kaydı](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+"İjod formulasi," 9 Haziran 2026, Madaniyat va Ma'rifat TV kanalı. Yukarıdaki video kaydı Özbekçedir; aşağıdaki bağlantılar konuşmanın ilgili bölümlerine götürmektedir.
+
+## İlk siparişler: diplomadan önce başlayan çalışma
+
+Valikhodjaev yirmili yaşlarında sanat siparişlerinin hazırlanmasını organize ediyordu. Uygulamalı çalışma ve ortak bir işi yürütme deneyimi diplomadan önce başladı. Bu iki yön daha sonra da birlikte gelişecekti: kendi resimleri ve başka sanatçıların çalışabileceği koşulları oluşturmak.
+
+Arşiv fotoğrafları genç sanatçıyı eserlerin arasında ve çalışma ortamında gösterir. Böylece hikâye, ilerleyen yılların müze sergilerinden ve kamusal sorumluluklarından çok önce, meslek hayatını kurmakta olan bir insanla başlar.
+
+[Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
+
+## Öğretmen yolu açar, sanatçı kendi dilini arar.
+
+Enstitüye yetişkin yaşta girdi. 1986–1991 yılları arasında Aleksandr Ostrovski adını taşıyan Taşkent Devlet Tiyatro ve Sanat Enstitüsü’nde, Usta Rahim Ahmedov’un atölyesinde resim eğitimi aldı. Okul yıllarındaki isteği, ilk çalışma deneyimlerinden sonra bilinçli bir meslek seçimine dönüştü.
+
+[Ibragim Valikhodjaev öğrencilik yıllarında, bir alçı etüt büstünün yanında, 1988. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev öğrencilik yıllarında, bir alçı etüt büstünün yanında, 1988. Sanatçının arşivi.
+
+Valikhodjaev, Namangan'da doğdu ve profesyonel eğitimini Taşkent'te, Usta Rahim Ahmedov'un atölyesinde aldı. 2017'deki bir röportajında, öğretmenini renk anlayışını şekillendiren kişi olarak tanımladı. Bu önemli bir bağlantı: resimlerindeki özgürlüğün ardında, bağımsız bir sanatsal dilin temelini oluşturan titiz bir eğitim yatıyor.
+
+Bir televizyon röportajında ​​sanatçı, çizim ile sanatçının gelişimi arasında bir ayrım yapıyor. Eğitim, geniş bir olasılıklar dünyasının kapılarını açıyor, ancak bu dünya içinde kendi yönünü bulmak sanatçıya kalmış. Bu yolculuk, portreler, natürmortlar, manzaralar ve gündelik yaşamı konu alan çok figürlü kompozisyonlar aracılığıyla eserlerinde izlenebilir.
+
+[Yukarıdaki video kaydı · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## Usta Rahim Ahmedov ile
+
+Rahim Ahmedov, Özbek resminin önemli ustalarından ve birkaç kuşak sanatçı yetiştirmiş bir eğitimciydi. Özbek Sovyet Sosyalist Cumhuriyeti ve Sovyetler Birliği Halk Sanatçısı unvanlarını taşıyor; profesör ve Sovyet Sanat Akademisi’nin muhabir üyesi olarak görev yapıyordu. Portreleri, gündelik yaşam kompozisyonları ve manzaraları güçlü bir resim geleneğini Özbekistan’ın insanlarına ve kültürüne duyduğu ilgiyle birleştirir. Ondan eğitim almak, Valikhodjaev’in mesleki oluşumunda önemli bir yere sahiptir.
+
+[Rahim Ahmedov — Rusya Sanat Akademisi’ndeki biyografisi](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+Özbek ressam ve eğitimci Rahim Ahmedov, Halk Sanatçısı ve akademisyen unvanlarıyla ülkesinin modern resim geleneğinde önemli bir yer edinmiştir. Özellikle portreleriyle tanınır. Valikhodjaev, 1986–1991 yıllarında onun atölyesinde eğitim aldı. Arşiv fotoğrafları bu ilişkinin insani yönünü gösterir: usta ve genç sanatçı, meslektaşlarıyla aynı sanat ortamında yer alır. Aşağıdaki bağlantılar Sotheby’s kataloglarında belgelenen Ahmedov tablolarına aittir.
+
+[Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
+
+[Vladimir İvanoviç Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[Vladimir İvanoviç Burmakin](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>), Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.
+
+**Sotheby’s kataloglarında Rahim Ahmedov’un tabloları:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: ilk özel sanat atölyesi
+
+Valikhodjaev 1987’de, henüz öğrenciyken, ilk özel sanat atölyesini kurdu. Ailesinin anılarına göre bu, Özbek Sovyet Sosyalist Cumhuriyeti’nde bağımsız faaliyete yönelik kısıtlamaların gevşemeye başladığı bir dönemdi. Enstitü atölyesi mesleki temel sağlarken kendi atölyesi uygulamalı çalışma ve sanat siparişleri için alan açıyordu.
+
+Bu hayat hikâyesinde eğitimle çalışma yan yana ilerler. Sergi organizasyonu, küratörlük ve bir galeri açmak daha sonra bu çizgiye eklenecektir. İlk atölye sürekliliği görünür kılar: sanatçı eser üretirken sanatsal çalışmanın gerçekleşebileceği koşulları da arar.
+
+## Mezuniyetten sonra: annesinin yanına dönüş
+
+1991’de mezun olduktan sonra Valikhodjaev annesine yakın olmak için Namangan’a döndü. En küçük oğul olarak bu kararı aile evine sahip çıkmakla ilişkilendiriyordu. Ailesinin hikâyesinde bu, kuşaklar arasındaki bağı sürdürme, büyüklere saygı gösterme ve anne babaya destek olma gibi Özbek geleneklerini yansıtır. Dönüş hem kişisel bir seçim hem de aile bağının devamıydı.
+
+Doğduğu şehre dönüş mesleki yolculuğunun da parçası oldu. Namangan; pazar dizisinde, gündelik hayat gözlemlerinde ve çağdaşlarının tasvirlerinde resminin önemli bir mekânı olarak kaldı. Sonraki yolculuklar ve resim dilindeki değişimler bu alanı genişletirken insanlara ve gündelik deneyime ilgisi sürdü.
 
 [İbrahim Valikhodjaev. “In Silence” sergi kataloğundan portre. Sanatçının arşiv fotoğrafının reprodüksiyonu.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ Bu biyografik portre, yayınlanmış röportajlara, sergi geçmişine ve sanatç
 - **Çalışma alanları:** Resim, heykel, küratörlük ve sanat projeleri düzenleme
 - **Profesyonel roller:** 2023’ten bu yana Özbekistan Sanat Akademisi üyesi; 2017’den bu yana Özbekistan Sanatçılar Birliği başkanı; Valikhodjaev Gallery House’un kurucusu.
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## Söyleşiyi izleyin
-
-[Video kaydı](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-"İjod formulasi," 9 Haziran 2026, Madaniyat va Ma'rifat TV kanalı. Yukarıdaki video kaydı Özbekçedir; aşağıdaki bağlantılar konuşmanın ilgili bölümlerine götürmektedir.
-
 "İjod formulasi" (Yaratıcılığın Formülü) programında, sohbet İbrahim Valikhodjaev'in atölyesine yapılan bir ziyaretle başlıyor. Çeşitli dönemlere ait eserler yan yana duruyor: bir pazar sahnesi, kırmızı bir manzara, büyük bir soyut kompozisyon. Bunların ardında tek bir yaratıcı yaşam yatıyor, ancak sanatçı her eserde yeni bir meydan okumayı ele alıyor. Atölyedeki bu buluşma, en önemli şeyi anlamamıza yardımcı oluyor: Valikhodjaev'in merakı, keşifleri için sürekli olarak yeni yönler açıyor.
 
 O bir ressam ve heykeltıraş, organizatör ve küratör, galeri kurucusu ve akıl hocasıdır. Tüm bu faaliyetlerde ortak bir soru göze çarpar: taze bir bakış açısını nasıl koruyabiliriz? Yayınlanan söyleşilerde, deneyim, araştırmaya devam etmek, denemeler yapmak ve yeni ifade çözümleri bulmak için bir fırsat olarak sunulmaktadır.
-
-## Öğretmen yolu açar, sanatçı kendi dilini arar.
-
-Valikhodjaev, Namangan'da doğdu ve profesyonel eğitimini Taşkent'te, Usta Rahim Ahmedov'un atölyesinde aldı. 2017'deki bir röportajında, öğretmenini renk anlayışını şekillendiren kişi olarak tanımladı. Bu önemli bir bağlantı: resimlerindeki özgürlüğün ardında, bağımsız bir sanatsal dilin temelini oluşturan titiz bir eğitim yatıyor.
-
-Bir televizyon röportajında ​​sanatçı, çizim ile sanatçının gelişimi arasında bir ayrım yapıyor. Eğitim, geniş bir olasılıklar dünyasının kapılarını açıyor, ancak bu dünya içinde kendi yönünü bulmak sanatçıya kalmış. Bu yolculuk, portreler, natürmortlar, manzaralar ve gündelik yaşamı konu alan çok figürlü kompozisyonlar aracılığıyla eserlerinde izlenebilir.
-
-[Yukarıdaki video kaydı · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## Çarşı, bir konudan çok daha fazlasıdır.
 
@@ -108,6 +164,8 @@ Onun yolculuğu eserlerinde devam ediyor: pazar yerindeki insanlar, kırmızın�
 
 [Yukarıdaki video kaydı · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+Bugün Ibragim Valikhodjaev’in çoğu resim olmak üzere 600’den fazla eseri biliniyor. Erken döneminin ölçülü paleti, Namangan pazarı, portreler, natürmortlar, nü, açık hava manzaraları, RED ve soyutlama farklı dönem ve arayışları oluşturur. Sanatçı renk, biçim ve kompozisyonun yeni olanaklarını araştırmayı sürdürüyor.
+
 ## Bu kompozisyon farklı yılları birbirine bağlıyor.
 
 Oksana Kadysheva, 2012 yılında San'at için yazdığı bir profil yazısında, Valikhodjaev'in yolculuğunu çeşitli yönlerden ele aldı: erken dönemdeki ölçülü renk paleti, pazar sahneleri, Karadağ manzaraları ve çiçekli natürmortlar. Onun yorumunun merkezinde, sanatçının gözlemi kompozisyona dönüştürme yeteneği yer alıyor. Bu bağlam, yaratıcı yaşamını daha kapsamlı bir şekilde görmemize yardımcı oluyor: önceki temalar varlığını sürdürürken, görüntüyle ilgili bir başka sorudan yeni bir yön ortaya çıkıyor.
@@ -138,10 +196,6 @@ Sanatçı Bağlantıları: [YouTube](<https://www.youtube.com/@ibragim.valikhodj
 
 ## Sanatçının kişisel arşivinden
 
-[Ibragim Valikhodjaev öğrencilik yıllarında, bir alçı etüt büstünün yanında, 1988. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev öğrencilik yıllarında, bir alçı etüt büstünün yanında, 1988. Sanatçının arşivi.
-
 [Özel Fon yöneticisi Ibragim Valikhodjaev, 2002. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 Özel Fon yöneticisi Ibragim Valikhodjaev, 2002. Sanatçının arşivi.
@@ -163,14 +217,6 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 ## Fotoğraflarla bir yaşam: atölye ve sanat çevresi
 
 Arşiv fotoğrafları, bir sergi listesinin anlatamadıklarını gösterir: atölyenin dar alanını, tamamlanmamış bir tuvalin yanında çözümüne ulaşmış bir resmi, eserlerin önündeki konuşmaları. Siyah beyaz portrelerde genç sanatçı işiyle baş başadır; sergi fotoğraflarında hocaları, meslektaşları ve izleyicilerle bir araya gelir. Her iki ortam da bu yolculuğun parçasıdır. Resim kişisel bir arayışla doğar; sonraki yaşamı sanat çevresinde sürer.
-
-[Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
-
-[Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
 [Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ Açık havada resim, ilk fırça darbesinden önce, bir yürüyüş ve bakış a
 
 Bu çalışma fotoğrafları, manzara resimlerine yerin ölçeğini, değişken ışığını ve yüzey dokularını ekler. Duvar, çatı, toprak şeridi ve ağaç tacı renk ilişkilerinin malzemesine dönüşür. Bitmiş resimde gözlem daha serbest ve yoğun olabilir; doğayla bağ mekânın kuruluşunda sürer. Fotoğrafların kesin yeri ve yılı bilinmiyor. Yalnızca görüntülerine bakarak onları Miraki, Karadağ ya da Azerbaycan’daki belirli bir etkinliğe bağlamak mümkün değildir.
 
+[Doğadan çalışma gezisi: kayalar ve sonbahar ağaçları. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Doğadan çalışma gezisi: kayalar ve sonbahar ağaçları. Sanatçının arşivi.
+
 [Doğadan çalışma gezisi: köy sokağı ve dağ manzarası. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 Doğadan çalışma gezisi: köy sokağı ve dağ manzarası. Sanatçının arşivi.
@@ -247,10 +297,6 @@ Doğadan çalışma gezisi: köy sokağı ve dağ manzarası. Sanatçının arş
 [Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.
-
-[Doğadan çalışma gezisi: kayalar ve sonbahar ağaçları. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-Doğadan çalışma gezisi: kayalar ve sonbahar ağaçları. Sanatçının arşivi.
 
 ## RED: izleyicilerin önünde resim yapmak
 
@@ -280,13 +326,13 @@ Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sana
 
 Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar alanları, eserlerin arasındaki uzaklık ve geriye çekilebilme olanağı algıyı değiştirir. Genel görünüm ölçeği anlatır; ziyaretçilerin bulunduğu kare, yakından incelemeyle uzaktan bakış arasındaki geçişi gösterir.
 
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
+
 [Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
-
-[Serginin genel görünümü. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-Serginin genel görünümü. Sanatçının arşivi.
 
 ## Takdir ve mesleki yolculuk
 
@@ -299,17 +345,3 @@ Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.
 [Valikhodjaev bir ödül töreninde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Valikhodjaev bir ödül töreninde. Sanatçının arşivi.
-
-## Usta Rahim Ahmedov ile
-
-Özbek ressam ve eğitimci Rahim Ahmedov, Halk Sanatçısı ve akademisyen unvanlarıyla ülkesinin modern resim geleneğinde önemli bir yer edinmiştir. Özellikle portreleriyle tanınır. Valikhodjaev, 1986–1991 yıllarında onun atölyesinde eğitim aldı. Arşiv fotoğrafları bu ilişkinin insani yönünü gösterir: usta ve genç sanatçı, meslektaşlarıyla aynı sanat ortamında yer alır. Aşağıdaki bağlantılar Sotheby’s kataloglarında belgelenen Ahmedov tablolarına aittir.
-
-[Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
-
-[Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.
-
-**Sotheby’s kataloglarında Rahim Ahmedov’un tabloları:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

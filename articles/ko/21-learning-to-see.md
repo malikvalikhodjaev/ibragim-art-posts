@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_925.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
-삶과 예술에 대한 대화
+예술과 함께한 삶 · 나망간, 작업실, 회화
 
-라힘 아흐메도프의 작업실에서부터 미술관 전시실을 가득 채운 캔버스에 이르기까지, 이 우즈베키스탄 예술가의 여정은 관찰, 질문, 그리고 새로운 탐구의 연속이다.
+학창 시절부터 화가를 꿈꾼 나망간의 소년. 가족의 기억과 초기 의뢰 작업, 라힘 아흐메도프의 가르침을 따라 독자적인 회화 언어를 찾아가는 여정을 살펴본다.
 
-이 인물 소개는 공개된 인터뷰, 전시 이력 및 작가의 아카이브 자료를 바탕으로 작성되었다.
+이 전기적 글은 공개된 인터뷰, 전시 기록, 화가의 아카이브를 바탕으로 작성했다. 어린 시절과 첫 작업실 이야기는 가족의 회고로 보완했다.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+## 나망간: 이야기가 시작된 집
+
+전시장과 해외 여행, 대형 캔버스에 앞서 나망간에서의 삶이 있었다. 이브라김 발리호자예프는 이 도시에서 세 누나와 함께 자랐다. 아버지는 장인이었으며, 그전에는 시의 병무 사무소에서 일했다. 어머니는 집안일과 자녀 양육을 맡았다. 막내아들에게 가족의 집은 회화가 직업이 된 뒤에도 삶의 중요한 부분으로 남았다.
+
+그는 학교에 다닐 때부터 화가가 되고 싶어 했다. 그러나 어린 시절의 꿈과 고등 예술교육 사이에는 스스로 일한 여러 해가 있었다. 이후의 시장 장면, 초상화, 농촌 생활을 그린 작품에는 일상에 대한 관심이 드러난다. 사람들, 그들의 일, 그리고 살아가는 환경이다. 화가의 여정은 여기서 고향과 가족의 역사에 닿는다.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## 인터뷰 영상 보기
+
+[영상](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+"Ijod formulasi", 2026년 6월 9일, Madaniyat va Ma'rifat TV 채널. 위에 있는 영상은 우즈베크어로 되어 있으며, 아래 링크를 클릭하면 해당 대화의 관련 부분을 볼 수 있다.
+
+## 초기 의뢰 작업: 졸업 전에 시작한 일
+
+발리호자예프는 이십 대에 이미 미술 의뢰 작업을 조직하고 있었다. 실무와 공동 작업을 이끄는 경험은 전문 교육의 마무리보다 먼저 시작됐다. 자신의 회화와 다른 예술가들이 일할 수 있는 여건을 만드는 일은 이후에도 나란히 발전한다.
+
+아카이브 사진에는 작품들 사이와 작업 환경 속에 있는 젊은 화가가 보인다. 이야기는 훗날의 미술관 전시와 공적 직책에 앞서, 자신의 직업적 삶을 만들어 가는 한 사람에게서 시작된다.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+## 선생은 길을 열어주고, 예술가는 자신의 언어를 찾는다.
+
+그가 대학에 들어간 것은 성인이 된 뒤였다. 1986년부터 1991년까지 알렉산드르 오스트롭스키의 이름을 딴 타슈켄트 국립 연극미술대학에서 회화를 공부하며 스승 라힘 아흐메도프의 작업실에서 배웠다. 초기의 일 경험을 거치면서 학창 시절의 꿈은 숙고한 직업적 선택으로 이어졌다.
+
+[학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.
+
+발리호자예프는 나망간에서 태어나 타슈켄트에서 라힘 아흐메도프 선생의 작업실에서 전문적인 미술 교육을 받았다. 2017년 인터뷰에서 그는 스승을 색채에 대한 자신의 이해를 형성해 준 인물로 묘사했다. 이는 중요한 연결고리이다. 그의 자유로운 회화 스타일 이면에는 독자적인 예술 언어의 토대를 마련해 준 엄격한 훈련이 자리 잡고 있기 때문이다.
+
+한 텔레비전 인터뷰에서 작가는 드로잉과 예술가로서의 성장 과정을 구분했다. 훈련은 무궁무진한 가능성의 세계를 열어주지만, 그 안에서 자신만의 방향을 찾는 것은 예술가 본인의 몫이다. 그의 작품, 즉 초상화, 정물화, 풍경화, 그리고 여러 인물이 등장하는 풍속화들을 통해 이러한 여정을 엿볼 수 있다.
+
+[위에 있는 영상 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## 스승 라힘 아흐메도프와 함께
+
+라힘 아흐메도프는 우즈베크 회화의 중요한 거장이자 여러 세대의 화가를 길러 낸 교육자였다. 우즈베크 소비에트 사회주의 공화국과 소련의 인민예술가 칭호를 받았으며 교수, 소련 미술아카데미 통신회원으로 활동했다. 그의 초상화와 풍속화, 풍경화는 탄탄한 회화 전통을 우즈베키스탄의 사람과 문화에 대한 관심과 연결한다. 그의 가르침은 발리호자예프의 전문적 성장에서 중요한 부분을 차지한다.
+
+[라힘 아흐메도프 약력 — 러시아 미술아카데미](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+라힘 아흐메도프는 우즈베키스탄의 화가이자 미술 교육자로, 인민예술가 칭호를 받았으며 예술아카데미 회원이었습니다. 그의 초상화는 우즈베키스탄 현대 회화의 발전에서 중요한 위치를 차지합니다. 발리호자예프는 1986년부터 1991년까지 그의 화실에서 배웠습니다. 이 기록 사진들은 스승과 젊은 화가가 동료들과 같은 미술계 안에서 활동하던 모습을 전합니다. 아래 링크는 소더비 카탈로그에 실린 아흐메도프의 작품으로 연결됩니다.
+
+[스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.
+
+[스승 라힘 아흐메도프에게 축하를 전하는 블라디미르 이바노비치 부르마킨. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+스승 라힘 아흐메도프에게 축하를 전하는 [블라디미르 이바노비치 부르마킨](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>). 화가의 개인 소장 자료.
+
+**소더비 카탈로그에 수록된 라힘 아흐메도프의 작품:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987년: 첫 개인 미술 작업실
+
+1987년, 아직 학생이던 발리호자예프는 첫 개인 미술 작업실을 열었다. 가족은 당시를 우즈베크 소비에트 사회주의 공화국에서 독립적인 경제활동에 대한 제약이 완화되기 시작한 시기로 기억한다. 대학 작업실은 전문 교육의 기반을 제공했고, 자신의 작업실은 실제 제작과 의뢰 작업을 위한 공간이 됐다.
+
+그의 삶에서 배움과 일은 함께 진행된다. 이후에는 전시 기획과 운영, 큐레이팅, 갤러리 설립이 더해진다. 첫 작업실은 이 흐름의 연속성을 보여 준다. 화가는 작품을 만드는 동시에 미술 작업을 실현할 여건도 찾아왔다.
+
+## 졸업 후: 어머니 곁으로 돌아가다
+
+1991년 졸업한 발리호자예프는 어머니 가까이에서 지내기 위해 나망간으로 돌아갔다. 막내아들로서 그는 이 선택을 가족의 집을 돌보는 일과 연결했다. 그의 가족 이야기에는 세대 간의 유대를 지키고, 어른을 존중하며, 부모를 보살피는 우즈베크 전통이 담겨 있다. 귀향은 개인적인 선택이자 가족 관계의 연속이었다.
+
+고향으로 돌아가는 일은 화가로서의 여정에도 포함된다. 시장 연작, 일상의 관찰, 동시대인의 모습을 통해 나망간은 그의 회화에서 중요한 장소로 남는다. 이후의 여행과 회화 언어의 변화는 시야를 넓히지만, 구체적인 사람과 일상에 대한 관심은 이어진다.
 
 [이브라김 발리호자예프. In Silence(침묵 속에서) 전시 카탈로그에 실린 초상 사진. 작가 아카이브의 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ edition_date: "2026-10-11"
 - **업무 분야:** 회화, 조각, 미술 프로젝트 큐레이팅 및 기획
 - **전문직 역할:** 우즈베키스탄 예술 아카데미 회원, 우즈베키스탄 예술가 연맹 회장, Valikhodjaev Gallery House 설립자
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## 인터뷰 영상 보기
-
-[영상](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-"Ijod formulasi", 2026년 6월 9일, Madaniyat va Ma'rifat TV 채널. 위에 있는 영상은 우즈베크어로 되어 있으며, 아래 링크를 클릭하면 해당 대화의 관련 부분을 볼 수 있다.
-
 "창의력 공식(Ijod formulasi)"이라는 프로그램에서 우리는 이브라김 발리호자예프의 작업실을 방문하는 것으로 이야기를 시작한다. 시장 풍경, 붉은색 풍경화, 대형 추상화 등 다양한 시기의 작품들이 나란히 놓여 있다. 그 작품들 뒤에는 하나의 창작 인생이 펼쳐져 있지만, 작가는 각각의 작품에서 새로운 도전에 임한다. 작업실에서의 만남을 통해 우리는 가장 중요한 사실을 깨닫게 된다. 바로 발리호자예프의 호기심이 끊임없이 새로운 탐구 방향을 제시한다는 것이다.
 
 그는 화가이자 조각가이며, 기획자이자 큐레이터, 갤러리 설립자이자 멘토이다. 그의 모든 활동에는 공통된 질문이 흐르고 있다. 바로 어떻게 신선한 관점을 유지할 수 있을까 하는 것이다. 공개된 인터뷰에서 그는 경험을 연구를 지속하고, 실험하고, 새로운 표현 방식을 찾아낼 기회로 제시한다.
-
-## 선생은 길을 열어주고, 예술가는 자신의 언어를 찾는다.
-
-발리호자예프는 나망간에서 태어나 타슈켄트에서 라힘 아흐메도프 선생의 작업실에서 전문적인 미술 교육을 받았다. 2017년 인터뷰에서 그는 스승을 색채에 대한 자신의 이해를 형성해 준 인물로 묘사했다. 이는 중요한 연결고리이다. 그의 자유로운 회화 스타일 이면에는 독자적인 예술 언어의 토대를 마련해 준 엄격한 훈련이 자리 잡고 있기 때문이다.
-
-한 텔레비전 인터뷰에서 작가는 드로잉과 예술가로서의 성장 과정을 구분했다. 훈련은 무궁무진한 가능성의 세계를 열어주지만, 그 안에서 자신만의 방향을 찾는 것은 예술가 본인의 몫이다. 그의 작품, 즉 초상화, 정물화, 풍경화, 그리고 여러 인물이 등장하는 풍속화들을 통해 이러한 여정을 엿볼 수 있다.
-
-[위에 있는 영상 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## 바자르는 단순한 주제 그 이상이다
 
@@ -108,6 +164,8 @@ edition_date: "2026-10-11"
 
 [위에 있는 영상 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+현재 발리호자예프의 작품은 600점 이상이 알려져 있으며, 대부분은 회화다. 초기의 절제된 색조, 나망간 시장, 초상, 정물, 누드, 야외 풍경, RED, 추상 등 시기와 탐구의 방향이 다양하다. 그는 색채, 형태, 구성에 대한 새로운 질문을 통해 작업을 이어 간다.
+
 ## 다양한 시기의 작품을 잇는 탐구
 
 옥사나 카디셰바는 2012년 San’at지에 실린 인물 소개 기사에서 발리호자예프의 작품 세계를 여러 방향으로 묘사했다. 초기에는 절제된 색채를 사용했고, 이후에는 시장 풍경, 몬테네그로의 풍경, 그리고 꽃 정물화 등을 그렸다. 그녀의 분석의 핵심은 관찰을 구성으로 승화시키는 작가의 능력에 있다. 이러한 맥락은 그의 창작 활동을 더욱 포괄적으로 이해하는 데 도움을 준다. 즉, 이미지에 대한 또 다른 질문에서 새로운 방향이 나타나고, 기존의 주제들은 계속해서 공존하는 모습을 보여준다.
@@ -138,10 +196,6 @@ edition_date: "2026-10-11"
 
 ## 작가의 개인 기록에서
 
-[학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.
-
 [특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년. 작가 소장 사진.
@@ -163,14 +217,6 @@ edition_date: "2026-10-11"
 ## 사진으로 읽는 삶: 작업실과 미술계
 
 소장 사진은 전시 목록만으로 전할 수 없는 삶을 보여 준다. 비좁은 작업실, 미완성 캔버스 옆의 이미 완성된 이미지, 그림 앞에서 나누는 대화가 담겨 있다. 흑백 초상 속 젊은 작가는 홀로 작업과 마주하고, 전시 사진에서는 스승과 동료, 관객 사이에 있다. 두 장면 모두 그의 삶에 중요하다. 그림은 개인의 탐구에서 시작되지만 이후의 삶은 미술계와의 교류 속에서 이어진다.
-
-[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
-
-[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
 [자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ edition_date: "2026-10-11"
 
 이 작업 사진은 풍경화에 장소의 규모, 고르지 않은 빛과 표면의 질감을 더한다. 벽과 지붕, 흙길과 나무의 수관이 색채 관계의 재료가 된다. 완성작에서는 관찰이 더 자유롭고 압축될 수 있지만, 실제 풍경과의 연결은 공간 구성에 남는다. 사진의 촬영 장소와 연도는 확인되지 않았다. 모습만으로 미라키, 몬테네그로, 아제르바이잔의 특정 야외 작업 행사에 연결할 수는 없다.
 
+[야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.
+
 [야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.
@@ -247,10 +297,6 @@ edition_date: "2026-10-11"
 [야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.
-
-[야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.
 
 ## RED: 관객 앞에서 그리기
 
@@ -280,13 +326,13 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 전시 사진은 그림과 관객의 만남을 보여 준다. 비어 있는 벽면, 작품 사이의 간격, 뒤로 물러설 공간이 감상 조건을 바꾼다. 전경은 규모를 전하고 관람객이 담긴 사진은 가까이 보다가 멀리서 다시 바라보는 움직임을 전한다.
 
+[이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. [2018년 전시 《꿈에서 운명으로》에 관하여](<https://art-blog.uz/archives/30280>)
+
 [발리호자예프의 그림을 보는 관람객. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 발리호자예프의 그림을 보는 관람객. 작가 소장 사진.
-
-[전시장 전경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-전시장 전경. 작가 소장 사진.
 
 ## 인정과 작가의 경력
 
@@ -299,17 +345,3 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 [시상식의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 시상식의 발리호자예프. 작가 소장 사진.
-
-## 스승 라힘 아흐메도프와 함께
-
-라힘 아흐메도프는 우즈베키스탄의 화가이자 미술 교육자로, 인민예술가 칭호를 받았으며 예술아카데미 회원이었습니다. 그의 초상화는 우즈베키스탄 현대 회화의 발전에서 중요한 위치를 차지합니다. 발리호자예프는 1986년부터 1991년까지 그의 화실에서 배웠습니다. 이 기록 사진들은 스승과 젊은 화가가 동료들과 같은 미술계 안에서 활동하던 모습을 전합니다. 아래 링크는 소더비 카탈로그에 실린 아흐메도프의 작품으로 연결됩니다.
-
-[스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.
-
-[스승 라힘 아흐메도프에게 축하를 전하는 부르마킨. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-스승 라힘 아흐메도프에게 축하를 전하는 부르마킨. 화가의 개인 소장 자료.
-
-**소더비 카탈로그에 수록된 라힘 아흐메도프의 작품:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

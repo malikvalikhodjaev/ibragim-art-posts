@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
 
-Жизнь и разговоры об искусстве
+История жизни · Наманган, мастерская, живопись
 
-От мастерской Рахима Ахмедова до полотен, заполняющих музейный зал: путь узбекского художника складывается из наблюдения, вопросов и новых поисков.
+Мальчик из Намангана, который со школьных лет хотел стать художником: семейная история, первые заказы, учёба у Рахима Ахмедова и путь к собственному живописному языку.
 
-Биографический портрет составлен по опубликованным интервью, выставочной истории и материалам архива художника.
+Биографический портрет составлен по опубликованным интервью, выставочной истории и архиву художника; рассказ о семье и ранней мастерской дополнен семейными воспоминаниями.
+
+[Молодой художник среди своих произведений. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+Молодой художник среди своих произведений. Архив художника.
+
+## Наманган: дом, в котором начинается история
+
+До выставочных залов, международных поездок и больших полотен был Наманган — город, где Ибрагим Валиходжаев рос с тремя старшими сёстрами. Его отец был ремесленником, а прежде работал в городском военкомате. Мать занималась домом и семьёй. Для младшего сына родной дом остался важной частью жизни и после того, как живопись стала профессией.
+
+Стать художником он хотел ещё в школе. Однако между детским увлечением и поступлением в институт лежали годы самостоятельной работы. Позднейшие базарные сцены, портреты и картины сельской жизни показывают, насколько значим для его искусства мир повседневности: люди, их занятия и окружающая среда. Здесь рассказ о художнике соприкасается с историей родного города и семьи.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## Посмотреть беседу
+
+[Видеозапись](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+«Ijod formulasi», 9 июня 2026 года, телеканал Madaniyat va Ma’rifat. Видеозапись выше — на узбекском языке; ссылки ниже ведут к соответствующим фрагментам разговора.
+
+## Первые заказы: работа начинается раньше диплома
+
+Ещё в молодости Валиходжаев уже организовывал выполнение художественных заказов. Так опыт практической работы и организации общего дела появился раньше диплома. В дальнейшем эти две стороны его деятельности будут развиваться рядом: собственная живопись — и создание условий для работы других художников.
+
+Архивные фотографии показывают молодого художника среди произведений и в рабочей обстановке. Эти снимки позволяют начать рассказ с человека, который ещё строит свою профессиональную жизнь, — задолго до нынешних музейных экспозиций и общественных должностей.
+
+[Молодой художник среди своих произведений. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+Молодой художник среди своих произведений. Архив художника.
+
+## Учитель открывает путь, художник ищет свой язык
+
+В институт он поступил уже взрослым: с 1986 по 1991 год учился живописи в Ташкентском государственном театрально-художественном институте имени Александра Островского, в мастерской Мастера Рахима Ахмедова. Школьное желание стало осознанным профессиональным выбором, сделанным после первых лет работы.
+
+[Ибрагим Валиходжаев в студенческие годы, рядом с учебным скульптурным бюстом, 1988. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ибрагим Валиходжаев в студенческие годы, рядом с учебным скульптурным бюстом, 1988. Архив художника.
+
+Валиходжаев родился в Намангане, а профессиональное образование получил в Ташкенте, в мастерской Мастера Рахима Ахмедова. В интервью 2017 года он говорит о своём учителе как о человеке, определившем его понимание цвета. Это важная связь: за свободой его живописи стоит серьёзная школа, которая дала основу для самостоятельного художественного языка.
+
+В телевизионной беседе художник различает умение рисовать и становление автора. Обучение открывает большой мир возможностей, но найти в нём собственное направление предстоит самому. В его творчестве этот путь можно проследить через портреты, натюрморты, пейзажи и многофигурные жанровые композиции.
+
+[Видеозапись выше · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18.04.2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## Рядом с Мастером: Рахим Ахмедов
+
+Рахим Ахмедов — один из крупных мастеров узбекской живописи и педагог, воспитавший несколько поколений художников. Он был народным художником Узбекской ССР и СССР, профессором, членом-корреспондентом Академии художеств СССР. Его портреты, жанровые композиции и пейзажи соединяют профессиональную живописную школу с вниманием к людям и культуре Узбекистана. Учёба у такого наставника — существенная часть профессиональной биографии Валиходжаева.
+
+[Рахим Ахмедов — биография на сайте Российской академии художеств](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+Рахим Ахмедов — узбекский живописец и педагог, народный художник и академик, один из мастеров, определивших развитие современной живописи Узбекистана. Особенно значимы его психологические портреты. В 1986–1991 годах Валиходжаев учился в его студии. Архивные снимки дополняют эту биографическую запись живым свидетельством: Мастер и молодой художник находятся среди коллег, в общей художественной среде. По ссылкам ниже представлены именно произведения Ахмедова из каталогов Sotheby’s.
+
+[Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.
+
+[Владимир Иванович Бурмакин поздравляет Мастера Рахима Ахмедова. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[Владимир Иванович Бурмакин](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) поздравляет Мастера Рахима Ахмедова. Из личного архива художника.
+
+**Произведения Рахима Ахмедова в каталогах Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: первая частная художественная мастерская
+
+В 1987 году, ещё во время учёбы, Валиходжаев организовал свою первую частную художественную цех-мастерскую. По воспоминаниям семьи, это стало возможным в период, когда в Узбекской ССР начали смягчаться ограничения на самостоятельную деятельность. Учебная мастерская давала профессиональную основу, собственная — пространство для практической работы и художественных заказов.
+
+В этой биографии обучение и практическая работа идут рядом. Позднее к ним добавятся организация выставок, кураторство и создание галерейного пространства. Первый опыт мастерской помогает увидеть продолжительность этой линии: художник создаёт произведения и одновременно ищет условия, в которых художественная работа может состояться.
+
+## После учёбы — домой, к матери
+
+Окончив институт в 1991 году, Валиходжаев вернулся в Наманган, чтобы быть рядом с матерью. Как младший сын, он связывал своё решение с заботой о родительском доме. В истории его семьи это выражало важную узбекскую традицию: сохранять связь поколений, уважать старших и поддерживать родителей. Возвращение было одновременно личным выбором и продолжением этой семейной связи.
+
+Возвращение в родной город стало частью профессионального пути. Наманган останется одним из главных мест его живописи — в базарной серии, наблюдениях за бытом и образах современников. Дальнейшие поездки и перемены художественного языка расширят этот круг, сохраняя внимание к конкретному человеку и повседневной жизни.
 
 [Ибрагим Валиходжаев. Портрет из каталога выставки In Silence. Репродукция архивного снимка художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ edition_date: "2026-10-11"
 - **Направления работы:** Живопись, скульптура, кураторство и организация художественных проектов
 - **Профессиональные роли:** Академик Академии художеств Узбекистана; председатель Союза художников Узбекистана; основатель Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## Посмотреть беседу
-
-[Видеозапись](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-«Ijod formulasi», 9 июня 2026 года, телеканал Madaniyat va Ma’rifat. Видеозапись выше — на узбекском языке; ссылки ниже ведут к соответствующим фрагментам разговора.
-
 В передаче «Ijod formulasi» — «Формула творчества» — разговор начинается с посещения мастерской Ибрагима Валиходжаева. Рядом стоят произведения разных лет: базарная сцена, красный пейзаж, большая беспредметная композиция. За ними одна творческая жизнь, но в каждой работе художник решает новую задачу. Эта встреча в мастерской помогает понять главное: любопытство Валиходжаева постоянно открывает ему следующие направления поиска.
 
 Он живописец и скульптор, организатор и куратор, основатель галереи и наставник. Через все эти занятия проходит общий вопрос: как сохранить свежесть взгляда? В опубликованных беседах опыт предстаёт как возможность продолжать исследование, пробовать и находить новые выразительные решения.
-
-## Учитель открывает путь, художник ищет свой язык
-
-Валиходжаев родился в Намангане, а профессиональное образование получил в Ташкенте, в мастерской Мастера Рахима Ахмедова. В интервью 2017 года он говорит о своём учителе как о человеке, определившем его понимание цвета. Это важная связь: за свободой его живописи стоит серьёзная школа, которая дала основу для самостоятельного художественного языка.
-
-В телевизионной беседе художник различает умение рисовать и становление автора. Обучение открывает большой мир возможностей, но найти в нём собственное направление предстоит самому. В его творчестве этот путь можно проследить через портреты, натюрморты, пейзажи и многофигурные жанровые композиции.
-
-[Видеозапись выше · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18.04.2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## Базар — больше, чем сюжет
 
@@ -108,6 +164,8 @@ edition_date: "2026-10-11"
 
 [Видеозапись выше · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+На сегодняшний день известно более 600 произведений Ибрагима Валиходжаева, преимущественно живописных. За этим количеством — разные периоды и направления: ранняя сдержанная палитра, Наманганский базар, портреты, натюрморты, ню, пленэрные пейзажи, RED и абстракция. Его путь продолжается через новые задачи цвета, формы и композиции.
+
 ## Композиция связывает разные годы
 
 В профильной статье San’at 2012 года Оксана Кадышева описывала путь Валиходжаева через несколько направлений: раннюю сдержанную палитру, базарные сцены, черногорские пейзажи и цветочные натюрморты. В центре её прочтения — способность художника преобразовывать наблюдение в композицию. Этот контекст помогает увидеть творческую жизнь объёмнее: новое направление вырастает из очередного вопроса к изображению, а прежние темы продолжают существовать рядом.
@@ -115,10 +173,6 @@ edition_date: "2026-10-11"
 В архивных работах это любопытство принимает разные формы. Светлые «Кувшины» держатся на тональных нюансах, «Красные кони» — на отношении крупных силуэтов к синему полю, «Пристань в городе Перасте» — на чередовании пространственных планов. Различия между ними существенны. Вместе они позволяют понять художественный поиск как длительную практику выбора: куда направить внимание, какую меру подробности сохранить, как сообщить форме новое звучание.
 
 ## Из личного архива художника
-
-[Ибрагим Валиходжаев в студенческие годы, рядом с учебным скульптурным бюстом, 1988. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-Ибрагим Валиходжаев в студенческие годы, рядом с учебным скульптурным бюстом, 1988. Архив художника.
 
 [Ибрагим Валиходжаев — руководитель Специального фонда, 2002. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
@@ -163,14 +217,6 @@ edition_date: "2026-10-11"
 ## История в фотографиях: от мастерской к художественной среде
 
 Архивные фотографии показывают то, чего не передаёт перечень выставок: тесноту мастерской, соседство незавершённого холста и уже найденного образа, разговоры перед картинами. На чёрно-белых снимках молодой художник остаётся один на один с работой; на выставочных — оказывается среди учителей, коллег и зрителей. Для рассказа о его пути важны обе ситуации. Картина рождается в личном поиске, но её дальнейшая жизнь складывается в художественной среде.
-
-[Молодой художник среди своих произведений. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-Молодой художник среди своих произведений. Архив художника.
-
-[Молодой художник среди своих произведений. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-Молодой художник среди своих произведений. Архив художника.
 
 [Молодой художник среди своих произведений. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ edition_date: "2026-10-11"
 
 Эти рабочие снимки дополняют репродукции пейзажей: они возвращают зрителя к масштабу места, неоднородному свету и фактуре поверхности. Стена, кровля, полоса земли и крона дерева дают материал для колористических отношений. В законченном полотне наблюдение может стать свободнее и обобщённее; связь с натурой сохраняется в устройстве пространства. Точные место и год этих фотографий не указаны: сами кадры не позволяют приписать их конкретному пленэру в Мираки, Черногории или Азербайджане.
 
+[На пленэре: среди камней и осенних деревьев. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+На пленэре: среди камней и осенних деревьев. Архив художника.
+
 [Ибрагим Валиходжаев на пленэре: сельская улица и горный пейзаж. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 Ибрагим Валиходжаев на пленэре: сельская улица и горный пейзаж. Архив художника.
@@ -247,10 +297,6 @@ edition_date: "2026-10-11"
 [На пленэре: двор и сельские постройки. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 На пленэре: двор и сельские постройки. Архив художника.
-
-[На пленэре: среди камней и осенних деревьев. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-На пленэре: среди камней и осенних деревьев. Архив художника.
 
 ## RED: живопись перед зрителями
 
@@ -280,13 +326,13 @@ edition_date: "2026-10-11"
 
 Фотографии экспозиции показывают ещё одну сторону жизни картины — встречу со зрителем. Пустые участки стены, расстояния между полотнами и возможность отойти меняют условия восприятия. Общий вид зала помогает увидеть масштаб, а кадр с посетителями — привычку рассматривать работу вблизи и возвращаться к ней издалека.
 
+[Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)
+
 [Посетители у картин Ибрагима Валиходжаева. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 Посетители у картин Ибрагима Валиходжаева. Архив художника.
-
-[Общий вид выставочной экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-Общий вид выставочной экспозиции. Архив художника.
 
 ## Признание и профессиональный путь
 
@@ -299,17 +345,3 @@ edition_date: "2026-10-11"
 [Ибрагим Валиходжаев на церемонии награждения. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Ибрагим Валиходжаев на церемонии награждения. Архив художника.
-
-## Рядом с Мастером: Рахим Ахмедов
-
-Рахим Ахмедов — узбекский живописец и педагог, народный художник и академик, один из мастеров, определивших развитие современной живописи Узбекистана. Особенно значимы его психологические портреты. В 1986–1991 годах Валиходжаев учился в его студии. Архивные снимки дополняют эту биографическую запись живым свидетельством: Мастер и молодой художник находятся среди коллег, в общей художественной среде. По ссылкам ниже представлены именно произведения Ахмедова из каталогов Sotheby’s.
-
-[Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.
-
-[Бурмакин поздравляет Мастера Рахима Ахмедова. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-Бурмакин поздравляет Мастера Рахима Ахмедова. Из личного архива художника.
-
-**Произведения Рахима Ахмедова в каталогах Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

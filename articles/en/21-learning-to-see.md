@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_179.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
-Life and conversations about art
+A life in art · Namangan, the workshop and painting
 
-From Rahim Ahmedov's studio to the canvases filling a museum hall, the Uzbek artist's journey is one of observation, questioning, and new exploration.
+A boy from Namangan who wanted to become an artist at school: family memories, early commissions, training with Rahim Ahmedov and the search for a personal language in painting.
 
-The biographical portrait is based on published interviews, exhibition history, and materials from the artist’s archive.
+This biographical portrait draws on published interviews, exhibition records and the artist’s archive; family recollections supplement the account of his childhood and first workshop.
+
+[The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+The young artist among his works. Artist’s archive.
+
+## Namangan: the home where the story begins
+
+Before the exhibition halls, international journeys and large canvases came Namangan, where Ibragim Valikhodjaev grew up with three older sisters. His father was a craftsman who had previously worked at the city’s military enlistment office. His mother was a homemaker. For the youngest son, the family home remained an important part of life after painting became his profession.
+
+He wanted to be an artist while still at school. Yet years of independent work separated that childhood ambition from his entry into higher education. His later market scenes, portraits and paintings of rural life reveal the importance of everyday experience: people, their occupations and their surroundings. Here the artist’s story meets the history of his home city and family.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## Watch the interview
+
+[Video](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+"Ijod formulasi," June 9, 2026, Madaniyat va Ma'rifat TV channel. The video above is in Uzbek; the links below lead to the relevant excerpts from the conversation.
+
+## Early commissions: work before the diploma
+
+In his twenties, Valikhodjaev was already organising art commissions. Practical work and experience of bringing a shared undertaking together thus preceded his diploma. Both strands would continue to develop: his own painting and the creation of conditions in which other artists could work.
+
+Archive photographs show the young artist among artworks and in working surroundings. They begin the story with a person still building his professional life, long before the museum displays and public responsibilities of later years.
+
+[The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+The young artist among his works. Artist’s archive.
+
+## The teacher opens the way, the artist searches for his language
+
+He entered the institute as an adult, studying painting from 1986 to 1991 at the Tashkent State Theatre and Art Institute named after Alexander Ostrovsky, in Master Rahim Ahmedov’s studio. The schoolboy ambition became a considered professional choice after his first years of work.
+
+[Ibragim Valikhodjaev during his student years, beside a plaster study bust, 1988. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev during his student years, beside a plaster study bust, 1988. Artist’s archive.
+
+Valikhodjaev was born in Namangan and received his professional training in Tashkent, in the workshop of Master Rahim Ahmedov. In a 2017 interview, he described his teacher as the person who shaped his understanding of colour. This is an important connection: behind the freedom of his painting lies rigorous training that provided the foundation for an independent artistic language.
+
+In a television interview, the artist distinguishes between drawing and the development of an artist. Training opens a vast world of possibilities, but finding one's own direction within it is up to the artist. This journey can be traced through his work, through portraits, still lifes, landscapes, and multi-figure genre compositions.
+
+[Video above · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## With Master Rahim Ahmedov
+
+Rahim Ahmedov was a major figure in Uzbek painting and a teacher of several generations of artists. He held the titles of People’s Artist of the Uzbek Soviet Socialist Republic and of the Soviet Union, was a professor and a corresponding member of the Soviet Academy of Arts. His portraits, genre scenes and landscapes brought a rigorous painting tradition to an attentive engagement with Uzbekistan’s people and culture. Training with him is a significant part of Valikhodjaev’s professional formation.
+
+[Rahim Ahmedov — biography at the Russian Academy of Arts](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+Rahim Ahmedov was an Uzbek painter and teacher, a People’s Artist and Academician whose portraiture helped shape Uzbekistan’s modern painting tradition. Valikhodjaev studied in his studio in 1986–1991. These photographs bring that professional lineage into the personal archive: the teacher and the younger artist appear within the same artistic community. The works linked below are Ahmedov’s paintings, documented in Sotheby’s catalogues.
+
+[Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.
+
+[Vladimir Ivanovich Burmakin congratulates Master Rahim Ahmedov. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[Vladimir Ivanovich Burmakin](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) congratulates Master Rahim Ahmedov. Artist’s personal archive.
+
+**Paintings by Rahim Ahmedov in Sotheby’s catalogues:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: the first private art workshop
+
+In 1987, while still studying, Valikhodjaev established his first private art workshop. His family recalls this as a period when restrictions on independent activity in the Uzbek Soviet Socialist Republic were beginning to ease. The institute’s studio provided professional training; his own workshop offered a space for practical work and art commissions.
+
+Study and practical work run alongside one another in this biography. Exhibition organisation, curating and a gallery space would follow. The first workshop makes this continuity visible: the artist creates works while also seeking the conditions in which artistic work can take place.
+
+## After graduation: home to his mother
+
+After graduating in 1991, Valikhodjaev returned to Namangan to be close to his mother. As the youngest son, he understood this choice as part of caring for the family home. In his family’s story it reflected an Uzbek tradition of maintaining ties between generations, respecting elders and supporting parents. The return was both a personal choice and a continuation of that family bond.
+
+Returning to his home city became part of his professional journey. Namangan would remain a central place in his painting, through the market series, observations of daily life and images of his contemporaries. Later travels and changes in artistic language widened this field while sustaining his attention to individual people and everyday experience.
 
 [Ibragim Valikhodjaev. Portrait from the In Silence exhibition catalogue. Reproduction of the artist's archival photograph.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ Ibragim Valikhodjaev. Portrait from the In Silence exhibition catalogue. Reprodu
 - **Areas of work:** Painting, sculpture, curating and organising art projects
 - **Professional roles:** Academician of the Academy of Arts of Uzbekistan; Chairman of the Union of Artists of Uzbekistan; founder of Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## Watch the interview
-
-[Video](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-"Ijod formulasi," June 9, 2026, Madaniyat va Ma'rifat TV channel. The video above is in Uzbek; the links below lead to the relevant excerpts from the conversation.
-
 In the program "Ijod formulasi" (The Formula for Creativity), the conversation begins with a visit to Ibragim Valikhodjaev's studio. Works from various periods stand side by side: a market scene, a red landscape, a large abstract composition. Behind them lies a single creative life, but in each work, the artist tackles a new challenge. This meeting in the studio helps us understand the most important thing: Valikhodjaev's curiosity constantly opens up new directions for his exploration.
 
 He is a painter and sculptor, organiser and curator, gallery founder, and mentor. A common question runs through all these activities: how to maintain a fresh perspective? In published conversations, experience is presented as an opportunity to continue research, experiment, and find new expressive solutions.
-
-## The teacher opens the way, the artist searches for his language
-
-Valikhodjaev was born in Namangan and received his professional training in Tashkent, in the workshop of Master Rahim Ahmedov. In a 2017 interview, he described his teacher as the person who shaped his understanding of colour. This is an important connection: behind the freedom of his painting lies rigorous training that provided the foundation for an independent artistic language.
-
-In a television interview, the artist distinguishes between drawing and the development of an artist. Training opens a vast world of possibilities, but finding one's own direction within it is up to the artist. This journey can be traced through his work, through portraits, still lifes, landscapes, and multi-figure genre compositions.
-
-[Video above · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## The Bazaar Is More than a Subject
 
@@ -108,6 +164,8 @@ His journey continues in his works: in marketplace people, the changing resonanc
 
 [Video above · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+More than 600 works by Ibragim Valikhodjaev are known today, predominantly paintings. They span distinct periods and approaches: an early restrained palette, the Namangan bazaar, portraits, still lifes, nudes, plein air landscapes, RED and abstraction. His practice continues through new questions of colour, form and composition.
+
 ## The composition connects different years
 
 In a 2012 profile article for San'at, Oksana Kadysheva described Valikhodjaev's journey through several directions: his early, restrained palette, market scenes, Montenegrin landscapes, and floral still lifes. At the centre of her reading is the artist's ability to transform observation into composition. This context helps us see his creative life more comprehensively: a new direction emerges from yet another question about the image, while previous themes continue to coexist.
@@ -138,10 +196,6 @@ Artist Links: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Ins
 
 ## From the artist’s personal archive
 
-[Ibragim Valikhodjaev during his student years, beside a plaster study bust, 1988. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev during his student years, beside a plaster study bust, 1988. Artist’s archive.
-
 [Ibragim Valikhodjaev, head of the Special Fund, 2002. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev, head of the Special Fund, 2002. Artist’s archive.
@@ -163,14 +217,6 @@ In September 2025, Valikhodjaev led a painting masterclass for students at Xi’
 ## A life in photographs: the studio and the artistic community
 
 Archival photographs reveal what an exhibition list cannot: the close quarters of a studio, an unfinished canvas beside an image already resolved, conversations in front of paintings. In the black-and-white portraits, the young artist is alone with his work; in exhibition photographs, he joins teachers, colleagues and viewers. Both settings matter to his story. A painting begins in a personal search, while its subsequent life unfolds within an artistic community.
-
-[The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-The young artist among his works. Artist’s archive.
-
-[The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-The young artist among his works. Artist’s archive.
 
 [The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ Plein air begins well before the first brushstroke, with a walk and a choice of 
 
 These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, Montenegro or Azerbaijan.
 
+[On a plein-air visit: rocks and autumn trees. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+On a plein-air visit: rocks and autumn trees. Artist’s archive.
+
 [Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist’s archive.
@@ -247,10 +297,6 @@ Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist
 [On a plein-air visit: a courtyard and village buildings. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 On a plein-air visit: a courtyard and village buildings. Artist’s archive.
-
-[On a plein-air visit: rocks and autumn trees. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-On a plein-air visit: rocks and autumn trees. Artist’s archive.
 
 ## RED: painting before an audience
 
@@ -280,13 +326,13 @@ The artist looking at a painting with a red colour field. Artist’s archive.
 
 Installation photographs reveal another part of a painting’s life: its encounter with viewers. Empty wall space, the intervals between pictures and room to step back alter the conditions of looking. The wider view establishes scale; the photograph with visitors shows the habit of approaching a work and returning to it from a distance.
 
+[Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
+
 [Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.
-
-[A view of the exhibition installation. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-A view of the exhibition installation. Artist’s archive.
 
 ## Recognition and a professional life
 
@@ -299,17 +345,3 @@ Presentation of a gold medal to Ibragim Valikhodjaev. Artist’s archive.
 [Ibragim Valikhodjaev at an award ceremony. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev at an award ceremony. Artist’s archive.
-
-## With Master Rahim Ahmedov
-
-Rahim Ahmedov was an Uzbek painter and teacher, a People’s Artist and Academician whose portraiture helped shape Uzbekistan’s modern painting tradition. Valikhodjaev studied in his studio in 1986–1991. These photographs bring that professional lineage into the personal archive: the teacher and the younger artist appear within the same artistic community. The works linked below are Ahmedov’s paintings, documented in Sotheby’s catalogues.
-
-[Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.
-
-[Burmakin congratulates Master Rahim Ahmedov. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-Burmakin congratulates Master Rahim Ahmedov. Artist’s personal archive.
-
-**Paintings by Rahim Ahmedov in Sotheby’s catalogues:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

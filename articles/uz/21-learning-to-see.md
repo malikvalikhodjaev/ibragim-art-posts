@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_573.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
-Hayot va san'at haqida suhbatlar
+Hayot va san’at · Namangan, ustaxona, rangtasvir
 
-Rahim Ahmedovning ustaxonasidan tortib, muzey zalini to‘ldirib turgan polotnolargacha, o‘zbek rassomining sayohati kuzatish, savollar berish va yangi kashfiyotlardan iborat.
+Maktab davridayoq rassom bo‘lishni orzu qilgan namanganlik bolaning yo‘li: oilaviy xotiralar, ilk buyurtmalar, Rahim Ahmedovdan ta’lim olish va o‘ziga xos rangtasvir tilini izlash.
 
-Biografik portret nashr etilgan intervyular, ko‘rgazma tarixi va rassom arxividagi materiallarga asoslangan.
+Biografik maqola e’lon qilingan suhbatlar, ko‘rgazmalar tarixi va rassom arxiviga asoslanadi; bolalik va ilk ustaxona haqidagi ma’lumotlar oilaviy xotiralar bilan to‘ldirilgan.
+
+[Yosh rassom o‘z asarlari orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+Yosh rassom o‘z asarlari orasida. Rassom arxivi.
+
+## Namangan: hikoya boshlangan xonadon
+
+Ko‘rgazma zallari, xorijiy safarlar va katta hajmdagi kartinalardan avval Namangan bor edi. Ibrohim Valixodjayev shu shaharda uch nafar opasi bilan ulg‘aygan. Otasi hunarmand bo‘lgan, undan oldin esa shahar harbiy komissariatida ishlagan. Onasi uy-ro‘zg‘or va farzandlar tarbiyasi bilan shug‘ullangan. Kenja o‘g‘il uchun ota-ona xonadoni rangtasvir kasbiga aylangandan keyin ham muhim o‘rin tutgan.
+
+U maktab davridayoq rassom bo‘lishni istagan. Biroq bolalikdagi qiziqish bilan institutga kirish orasida mustaqil mehnat yillari bor. Keyinchalik yaratgan bozor manzaralari, portretlari va qishloq hayotiga oid kartinalari kundalik turmushga e’tiborini ko‘rsatadi: odamlar, ularning mashg‘ulotlari va yashash muhiti muhim. Shu yerda rassomning yo‘li tug‘ilgan shahri va oilasi tarixi bilan tutashadi.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## Suhbatni tomosha qiling
+
+[Videoyozuv](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+"Ijod formulasi", 2026-yil 9-iyun, Madaniyat va Ma'rifat telekanali. Yuqoridagi video o‘zbek tilida; quyidagi havolalar suhbatdan tegishli parchalarga olib boradi.
+
+## Ilk buyurtmalar: diplomdan oldingi mehnat
+
+Yigirma yoshlarida Valixodjayev badiiy buyurtmalarni bajarish ishlarini tashkil qilgan. Amaliy mehnat va umumiy ishni yo‘lga qo‘yish tajribasi diplom olishdan avval boshlangan. Keyinchalik bu ikki yo‘nalish yonma-yon rivojlanadi: o‘z rangtasviri va boshqa rassomlar ishlashi uchun sharoit yaratish.
+
+Arxiv fotosuratlarida yosh rassomni asarlari orasida va ish jarayonida ko‘ramiz. Ular hikoyani bugungi muzey ko‘rgazmalari va jamoat vazifalaridan ancha oldin, o‘z kasbiy yo‘lini qurayotgan insondan boshlashga imkon beradi.
+
+[Yosh rassom o‘z asarlari orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+Yosh rassom o‘z asarlari orasida. Rassom arxivi.
+
+## O‘qituvchi yo‘l ochadi, rassom o‘z tilini izlaydi
+
+U institutga voyaga yetgan, dastlabki mehnat tajribasiga ega inson sifatida kirgan. 1986–1991-yillarda Aleksandr Ostrovskiy nomidagi Toshkent davlat teatr va rassomlik san’ati institutining rangtasvir bo‘limida, ustoz Rahim Ahmedov ustaxonasida ta’lim olgan. Maktabdagi orzu ongli kasbiy tanlovga aylangan.
+
+[Ibrohim Valixodjayev talabalik yillarida, o‘quv gips byusti yonida, 1988-yil. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibrohim Valixodjayev talabalik yillarida, o‘quv gips byusti yonida, 1988-yil. Rassom arxivi.
+
+Valixo‘jayev Namanganda tug‘ilgan va professional ta'limni Toshkentda, usta Rahim Ahmedovning ustaxonasida olgan. 2017-yilgi intervyusida u o‘qituvchisini ranglar haqidagi tushunchasini shakllantirgan shaxs sifatida ta'riflagan. Bu muhim bog‘liqlik: uning rangtasvirdagi erkinligi ortida mustaqil badiiy til uchun poydevor yaratgan qat'iy mashg‘ulotlar yotadi.
+
+Televizion intervyuda rassom tasvir yaratish ko‘nikmasi bilan ijodkor sifatida shakllanish o‘rtasidagi farq haqida gapiradi. Mashg‘ulotlar imkoniyatlarning keng dunyosini ochadi, ammo unda o‘z yo‘nalishini topish rassomning o‘ziga bog‘liq. Bu sayohatni uning ishi, portretlar, natyurmortlar, peyzajlar va ko‘p figurali janrli kompozitsiyalar orqali kuzatish mumkin.
+
+[Yuqoridagi video · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## Ustoz Rahim Ahmedov bilan
+
+Rahim Ahmedov o‘zbek rangtasvirining yirik ustalaridan biri, bir necha avlod rassomlariga ta’lim bergan ustoz edi. U O‘zbekiston Sovet Sotsialistik Respublikasi va Sovet Ittifoqi xalq rassomi, professor, Sovet Ittifoqi Badiiy akademiyasining muxbir a’zosi bo‘lgan. Portretlari, janrli kompozitsiyalari va manzaralarida puxta rangtasvir maktabi O‘zbekiston odamlari va madaniyatiga e’tibor bilan uyg‘unlashadi. Undan ta’lim olish Valixodjayevning kasbiy shakllanishida muhim o‘rin tutadi.
+
+[Rahim Ahmedov — Rossiya Badiiy akademiyasi saytidagi tarjimai hol](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+Rahim Ahmedov — o‘zbek rassomi va ustoz, xalq rassomi hamda akademik. Uning portretlari O‘zbekiston zamonaviy rangtasvirining rivojida muhim o‘rin tutadi. Valixo‘jayev 1986–1991-yillarda uning ustaxonasida ta’lim olgan. Arxiv suratlari bu ijodiy bog‘liqlikni jonli tarzda ko‘rsatadi: ustoz va yosh rassom hamkasblar davrasida, bir san’at muhitida tasvirlangan. Quyidagi havolalar Sotheby’s kataloglarida keltirilgan Ahmedov asarlariga olib boradi.
+
+[Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.
+
+[Vladimir Ivanovich Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[Vladimir Ivanovich Burmakin](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.
+
+**Sotheby’s kataloglarida Rahim Ahmedov asarlari:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987-yil: birinchi xususiy badiiy ustaxona
+
+1987-yilda, hali talabalik davrida, Valixodjayev o‘zining birinchi xususiy badiiy sex-ustaxonasini tashkil qilgan. Oilaviy xotiralarga ko‘ra, bu O‘zbekiston Sovet Sotsialistik Respublikasida mustaqil faoliyatga qo‘yilgan cheklovlar yumshay boshlagan davr edi. Institut ustaxonasi kasbiy asos bergan bo‘lsa, o‘z ustaxonasi amaliy ish va badiiy buyurtmalar uchun joy bo‘lgan.
+
+Uning hayotida o‘qish va amaliy ish yonma-yon davom etgan. Keyinchalik ko‘rgazmalarni tashkil qilish, kuratorlik va galereya ochish ham shu yo‘lga qo‘shiladi. Ilk ustaxona bu faoliyatning izchilligini ko‘rsatadi: rassom asar yaratish bilan birga badiiy ish uchun sharoit ham yaratadi.
+
+## O‘qishdan so‘ng — ona yoniga, Namanganga
+
+1991-yilda institutni tugatgach, Valixodjayev onasiga yaqin bo‘lish uchun Namanganga qaytgan. Kenja o‘g‘il sifatida bu qarorini ota-ona xonadoniga g‘amxo‘rlik bilan bog‘lagan. Uning oilasi tarixida bu avlodlar rishtasini saqlash, kattalarni hurmat qilish va ota-onaga tayanch bo‘lish kabi o‘zbek an’analarini ifodalaydi. Qaytish ham shaxsiy tanlov, ham oilaviy rishtaning davomi bo‘lgan.
+
+Tug‘ilgan shaharga qaytish kasbiy yo‘lining ham bir qismi bo‘lgan. Namangan uning bozor turkumi, kundalik hayot kuzatishlari va zamondoshlar obrazlarida muhim o‘rin tutadi. Keyingi safarlar va badiiy tilidagi o‘zgarishlar bu doirani kengaytiradi, ammo muayyan inson va uning turmushiga e’tibor saqlanadi.
 
 [Ibrohim Valixo‘jayev. "Sukutda" ko‘rgazma katalogidan olingan portret. Rassomning arxiv fotosuratining reproduksiyasi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ Ibrohim Valixo‘jayev. "Sukutda" ko‘rgazma katalogidan olingan portret. Rasso
 - **Ish yo‘nalishlari:** Rangtasvir, haykaltaroshlik, san'at loyihalarini boshqarish va tashkil etish
 - **Professional rollar:** Oʻzbekiston Badiiy akademiyasi akademigi; Oʻzbekiston Rassomlar uyushmasi raisi; Valixo‘jayev galereya uyi asoschisi
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## Suhbatni tomosha qiling
-
-[Videoyozuv](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-"Ijod formulasi", 2026-yil 9-iyun, Madaniyat va Ma'rifat telekanali. Yuqoridagi video o‘zbek tilida; quyidagi havolalar suhbatdan tegishli parchalarga olib boradi.
-
 «Ijod formulasi» dasturida suhbat Ibrohim Valixo‘jayevning ustaxonasiga tashrif bilan boshlanadi. Turli davrlarga oid asarlar yonma-yon joylashgan: bozor manzarasi, qizil manzara, katta abstrakt kompozitsiya. Ularning ortida yagona ijodiy hayot yotadi, ammo har bir asarda rassom yangi badiiy vazifani hal qiladi. Ustaxonadagi ushbu uchrashuv bizga eng muhim narsani tushunishga yordam beradi: Valixo‘jayevning izlanishga qiziqishi uning izlanishlari uchun doimiy ravishda yangi yo‘nalishlarni ochadi.
 
 U rassom va haykaltarosh, tashkilotchi va kurator, galereya asoschisi va ustozdir. Bu faoliyatlarning barchasida keng tarqalgan savol tug‘iladi: yangi nuqtai nazarni qanday saqlab qolish kerak? Nashr qilingan suhbatlarda tajriba tadqiqotni davom ettirish, tajriba o‘tkazish va yangi ifodali yechimlarni topish imkoniyati sifatida taqdim etiladi.
-
-## O‘qituvchi yo‘l ochadi, rassom o‘z tilini izlaydi
-
-Valixo‘jayev Namanganda tug‘ilgan va professional ta'limni Toshkentda, usta Rahim Ahmedovning ustaxonasida olgan. 2017-yilgi intervyusida u o‘qituvchisini ranglar haqidagi tushunchasini shakllantirgan shaxs sifatida ta'riflagan. Bu muhim bog‘liqlik: uning rangtasvirdagi erkinligi ortida mustaqil badiiy til uchun poydevor yaratgan qat'iy mashg‘ulotlar yotadi.
-
-Televizion intervyuda rassom tasvir yaratish ko‘nikmasi bilan ijodkor sifatida shakllanish o‘rtasidagi farq haqida gapiradi. Mashg‘ulotlar imkoniyatlarning keng dunyosini ochadi, ammo unda o‘z yo‘nalishini topish rassomning o‘ziga bog‘liq. Bu sayohatni uning ishi, portretlar, natyurmortlar, peyzajlar va ko‘p figurali janrli kompozitsiyalar orqali kuzatish mumkin.
-
-[Yuqoridagi video · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## Bozor shunchaki mavzu emas
 
@@ -108,6 +164,8 @@ Uning ijodiy yo‘li asarlarida davom etadi: bozor odamlarida, qizil rangning o�
 
 [Yuqoridagi video · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+Bugungi kunda Ibrohim Valixodjayevning 600 dan ortiq asari ma’lum; ularning asosiy qismini rangtasvir tashkil etadi. Ular ilk vazmin palitra, Namangan bozori, portret, natyurmort, yalang‘och natura, plener manzaralari, RED va abstraksiya kabi turli davr va yo‘nalishlarni qamrab oladi. Rassom rang, shakl va kompozitsiyaning yangi imkoniyatlarini izlashda davom etmoqda.
+
 ## Kompozitsiya turli davrlarni bog‘laydi
 
 2012-yilda San'at jurnalida chop etilgan profil maqolasida Oksana Kadysheva Valixo‘jayevning bir nechta yo‘nalishdagi sayohatini tasvirlab berdi: uning dastlabki, cheklangan palitrasi, bozor manzaralari, Chernogoriya manzaralari va gulli natyurmortlari. Uning tahlili markazida rassomning kuzatuvni kompozitsiyaga aylantirish qobiliyati yotadi. Bu kontekst bizga uning ijodiy hayotini yanada kengroq ko‘rishga yordam beradi: tasvir haqidagi yana bir savoldan yangi yo‘nalish paydo bo‘ladi, oldingi mavzular esa birga mavjud bo‘lib qolmoqda.
@@ -138,10 +196,6 @@ Rassom havolalari: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·
 
 ## Rassomning shaxsiy arxividan
 
-[Ibrohim Valixodjayev talabalik yillarida, o‘quv gips byusti yonida, 1988-yil. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-Ibrohim Valixodjayev talabalik yillarida, o‘quv gips byusti yonida, 1988-yil. Rassom arxivi.
-
 [Ibrohim Valixodjayev — Maxsus fond rahbari, 2002-yil. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 Ibrohim Valixodjayev — Maxsus fond rahbari, 2002-yil. Rassom arxivi.
@@ -163,14 +217,6 @@ Ibrohim Valixodjayev 2008-yildagi yubiley ko‘rgazmasida. Rassom arxivi.
 ## Suratlardagi hayot: ustaxona va badiiy muhit
 
 Arxiv suratlari ko‘rgazmalar ro‘yxatida aks etmaydigan jihatlarni ochadi: ustaxonaning tor makoni, tugallanmagan mato yonidagi yechimi topilgan asar, kartinalar oldidagi suhbatlar. Oq-qora portretlarda yosh rassom o‘z ishi bilan yolg‘iz; ko‘rgazma suratlarida esa ustozlar, hamkasblar va tomoshabinlar davrasida. Uning yo‘lini tushunishda ikkala holat ham muhim. Asar shaxsiy izlanishda tug‘iladi, keyingi hayoti esa badiiy muhitda davom etadi.
-
-[Yosh rassom o‘z asarlari orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-Yosh rassom o‘z asarlari orasida. Rassom arxivi.
-
-[Yosh rassom o‘z asarlari orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
 [Yosh rassom o‘z asarlari orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ Plener ilk mo‘yqalam zarbasidan oldin — sayr va ko‘rish nuqtasini tanlashd
 
 Bu ish jarayoni suratlari manzaralarga joyning ko‘lami, o‘zgaruvchan yorug‘lik va sirt fakturasini qaytaradi. Devor, tom, yer tasmasi va daraxt shox-shabbasi rang munosabatlariga asos bo‘ladi. Tayyor asarda kuzatish erkinroq va umumlashgan tus olishi mumkin; natura bilan aloqa makon qurilishida saqlanadi. Suratlarning aniq joyi va yili belgilanmagan. Faqat ko‘rinishiga qarab ularni Miraki, Chernogoriya yoki Ozarbayjondagi muayyan plenerga nisbat berib bo‘lmaydi.
 
+[Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.
+
 [Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.
@@ -247,10 +297,6 @@ Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.
 [Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.
-
-[Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.
 
 ## RED: tomoshabinlar oldida rangtasvir
 
@@ -280,13 +326,13 @@ Rassom qizil rang maydoni ustun bo‘lgan asarni ko‘zdan kechirmoqda. Rassom a
 
 Ekspozitsiya suratlari asarning tomoshabin bilan uchrashuvini ko‘rsatadi. Devorning bo‘sh joylari, kartinalar oralig‘i va orqaga chekinib qarash imkoniyati idrokni o‘zgartiradi. Zalning umumiy ko‘rinishi ko‘lamni ochadi; tashrifchilar tushgan kadr esa yaqindan kuzatish va uzoqdan qarash o‘rtasidagi almashinuvni ko‘rsatadi.
 
+[Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)
+
 [Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.
-
-[Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.
 
 ## E’tirof va kasbiy yo‘l
 
@@ -299,17 +345,3 @@ Ibrohim Valixodjayevga oltin medal topshirilmoqda. Rassom arxivi.
 [Valixodjayev taqdirlash marosimida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Valixodjayev taqdirlash marosimida. Rassom arxivi.
-
-## Ustoz Rahim Ahmedov bilan
-
-Rahim Ahmedov — o‘zbek rassomi va ustoz, xalq rassomi hamda akademik. Uning portretlari O‘zbekiston zamonaviy rangtasvirining rivojida muhim o‘rin tutadi. Valixo‘jayev 1986–1991-yillarda uning ustaxonasida ta’lim olgan. Arxiv suratlari bu ijodiy bog‘liqlikni jonli tarzda ko‘rsatadi: ustoz va yosh rassom hamkasblar davrasida, bir san’at muhitida tasvirlangan. Quyidagi havolalar Sotheby’s kataloglarida keltirilgan Ahmedov asarlariga olib boradi.
-
-[Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.
-
-[Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.
-
-**Sotheby’s kataloglarida Rahim Ahmedov asarlari:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

@@ -13,11 +13,83 @@ edition_date: "2026-10-11"
 
 <div dir="rtl" lang="ar">
 
-الحياة والمحادثات حول الفن
+حياة في الفن · نمنغان والمرسم والرسم
 
-من مرسم رحيم أحمدوف إلى اللوحات التي تملأ قاعة المتحف، رحلة الفنان الأوزبكي هي رحلة ملاحظة وتساؤل واستكشاف جديد.
+فتى من نمنغان أراد أن يصبح رسامًا منذ المدرسة: ذكريات الأسرة، والتكليفات الأولى، والتعلّم على يد رحيم أحمدوف، والبحث عن لغة خاصة في الرسم.
 
-يستند هذا البورتريه السيري إلى مقابلات منشورة، وتاريخ المعارض، ومواد من أرشيف الفنان.
+تستند هذه السيرة إلى مقابلات منشورة وسجلات المعارض وأرشيف الفنان؛ وتكمل ذكريات الأسرة رواية الطفولة والمرسم الأول.
+
+[الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+الفنان الشاب بين أعماله. أرشيف الفنان.
+
+## نمنغان: البيت الذي تبدأ منه الحكاية
+
+قبل قاعات المعارض والرحلات الدولية واللوحات الكبيرة، كانت نمنغان. هناك نشأ إبراهيم فاليخوجاييف مع ثلاث أخوات أكبر منه. كان والده حرفيًا، وقد عمل من قبل في مكتب التجنيد بالمدينة. وكانت والدته تتولى شؤون البيت والأسرة. وبالنسبة إلى الابن الأصغر، ظل بيت العائلة جزءًا مهمًا من حياته حتى بعدما أصبح الرسم مهنته.
+
+أراد أن يكون فنانًا منذ سنوات المدرسة. لكن سنوات من العمل المستقل فصلت بين رغبة الطفولة والالتحاق بالتعليم العالي. وتظهر مشاهد الأسواق والبورتريهات ولوحات الحياة الريفية التي رسمها لاحقًا اهتمامه بالحياة اليومية: الناس وأعمالهم وبيئتهم. هنا تتقاطع سيرة الرسام مع تاريخ مدينته وأسرته.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## شاهد المقابلة
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+«Ijod formulasi»، 9 يونيو 2026، قناة Madaniyat va Ma’rifat التلفزيونية. تسجيل الفيديو أعلاه باللغة الأوزبكية؛ الروابط أدناه تقود إلى المقتطفات ذات الصلة من الحوار.
+
+## التكليفات الأولى: عمل يسبق الشهادة
+
+في عشرينيات عمره، كان فاليخوجاييف ينظم بالفعل تنفيذ تكليفات فنية. وهكذا سبقت خبرة العمل العملي وإدارة مشروع مشترك إتمام دراسته. وستتطور الجهتان معًا لاحقًا: رسمه الخاص، وتهيئة ظروف العمل لفنانين آخرين.
+
+تُظهر الصور الأرشيفية الفنان الشاب بين الأعمال وفي بيئة العمل. وهي تتيح بدء الحكاية بإنسان لا يزال يبني حياته المهنية، قبل معارض المتاحف والمسؤوليات العامة التي جاءت في السنوات اللاحقة.
+
+[الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+الفنان الشاب بين أعماله. أرشيف الفنان.
+
+## يُمهّد المعلم الطريق، ويبحث الفنان عن لغته
+
+التحق بالمعهد بعد أن أصبح بالغًا. وبين عامي 1986 و1991 درس الرسم في معهد طشقند الحكومي للمسرح والفنون، الذي يحمل اسم ألكسندر أوستروفسكي، في مرسم الأستاذ رحيم أحمدوف. وبعد سنوات العمل الأولى، تحولت رغبة المدرسة إلى اختيار مهني واعٍ.
+
+[إبراهيم فاليخوجاييف خلال سنوات دراسته، إلى جوار تمثال نصفي من الجص للتدريب، عام 1988. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+إبراهيم فاليخوجاييف خلال سنوات دراسته، إلى جوار تمثال نصفي من الجص للتدريب، عام 1988. أرشيف الفنان.
+
+وُلد فاليخودجاييف في نامانغان، وتلقى تدريبه المهني في طشقند، في مرسم الفنان الأستاذ رحيم أحمدوف. وفي مقابلة أجريت معه عام ٢٠١٧، وصف أستاذه بأنه الشخص الذي صقل فهمه للألوان. وهذا رابطٌ هام: فخلف حرية لوحاته يكمن تدريبٌ دقيقٌ أرسى الأساس للغة فنية مستقلة.
+
+في مقابلة تلفزيونية، يُفرّق الفنان بين الرسم وتطور الفنان. فالتدريب يفتح آفاقًا واسعة من الإمكانيات، لكن إيجاد المرء مساره الخاص ضمن هذا العالم يقع على عاتق الفنان. ويمكن تتبع هذه الرحلة من خلال أعماله، من خلال البورتريهات، والطبيعة الساكنة، والمناظر الطبيعية، واللوحات التي تضم شخصيات متعددة.
+
+[تسجيل الفيديو أعلاه · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 أبريل 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## مع الأستاذ رحيم أحمدوف
+
+كان رحيم أحمدوف أحد كبار أساتذة الرسم الأوزبكي ومعلّمًا لعدة أجيال من الفنانين. حمل لقب فنان الشعب في جمهورية أوزبكستان الاشتراكية السوفيتية وفي الاتحاد السوفيتي، وكان أستاذًا وعضوًا مراسلًا في أكاديمية الفنون السوفيتية. تجمع بورتريهاته ومشاهد الحياة اليومية ومناظره الطبيعية بين مدرسة راسخة في الرسم والاهتمام بأهل أوزبكستان وثقافتها. والتعلّم على يده جزء مهم من التكوين المهني لفاليخوجاييف.
+
+[رحيم أحمدوف — السيرة على موقع الأكاديمية الروسية للفنون](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+رحيم أحمدوف رسام ومعلّم أوزبكي، حاز لقب فنان الشعب وكان عضواً في أكاديمية الفنون. تحتل لوحاته الشخصية مكانة مهمة في تطور الرسم الحديث في أوزبكستان. درس فاليخودجاييف في مرسمه بين عامي 1986 و1991. تضيف الصور الأرشيفية بعداً إنسانياً إلى هذه العلاقة: يظهر الأستاذ والفنان الشاب بين زملائهما، في بيئة فنية مشتركة. وتحيل الروابط أدناه إلى أعمال أحمدوف الموثّقة في كتالوجات سوذبيز.
+
+[الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.
+
+[فلاديمير إيفانوفيتش بورماكين يهنّئ الأستاذ رحيم أحمدوف. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[فلاديمير إيفانوفيتش بورماكين](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) يهنّئ الأستاذ رحيم أحمدوف. من الأرشيف الشخصي للفنان.
+
+**لوحات رحيم أحمدوف في كتالوجات سوذبيز:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: أول ورشة فنية خاصة
+
+في عام 1987، وهو لا يزال طالبًا، أسس فاليخوجاييف أول ورشة فنية خاصة به. وتستعيد الأسرة ذلك بوصفه مرحلة بدأت فيها القيود على النشاط المستقل تخفّ في جمهورية أوزبكستان الاشتراكية السوفيتية. كان مرسم المعهد يمنحه أساسًا مهنيًا، بينما وفرت ورشته مكانًا للعمل العملي والتكليفات الفنية.
+
+في هذه السيرة يسير التعلّم والعمل جنبًا إلى جنب. وسيُضاف إليهما لاحقًا تنظيم المعارض والتنسيق الفني وإنشاء فضاء للعرض. وتكشف الورشة الأولى استمرارية هذا المسار: يصنع الفنان أعماله ويبحث في الوقت نفسه عن الظروف التي تتيح العمل الفني.
+
+## بعد التخرج: العودة إلى جوار الأم
+
+بعد تخرجه عام 1991، عاد فاليخوجاييف إلى نمنغان ليكون قريبًا من والدته. وبصفته الابن الأصغر، ربط قراره برعاية بيت العائلة. وفي تاريخ أسرته عبّر ذلك عن تقليد أوزبكي يقوم على حفظ الصلة بين الأجيال واحترام الكبار ومساندة الوالدين. كانت العودة اختيارًا شخصيًا واستمرارًا للرابطة الأسرية معًا.
+
+وأصبحت العودة إلى مدينة الطفولة جزءًا من مساره المهني أيضًا. ظلت نمنغان مكانًا محوريًا في لوحاته، عبر سلسلة السوق وملاحظاته للحياة اليومية وصور معاصريه. وسّعت الرحلات اللاحقة وتحولات اللغة التشكيلية هذا المجال، مع بقاء اهتمامه بالإنسان وحياته اليومية.
 
 [إبراهيم فاليخودجاييف. صورة من كتالوج معرض "في صمت". صورة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -28,25 +100,9 @@ edition_date: "2026-10-11"
 - **مجالات العمل:** الرسم والنحت والقيّمية الفنية وتنظيم المشاريع الفنية
 - **الأدوار المهنية:** أكاديمي في أكاديمية الفنون في أوزبكستان؛ رئيس اتحاد فناني أوزبكستان؛ مؤسس Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## شاهد المقابلة
-
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-«Ijod formulasi»، 9 يونيو 2026، قناة Madaniyat va Ma’rifat التلفزيونية. تسجيل الفيديو أعلاه باللغة الأوزبكية؛ الروابط أدناه تقود إلى المقتطفات ذات الصلة من الحوار.
-
 في برنامج «Ijod formulasi» (صيغة الإبداع)، تبدأ المحادثة بزيارة إلى مرسم إبراهيم فاليخودجاييف. تتجاور أعمال من فترات مختلفة: مشهد سوق، منظر طبيعي أحمر، وتكوين تجريدي ضخم. وراءها حياة إبداعية واحدة، لكن في كل عمل، يواجه الفنان تحديًا جديدًا. يساعدنا هذا اللقاء في المرسم على فهم الأمر الأهم: فضول فاليخودجاييف يفتح باستمرار آفاقًا جديدة لاستكشافه.
 
 هو رسام ونحات، ومنظم وقيّم فني، ومؤسس معرض، ومرشد. يتردد سؤال مشترك في جميع أنشطته: كيف نحافظ على منظور جديد؟ في حواراته المنشورة، تُطرح التجربة كفرصة لمواصلة البحث والتجريب وإيجاد حلول تعبيرية جديدة.
-
-## يُمهّد المعلم الطريق، ويبحث الفنان عن لغته
-
-وُلد فاليخودجاييف في نامانغان، وتلقى تدريبه المهني في طشقند، في مرسم الفنان الأستاذ رحيم أحمدوف. وفي مقابلة أجريت معه عام ٢٠١٧، وصف أستاذه بأنه الشخص الذي صقل فهمه للألوان. وهذا رابطٌ هام: فخلف حرية لوحاته يكمن تدريبٌ دقيقٌ أرسى الأساس للغة فنية مستقلة.
-
-في مقابلة تلفزيونية، يُفرّق الفنان بين الرسم وتطور الفنان. فالتدريب يفتح آفاقًا واسعة من الإمكانيات، لكن إيجاد المرء مساره الخاص ضمن هذا العالم يقع على عاتق الفنان. ويمكن تتبع هذه الرحلة من خلال أعماله، من خلال البورتريهات، والطبيعة الساكنة، والمناظر الطبيعية، واللوحات التي تضم شخصيات متعددة.
-
-[تسجيل الفيديو أعلاه · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 أبريل 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## البازار أكثر من مجرد موضوع
 
@@ -110,6 +166,8 @@ edition_date: "2026-10-11"
 
 [تسجيل الفيديو أعلاه · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+يُعرف اليوم أكثر من 600 عمل لإبراهيم فاليخوجاييف، معظمها لوحات. تشمل مراحل واتجاهات مختلفة: الألوان المتحفظة في البدايات، وسوق نمنغان، والبورتريه، والطبيعة الصامتة، والجسد العاري، والمناظر المرسومة في الهواء الطلق، وRED والتجريد. ويواصل الفنان عمله من خلال أسئلة جديدة حول اللون والشكل والتكوين.
+
 ## التكوين يربط سنوات مختلفة
 
 في مقالٍ نُشر عام ٢٠١٢ في مجلة San’at، وصفت أوكسانا كاديشيفا رحلة فاليخودجاييف الفنية عبر مساراتٍ متعددة: ألوانه المبكرة الهادئة، ومشاهد الأسواق، والمناظر الطبيعية المونتينيغرية، ولوحات الطبيعة الساكنة الزهرية. ويكمن جوهر تحليلها في قدرة الفنان على تحويل الملاحظة إلى تكوينٍ فني. يساعدنا هذا السياق على فهم حياته الإبداعية بشكلٍ أشمل: إذ ينبثق اتجاهٌ جديد من تساؤلٍ آخر حول الصورة، بينما تستمر المواضيع السابقة في التعايش.
@@ -140,10 +198,6 @@ edition_date: "2026-10-11"
 
 ## من الأرشيف الشخصي للفنان
 
-[إبراهيم فاليخوجاييف خلال سنوات دراسته، إلى جوار تمثال نصفي من الجص للتدريب، عام 1988. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-إبراهيم فاليخوجاييف خلال سنوات دراسته، إلى جوار تمثال نصفي من الجص للتدريب، عام 1988. أرشيف الفنان.
-
 [إبراهيم فاليخوجاييف، مدير الصندوق الخاص، عام 2002. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 إبراهيم فاليخوجاييف، مدير الصندوق الخاص، عام 2002. أرشيف الفنان.
@@ -165,14 +219,6 @@ edition_date: "2026-10-11"
 ## حياة في الصور: المرسم والوسط الفني
 
 تكشف الصور الأرشيفية ما لا تقوله قائمة المعارض: ضيق المرسم، ولوحة غير مكتملة إلى جانب صورة استقر بناؤها، والأحاديث أمام الأعمال. في الصور بالأبيض والأسود يواجه الفنان الشاب عمله منفرداً؛ وفي صور المعارض يجتمع بأساتذته وزملائه والجمهور. كلا المشهدين ضروري لفهم مساره. تبدأ اللوحة ببحث شخصي، ثم تواصل حياتها داخل الوسط الفني.
-
-[الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-الفنان الشاب بين أعماله. أرشيف الفنان.
-
-[الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-الفنان الشاب بين أعماله. أرشيف الفنان.
 
 [الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -242,6 +288,10 @@ edition_date: "2026-10-11"
 
 تكمل صور العمل لوحات المناظر الطبيعية بإعادة الإحساس بمقياس المكان والضوء المتغير وملمس السطوح. الجدار والسقف وشريط الأرض وتاج الشجرة تصبح مواد للعلاقات اللونية. وقد يغدو الرصد أكثر حرية واختزالاً في اللوحة المكتملة، بينما يبقى الاتصال بالطبيعة في بناء الفضاء. لم يُثبت مكان هذه الصور أو عامها؛ ولا يتيح مظهرها وحده نسبتها إلى رحلة بعينها في ميراكي أو الجبل الأسود أو أذربيجان.
 
+[خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.
+
 [خلال رحلة للرسم من الطبيعة: شارع قروي ومشهد جبلي. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 خلال رحلة للرسم من الطبيعة: شارع قروي ومشهد جبلي. أرشيف الفنان.
@@ -249,10 +299,6 @@ edition_date: "2026-10-11"
 [خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.
-
-[خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.
 
 ## RED: الرسم أمام الجمهور
 
@@ -282,13 +328,13 @@ edition_date: "2026-10-11"
 
 تُظهر صور العرض لقاء اللوحة بالجمهور. تؤثر المساحات الخالية على الجدران والفواصل بين الأعمال وإمكانية التراجع إلى الخلف في المشاهدة. يوضح المشهد العام المقياس، بينما تكشف صورة الزوار الانتقال بين التأمل القريب والنظر من بعيد.
 
+[معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. [عن معرض «من الحلم إلى المصير»، 2018](<https://art-blog.uz/archives/30280>)
+
 [زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.
-
-[مشهد عام لتنسيق المعرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-مشهد عام لتنسيق المعرض. أرشيف الفنان.
 
 ## التقدير والمسار المهني
 
@@ -301,20 +347,6 @@ edition_date: "2026-10-11"
 [فاليخوجاييف في حفل تكريم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 فاليخوجاييف في حفل تكريم. أرشيف الفنان.
-
-## مع الأستاذ رحيم أحمدوف
-
-رحيم أحمدوف رسام ومعلّم أوزبكي، حاز لقب فنان الشعب وكان عضواً في أكاديمية الفنون. تحتل لوحاته الشخصية مكانة مهمة في تطور الرسم الحديث في أوزبكستان. درس فاليخودجاييف في مرسمه بين عامي 1986 و1991. تضيف الصور الأرشيفية بعداً إنسانياً إلى هذه العلاقة: يظهر الأستاذ والفنان الشاب بين زملائهما، في بيئة فنية مشتركة. وتحيل الروابط أدناه إلى أعمال أحمدوف الموثّقة في كتالوجات سوذبيز.
-
-[الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.
-
-[بورماكين يهنّئ الأستاذ رحيم أحمدوف. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-بورماكين يهنّئ الأستاذ رحيم أحمدوف. من الأرشيف الشخصي للفنان.
-
-**لوحات رحيم أحمدوف في كتالوجات سوذبيز:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
 
 
 </div>

@@ -13,11 +13,83 @@ edition_date: "2026-10-11"
 
 <div dir="rtl" lang="fa">
 
-زندگی و گفتگوهایی درباره هنر
+زندگی در هنر · نمنگان، کارگاه و نقاشی
 
-از آتلیهی رحیم احمدوف تا بوم‌هایی که سالن موزه را پر کرده‌اند، سفر این هنرمند ازبک، سفری پر از مشاهده، پرسش و اکتشافات جدید است.
+پسری از نمنگان که از دوران مدرسه می‌خواست نقاش شود: خاطرات خانواده، سفارش‌های نخستین، آموزش نزد رحیم احمدوف و جست‌وجوی زبان شخصی در نقاشی.
 
-این پرتره زندگینامه‌ای بر اساس مصاحبه‌های منتشر شده، تاریخچه نمایشگاه‌ها و مطالب موجود در آرشیو هنرمند تهیه شده است.
+این زندگی‌نگاره بر گفت‌وگوهای منتشرشده، سوابق نمایشگاه‌ها و آرشیو هنرمند تکیه دارد؛ روایت کودکی و نخستین کارگاه با خاطرات خانواده تکمیل شده است.
+
+[هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+هنرمند جوان در میان آثارش. آرشیو هنرمند.
+
+## نمنگان: خانه‌ای که داستان از آن آغاز می‌شود
+
+پیش از سالن‌های نمایشگاه، سفرهای خارجی و بوم‌های بزرگ، نمنگان بود. ابراهیم ولی‌خواجه‌یف در این شهر با سه خواهر بزرگ‌ترش رشد کرد. پدرش پیشه‌ور بود و پیش‌تر در ادارهٔ نظام‌وظیفهٔ شهر کار کرده بود. مادرش به خانه و خانواده رسیدگی می‌کرد. برای کوچک‌ترین پسر خانواده، خانهٔ پدری پس از آنکه نقاشی به حرفه‌اش تبدیل شد نیز جایگاه مهمی در زندگی داشت.
+
+او از دوران مدرسه می‌خواست هنرمند شود. اما میان آرزوی کودکی و ورود به آموزش عالی، سال‌هایی از کار مستقل قرار داشت. صحنه‌های بازار، پرتره‌ها و نقاشی‌های زندگی روستاییِ سال‌های بعد، توجه او را به زندگی روزمره نشان می‌دهند: آدم‌ها، کارهایشان و محیط پیرامونشان. در اینجا مسیر نقاش با تاریخ زادگاه و خانواده‌اش پیوند می‌خورد.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## مصاحبه را ببینید
+
+[ویدئو](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+«Ijod formulasi» (فرمول خلاقیت)، ۹ ژوئن ۲۰۲۶، شبکهٔ تلویزیونی Madaniyat va Ma’rifat. ویدئوی بالا به زبان ازبکی است؛ لینک‌های زیر به گزیده‌های مربوطه از گفتگو منتهی می‌شوند.
+
+## سفارش‌های نخستین: کار پیش از مدرک
+
+ولی‌خواجه‌یف در دههٔ سوم زندگی‌اش اجرای سفارش‌های هنری را سازمان می‌داد. تجربهٔ کار عملی و پیش بردن یک کار مشترک، پیش از پایان تحصیلات حرفه‌ای آغاز شد. این دو وجه بعدتر نیز در کنار هم رشد می‌کنند: نقاشیِ خود او و فراهم کردن امکان کار برای هنرمندان دیگر.
+
+عکس‌های آرشیوی هنرمند جوان را میان آثار و در محیط کار نشان می‌دهند. داستان از کسی شروع می‌شود که هنوز زندگی حرفه‌ای خود را می‌سازد، بسیار پیش از نمایشگاه‌های موزه‌ای و مسئولیت‌های عمومی سال‌های بعد.
+
+[هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+هنرمند جوان در میان آثارش. آرشیو هنرمند.
+
+## استاد راه را می‌گشاید، هنرمند زبان خود را می‌جوید
+
+او در بزرگسالی وارد مؤسسه شد. از ۱۹۸۶ تا ۱۹۹۱ در رشتهٔ نقاشیِ مؤسسهٔ دولتی تئاتر و هنر تاشکند، به نام الکساندر آستروفسکی، در کارگاه استاد رحیم احمدوف تحصیل کرد. پس از نخستین سال‌های کار، آرزوی دوران مدرسه به انتخاب حرفه‌ای آگاهانه تبدیل شد.
+
+[ابراهیم ولی‌خواجه‌اف در دوران دانشجویی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی، سال 1988 میلادی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+ابراهیم ولی‌خواجه‌اف در دوران دانشجویی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی، سال 1988 میلادی. آرشیو هنرمند.
+
+ولی‌خوجایف در نامانگان متولد شد و آموزش حرفه‌ای خود را در تاشکند، در آتلیهٔ استاد رحیم احمدوف، فرا گرفت. او در مصاحبه‌ای در سال ۲۰۱۷، استاد خود را به عنوان فردی توصیف کرد که درک او از رنگ را شکل داده است. این یک ارتباط مهم است: در پشت آزادی نقاشی او، آموزش دقیقی نهفته است که پایه و اساس یک زبان هنری مستقل را فراهم کرده است.
+
+در یک مصاحبه تلویزیونی، این هنرمند بین طراحی و پیشرفت یک هنرمند تمایز قائل می‌شود. آموزش، دنیای وسیعی از امکانات را به روی او می‌گشاید، اما یافتن مسیر خود در این جهان به هنرمند بستگی دارد. این سفر را می‌توان از طریق آثار او، از طریق پرتره‌ها، طبیعت بی‌جان‌ها، مناظر و ترکیب‌بندی‌های چندپیکره‌ای از زندگی روزمره، دنبال کرد.
+
+[ویدئوی بالا · ۰۵:۴۱](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · ۱۸ آوریل ۲۰۱۷](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## در کنار استاد رحیم احمدوف
+
+رحیم احمدوف از استادان برجستهٔ نقاشی ازبک و آموزگار چند نسل از هنرمندان بود. او عنوان هنرمند مردمی جمهوری سوسیالیستی شوروی ازبکستان و اتحاد شوروی را داشت، استاد دانشگاه و عضو وابستهٔ آکادمی هنرهای شوروی بود. پرتره‌ها، صحنه‌های زندگی روزمره و منظره‌هایش، سنتی استوار در نقاشی را با توجه به مردم و فرهنگ ازبکستان پیوند می‌دهند. آموزش نزد او بخش مهمی از شکل‌گیری حرفه‌ای ولی‌خواجه‌یف است.
+
+[رحیم احمدوف — زندگی‌نامه در آکادمی هنرهای روسیه](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+رحیم احمدوف، نقاش و مدرس ازبک، دارای عنوان هنرمند مردمی و عضو آکادمی هنر بود. پرتره‌های او در شکل‌گیری نقاشی مدرن ازبکستان جایگاه مهمی دارند. ولی‌خواجه‌یف از سال ۱۹۸۶ تا ۱۹۹۱ در کارگاه او آموزش دید. این عکس‌های آرشیوی به رابطهٔ استاد و شاگرد جلوه‌ای انسانی می‌بخشند: استاد و هنرمند جوان را در جمع همکاران و در یک محیط هنری مشترک می‌بینیم. پیوندهای زیر به آثار احمدوف در کاتالوگ‌های ساتبیز ارجاع می‌دهند.
+
+[استاد رحیم احمدوف و ابراهیم ولی‌خواجه‌یف. از آرشیو شخصی هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+استاد رحیم احمدوف و ابراهیم ولی‌خواجه‌یف. از آرشیو شخصی هنرمند.
+
+[ولادیمیر ایوانوویچ بورماکین به استاد رحیم احمدوف تبریک می‌گوید. از آرشیو شخصی هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[ولادیمیر ایوانوویچ بورماکین](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) به استاد رحیم احمدوف تبریک می‌گوید. از آرشیو شخصی هنرمند.
+
+**آثار رحیم احمدوف در کاتالوگ‌های ساتبیز:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## ۱۹۸۷: نخستین کارگاه هنری خصوصی
+
+ولی‌خواجه‌یف در ۱۹۸۷، زمانی که هنوز دانشجو بود، نخستین کارگاه هنری خصوصی خود را تأسیس کرد. خانواده‌اش آن دوره را زمانی به یاد می‌آورند که محدودیت‌های فعالیت مستقل در جمهوری سوسیالیستی شوروی ازبکستان رو به کاهش بود. کارگاه مؤسسه پایهٔ حرفه‌ای را فراهم می‌کرد و کارگاه خودش فضایی برای کار عملی و سفارش‌های هنری بود.
+
+در این زندگی‌نامه، آموزش و کار در کنار هم پیش می‌روند. سازمان‌دهی نمایشگاه‌ها، کیوریتوری و ایجاد یک گالری بعدها به این مسیر اضافه می‌شود. نخستین کارگاه تداوم آن را آشکار می‌کند: هنرمند اثر می‌آفریند و هم‌زمان شرایط تحقق کار هنری را جست‌وجو می‌کند.
+
+## پس از تحصیل: بازگشت به کنار مادر
+
+ولی‌خواجه‌یف پس از فارغ‌التحصیلی در ۱۹۹۱ به نمنگان بازگشت تا نزدیک مادرش باشد. او به‌عنوان کوچک‌ترین پسر، این تصمیم را با مراقبت از خانهٔ پدری پیوند می‌داد. در تاریخ خانواده‌اش، این کار بازتاب سنتی ازبکی بود: حفظ پیوند نسل‌ها، احترام به بزرگ‌ترها و حمایت از پدر و مادر. بازگشت هم انتخابی شخصی بود و هم ادامهٔ آن پیوند خانوادگی.
+
+بازگشت به زادگاه بخشی از مسیر حرفه‌ای او نیز شد. نمنگان در مجموعهٔ بازار، مشاهده‌های زندگی روزمره و تصویرهای هم‌عصرانش، مکانی محوری در نقاشی او باقی ماند. سفرهای بعدی و تغییر زبان تصویری این گستره را وسیع‌تر کردند، در حالی که توجه به آدم‌ها و تجربهٔ روزمره ادامه یافت.
 
 [ابراهیم ولی‌خوجایف. عکس از کاتالوگ نمایشگاه «در سکوت». عکس از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -28,25 +100,9 @@ edition_date: "2026-10-11"
 - **زمینه‌های کاری:** نقاشی، مجسمه‌سازی، نمایشگاه‌گردانی و سازماندهی پروژه‌های هنری
 - **نقش‌های حرفه‌ای:** عضو آکادمی هنر ازبکستان؛ رئیس اتحادیه هنرمندان ازبکستان؛ بنیانگذار Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## مصاحبه را ببینید
-
-[ویدئو](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-«Ijod formulasi» (فرمول خلاقیت)، ۹ ژوئن ۲۰۲۶، شبکهٔ تلویزیونی Madaniyat va Ma’rifat. ویدئوی بالا به زبان ازبکی است؛ لینک‌های زیر به گزیده‌های مربوطه از گفتگو منتهی می‌شوند.
-
 در برنامه «فرمول خلاقیت»، گفتگو با بازدید از آتلیهی ابراهیم ولی‌خوجایف آغاز می‌شود. آثاری از دوره‌های مختلف در کنار هم قرار گرفته‌اند: صحنه‌ای از بازار، منظره‌ای سرخ، و ترکیبی انتزاعی بزرگ. در پشت آنها یک زندگی خلاقانه واحد نهفته است، اما در هر اثر، هنرمند با چالشی جدید روبرو می‌شود. این ملاقات در آتلیه به ما کمک می‌کند تا مهمترین چیز را درک کنیم: کنجکاوی ولی‌خوجایف دائماً مسیرهای جدیدی را برای کاوش‌های او می‌گشاید.
 
 او نقاش و مجسمه‌ساز، برگزارکننده و نمایشگاه‌گردان، بنیانگذار گالری و مربی است. یک سوال رایج در تمام این فعالیت‌ها وجود دارد: چگونه می‌توان دیدگاهی تازه را حفظ کرد؟ در گفتگوهای منتشر شده، تجربه به عنوان فرصتی برای ادامه تحقیق، آزمایش و یافتن راه‌حل‌های جدید و گویا ارائه می‌شود.
-
-## استاد راه را می‌گشاید، هنرمند زبان خود را می‌جوید
-
-ولی‌خوجایف در نامانگان متولد شد و آموزش حرفه‌ای خود را در تاشکند، در آتلیهٔ استاد رحیم احمدوف، فرا گرفت. او در مصاحبه‌ای در سال ۲۰۱۷، استاد خود را به عنوان فردی توصیف کرد که درک او از رنگ را شکل داده است. این یک ارتباط مهم است: در پشت آزادی نقاشی او، آموزش دقیقی نهفته است که پایه و اساس یک زبان هنری مستقل را فراهم کرده است.
-
-در یک مصاحبه تلویزیونی، این هنرمند بین طراحی و پیشرفت یک هنرمند تمایز قائل می‌شود. آموزش، دنیای وسیعی از امکانات را به روی او می‌گشاید، اما یافتن مسیر خود در این جهان به هنرمند بستگی دارد. این سفر را می‌توان از طریق آثار او، از طریق پرتره‌ها، طبیعت بی‌جان‌ها، مناظر و ترکیب‌بندی‌های چندپیکره‌ای از زندگی روزمره، دنبال کرد.
-
-[ویدئوی بالا · ۰۵:۴۱](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · ۱۸ آوریل ۲۰۱۷](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## بازار چیزی بیش از یک موضوع است
 
@@ -110,6 +166,8 @@ edition_date: "2026-10-11"
 
 [ویدئوی بالا · ۲۷:۲۷](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+امروز بیش از ۶۰۰ اثر از ابراهیم ولی‌خواجه‌یف شناخته شده است که بیشترشان نقاشی‌اند. این آثار دوره‌ها و جست‌وجوهای گوناگونی را در بر می‌گیرند: رنگ‌های مهارشدهٔ آغاز کار، بازار نمنگان، پرتره، طبیعت بی‌جان، پیکر برهنه، منظره‌های فضای باز، RED و انتزاع. کار او با پرسش‌های تازه دربارهٔ رنگ، فرم و ترکیب‌بندی ادامه دارد.
+
 ## ترکیب‌بندی، سال‌های مختلف را به هم پیوند می‌دهد
 
 اوکسانا کادیشوا در مقاله‌ای در سال ۲۰۱۲ برای مجله‌ی San'at، سفر ولی‌خوجایف را در چندین مسیر توصیف کرد: پالت رنگ اولیه و محدود او، صحنه‌های بازار، مناظر مونته‌نگرو و طبیعت بی‌جان‌های گلدار. در مرکز توجه او، توانایی هنرمند در تبدیل مشاهده به ترکیب‌بندی قرار دارد. این زمینه به ما کمک می‌کند تا زندگی خلاقانه‌ی او را جامع‌تر ببینیم: از پرسش دیگری درباره‌ی تصویر، مسیر جدیدی پدیدار می‌شود، در حالی که مضامین قبلی همچنان در کنار هم وجود دارند.
@@ -140,10 +198,6 @@ edition_date: "2026-10-11"
 
 ## از آرشیو شخصی هنرمند
 
-[ابراهیم ولی‌خواجه‌اف در دوران دانشجویی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی، سال 1988 میلادی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-ابراهیم ولی‌خواجه‌اف در دوران دانشجویی، کنار نیم‌تنه‌ای گچی برای تمرین طراحی، سال 1988 میلادی. آرشیو هنرمند.
-
 [ابراهیم ولی‌خواجه‌اف در مقام مدیر صندوق ویژه، سال 2002 میلادی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 ابراهیم ولی‌خواجه‌اف در مقام مدیر صندوق ویژه، سال 2002 میلادی. آرشیو هنرمند.
@@ -165,14 +219,6 @@ edition_date: "2026-10-11"
 ## زندگی در عکس‌ها: آتلیه و محیط هنری
 
 عکس‌های آرشیوی چیزی را نشان می‌دهند که فهرست نمایشگاه‌ها نمی‌گوید: فضای فشردهٔ آتلیه، بومی ناتمام کنار تصویری که به نتیجه رسیده، و گفت‌وگوهای مقابل تابلوها. در پرتره‌های سیاه‌وسفید، هنرمند جوان با کارش تنهاست؛ در عکس‌های نمایشگاه، کنار استادان، همکاران و تماشاگران قرار می‌گیرد. هر دو موقعیت برای روایت مسیر او مهم‌اند. تابلو از جست‌وجویی شخصی زاده می‌شود و زندگی بعدی‌اش در محیط هنری ادامه می‌یابد.
-
-[هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-هنرمند جوان در میان آثارش. آرشیو هنرمند.
-
-[هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-هنرمند جوان در میان آثارش. آرشیو هنرمند.
 
 [هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -242,6 +288,10 @@ edition_date: "2026-10-11"
 
 این عکس‌های کار، مقیاس مکان، نور متغیر و بافت سطوح را به تصاویر مناظر می‌افزایند. دیوار، بام، نوار خاک و تاج درخت به مادهٔ روابط رنگی بدل می‌شوند. مشاهده در تابلوی نهایی می‌تواند آزادتر و فشرده‌تر شود، اما ارتباط با طبیعت در ساختار فضا باقی می‌ماند. مکان و سال این عکس‌ها مشخص نشده است؛ ظاهرشان به‌تنهایی انتساب به برنامه‌ای معین در میراکی، مونته‌نگرو یا آذربایجان را ممکن نمی‌کند.
 
+[در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.
+
 [در سفر برای نقاشی از طبیعت: کوچهٔ روستا و منظرهٔ کوهستان. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 در سفر برای نقاشی از طبیعت: کوچهٔ روستا و منظرهٔ کوهستان. آرشیو هنرمند.
@@ -249,10 +299,6 @@ edition_date: "2026-10-11"
 [در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.
-
-[در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.
 
 ## RED: نقاشی در برابر تماشاگران
 
@@ -282,13 +328,13 @@ edition_date: "2026-10-11"
 
 عکس‌های چیدمان، دیدار تابلو با تماشاگر را نشان می‌دهند. بخش‌های خالی دیوار، فاصلهٔ آثار و امکان عقب رفتن، شرایط دیدن را تغییر می‌دهند. نمای کلی مقیاس را روشن می‌کند و عکس بازدیدکنندگان حرکت میان نگاه نزدیک و دور را نشان می‌دهد.
 
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
+
 [بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
-
-[نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.
 
 ## قدردانی و مسیر حرفه‌ای
 
@@ -301,20 +347,6 @@ edition_date: "2026-10-11"
 [ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.
-
-## در کنار استاد رحیم احمدوف
-
-رحیم احمدوف، نقاش و مدرس ازبک، دارای عنوان هنرمند مردمی و عضو آکادمی هنر بود. پرتره‌های او در شکل‌گیری نقاشی مدرن ازبکستان جایگاه مهمی دارند. ولی‌خواجه‌یف از سال ۱۹۸۶ تا ۱۹۹۱ در کارگاه او آموزش دید. این عکس‌های آرشیوی به رابطهٔ استاد و شاگرد جلوه‌ای انسانی می‌بخشند: استاد و هنرمند جوان را در جمع همکاران و در یک محیط هنری مشترک می‌بینیم. پیوندهای زیر به آثار احمدوف در کاتالوگ‌های ساتبیز ارجاع می‌دهند.
-
-[استاد رحیم احمدوف و ابراهیم ولی‌خواجه‌یف. از آرشیو شخصی هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-استاد رحیم احمدوف و ابراهیم ولی‌خواجه‌یف. از آرشیو شخصی هنرمند.
-
-[بورماکین به استاد رحیم احمدوف تبریک می‌گوید. از آرشیو شخصی هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-بورماکین به استاد رحیم احمدوف تبریک می‌گوید. از آرشیو شخصی هنرمند.
-
-**آثار رحیم احمدوف در کاتالوگ‌های ساتبیز:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
 
 
 </div>

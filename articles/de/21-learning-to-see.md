@@ -11,11 +11,83 @@ edition_date: "2026-10-11"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
-Leben und Gespräche über Kunst
+Ein Leben in der Kunst · Namangan, Atelier und Malerei
 
-Von Rahim Ahmedovs Atelier bis zu den Leinwänden, die einen Museumssaal füllen, ist der Weg des usbekischen Künstlers einer der Beobachtung, des Hinterfragens und der neuen Erkundung.
+Ein Junge aus Namangan, der schon in der Schule Maler werden wollte: Familienerinnerungen, erste Aufträge, die Ausbildung bei Rahim Ahmedov und die Suche nach einer eigenen Bildsprache.
 
-Das biografische Porträt basiert auf veröffentlichten Interviews, der Ausstellungsgeschichte und Materialien aus dem Archiv des Künstlers.
+Dieses biografische Porträt stützt sich auf veröffentlichte Interviews, Ausstellungsunterlagen und das Archiv des Künstlers; Familienerinnerungen ergänzen die Geschichte seiner Kindheit und ersten Werkstatt.
+
+[Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
+
+## Namangan: das Zuhause, in dem die Geschichte beginnt
+
+Vor den Ausstellungssälen, den Auslandsreisen und den großen Leinwänden steht Namangan. Hier wächst Ibragim Valikhodjaev mit drei älteren Schwestern auf. Sein Vater ist Handwerker und hatte zuvor beim städtischen Wehramt gearbeitet. Seine Mutter kümmert sich um Haushalt und Familie. Für den jüngsten Sohn bleibt das Elternhaus wichtig, auch nachdem die Malerei zu seinem Beruf geworden ist.
+
+Schon in der Schule will er Künstler werden. Doch zwischen diesem Kindheitswunsch und dem Beginn des Studiums liegen Jahre selbstständiger Arbeit. Seine späteren Marktszenen, Porträts und Bilder des ländlichen Lebens zeigen seine Aufmerksamkeit für den Alltag: für Menschen, ihre Tätigkeiten und ihre Umgebung. Hier verbindet sich die Geschichte des Malers mit der seiner Heimatstadt und Familie.
+
+[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## Das Interview ansehen
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
+
+„Ijod formulasi“, 9. Juni 2026, Fernsehsender Madaniyat va Ma'rifat. Die obenstehende Videoaufzeichnung ist auf Usbekisch; die folgenden Links führen zu den entsprechenden Ausschnitten aus dem Gespräch.
+
+## Erste Aufträge: Arbeit vor dem Diplom
+
+In seinen Zwanzigern organisiert Valikhodjaev bereits die Ausführung künstlerischer Aufträge. Praktische Arbeit und die Erfahrung, ein gemeinsames Vorhaben zu leiten, gehen dem Diplom voraus. Beide Seiten werden sich weiterentwickeln: seine eigene Malerei und die Schaffung von Arbeitsmöglichkeiten für andere Künstler.
+
+Archivfotografien zeigen den jungen Künstler zwischen Werken und in seiner Arbeitsumgebung. So beginnt die Geschichte mit einem Menschen, der sein Berufsleben erst aufbaut, lange vor den Museumsausstellungen und öffentlichen Aufgaben der späteren Jahre.
+
+[Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
+
+## Der Lehrer ebnet den Weg, der Künstler sucht seine Sprache
+
+Er beginnt das Studium als Erwachsener. Von 1986 bis 1991 studiert er Malerei am nach Alexander Ostrowski benannten Staatlichen Institut für Theater und Kunst in Taschkent, im Atelier von Meister Rahim Ahmedov. Nach den ersten Arbeitsjahren wird der Schülerwunsch zu einer bewussten Berufsentscheidung.
+
+[Ibragim Valikhodjaev während seiner Studienzeit, neben einer Studienbüste aus Gips, 1988. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev während seiner Studienzeit, neben einer Studienbüste aus Gips, 1988. Archiv des Künstlers.
+
+Valikhodjaev wurde in Namangan geboren und absolvierte seine professionelle Ausbildung in Taschkent in der Atelier des Meisters Rahim Ahmedov. In einem Interview aus dem Jahr 2017 beschrieb er seinen Lehrer als denjenigen, der sein Verständnis von Farbe prägte. Dies ist ein wichtiger Zusammenhang: Hinter der Freiheit seiner Malerei verbirgt sich eine strenge Ausbildung, die das Fundament für eine eigenständige künstlerische Sprache legte.
+
+In einem Fernsehinterview unterscheidet der Künstler zwischen Zeichnen und der Entwicklung eines Künstlers. Eine Ausbildung eröffnet eine Welt voller Möglichkeiten, doch die eigene Richtung darin zu finden, obliegt dem Künstler selbst. Dieser Weg lässt sich in seinem Werk nachvollziehen – in Porträts, Stillleben, Landschaften und Genrebildern mit mehreren Figuren.
+
+[Videoaufzeichnung oben · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+## Mit Meister Rahim Ahmedov
+
+Rahim Ahmedov war ein bedeutender Meister der usbekischen Malerei und Lehrer mehrerer Künstlergenerationen. Er trug die Titel Volkskünstler der Usbekischen Sozialistischen Sowjetrepublik und der Sowjetunion, war Professor und korrespondierendes Mitglied der sowjetischen Akademie der Künste. Seine Porträts, Genrebilder und Landschaften verbinden eine fundierte malerische Tradition mit dem Interesse an den Menschen und der Kultur Usbekistans. Die Ausbildung bei ihm ist ein wichtiger Teil von Valikhodjaevs künstlerischer Entwicklung.
+
+[Rahim Ahmedov — Biografie der Russischen Akademie der Künste](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
+
+Der usbekische Maler und Lehrer Rahim Ahmedov war Volkskünstler und Mitglied der Akademie der Künste. Seine Porträts nehmen einen wichtigen Platz in der Entwicklung der modernen Malerei Usbekistans ein. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier. Die Archivfotografien geben dieser Verbindung ein menschliches Gesicht: Lehrer und junger Künstler sind unter Kollegen im gemeinsamen künstlerischen Umfeld zu sehen. Die folgenden Links führen zu Werken Ahmedovs in den Katalogen von Sotheby’s.
+
+[Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.
+
+[Wladimir Iwanowitsch Burmakin gratuliert Meister Rahim Ahmedov. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+[Wladimir Iwanowitsch Burmakin](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) gratuliert Meister Rahim Ahmedov. Persönliches Archiv des Künstlers.
+
+**Werke von Rahim Ahmedov in den Katalogen von Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
+
+## 1987: die erste private Kunstwerkstatt
+
+1987, noch während des Studiums, gründet Valikhodjaev seine erste private Kunstwerkstatt. Seine Familie erinnert sich an eine Zeit, in der Einschränkungen selbstständiger Tätigkeit in der Usbekischen Sozialistischen Sowjetrepublik gelockert wurden. Das Hochschulatelier vermittelt die fachliche Grundlage; die eigene Werkstatt bietet Raum für praktische Arbeit und künstlerische Aufträge.
+
+In dieser Biografie verlaufen Ausbildung und Arbeit nebeneinander. Die Organisation von Ausstellungen, kuratorische Aufgaben und eine Galerie werden später hinzukommen. Die erste Werkstatt macht die Kontinuität sichtbar: Der Künstler schafft Werke und sucht zugleich die Bedingungen, unter denen künstlerische Arbeit möglich ist.
+
+## Nach dem Studium: zurück zur Mutter
+
+Nach dem Abschluss 1991 kehrt Valikhodjaev nach Namangan zurück, um seiner Mutter nahe zu sein. Als jüngster Sohn verbindet er diese Entscheidung mit der Fürsorge für das Elternhaus. In der Geschichte seiner Familie zeigt sich darin eine usbekische Tradition: die Verbindung zwischen den Generationen zu erhalten, Ältere zu achten und die Eltern zu unterstützen. Die Rückkehr ist eine persönliche Entscheidung und die Fortsetzung dieser familiären Bindung.
+
+Die Rückkehr in die Heimatstadt wird auch Teil seines beruflichen Weges. Namangan bleibt ein wichtiger Ort seiner Malerei: in der Marktserie, in Alltagsbeobachtungen und in den Bildern seiner Zeitgenossen. Spätere Reisen und Veränderungen der Bildsprache erweitern diesen Bereich, während die Aufmerksamkeit für einzelne Menschen und ihr tägliches Leben bestehen bleibt.
 
 [Ibragim Valikhodjaev. Porträt aus dem Ausstellungskatalog „In Silence“. Reproduktion einer Archivfotografie des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
 
@@ -26,25 +98,9 @@ Ibragim Valikhodjaev. Porträt aus dem Ausstellungskatalog „In Silence“. Rep
 - **Arbeitsbereiche:** Malerei, Bildhauerei, Kuratieren und Organisieren von Kunstprojekten
 - **Berufliche Rollen:** Akademiemitglied der Akademie der Künste Usbekistans; Vorsitzender des Künstlerverbands Usbekistans; Gründer des Valikhodjaev Gallery House
 
-[English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
-
-## Das Interview ansehen
-
-[Videoaufnahme](<https://www.youtube.com/watch?v=uQzIBpYBXD8>)
-
-„Ijod formulasi“, 9. Juni 2026, Fernsehsender Madaniyat va Ma'rifat. Die obenstehende Videoaufzeichnung ist auf Usbekisch; die folgenden Links führen zu den entsprechenden Ausschnitten aus dem Gespräch.
-
 In der Sendung „Ijod formulasi“ (Die Formel der Kreativität) beginnt das Gespräch mit einem Besuch im Atelier von Ibragim Valikhodjaev. Werke aus verschiedenen Schaffensperioden stehen nebeneinander: eine Marktszene, eine rote Landschaft, eine großformatige abstrakte Komposition. Dahinter verbirgt sich ein einziges Schaffensleben, doch in jedem Werk stellt sich der Künstler einer neuen Herausforderung. Diese Begegnung im Atelier verdeutlicht uns das Wichtigste: Valikhodjaevs Neugier eröffnet ihm immer wieder neue Wege der künstlerischen Auseinandersetzung.
 
 Er ist Maler und Bildhauer, Organisator und Kurator, Galerist und Mentor. Eine zentrale Frage zieht sich durch all diese Tätigkeiten: Wie bewahrt man sich eine frische Perspektive? In veröffentlichten Gesprächen wird Erfahrung als Chance dargestellt, weiter zu forschen, zu experimentieren und neue Ausdrucksformen zu finden.
-
-## Der Lehrer ebnet den Weg, der Künstler sucht seine Sprache
-
-Valikhodjaev wurde in Namangan geboren und absolvierte seine professionelle Ausbildung in Taschkent in der Atelier des Meisters Rahim Ahmedov. In einem Interview aus dem Jahr 2017 beschrieb er seinen Lehrer als denjenigen, der sein Verständnis von Farbe prägte. Dies ist ein wichtiger Zusammenhang: Hinter der Freiheit seiner Malerei verbirgt sich eine strenge Ausbildung, die das Fundament für eine eigenständige künstlerische Sprache legte.
-
-In einem Fernsehinterview unterscheidet der Künstler zwischen Zeichnen und der Entwicklung eines Künstlers. Eine Ausbildung eröffnet eine Welt voller Möglichkeiten, doch die eigene Richtung darin zu finden, obliegt dem Künstler selbst. Dieser Weg lässt sich in seinem Werk nachvollziehen – in Porträts, Stillleben, Landschaften und Genrebildern mit mehreren Figuren.
-
-[Videoaufzeichnung oben · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
 ## Der Basar ist mehr als nur ein Thema
 
@@ -108,6 +164,8 @@ Seine Reise setzt sich in seinen Werken fort: in den Menschen auf dem Marktplatz
 
 [Videoaufzeichnung oben · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
+Heute sind mehr als 600 Werke von Ibragim Valikhodjaev bekannt, überwiegend Gemälde. Sie umfassen unterschiedliche Phasen und Ansätze: die zurückhaltende Palette der frühen Jahre, den Basar von Namangan, Porträts, Stillleben, Akte, Freilichtlandschaften, RED und Abstraktion. Seine Arbeit setzt sich in neuen Fragen nach Farbe, Form und Komposition fort.
+
 ## Die Komposition verbindet verschiedene Jahre
 
 In einem 2012 in San'at erschienenen Porträtartikel beschrieb Oksana Kadysheva Valikhodjaevs künstlerischen Werdegang: seine frühen, zurückhaltenden Werke, Marktszenen, montenegrinische Landschaften und Blumenstillleben. Im Zentrum ihrer Analyse steht die Fähigkeit des Künstlers, Beobachtungen in Kompositionen zu verwandeln. Dieser Kontext ermöglicht ein umfassenderes Verständnis seines Schaffens: Aus einer neuen Auseinandersetzung mit dem Bild entsteht eine neue Richtung, während frühere Themen weiterhin präsent sind.
@@ -138,10 +196,6 @@ Künstlerlinks: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [I
 
 ## Aus dem persönlichen Archiv des Künstlers
 
-[Ibragim Valikhodjaev während seiner Studienzeit, neben einer Studienbüste aus Gips, 1988. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev während seiner Studienzeit, neben einer Studienbüste aus Gips, 1988. Archiv des Künstlers.
-
 [Ibragim Valikhodjaev als Leiter des Sonderfonds, 2002. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev als Leiter des Sonderfonds, 2002. Archiv des Künstlers.
@@ -163,14 +217,6 @@ Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Ma
 ## Ein Leben in Fotografien: Atelier und Kunstszene
 
 Archivfotografien zeigen, was ein Ausstellungsverzeichnis nicht erzählt: die Enge eines Ateliers, eine unfertige Leinwand neben einem bereits gefundenen Bild, Gespräche vor Gemälden. Auf Schwarzweißporträts ist der junge Künstler allein mit seiner Arbeit; auf Ausstellungsfotos begegnet er Lehrern, Kollegen und Betrachtern. Beide Situationen gehören zu seinem Weg. Ein Bild entsteht aus persönlicher Suche; sein weiteres Leben entfaltet sich innerhalb einer Kunstszene.
-
-[Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
-
-Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
-
-[Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
-
-Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
 [Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
@@ -240,6 +286,10 @@ Freilichtmalerei beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und 
 
 Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, Montenegro oder Aserbaidschan.
 
+[Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.
+
 [Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
 Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv des Künstlers.
@@ -247,10 +297,6 @@ Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv d
 [Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.
-
-[Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.
 
 ## RED: Malen vor Publikum
 
@@ -280,13 +326,13 @@ Der Künstler betrachtet ein Gemälde mit einer roten Farbfläche. Archiv des K�
 
 Ausstellungsfotos zeigen die Begegnung des Bildes mit seinen Betrachtern. Freie Wandflächen, Abstände zwischen Werken und Raum zum Zurücktreten verändern das Sehen. Die Gesamtansicht vermittelt den Maßstab; Besucher verdeutlichen den Wechsel zwischen Nahsicht und Betrachtung aus der Ferne.
 
+[Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
+
 [Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
 Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.
-
-[Blick in die Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-Blick in die Ausstellung. Archiv des Künstlers.
 
 ## Anerkennung und künstlerischer Werdegang
 
@@ -299,17 +345,3 @@ Fotos von Auszeichnungen ergänzen die berufliche Chronik um erlebte Anerkennung
 [Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.
-
-## Mit Meister Rahim Ahmedov
-
-Der usbekische Maler und Lehrer Rahim Ahmedov war Volkskünstler und Mitglied der Akademie der Künste. Seine Porträts nehmen einen wichtigen Platz in der Entwicklung der modernen Malerei Usbekistans ein. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier. Die Archivfotografien geben dieser Verbindung ein menschliches Gesicht: Lehrer und junger Künstler sind unter Kollegen im gemeinsamen künstlerischen Umfeld zu sehen. Die folgenden Links führen zu Werken Ahmedovs in den Katalogen von Sotheby’s.
-
-[Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
-
-Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.
-
-[Burmakin gratuliert Meister Rahim Ahmedov. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
-
-Burmakin gratuliert Meister Rahim Ahmedov. Persönliches Archiv des Künstlers.
-
-**Werke von Rahim Ahmedov in den Katalogen von Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
