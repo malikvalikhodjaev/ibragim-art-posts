@@ -95,19 +95,45 @@ Il giovane artista fra le sue opere. Archivio dell’artista.
 
 Il giovane artista fra le sue opere. Archivio dell’artista.
 
+## 1991: una ricerca che si apre in più direzioni
+
+I dipinti del 1991 rivelano quanto fossero già diversi i suoi interessi verso la fine degli studi. Nell’Angelo l’attenzione si concentra su una donna seduta, sul volto, sulle mani e sull’abito chiaro. Nel Grido l’immagine prende forma attraverso una grande massa scura e netti accenti luminosi. Queste opere affiancano l’osservazione della persona alla ricerca di una forma sintetica e simbolica. I dipinti del bazar si svilupperanno all’interno di questa esplorazione più ampia.
+
+[«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.
+
+[«Grido», 1991. 110 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Grido», 1991. 110 × 100 cm. Riproduzione dall’archivio dell’artista.
+
 ## Il bazar è più di un soggetto
 
-Negli ultimi anni di studio il bazar divenne il tema del lavoro di diploma. Le prime soluzioni si basavano sull’osservazione realistica: persone precise, occupazioni, pose e relazioni nello spazio. In seguito quella base assunse forme nuove: le sagome si semplificarono, il colore acquistò maggiore autonomia e la scena a più figure si organizzò sempre più come una composizione ritmica. Le origini del tema risalgono agli anni da studente, molto prima delle mostre successive.
+Negli ultimi anni di studio il bazar divenne il tema del lavoro di diploma. Le prime soluzioni si basavano sull’osservazione realistica: persone precise, occupazioni, pose e relazioni nello spazio. In seguito quella base assunse forme nuove: le sagome si semplificarono, il colore acquistò maggiore autonomia e la scena a più figure si organizzò sempre più come una composizione ritmica. Le origini del tema risalgono agli anni da studente, molto prima delle mostre successive. Da queste osservazioni nasceranno gradualmente grandi tele a più figure, nelle quali le vicende individuali si riuniscono in una composizione comune.
 
 Il tema del bazar affascinò l'artista durante la realizzazione del suo lavoro di diploma e rimase a lungo uno dei temi principali della sua opera. La serie Namangan offre un ricco materiale compositivo: incontri, scambi di merci, conversazioni e gesti. Foulard bianchi, berretti ricamati e abiti colorati costituiscono elementi ricorrenti, mentre i singoli personaggi si integrano nel ritmo generale della vita quotidiana.
 
-In "Suite orientale", lo sguardo si sposta dalle piccole storie umane a un'ampia struttura compositiva. Il gesto è importante come espressione del carattere e, al contempo, come cambiamento di forma, alterando le distanze tra le figure adiacenti. L'osservazione qui diventa pittura: le vite delle persone sono organizzate artisticamente attraverso il colore, il raggruppamento e il ritmo. L'artista è affascinato sia dal mondo del mercato in sé, sia dalla sfida di riunire le sue molteplici voci in una tela coerente.
+Nel Mercato dei doppi del 2002 l’osservazione della vita del bazar diventa già una struttura pittorica autonoma. Fazzoletti e abiti bianchi formano ricorrenti sagome chiare; le figure si avvicinano, si sovrappongono e occupano quasi tutta la tela. I piccoli oggetti e i dettagli decorativi in primo piano mantengono il legame con una precisa scena di commercio. Il Mercato delle culle, dipinto nello stesso anno, organizza diversamente lo spazio attraverso grandi piani rossi, scuri e gialli. Questi quadri appartengono allo sviluppo del tema dopo gli esordi durante gli studi. Non illustrano il lavoro di diploma: sono opere nelle quali il soggetto quotidiano ha acquisito un nuovo linguaggio di colore e forma.
 
 [Videoregistrazione qui sopra · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[Ibragim Valikhodjaev. "Suite orientale", 2011. Dimensioni secondo la didascalia d'archivio: 100 × 300 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[«Il mercato dei doppi — copricapi tradizionali», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-Ibragim Valikhodjaev. "Suite orientale", 2011. Dimensioni secondo la didascalia d'archivio: 100 × 300 cm. Riproduzione dall'archivio dell'artista.
+«Il mercato dei doppi — copricapi tradizionali», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.
+
+[«Il mercato delle culle (Beshik Bazaar)», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+«Il mercato delle culle (Beshik Bazaar)», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.
+
+[«Il mercato dei doppi», 2004. 100 × 90 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Il mercato dei doppi», 2004. 100 × 90 cm. Riproduzione dall’archivio dell’artista.
+
+Le versioni del Mercato dei doppi del 2004 e del 2006 proseguono questa ricerca. Nella prima un gruppo fitto di persone e le merci davanti a loro costruiscono una scena articolata su più piani; nella seconda il minor numero di figure mette in risalto le verticali degli abiti bianchi e le ampie campiture. Il bazar diventa gradualmente uno dei tratti riconoscibili di Valikhodjaev, una firma che permette al pubblico di identificare la sua pittura. Questa riconoscibilità, però, non esaurisce i suoi interessi artistici.
+
+[«Il mercato dei doppi», 2006. 70 × 55 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+«Il mercato dei doppi», 2006. 70 × 55 cm. Riproduzione dall’archivio dell’artista.
 
 ## Tumor, Namangan e il trasferimento a Tashkent
 
@@ -193,7 +219,7 @@ Visitatori davanti ai dipinti di Valikhodjaev. Archivio dell’artista.
 
 «Cerco sempre di vedere le cose familiari in un modo nuovo e insolito», ha affermato l'artista in un'intervista del 2017 (tradotta dal russo). Quest'idea contribuisce a collegare la sua pittura di genere con la successiva svolta verso l'astrazione. In "Nuovo sguardo (New View)", l'immagine è costruita attraverso ampie campiture di colore, contorni e relazioni geometriche. I legami compositivi che univano i personaggi nella scena del mercato emergono ora tra forme indipendenti.
 
-L'esplorazione del colore e della composizione continua: il soggetto e le dimensioni del dipinto cambiano, ed emergono nuovi modi di collegare le parti della tela. In un'intervista televisiva, Valikhodjaev sottolinea che il suo stile riconoscibile non è una scusa per fermarsi. Ogni opera successiva dovrebbe aprire la porta a un nuovo approccio artistico.
+A muovere l’artista sono stati l’interesse, la curiosità e il desiderio di scoprire qualcosa di nuovo. Il linguaggio raggiunto offre un punto di partenza per altri esperimenti: come organizzare diversamente colore, forma e composizione, che cosa cambia con un altro soggetto o un’altra scala? Accanto al bazar si sviluppano così ritratti, nature morte, paesaggi, l’esplorazione del rosso in RED, l’astrazione di New View e la scultura. Nella conversazione televisiva Valikhodjaev sottolinea che uno stile riconoscibile non è una ragione per fermarsi: ogni opera deve aprire la possibilità di una nuova soluzione artistica.
 
 [Videoregistrazione qui sopra · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 aprile 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

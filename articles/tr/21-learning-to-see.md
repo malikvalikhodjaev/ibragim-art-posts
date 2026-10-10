@@ -95,19 +95,45 @@ Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
+## 1991: farklı yönlere açılan arayış
+
+1991 tarihli resimler, öğreniminin sonuna yaklaşırken bile ne kadar farklı resimsel sorunlarla ilgilendiğini gösterir. Melek’te dikkat, oturan bir kadının yüzüne, ellerine ve açık renk giysisine yönelir. Çığlık’ta ise büyük koyu bir kütle ve keskin açık renk vurgular imgeyi kurar. Bu eserlerde insanı gözlemlemek, yalınlaştırılmış ve simgesel biçim arayışıyla yan yana gelir. Pazar resimleri bu daha geniş sanatsal araştırmanın içinde gelişecektir.
+
+[“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+
+[“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+
 ## Çarşı, bir konudan çok daha fazlasıdır.
 
-Öğrenciliğinin son yıllarında pazar, diploma çalışmasının konusu oldu. İlk yaklaşımı gerçekçi gözleme dayanıyordu: belirli insanlar, işleri, duruşları ve mekân içindeki ilişkileri. Zamanla bu temel yeni biçimler kazandı; siluetler yalınlaştı, renk daha bağımsız bir rol üstlendi ve çok figürlü sahne giderek ritmik bir kompozisyona dönüştü. Konunun kökleri, sonraki sergilerden çok önce öğrencilik yıllarına uzanır.
+Öğrenciliğinin son yıllarında pazar, diploma çalışmasının konusu oldu. İlk yaklaşımı gerçekçi gözleme dayanıyordu: belirli insanlar, işleri, duruşları ve mekân içindeki ilişkileri. Zamanla bu temel yeni biçimler kazandı; siluetler yalınlaştı, renk daha bağımsız bir rol üstlendi ve çok figürlü sahne giderek ritmik bir kompozisyona dönüştü. Konunun kökleri, sonraki sergilerden çok önce öğrencilik yıllarına uzanır. Bu gözlemler zamanla, tek tek insanların hikâyelerini ortak bir kompozisyonda birleştiren büyük, çok figürlü tuvallere dönüşecektir.
 
 Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve bu tema uzun süre eserlerinin ana temalarından biri olarak kalmıştır. Namangan serisi, zengin bir kompozisyon malzemesi sunar: karşılaşmalar, mal alışverişi, konuşmalar ve jestler. Beyaz başörtüleri, işlemeli takkeler ve renkli giysiler tekrar eden vurgular oluştururken, bireysel karakterler günlük yaşamın genel ritmine entegre edilmiştir.
 
-"Doğu Süiti"nde bakış açısı küçük insan hikayelerinden geniş bir kompozisyon yapısına kayar. Jest, karakterin bir ifadesi ve aynı zamanda bitişik figürler arasındaki mesafeleri değiştirerek formun bir değişimi olarak önemlidir. Burada gözlem resme dönüşür: insanların yaşamları renk, gruplama ve ritim yoluyla sanatsal olarak düzenlenir. Sanatçı hem pazar dünyasının kendisinden hem de onun birçok sesini tutarlı bir tuvalde bir araya getirme zorluğundan büyülenmiştir.
+2002 tarihli Duppi Pazarı’nda pazar yaşamını gözlemlemenin bağımsız bir resimsel düzene dönüştüğü görülür. Beyaz başörtüleri ve giysiler yinelenen açık renk biçimler oluşturur; figürler birbirine yaklaşır, örtüşür ve tuvalin neredeyse tamamını doldurur. Ön plandaki küçük nesneler ve desenli ayrıntılar belirli bir alışveriş sahnesiyle bağı korur. Aynı yıl yapılan Beshik Pazarı’nda mekân farklı biçimde, geniş kırmızı, koyu ve sarı düzlemlerle düzenlenir. Bu resimler, öğrencilik yıllarında başlayan konunun sonraki gelişim aşamasına aittir. Diploma çalışmasının görselleri değil, gündelik yaşamın yeni bir renk ve biçim dili kazandığı eserlerdir.
 
 [Yukarıdaki video kaydı · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[İbrahim Valikhodjaev. "Doğu Süiti", 2011. Arşiv açıklamasına göre boyutları: 100 × 300 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[“Duppi Pazarı — geleneksel takke pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-İbrahim Valikhodjaev. "Doğu Süiti", 2011. Arşiv açıklamasına göre boyutları: 100 × 300 cm. Sanatçının arşivinden reprodüksiyon.
+“Duppi Pazarı — geleneksel takke pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.
+
+[“Beshik Pazarı — beşik pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+“Beshik Pazarı — beşik pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.
+
+[“Duppi Pazarı”, 2004. 100 × 90 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+“Duppi Pazarı”, 2004. 100 × 90 cm. Sanatçının arşivinden röprodüksiyon.
+
+2004 ve 2006 tarihli Duppi Pazarı resimleri bu arayışı sürdürür. İlkinde sık bir insan grubu ve önlerindeki mallar katmanlı bir sahne kurar; ikincisinde figür sayısı azalırken beyaz giysilerin dikeyleri ve geniş renk alanları öne çıkar. Pazar konusu zamanla Valikhodjaev’in tanınabilir imzalarından biri olur; izleyici onun resmini bu dilden ayırt edebilir. Ancak bu tanınabilirlik, sanatçının ilgilerini tüketmez.
+
+[“Duppi Pazarı”, 2006. 70 × 55 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+“Duppi Pazarı”, 2006. 70 × 55 cm. Sanatçının arşivinden röprodüksiyon.
 
 ## Tumor, Namangan ve Taşkent’e taşınma
 
@@ -193,7 +219,7 @@ Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
 
 Sanatçı 2017'de verdiği bir röportajda (Rusçadan çevrilmiştir) "Tanıdık şeyleri her zaman yeni, alışılmadık bir şekilde görmeye çalışırım" demişti. Bu fikir, gündelik yaşamı konu alan resimlere olan ilgisinin daha sonraki soyutlamaya yönelmesiyle bağlantı kurmasına yardımcı oluyor. "Yeni Bakış (New View)" sergisinde, görüntü geniş renk alanları, konturlar ve geometrik ilişkiler aracılığıyla oluşturuluyor. Pazar sahnesindeki karakterleri birleştiren kompozisyonel bağlantılar, şimdi bağımsız formlar arasında ortaya çıkıyor.
 
-Renk ve kompozisyon keşfi devam ediyor: resmin konusu ve ölçeği değişiyor ve tuvalin parçalarını birleştirmenin yeni yolları ortaya çıkıyor. Televizyonda yayınlanan bir röportajda Valikhodjaev, tanınabilir tarzının durmak için bir bahane olmadığını vurguluyor. Her bir sonraki eser, yeni bir sanatsal yaklaşıma kapı açmalıdır.
+Sanatçıyı ileriye taşıyan ilgi, merak ve yeni şeyler keşfetme isteğiydi. Bulduğu resim dili yeni denemeler için bir dayanak sağladı: renk, biçim ve kompozisyon başka nasıl düzenlenebilir; konu ya da ölçek değişince ne olur? Bu nedenle pazar dizisinin yanında portreler, natürmortlar, manzaralar, RED’de kırmızı üzerine araştırmalar, New View’daki soyutlama ve heykel de gelişir. Televizyon söyleşisinde Valikhodjaev, tanınabilir bir üslubun durmak için gerekçe olmadığını vurgular: her yeni eser başka bir sanatsal çözümün olanağını açmalıdır.
 
 [Yukarıdaki video kaydı · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

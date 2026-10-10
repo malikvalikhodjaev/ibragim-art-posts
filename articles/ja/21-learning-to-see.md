@@ -95,19 +95,45 @@ edition_date: "2026-10-11"
 
 自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
+## 1991年：さまざまな方向へ広がる探求
+
+1991年の作品は、学業の終わりに近づいた時点で、すでに多様な絵画上の課題に取り組んでいたことを示している。《天使》では、座る女性の顔、手、明るい衣服に視線が向かう。《叫び》では、大きな暗い塊と鋭い明色のアクセントが画面を組み立てる。具体的な人物の観察と、形を要約し象徴へと変える試みが共存している。バザールの絵画も、この幅広い探求のなかで発展していく。
+
+[《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。
+
+[《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。
+
 ## バザールは単なる主題以上のものだ
 
-学生生活の終盤、バザールは卒業制作の主題となった。初期の表現は写実的な観察を基礎としていた。具体的な人々、その仕事、姿勢、空間の中での関係である。後にその基礎は新しい形を得た。輪郭は簡潔になり、色彩は自立性を増し、多くの人物が登場する場面は次第にリズムのある構成として組み立てられた。主題の出発点は、後年の展覧会よりはるか前の学生時代にある。
+学生生活の終盤、バザールは卒業制作の主題となった。初期の表現は写実的な観察を基礎としていた。具体的な人々、その仕事、姿勢、空間の中での関係である。後にその基礎は新しい形を得た。輪郭は簡潔になり、色彩は自立性を増し、多くの人物が登場する場面は次第にリズムのある構成として組み立てられた。主題の出発点は、後年の展覧会よりはるか前の学生時代にある。 こうした観察は、やがて多くの人物を描く大きな画面へと育ち、一人ひとりの物語をひとつの構図に結びつけていく。
 
 バザールというテーマは、卒業制作に取り組んでいた頃からアーティストを魅了し、長らく彼の作品の主要テーマの一つであり続けた。ナマンガン・シリーズは、出会い、物々交換、会話、身振り手振りといった、豊かな構図の素材を提供している。白いスカーフ、刺繍入りの帽子、色鮮やかな衣服が繰り返し登場し、個々の人物は日常生活の全体的なリズムに溶け込んでいる。
 
-「東洋組曲」では、視線は小さな人間ドラマから、より広範な構図へと移り変わる。身振りは、人物の性格表現として重要であると同時に、隣接する人物間の距離を変化させる形態変化としても重要な役割を果たす。ここでは観察が絵画へと昇華し、人々の生活は色彩、群像、リズムを通して芸術的に構成されている。画家は、市場という世界そのものと、そこに存在する多様な声を一つのまとまったキャンバスにまとめ上げるという難題の両方に魅了されている。
+2002年の《ドゥッピの市場》では、市場生活の観察がすでに独自の絵画構造へと変わっている。白い頭巾や衣服が明るい形として繰り返され、人物は近づき、重なり合い、画面のほぼ全体を埋める。前景の小さな品物や文様の細部は、具体的な売買の場面とのつながりを保つ。同年の《揺りかごの市場》では、大きな赤、暗色、黄色の面によって空間が別の仕方で整理されている。これらは学生時代に始まった主題の、その後の発展を示す作品であり、卒業制作の図版ではない。日常の情景が、新たな色彩と形態の言語を獲得している。
 
 [上に掲載した映像 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[イブラギム・ヴァリホジャエフ。「東洋組曲」、2011年。保存資料のキャプションによるとサイズは100×300cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[《ドゥッピの市場 — 伝統的な帽子の市場》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-イブラギム・ヴァリホジャエフ。「東洋組曲」、2011年。保存資料のキャプションによるとサイズは100×300cm。作家のアーカイブからの複製。
+《ドゥッピの市場 — 伝統的な帽子の市場》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。
+
+[《揺りかごの市場（Beshik Bazaar）》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+《揺りかごの市場（Beshik Bazaar）》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。
+
+[《ドゥッピの市場》, 2004. 100 × 90 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《ドゥッピの市場》, 2004. 100 × 90 cm. 図版は画家のアーカイブより。
+
+2004年と2006年の《ドゥッピの市場》は、この探求をさらに進める。前者では密集した人々と手前の商品が層をなす場面をつくり、後者では人物が少ない分、白い衣服の垂直線と大きな色面が際立つ。バザールは次第にヴァリホジャエフの絵画を見分ける特徴的な主題となる。しかし、その識別しやすさが彼の芸術的関心のすべてではない。
+
+[《ドゥッピの市場》, 2006. 70 × 55 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+《ドゥッピの市場》, 2006. 70 × 55 cm. 図版は画家のアーカイブより。
 
 ## トゥモル、ナマンガン、タシケントへの移住
 
@@ -193,7 +219,7 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 「私はいつも、見慣れたものを新しい、斬新な視点で見ようと努めています」と、このアーティストは2017年のインタビューで語っている（ロシア語からの翻訳）。この考え方は、彼の風俗画と、その後の抽象画への転向を結びつける上で重要な手がかりとなる。「New View」では、大きな色彩面、輪郭線、そして幾何学的な関係性によってイメージが構成されている。市場の場面で登場人物たちを結びつけていた構図上の繋がりは、今や独立した形態の間にも現れている。
 
-色彩と構図の探求は続く。絵画の主題や規模は変化し、キャンバスの各部分を繋ぐ新たな方法が現れる。テレビインタビューで、ヴァリホジャエフは、自身の特徴的なスタイルは創作を止める理由にはならないと強調する。それぞれの作品は、新たな芸術的アプローチへの扉を開くものでなければならないのだ。
+画家を動かしてきたのは、関心、好奇心、そして新しいものを発見したいという思いだった。獲得した表現は、次の実験の足場になる。色彩、形態、構図をほかにどう組み立てられるのか。主題や尺度が変われば、何が起こるのか。バザールの連作と並行して、肖像、静物、風景、REDにおける赤の探求、New Viewの抽象画、そして彫刻が展開する。テレビの対話でヴァリホジャエフは、見分けのつく様式を得たことは立ち止まる理由にならないと強調する。新たな作品は、そのつど別の造形的な解決を開くべきなのだ。
 
 [上に掲載した映像 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

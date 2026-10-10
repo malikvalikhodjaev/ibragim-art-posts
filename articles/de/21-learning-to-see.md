@@ -95,19 +95,45 @@ Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
 Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
+## 1991: eine Suche in verschiedene Richtungen
+
+Die Gemälde von 1991 zeigen, wie vielfältig seine malerischen Fragestellungen schon gegen Ende des Studiums waren. In Engel gilt die Aufmerksamkeit einer sitzenden Frau, ihrem Gesicht, ihren Händen und ihrer hellen Kleidung. In Schrei entsteht das Bild aus einer großen dunklen Masse und scharf gesetzten hellen Akzenten. Die Beobachtung des einzelnen Menschen steht hier neben der Suche nach vereinfachter, symbolischer Form. Innerhalb dieser breiteren künstlerischen Erkundung werden sich auch die Basarbilder entwickeln.
+
+[„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+
+[„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+
 ## Der Basar ist mehr als nur ein Thema
 
-In den letzten Studienjahren wurde der Basar zum Thema seiner Diplomarbeit. Die ersten Lösungen beruhten auf realistischer Beobachtung: einzelne Menschen, ihre Tätigkeiten, Haltungen und räumlichen Beziehungen. Später nahm diese Grundlage neue Formen an: Silhouetten wurden stärker vereinfacht, die Farbe gewann an Eigenständigkeit und die vielfigurige Szene wurde zunehmend als rhythmische Komposition aufgebaut. Die Ursprünge des Themas liegen in den Studienjahren, lange vor den späteren Ausstellungen.
+In den letzten Studienjahren wurde der Basar zum Thema seiner Diplomarbeit. Die ersten Lösungen beruhten auf realistischer Beobachtung: einzelne Menschen, ihre Tätigkeiten, Haltungen und räumlichen Beziehungen. Später nahm diese Grundlage neue Formen an: Silhouetten wurden stärker vereinfacht, die Farbe gewann an Eigenständigkeit und die vielfigurige Szene wurde zunehmend als rhythmische Komposition aufgebaut. Die Ursprünge des Themas liegen in den Studienjahren, lange vor den späteren Ausstellungen. Aus diesen Beobachtungen entstehen allmählich große, vielfigurige Gemälde, die einzelne menschliche Geschichten in einer gemeinsamen Komposition zusammenführen.
 
 Das Thema Basar fesselte den Künstler bereits während der Arbeit an seinem Diplomgemälde und blieb lange Zeit eines der Hauptthemen seines Schaffens. Die Serie „Namangan“ bietet reichhaltiges Kompositionsmaterial: Begegnungen, Warenaustausch, Gespräche und Gesten. Weiße Kopftücher, bestickte usbekische Kappen und farbenfrohe Kleidung setzen wiederkehrende Akzente, während sich die einzelnen Figuren in den Gesamtrhythmus des Alltags einfügen.
 
-In „Östliche Suite“ verlagert sich der Blick von kleinen menschlichen Schicksalen hin zu einer umfassenden Komposition. Gestik ist wichtig, sowohl als Ausdruck des Charakters als auch als Formveränderung, die die Abstände zwischen benachbarten Figuren verändert. Beobachtung wird hier zur Malerei: Das Leben der Menschen wird künstlerisch durch Farbe, Gruppierung und Rhythmus geordnet. Der Künstler ist fasziniert von der Welt des Marktplatzes selbst und der Herausforderung, ihre vielen Stimmen zu einem stimmigen Gesamtbild zu vereinen.
+Im Duppi-Basar von 2002 wird die Beobachtung des Marktlebens bereits zu einer eigenständigen Bildordnung. Weiße Kopftücher und Gewänder bilden wiederkehrende helle Formen; die Figuren rücken zusammen, überschneiden sich und füllen nahezu die ganze Leinwand. Kleine Gegenstände und gemusterte Details im Vordergrund bewahren den Bezug zu einer konkreten Handelsszene. Der Beshik-Basar aus demselben Jahr ordnet den Raum anders, durch große rote, dunkle und gelbe Flächen. Diese Bilder gehören zur Weiterentwicklung des Themas nach seinen Anfängen im Studium. Sie sind keine Abbildungen der Diplomarbeit, sondern Werke, in denen der Alltag eine neue Sprache von Farbe und Form erhalten hat.
 
 [Videoaufzeichnung oben · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[Ibragim Valikhodjaev. „Östliche Suite“, 2011. Größe laut Archivangabe: 100 × 300 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[„Duppi-Basar — Markt für traditionelle Kappen“, 2002. 100 × 120 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-Ibragim Valikhodjaev. „Östliche Suite“, 2011. Größe laut Archivangabe: 100 × 300 cm. Reproduktion aus dem Archiv des Künstlers.
+„Duppi-Basar — Markt für traditionelle Kappen“, 2002. 100 × 120 cm. Reproduktion aus dem Archiv des Künstlers.
+
+[„Beshik-Basar — Wiegenmarkt“, 2002. 100 × 120 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+„Beshik-Basar — Wiegenmarkt“, 2002. 100 × 120 cm. Reproduktion aus dem Archiv des Künstlers.
+
+[„Duppi-Basar“, 2004. 100 × 90 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+„Duppi-Basar“, 2004. 100 × 90 cm. Reproduktion aus dem Archiv des Künstlers.
+
+Die Fassungen des Duppi-Basars von 2004 und 2006 führen diese Suche fort. Im ersten Bild bilden eine dichte Menschengruppe und die Waren davor eine vielschichtige Szene; im zweiten treten bei weniger Figuren die Vertikalen der weißen Gewänder und die großen Farbflächen stärker hervor. Der Basar wird allmählich zu einem unverwechselbaren Merkmal von Valikhodjaevs Malerei, an dem das Publikum sie erkennt. Dieser Wiedererkennungswert schöpft seine künstlerischen Interessen jedoch nicht aus.
+
+[„Duppi-Basar“, 2006. 70 × 55 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+„Duppi-Basar“, 2006. 70 × 55 cm. Reproduktion aus dem Archiv des Künstlers.
 
 ## Tumor, Namangan und der Umzug nach Taschkent
 
@@ -193,7 +219,7 @@ Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.
 
 „Ich versuche immer, Vertrautes auf eine neue, ungewöhnliche Weise zu sehen“, sagte der Künstler in einem Interview von 2017 (aus dem Russischen übersetzt). Diese Idee verbindet seine Genremalerei mit seiner späteren Hinwendung zur Abstraktion. In „Neuer Blick (New View)“ entsteht das Bild durch große Farbflächen, Konturen und geometrische Beziehungen. Die kompositorischen Verbindungen, die die Figuren in der Marktszene einst verbanden, treten nun zwischen unabhängigen Formen hervor.
 
-Die Auseinandersetzung mit Farbe und Komposition geht weiter: Sujet und Format der Gemälde verändern sich, und neue Wege der Verbindung von Leinwandteilen entstehen. In einem Fernsehinterview betont Valikhodjaev, dass sein unverkennbarer Stil keine Ausrede für Stillstand sei. Jedes weitere Werk solle den Weg für einen neuen künstlerischen Ansatz ebnen.
+Interesse, Neugier und der Wunsch, Neues zu entdecken, trieben den Künstler an. Die gefundene Bildsprache wird zum Ausgangspunkt weiterer Versuche: Wie lassen sich Farbe, Form und Komposition anders ordnen, was verändert sich bei einem anderen Motiv oder Maßstab? Neben der Basarserie entstehen daher Porträts, Stillleben und Landschaften, die Untersuchung von Rot in RED, die Abstraktion von New View und Skulpturen. Im Fernsehgespräch betont Valikhodjaev, dass ein erkennbarer Stil kein Grund ist, stehenzubleiben: Jedes neue Werk soll eine weitere künstlerische Lösung ermöglichen.
 
 [Videoaufzeichnung oben · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

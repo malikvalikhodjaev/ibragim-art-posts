@@ -95,19 +95,45 @@ Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
 Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
+## 1991: izlanishning turli yo‘nalishlari
+
+1991-yilgi asarlar rassom o‘qishni tugatayotgan davrdayoq turli tasviriy vazifalar ustida ishlaganini ko‘rsatadi. «Farishta»da e’tibor o‘tirgan ayolga, uning yuzi, qo‘llari va och tusli kiyimiga qaratilgan. «Qichqiriq»da esa obraz katta to‘q rangli massa va keskin yorug‘ aksentlar orqali quriladi. Bu kartinalarda insonni kuzatish umumlashtirilgan, ramziy shakl izlash bilan yonma-yon keladi. Bozor mavzusi ana shu kengroq ijodiy izlanish doirasida rivojlanadi.
+
+[«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
+
+[«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.
+
 ## Bozor shunchaki mavzu emas
 
-Talabalikning so‘nggi yillarida bozor uning diplom ishi mavzusiga aylandi. Dastlabki yechimlar realistik kuzatishga tayangan: muayyan odamlar, ularning mashg‘ulotlari, holatlari va makondagi munosabatlari. Keyinchalik shu asos yangi shakllar oldi — siluetlar umumlashdi, rang mustaqilroq ahamiyat kasb etdi, ko‘p figurali sahna ritmik kompozitsiya sifatida qurila boshladi. Mavzuning ildizlari keyingi ko‘rgazmalardan ancha oldin, talabalik yillarida shakllangan.
+Talabalikning so‘nggi yillarida bozor uning diplom ishi mavzusiga aylandi. Dastlabki yechimlar realistik kuzatishga tayangan: muayyan odamlar, ularning mashg‘ulotlari, holatlari va makondagi munosabatlari. Keyinchalik shu asos yangi shakllar oldi — siluetlar umumlashdi, rang mustaqilroq ahamiyat kasb etdi, ko‘p figurali sahna ritmik kompozitsiya sifatida qurila boshladi. Mavzuning ildizlari keyingi ko‘rgazmalardan ancha oldin, talabalik yillarida shakllangan. Bu kuzatishlar asta-sekin alohida insoniy voqealarni yaxlit kompozitsiyaga birlashtiradigan katta, ko‘p figurali kartinalarga aylanadi.
 
 Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi va uzoq vaqt davomida uning ishining asosiy mavzularidan biri bo‘lib qoldi. Namangan seriyasi boy kompozitsion materiallarni taklif etadi: uchrashuvlar, tovarlar almashinuvi, suhbatlar va imo-ishoralar. Oq ro‘mollar, kashta tikilgan do‘ppilar va rang-barang kiyimlar takrorlanuvchi aksentlarni hosil qiladi, individual personajlar esa kundalik hayotning umumiy ritmiga singib ketgan.
 
-"Sharq syuitasi"da nigoh kichik inson hikoyalaridan keng kompozitsion tuzilishga o‘tadi. Imo-ishora xarakterning ifodasi sifatida va bir vaqtning o‘zida shaklning o‘zgarishi, qo‘shni figuralar orasidagi masofani o‘zgartirish sifatida muhimdir. Bu yerda kuzatuv rasmga aylanadi: odamlar hayoti ranglar, guruhlash va ritm orqali badiiy jihatdan tashkil etilgan. Rassom bozor dunyosining o‘zi va uning ko‘plab ovozlarini yaxlit polotnoga birlashtirish qiyinligi bilan o‘ziga jalb qilinadi.
+2002-yilgi «Do‘ppi bozori»da bozor hayotini kuzatish mustaqil rangtasvir tuzilishiga aylanganini ko‘rish mumkin. Oq ro‘mol va kiyimlar takrorlanuvchi yorug‘ shakllarni hosil qiladi; figuralar bir-biriga yaqinlashib, bir-birini qisman to‘sadi va deyarli butun xolstni egallaydi. Oldingi plandagi mayda buyumlar va naqshli detallar muayyan savdo manzarasi bilan bog‘liqlikni saqlaydi. O‘sha yilgi «Beshik bozori»da makon boshqacha — katta qizil, to‘q va sariq tekisliklar orqali tashkil etilgan. Bular talabalik davrida boshlangan mavzuning keyingi rivojlanish bosqichiga mansub. Ular diplom ishining tasvirlari emas, kundalik hayot mavzusi rang va shaklning yangi tiliga ega bo‘lgan asarlardir.
 
 [Yuqoridagi video · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[Ibrohim Valixo‘jayev. "Sharq syuitasi", 2011. Arxiv yozuviga ko‘ra o‘lchami: 100 × 300 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[«Do‘ppi bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-Ibrohim Valixo‘jayev. "Sharq syuitasi", 2011. Arxiv yozuviga ko‘ra o‘lchami: 100 × 300 sm. Rassom arxividagi reproduksiya.
+«Do‘ppi bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.
+
+[«Beshik bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+«Beshik bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.
+
+[«Do‘ppi bozori», 2004. 100 × 90 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Do‘ppi bozori», 2004. 100 × 90 sm. Rassom arxividan olingan reproduksiya.
+
+«Do‘ppi bozori»ning 2004 va 2006-yilgi variantlari bu izlanishni davom ettiradi. Birinchisida odamlarning zich guruhi va oldidagi mollar ko‘p qatlamli manzara hosil qiladi; ikkinchisida figuralar kamroq bo‘lib, oq kiyimlarning vertikallari va katta rang dog‘lari yaqqolroq ko‘rinadi. Bozor mavzusi asta-sekin Valixo‘jayevning taniqli ijodiy belgilaridan biriga, tomoshabin uning rangtasvirini ajrata oladigan dastxatga aylanadi. Biroq bu taniladigan uslub uning badiiy qiziqishlarini cheklamaydi.
+
+[«Do‘ppi bozori», 2006. 70 × 55 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+«Do‘ppi bozori», 2006. 70 × 55 sm. Rassom arxividan olingan reproduksiya.
 
 ## «Tumor», Namangan va Toshkentga ko‘chish
 
@@ -193,7 +219,7 @@ Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.
 
 “Men har doim tanish narsalarni yangi, gʻayrioddiy tarzda koʻrishga harakat qilaman”, dedi rassom 2017-yilda bergan intervyusida (rus tilidan tarjima qilingan). Bu gʻoya uning janr rasmlarini keyinchalik abstraksiyaga oʻtishi bilan bogʻlashga yordam beradi. “Yangi nigoh”da tasvir katta rang maydonlari, konturlar va geometrik munosabatlar orqali qurilgan. Bozor sahnasida personajlarni birlashtirgan kompozitsion aloqalar endi mustaqil shakllar orasida paydo boʻladi.
 
-Rang va kompozitsiyani o‘rganish davom etmoqda: rasmning mavzusi va ko‘lami o‘zgaradi va polotno qismlarini bog‘lashning yangi usullari paydo bo‘ladi. Televideniyedagi intervyusida Valixo‘jayev o‘zining taniqli uslubi to‘xtash uchun bahona emasligini ta'kidlaydi. Keyingi har bir ish yangi badiiy yondashuvga eshik ochishi kerak.
+Rassomni doimo qiziqish, izlanuvchanlik va yangilik kashf etish istagi oldinga yetaklagan. Shakllangan dastxat keyingi tajribalar uchun tayanch bo‘ldi: rang, shakl va kompozitsiyani yana qanday tashkil etish mumkin, mavzu yoki ko‘lam o‘zgarsa nima yuz beradi? Shu sababli bozor turkumi bilan yonma-yon portretlar, natyurmortlar, manzaralar, REDdagi qizil rang izlanishlari, «Yangi nigoh» abstraksiyasi va haykaltaroshlik rivojlanadi. Televizion suhbatda Valixo‘jayev taniqli uslub to‘xtash uchun asos bo‘la olmasligini ta’kidlaydi: har bir yangi asar yana bir badiiy yechim imkoniyatini ochishi kerak.
 
 [Yuqoridagi video · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

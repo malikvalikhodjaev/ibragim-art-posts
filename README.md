@@ -69,3 +69,9 @@ Archive captions use **1988** for the student photograph and **2002** for the Sp
 - `data/articles.json`: titles, descriptions, public URLs, text checksums and media links.
 
 Each text retains its published source URL. Sources and image credits remain attributed in the articles. Git commits record subsequent versions of this archive.
+
+## Latest biography revision — 11 October 2026
+
+All 15 versions of “Learning to See” now follow the bazaar theme from observation during the artist’s studies to large multi-figure canvases and a recognisable visual signature. Curiosity and discovery continue to drive his work beyond an established style. The illustrated edition adds Angel and Cry (1991) and presents four bazaar paintings from 2002, 2004 and 2006 as the theme’s later development. Earlier family history, chronology, teacher references, exhibitions, archive photographs and videos remain in place.
+
+Во всех 15 версиях биографической статьи показано развитие базарной темы: от наблюдений в студенческие годы к большим многофигурным полотнам и узнаваемому почерку. Интерес, любопытство и открытия ведут художника дальше найденного стиля. В иллюстрированной редакции добавлены «Ангел» и «Крик» 1991 года, а базарные картины 2002, 2004 и 2006 годов показаны как последующее развитие темы. Прежняя семейная история, хронология, сведения о наставнике, выставках, архивные фотографии и видеозаписи сохранены.

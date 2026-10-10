@@ -95,19 +95,45 @@ Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
+## 1991 : une recherche qui prend plusieurs directions
+
+Les tableaux de 1991 révèlent la diversité de ses préoccupations à la fin de ses études. Dans L’Ange, l’attention se porte sur une femme assise, son visage, ses mains et son vêtement clair. Dans Le Cri, l’image se construit autour d’une grande masse sombre et d’accents clairs tranchés. Ces œuvres font coexister l’observation de la personne et la recherche d’une forme simplifiée, symbolique. Les scènes de bazar se développeront au sein de cette exploration plus large.
+
+[«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
+
+[«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.
+
 ## Le bazar est plus qu'un sujet
 
-Dans ses dernières années d’études, le bazar devint le sujet de son travail de diplôme. Ses premières approches s’appuyaient sur l’observation réaliste : des personnes précises, leurs activités, leurs attitudes et leurs rapports dans l’espace. Plus tard, cette base prit d’autres formes : les silhouettes se simplifièrent, la couleur gagna en autonomie et la scène à plusieurs personnages s’organisa davantage en composition rythmique. Les origines du sujet remontent aux années d’études, bien avant les expositions ultérieures.
+Dans ses dernières années d’études, le bazar devint le sujet de son travail de diplôme. Ses premières approches s’appuyaient sur l’observation réaliste : des personnes précises, leurs activités, leurs attitudes et leurs rapports dans l’espace. Plus tard, cette base prit d’autres formes : les silhouettes se simplifièrent, la couleur gagna en autonomie et la scène à plusieurs personnages s’organisa davantage en composition rythmique. Les origines du sujet remontent aux années d’études, bien avant les expositions ultérieures. Ces observations donneront progressivement naissance à de grandes toiles à plusieurs figures, où des histoires individuelles se réunissent dans une même composition.
 
 Le thème du bazar a fasciné l'artiste pendant la réalisation de son travail de fin d’études et est longtemps resté l'un des thèmes principaux de son œuvre. La série Namangan offre une riche matière compositionnelle : rencontres, échanges de marchandises, conversations et gestes. Foulards blancs, calottes brodées et vêtements colorés forment des accents récurrents, tandis que les personnages s'intègrent au rythme général de la vie quotidienne.
 
-Dans « Suite orientale », le regard se détourne des petites histoires humaines pour se concentrer sur une vaste structure compositionnelle. Le geste est essentiel, à la fois comme expression du caractère et comme moyen de transformation des formes, modifiant les distances entre les figures adjacentes. L’observation se mue ici en peinture : la vie des gens est organisée artistiquement par la couleur, le groupement et le rythme. L’artiste est fasciné à la fois par le monde du marché lui-même et par le défi que représente la création d’une toile cohérente, où se mêlent ses multiples voix.
+Dans Le marché des doppi de 2002, l’observation de la vie du bazar devient déjà une organisation picturale autonome. Les foulards et les vêtements blancs forment des motifs clairs récurrents ; les figures se rapprochent, se chevauchent et occupent presque toute la toile. Au premier plan, petits objets et détails ornementaux maintiennent le lien avec une scène de commerce précise. Le marché des berceaux, peint la même année, organise autrement l’espace, par de grands plans rouges, sombres et jaunes. Ces tableaux appartiennent au développement du thème après ses débuts pendant les études. Ils n’illustrent pas le travail de diplôme : le sujet quotidien y a acquis un nouveau langage de la couleur et de la forme.
 
 [Vidéo ci-dessus · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[Ibragim Valikhodjaev. « Suite orientale », 2011. Dimensions selon la légende d'archives : 100 × 300 cm. Reproduction issue des archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[«Le marché des doppi — calottes traditionnelles», 2002. 100 × 120 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-Ibragim Valikhodjaev. « Suite orientale », 2011. Dimensions selon la légende d'archives : 100 × 300 cm. Reproduction issue des archives de l'artiste.
+«Le marché des doppi — calottes traditionnelles», 2002. 100 × 120 cm. Reproduction provenant des archives de l’artiste.
+
+[«Le marché des berceaux (Beshik Bazaar)», 2002. 100 × 120 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+«Le marché des berceaux (Beshik Bazaar)», 2002. 100 × 120 cm. Reproduction provenant des archives de l’artiste.
+
+[«Le marché des doppi», 2004. 100 × 90 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Le marché des doppi», 2004. 100 × 90 cm. Reproduction provenant des archives de l’artiste.
+
+Les versions du Marché des doppi de 2004 et 2006 poursuivent cette recherche. Dans la première, un groupe dense et les marchandises disposées devant lui composent une scène à plusieurs plans ; dans la seconde, les figures moins nombreuses font ressortir les verticales des vêtements blancs et les grandes plages colorées. Le bazar devient peu à peu l’une des signatures de Valikhodjaev, grâce à laquelle le public reconnaît sa peinture. Cette reconnaissance ne résume pourtant pas ses intérêts artistiques.
+
+[«Le marché des doppi», 2006. 70 × 55 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+«Le marché des doppi», 2006. 70 × 55 cm. Reproduction provenant des archives de l’artiste.
 
 ## Tumor, Namangan et l’installation à Tachkent
 
@@ -193,7 +219,7 @@ Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.
 
 « J’essaie toujours de voir les choses familières d’une manière nouvelle et originale », a déclaré l’artiste dans une interview de 2017 (citation traduite du russe). Cette idée permet de relier sa peinture de genre à son passage ultérieur à l’abstraction. Dans « New View », l’image est construite à partir de larges aplats de couleur, de contours et de relations géométriques. Les liens compositionnels qui unissaient les personnages de la scène de marché émergent désormais entre des formes indépendantes.
 
-L'exploration de la couleur et de la composition se poursuit : le sujet et le format du tableau évoluent, et de nouvelles manières d'agencer les différentes parties de la toile émergent. Dans une interview télévisée, Valikhodjaev souligne que son style reconnaissable ne saurait justifier l'arrêt de sa création. Chaque œuvre successive doit ouvrir la voie à une nouvelle approche artistique.
+L’intérêt, la curiosité et le désir de découvrir du nouveau ont guidé le peintre. Le langage acquis lui donne un point d’appui pour d’autres expériences : comment organiser autrement la couleur, la forme et la composition, que se passe-t-il lorsque le sujet ou l’échelle change ? Aux côtés du bazar se développent ainsi les portraits, les natures mortes, les paysages, l’exploration du rouge dans RED, l’abstraction de New View et la sculpture. Dans l’entretien télévisé, Valikhodjaev souligne qu’un style reconnaissable ne justifie pas de s’arrêter : chaque œuvre doit ouvrir la possibilité d’une nouvelle solution plastique.
 
 [Vidéo ci-dessus · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 avril 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

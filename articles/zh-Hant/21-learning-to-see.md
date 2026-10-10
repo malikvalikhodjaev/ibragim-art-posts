@@ -95,19 +95,45 @@ edition_date: "2026-10-11"
 
 年輕時的藝術家與自己的作品。 藝術家檔案。
 
+## 1991年：向不同方向展開的探索
+
+1991年的作品顯示，在學業接近尾聲時，他關注的繪畫問題已經十分多樣。《天使》將視線引向一位坐著的女子、她的面容、雙手和淺色衣服；《吶喊》則以大塊深色形體與鮮明的淺色點綴構成畫面。對具體人物的觀察，與對概括性、象徵性形態的探索在這裡並存。巴扎題材將在這一更廣闊的藝術探索中發展。
+
+[《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。
+
+[《吶喊》, 1991. 110 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《吶喊》, 1991. 110 × 100 公分. 複製圖像來自藝術家檔案。
+
 ## 市集不只是一個主題
 
-求學的最後幾年，巴扎成為他的畢業創作主題。早期處理建立在寫實觀察之上：具體的人物、他們的活動、姿態以及空間關係。後來，這一基礎發展出新的形式——輪廓更加概括，色彩更具獨立性，多人物場景也越來越明確地構成有節奏的畫面。這一主題的根源在學生時期，遠早於後來的展覽。
+求學的最後幾年，巴扎成為他的畢業創作主題。早期處理建立在寫實觀察之上：具體的人物、他們的活動、姿態以及空間關係。後來，這一基礎發展出新的形式——輪廓更加概括，色彩更具獨立性，多人物場景也越來越明確地構成有節奏的畫面。這一主題的根源在學生時期，遠早於後來的展覽。 這些觀察將逐漸發展為大型多人物畫，把一個個普通人的故事組織在共同的構圖之中。
 
 在藝術家進行畢業創作期間，市集主題深深吸引了他，並長期成為其作品的主要主題之一。 《納曼干》系列作品提供了豐富的構圖素材：邂逅、商品交換、對話與姿態。白色頭巾、刺繡小帽和色彩鮮豔的服飾反覆出現，構成畫面的點睛之筆，而個體人物則融入日常生活的整體節奏之中。
 
-在《東方組曲》中，目光從細小的人物故事轉向宏大的構圖結構。姿態至關重要，它既是人物性格的表達，也是形式的變化，改變了相鄰人物之間的距離。觀察在此轉化為繪畫：人們的生活透過色彩、組合和韻律被藝術化地組織起來。藝術家既被熙熙攘攘的市場世界所吸引，也為如何將其中紛繁的聲音融合到一幅和諧的畫布上而感到著迷。
+在2002年的《多普帽市》中，對巴扎生活的觀察已經轉化為獨立的繪畫結構。白色頭巾與衣服形成反覆出現的明亮形狀，人物彼此靠近、相互遮疊，幾乎佔滿畫布。前景的小物件與帶花紋的細節，仍讓畫面與具體的交易場景相連。同年的《搖籃市場》以另一種方式組織空間：大片紅色、深色與黃色平面彼此分隔。這些作品屬於學生時代確立題材之後的發展階段，並不是畢業創作的圖像；在其中，日常生活已經獲得了新的色彩與形態語言。
 
 [上方影片· 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[伊布拉吉姆·瓦利霍賈耶夫，《東方組曲》，2011年。依檔案說明，尺寸為：100 × 300 公分。藝術家檔案中的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-伊布拉吉姆·瓦利霍賈耶夫，《東方組曲》，2011年。依檔案說明，尺寸為：100 × 300 公分。藝術家檔案中的作品圖像。
+《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。
+
+[《搖籃市場（Beshik Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+《搖籃市場（Beshik Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。
+
+[《多普帽市》, 2004. 100 × 90 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《多普帽市》, 2004. 100 × 90 公分. 複製圖像來自藝術家檔案。
+
+2004年和2006年的《多普帽市》繼續展開這一探索。前者以密集的人群和面前的貨物構成層次豐富的場景；後者人物較少，白色衣服的垂直線條與大塊色面因而更加突出。巴扎題材逐漸成為瓦利霍賈耶夫繪畫中具有辨識度的特徵，觀眾能夠由此認出他的藝術語言。但這種辨識度並沒有限定他的藝術興趣。
+
+[《多普帽市》, 2006. 70 × 55 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+《多普帽市》, 2006. 70 × 55 公分. 複製圖像來自藝術家檔案。
 
 ## 圖莫爾畫廊、納曼干與遷居塔什干
 
@@ -193,7 +219,7 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 「我總是嘗試用一種新穎獨特的方式看待熟悉的事物，」這位藝術家在2017年的一次採訪中說道（譯自俄語）。這個理念有助於將他早期的風俗畫與後來的抽象創作連結起來。在《新視角》展覽的作品中，畫面由大片色塊、輪廓和幾何關係所構成。原本連結市場場景中人物的構圖聯繫，如今則在獨立的形體之間顯現出來。
 
-對色彩和構圖的探索仍在繼續：繪畫的主題和規模不斷變化，畫布各部分之間的連結方式也日趨新穎。在電視訪談中，瓦利霍賈耶夫強調，他鮮明的個人風格並非止步不前的理由。每一件後續作品都應該開啟通往全新藝術之路的大門。
+推動藝術家向前的，是興趣、好奇心與發現新事物的願望。已經形成的繪畫語言為下一步實驗提供了起點：色彩、形態與構圖還能怎樣組織？題材或尺度改變之後，又會發生什麼？因此，巴扎系列之外還有肖像、靜物、風景，RED對紅色的探索、New View的抽象繪畫，以及雕塑。在電視訪談中，瓦利霍賈耶夫強調，形成可辨識的風格並不是停下來的理由：每一件新作都應開啟另一種藝術解決方式。
 
 [上方影片· 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

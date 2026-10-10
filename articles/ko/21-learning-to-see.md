@@ -95,19 +95,45 @@ edition_date: "2026-10-11"
 
 자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
+## 1991년: 여러 방향으로 펼쳐지는 탐구
+
+1991년 작품들은 학업을 마무리하던 때부터 그의 회화적 관심이 얼마나 다양했는지 보여준다. 《천사》는 앉아 있는 여성의 얼굴과 손, 밝은 옷에 시선을 모은다. 《외침》에서는 커다란 어두운 덩어리와 선명한 밝은 부분이 화면을 구성한다. 구체적인 인물의 관찰과 형태를 단순화해 상징으로 만드는 탐색이 나란히 이루어진다. 시장을 그린 작품들도 이러한 폭넓은 탐구 안에서 발전하게 된다.
+
+[《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
+
+[《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.
+
 ## 바자르는 단순한 주제 그 이상이다
 
-학생 시절 마지막 몇 해 동안 바자르는 졸업작품의 주제가 되었다. 초기 접근은 사실적인 관찰에 기반했다. 구체적인 사람들, 그들의 일과 자세, 공간 속 관계가 중요했다. 이후 이 토대는 새로운 형태를 얻었다. 실루엣은 간결해지고 색채는 독립성을 키웠으며, 여러 인물이 등장하는 장면은 점차 리듬감 있는 구도로 구축되었다. 이 주제는 후대의 전시보다 훨씬 앞선 학생 시절에 뿌리를 두고 있다.
+학생 시절 마지막 몇 해 동안 바자르는 졸업작품의 주제가 되었다. 초기 접근은 사실적인 관찰에 기반했다. 구체적인 사람들, 그들의 일과 자세, 공간 속 관계가 중요했다. 이후 이 토대는 새로운 형태를 얻었다. 실루엣은 간결해지고 색채는 독립성을 키웠으며, 여러 인물이 등장하는 장면은 점차 리듬감 있는 구도로 구축되었다. 이 주제는 후대의 전시보다 훨씬 앞선 학생 시절에 뿌리를 두고 있다. 이러한 관찰은 점차 많은 인물이 등장하는 대형 회화로 확장되어, 개개인의 이야기를 하나의 구도 안에 모으게 된다.
 
 작가는 졸업 작품을 준비하던 중 바자르라는 주제에 매료되었고, 이는 오랫동안 그의 작품의 주요 주제 중 하나로 남아 있었다. 나망간 시리즈는 만남, 물건 교환, 대화, 몸짓 등 풍부한 소재를 제공한다. 흰색 스카프, 자수가 놓인 모자, 다채로운 옷은 반복적으로 등장하는 요소이며, 개별 인물들은 일상생활의 전체적인 리듬 속에 자연스럽게 녹아들어 있다.
 
-"동방 모음곡"에서 시선은 소소한 인간관계에서 벗어나 광범위한 구도적 구조로 옮겨간다. 몸짓은 인물의 성격을 표현하는 중요한 수단인 동시에, 인접한 인물들 사이의 거리를 변화시키는 형태의 변화이기도 하다. 여기서 관찰은 곧 회화가 된다. 사람들의 삶은 색채, 구도, 리듬을 통해 예술적으로 조직된다. 작가는 시장 세계 자체에 매료되었을 뿐만 아니라, 그 속 다양한 목소리를 하나의 일관된 캔버스에 담아내는 도전에 몰두했다.
+2002년의 《도피 시장》에서는 시장 생활에 대한 관찰이 이미 독자적인 회화 구조로 바뀌어 있다. 흰 머릿수건과 옷이 밝은 형태로 반복되고, 인물들은 가까이 모여 서로 겹치며 화면을 거의 가득 채운다. 전경의 작은 물건과 무늬가 있는 세부는 구체적인 거래 장면과의 연결을 유지한다. 같은 해의 《요람 시장》은 넓은 빨강, 어두운 색, 노랑의 면으로 공간을 다르게 조직한다. 이 작품들은 학생 시절에 시작된 주제가 이후 발전한 단계를 보여준다. 졸업 작품의 도판이 아니라, 일상의 소재가 새로운 색채와 형태의 언어를 얻은 회화다.
 
 [위에 있는 영상 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[이브라김 발리호자예프. "동방 모음곡", 2011. 아카이브 설명에 따른 크기: 100 × 300 cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[《도피 시장 — 전통 모자 시장》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-이브라김 발리호자예프. "동방 모음곡", 2011. 아카이브 설명에 따른 크기: 100 × 300 cm. 작가 아카이브의 도판.
+《도피 시장 — 전통 모자 시장》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.
+
+[《요람 시장 (Beshik Bazaar)》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+《요람 시장 (Beshik Bazaar)》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.
+
+[《도피 시장》, 2004. 100 × 90 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《도피 시장》, 2004. 100 × 90 cm. 화가의 아카이브에서 가져온 도판.
+
+2004년과 2006년의 《도피 시장》은 이러한 탐구를 이어간다. 전자는 밀집한 사람들과 그 앞의 상품들로 여러 층위의 장면을 만들고, 후자는 인물 수가 줄어든 만큼 흰 옷의 수직선과 넓은 색면을 더욱 두드러지게 한다. 시장이라는 주제는 점차 발리호자예프의 회화를 알아볼 수 있는 특징적인 표현이 된다. 하지만 그러한 인지도만으로 그의 예술적 관심이 모두 설명되지는 않는다.
+
+[《도피 시장》, 2006. 70 × 55 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+《도피 시장》, 2006. 70 × 55 cm. 화가의 아카이브에서 가져온 도판.
 
 ## 투모르, 나망간, 타슈켄트로의 이주
 
@@ -193,7 +219,7 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 "저는 항상 익숙한 것들을 새롭고 독특한 방식으로 바라보려고 노력합니다."라고 작가는 2017년 인터뷰에서 말했다(러시아어 원문 번역). 이러한 생각은 그의 풍속화와 이후 추상 미술로의 전환을 연결하는 데 도움이 된다. "New View"에서 이미지는 넓은 색면, 윤곽선, 그리고 기하학적 관계를 통해 구성된다. 시장 풍경 속 인물들을 하나로 묶었던 구성적 연결고리는 이제 독립적인 형태들 사이에서 드러난다.
 
-색채와 구도에 대한 탐구는 계속된다. 그림의 주제와 크기가 변화하고, 캔버스의 각 부분을 연결하는 새로운 방식이 등장한다. 발리호자예프는 TV 인터뷰에서 자신의 독특한 스타일이 창작 활동을 멈출 이유가 될 수 없다고 강조한다. 그는 앞으로 제작할 모든 작품이 새로운 예술적 접근의 문을 열어줄 것이라고 믿는다.
+화가를 움직인 것은 관심과 호기심, 새로운 것을 발견하려는 의지였다. 이미 형성한 표현 방식은 다음 실험의 출발점이 된다. 색채와 형태, 구도를 또 어떻게 조직할 수 있을까? 소재나 규모가 바뀌면 무엇이 달라질까? 시장 연작과 나란히 초상화, 정물화, 풍경화, RED의 빨강 탐구, New View의 추상회화, 조각이 전개된다. 텔레비전 대담에서 발리호자예프는 알아볼 수 있는 양식을 얻었다고 해서 멈출 이유는 없다고 강조한다. 새로운 작품은 매번 또 다른 조형적 해결의 가능성을 열어야 한다.
 
 [위에 있는 영상 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 

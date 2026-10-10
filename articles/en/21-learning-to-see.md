@@ -95,19 +95,45 @@ The young artist among his works. Artist’s archive.
 
 The young artist among his works. Artist’s archive.
 
+## 1991: a search taking different directions
+
+The paintings of 1991 reveal how varied his concerns already were towards the end of his studies. In Angel, attention rests on a seated woman, her face, hands and pale clothing. In Cry, a large dark mass and sharp light accents shape the image. These works bring observation of the individual alongside a search for simplified, symbolic form. The bazaar paintings would develop within this wider artistic exploration.
+
+[‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.
+
+[‘Cry’, 1991. 110 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+‘Cry’, 1991. 110 × 100 cm. Reproduction from the artist’s archive.
+
 ## The Bazaar Is More than a Subject
 
-During his final student years, the bazaar became the subject of his diploma work. His early approach relied on realist observation: particular people, their occupations, poses and relationships in space. Later, that foundation took new forms—silhouettes became more condensed, colour gained greater independence and the many-figure scene increasingly became a rhythmic composition. The subject’s origins lie in his student years, well before the later exhibitions.
+During his final student years, the bazaar became the subject of his diploma work. His early approach relied on realist observation: particular people, their occupations, poses and relationships in space. Later, that foundation took new forms—silhouettes became more condensed, colour gained greater independence and the many-figure scene increasingly became a rhythmic composition. The subject’s origins lie in his student years, well before the later exhibitions. These observations would gradually grow into large multi-figure canvases, bringing individual human stories together within a shared composition.
 
 The bazaar theme captivated the artist while he was working on his diploma thesis and long remained one of the main themes of his work. The Namangan series offers rich compositional material: encounters, exchange of goods, conversations, and gestures. White scarves, embroidered skullcaps, and colourful clothing form recurring accents, while individual characters are integrated into the overall rhythm of everyday life.
 
-In "Eastern Suite," the gaze shifts from small human stories to a broad compositional structure. Gesture is important as an expression of character and simultaneously as a change of form, altering the distances between adjacent figures. Observation here becomes painting: people's lives are artistically organised through colour, grouping, and rhythm. The artist is captivated by both the marketplace world itself and the challenge of bringing its many voices together into a coherent canvas.
+Duppi Bazaar of 2002 already shows observation of market life becoming an independent pictorial structure. White headscarves and garments form recurring light shapes; figures press together, overlap and occupy almost the entire canvas. Small objects and patterned details in the foreground retain a connection to a particular trading scene. Beshik Bazaar, painted that same year, organises space differently, through large red, dark and yellow planes. These paintings belong to the theme’s development after its beginnings during his studies. They are not illustrations of the diploma project, but works in which everyday subject matter has acquired a new language of colour and form.
 
 [Video above · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
 
-[Ibragim Valikhodjaev. "Eastern Suite," 2011. Size according to archival caption: 100 × 300 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71HdLd5NDi0gbr3AO3ZvNTP9YNz-WxOc1rhuO_CIFWsdwnFIrtVPBsyzHiBvVJGU5HoIiWCvQiL3u0rWLOTq5egDTgjNxFESNC73LQbtr6Qu9uc8PBy95tiLZjgLeUIAzoaFXyDjwzvDNo3fhofWkPJB6WYu6EKLwlV1a3DdHKq_V9P3XxbCMVcar8ZNK/s1600/clipboard.png>)
+[‘Duppi Bazaar — the skullcap market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
-Ibragim Valikhodjaev. "Eastern Suite," 2011. Size according to archival caption: 100 × 300 cm. Reproduction from the artist's archive.
+‘Duppi Bazaar — the skullcap market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.
+
+[‘Beshik Bazaar — the cradle market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/w1200-rj/clipboard.png>)
+
+‘Beshik Bazaar — the cradle market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.
+
+[‘Duppi Bazaar’, 2004. 100 × 90 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+‘Duppi Bazaar’, 2004. 100 × 90 cm. Reproduction from the artist’s archive.
+
+The Duppi Bazaar paintings of 2004 and 2006 continue this exploration. In the first, a dense group of people and the goods before them build a layered scene; in the second, fewer figures give greater prominence to the verticals of white garments and broad areas of colour. Gradually, the bazaar becomes one of Valikhodjaev’s recognisable signatures, a way for viewers to identify his painting. Yet that recognition does not exhaust his artistic interests.
+
+[‘Duppi Bazaar’, 2006. 70 × 55 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/w1200-rj/clipboard.png>)
+
+‘Duppi Bazaar’, 2006. 70 × 55 cm. Reproduction from the artist’s archive.
 
 ## Tumor, Namangan and the move to Tashkent
 
@@ -193,7 +219,7 @@ Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.
 
 “I always try to see familiar things in a new, unusual way,” the artist said in a 2017 interview (translated from Russian). This idea helps connect his genre painting with his subsequent turn to abstraction. In "New View," the image is constructed through large colour fields, contours, and geometric relationships. The compositional connections that united the characters in the market scene now emerge between independent forms.
 
-The exploration of colour and composition continues: the subject and scale of the painting change, and new ways of connecting parts of the canvas emerge. In a televised interview, Valikhodjaev emphasises that his recognisable style is no excuse for stopping. Each subsequent work should open the door to a new artistic approach.
+Interest, curiosity and the wish to discover something new kept the artist moving. An established visual language offered a starting point for further experiments: how else might colour, form and composition be organised, and what changes with a different subject or scale? Alongside the bazaar series, he therefore pursues portraits, still lifes, landscapes, the exploration of red in RED, abstraction in New View and sculpture. In the televised conversation, Valikhodjaev stresses that a recognisable style is no reason to stop: each new work should open the possibility of another artistic solution.
 
 [Video above · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
