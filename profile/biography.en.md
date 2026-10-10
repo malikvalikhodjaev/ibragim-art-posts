@@ -13,7 +13,7 @@ edition_date: "2026-10-10"
 
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 
-Born in 1958, he explores contemporary life, memory and Uzbek culture through a wide range of genres and series: Namangan bazaar scenes and everyday life; RED; early monochrome and restrained-palette paintings; nude figure studies, portraits and still lifes; village landscapes and plein air paintings of Uzbekistan, including Miraki; Montenegro landscapes; monumental abstraction; and metal sculpture, including floating works. His continuing research into colour, form, rhythm and composition connects these different directions.
+Born in 1958, he explores contemporary life, memory and Uzbek culture through a wide range of genres and series: Namangan bazaar scenes and everyday life; RED; early monochrome and restrained-palette paintings; nude figure studies, portraits and still lifes; village landscapes and plein air paintings of Uzbekistan, including Miraki; Montenegro landscapes; monumental abstraction; and metal sculpture, including floating works. His continuing research into colour, form, rhythm and composition connects these different directions. His colour ranges from clearly defined, contrasting planes to subtle transitions between warm and cool tones.
 
 He combines studio practice with the organisation and curation of exhibitions and international sculpture symposia. He has organised and curated eight symposia in Turkey and Uzbekistan and participated in plein air projects in both countries. His international work and creative visits also include China, Azerbaijan, Cyprus, Georgia and Kazakhstan.
 
@@ -21,7 +21,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 *Alternative transliterations of his name include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.*
 
-[View and download the complete artist CV (DOCX, version 25)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+[View and download the complete artist CV (DOCX, version 26)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
 ## Institutional roles and teaching
 
@@ -51,8 +51,8 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 - **2018:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, Uzbekistan, Tashkent (Painter).
 - **2018:** Contemporary Art Gallery of the National Bank of Uzbekistan, «From Dream to Destiny», Uzbekistan, Tashkent (Painter).
 - **2018:** United States Embassy, Uzbekistan, Tashkent (Painter).
-- **2016:** Bonum Factum Gallery, «Red», Uzbekistan, Tashkent (Painter).
-- **2012:** Culture and Art Exhibition Hall, «21 Days in Montenegro», Uzbekistan, Tashkent (Painter).
+- **2016:** Bonum Factum Gallery, «Red», Uzbekistan, Tashkent, April (Painter).
+- **2012:** Culture and Art Exhibition Hall, «21 Days in Montenegro», Uzbekistan, Tashkent, 28 June–13 July (Painter).
 - **2008:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, Uzbekistan, Tashkent (Painter).
 - **2007:** Ilkhom Theatre, Uzbekistan, Tashkent (Painter).
 - **1990:** Music and arts college, first solo exhibition (Painter).
@@ -67,7 +67,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 - **2024:** China National Arts and Crafts Museum – China Intangible Cultural Heritage Museum, «Fine Arts and Folk Applied Arts of Uzbekistan», China, Beijing, opened 23 January (Participating painter). [UzA exhibition report](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>).
 - **2023:** China, Beijing, «Art and Culture of Uzbekistan» (Painter).
 - **2023:** Exhibition of Achievements of National Economy, «Art of Uzbekistan», Russia, Moscow (Painter).
-- **2023:** Turkey, Istanbul, «Art Contact» (Painter).
+- **2023:** Dr. Mimar Kadir Topbaş Performance and Art Center, «ArtContact Istanbul», Turkey, Istanbul, 1–4 June (Painter).
 - **2023:** Turkey, Istanbul, «Labirent», international group exhibition, 12–24 August; curator: Zahra Habibizad (Painter).
 - **2023:** Turkey, Istanbul, exhibition marking the centenary of the Republic of Turkey, March (Participant and organiser). [Gallery conversation](<https://www.youtube.com/watch?v=pNEuUkLK1DE>).
 - **2018, 2013 and 2007:** Uzbekistan, Tashkent, «Tashkent Biennale of Contemporary Art» (Painter).
@@ -121,7 +121,7 @@ His works are held in the following collections:
 - Uzbekistan Art Exhibitions Directorate.
 - Regional Museums of Ak-Kurgan and Namangan.
 
-His works are also in private collections in the United States, Canada, Germany, Italy, France, Russia, the Philippines, Korea, China and other countries. Works are also held in a private collection in Russia, Moscow.
+His works are also in private collections in the United States, Canada, Germany, United Kingdom, Italy, France, Russia, the Philippines, Korea, China and other countries. Works are also held in a private collection in Russia, Moscow.
 
 ## Awards and honours
 
@@ -141,25 +141,25 @@ His works are also in private collections in the United States, Canada, Germany,
 
 San’at’s 2012 art-life chronicle records the Tashkent exhibition «21 Days in Montenegro», held from 28 June to 13 July, with more than 40 landscape studies made during his participation in a plein-air programme in Montenegro. This documents both the overseas painting experience and the subsequent exhibition in Uzbekistan.
 
-- [San’at, No. 3, 2012 — Oksana Kadysheva: «The Mood of Rainbow Colours in Ibragim Valikhodjaev’s Suite». A critical profile of his early palette, bazaar paintings, Montenegro landscapes and floral still lifes.](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
-- [UzA, 23 January 2024 — exhibition of fine arts and folk applied arts of Uzbekistan in Beijing; Valikhodjaev is named among the participating painters (Uzbek text).](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
-- [Ministry of Ecology, 16 August 2024 — the Tashkent-2024 international sculpture symposium, its working site and participating artists (Uzbek text).](<https://gov.uz/oz/eco/news/view/18966>)
-- [San’at, 2008, No. 3 — art-life chronicle: jubilee solo exhibition](<https://sanat.orexca.com/2008-rus/2008-3-2/art_life_chronicle-23/>).
-- [San’at, 2012, No. 3 — «21 Days in Montenegro»: plein-air paintings and the exhibition in Tashkent](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-hronika-hudozhestvennoj-zhizni-3/>).
-- [San’at, 2013, No. 4 — report on the VII Tashkent International Biennale](<https://sanat.orexca.com/2013-rus/2013-4-2/itogi-vii-tashkentskoj-mezhdunarodnoj-biennale-sovremennogo-iskusstva/>).
-- [Fine Arts Newspaper, China, 28 February 2026 — «Sun on Snow», Harbin exhibition coverage](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>).
-- [Sohu, China, 27 February 2026 — Harbin exhibition opening and photographs](<https://www.sohu.com/a/990524748_121106822>).
-- [Ibragim Valikhodjaev in Dubai — Gulf Today press coverage, shared by Zahra Habibizad (Instagram, 25 June 2024)](<https://www.instagram.com/reel/C8qwLhuN_0J/>).
-- [«Every Work Is a Step» — Academy of Arts of Uzbekistan (2025)](<https://art-academy.uz/en/blog/news/har-bir-asar-bitta-qadamdir>).
-- [«New View» — Online Catalogue of Uzbek Artists (2024)](<https://ocau.uz/uz/yangi-nigoh-valixadjayev>).
-- [Boris Babaev and Kahramon Kuldashev: «New View» — exhibition review, 18 November 2024](<https://www.kultura.uz/view_3_r_21520.html>).
-- [An Artist Must Be Convincing — News of Uzbekistan interview, 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>).
-- [ArtContact Istanbul — Demirören News Agency (2023)](<https://www.dha.com.tr/kultur-sanat/kulturlerini-tanitmak-isteyen-5-ozbek-ressam-istanbulda-2260568>).
-- [Uzbekistan/Routes — Imago Mundi catalogue, Luciano Benetton Collection, Antiga Edizioni (2016), pages 296–297](<https://imagomundi-wp.s3.eu-west-1.amazonaws.com/catalogues-pdf%2Fcatalogue-uzbekistan.pdf>).
-- [«Ecological Ideas in Marble» — Uzbekistan National News Agency](<https://www.youtube.com/watch?v=05o8AsE-VoY>).
-- [«Creative Formula» — Culture and Enlightenment Television, 9 June 2026](<https://www.youtube.com/watch?v=uQzIBpYBXD8>).
-- [«An Art Market Needs Buyers» — HD View interview](<https://www.youtube.com/watch?v=v9onb8bYo6Y>).
-- [Painting with students — studio teaching, 8 August 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>).
+- **25 June 2026 —** [«Ecological Ideas in Marble» — Sculpture symposium documentary](<https://www.youtube.com/watch?v=05o8AsE-VoY>).
+- **9 June 2026 —** [«Creative Formula» — Culture and Enlightenment Television](<https://www.youtube.com/watch?v=uQzIBpYBXD8>).
+- **28 February 2026 —** [«Sun on Snow», Harbin — Fine Arts Newspaper, China](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>).
+- **27 February 2026 —** [«Sun on Snow» opening and photographs, Harbin — Sohu, China](<https://www.sohu.com/a/990524748_121106822>).
+- **6 May 2025 —** [Valikhodjaev at Sherzod Arifboyev’s exhibition opening — Academy of Arts of Uzbekistan](<https://art-academy.uz/en/blog/news/har-bir-asar-bitta-qadamdir>).
+- **17 December 2024 —** [«An Art Market Needs Buyers» — HD View interview](<https://www.youtube.com/watch?v=v9onb8bYo6Y>).
+- **18 November 2024 —** [Boris Babaev and Kahramon Kuldashev, «New View» — Exhibition review, Kultura.uz](<https://www.kultura.uz/view_3_r_21520.html>).
+- **16 August 2024 —** [«Tashkent-2024» international sculpture symposium — Ministry of Ecology](<https://gov.uz/oz/eco/news/view/18966>).
+- **25 June 2024 —** [Dubai press coverage — Gulf Today article shared by Zahra Habibizad on Instagram](<https://www.instagram.com/reel/C8qwLhuN_0J/>).
+- **23 January 2024 —** [Uzbek fine arts and folk applied arts exhibition in Beijing — Uzbekistan National News Agency](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>).
+- **2024 —** [«New View» — Critical review, Online Catalogue of Uzbek Artists](<https://ocau.uz/uz/yangi-nigoh-valixadjayev>).
+- **2 June 2023 —** [ArtContact Istanbul — Demirören News Agency](<https://www.dha.com.tr/kultur-sanat/kulturlerini-tanitmak-isteyen-5-ozbek-ressam-istanbulda-2260568>).
+- **18 April 2017 —** [«An Artist Must Be Convincing» — Interview, News of Uzbekistan](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>).
+- **2016 —** [Uzbekistan/Routes — Imago Mundi catalogue, Luciano Benetton Collection, Antiga Edizioni, pages 296–297](<https://imagomundi-wp.s3.eu-west-1.amazonaws.com/catalogues-pdf%2Fcatalogue-uzbekistan.pdf>).
+- **8 August 2014 —** [Painting with students — Studio teaching video](<https://www.youtube.com/watch?v=hefrpyXHNXk>).
+- **2013 · No. 4 —** [VII Tashkent International Biennale — San’at](<https://sanat.orexca.com/2013-rus/2013-4-2/itogi-vii-tashkentskoj-mezhdunarodnoj-biennale-sovremennogo-iskusstva/>).
+- **2012 · No. 3 —** [Oksana Kadysheva, «The Mood of Rainbow Colours in Ibragim Valikhodjaev’s Suite» — San’at](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>). A critical profile of his early palette, bazaar paintings, Montenegro landscapes and floral still lifes.
+- **2012 · No. 3 —** [«21 Days in Montenegro» — San’at exhibition chronicle](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-hronika-hudozhestvennoj-zhizni-3/>).
+- **2008 · No. 3 —** [Jubilee solo exhibition — San’at art-life chronicle](<https://sanat.orexca.com/2008-rus/2008-3-2/art_life_chronicle-23/>).
 
 ## Portfolio, social links and contact
 
@@ -227,9 +227,9 @@ Archival photographs reveal what an exhibition list cannot: the close quarters o
 
 The young artist among his works. Artist’s archive.
 
-[The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+[An informal portrait of Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
 
-The young artist among his works. Artist’s archive.
+An informal portrait of Ibragim Valikhodjaev. Artist’s personal archive.
 
 [The young artist among his works. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
