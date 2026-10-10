@@ -308,8 +308,8 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.
 
-[동료 화가들과 함께한 스승 라힘 아흐메도프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[스승 라힘 아흐메도프에게 축하를 전하는 부르마킨. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-동료 화가들과 함께한 스승 라힘 아흐메도프. 화가의 개인 소장 자료.
+스승 라힘 아흐메도프에게 축하를 전하는 부르마킨. 화가의 개인 소장 자료.
 
 **소더비 카탈로그에 수록된 라힘 아흐메도프의 작품:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

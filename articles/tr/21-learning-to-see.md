@@ -308,8 +308,8 @@ Valikhodjaev bir ödül töreninde. Sanatçının arşivi.
 
 Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
 
-[Usta Rahim Ahmedov, sanatçı arkadaşlarıyla. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-Usta Rahim Ahmedov, sanatçı arkadaşlarıyla. Sanatçının kişisel arşivi.
+Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.
 
 **Sotheby’s kataloglarında Rahim Ahmedov’un tabloları:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

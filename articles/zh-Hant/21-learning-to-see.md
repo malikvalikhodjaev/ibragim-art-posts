@@ -308,8 +308,8 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。
 
-[拉希姆・艾哈邁多夫老師與藝術家同仁。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-拉希姆・艾哈邁多夫老師與藝術家同仁。藝術家私人檔案。
+布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。
 
 **蘇富比圖錄中的拉希姆・艾哈邁多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

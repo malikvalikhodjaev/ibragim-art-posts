@@ -308,8 +308,8 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 拉希姆·艾哈迈多夫老师与伊布拉吉姆·瓦利霍贾耶夫。艺术家私人档案。
 
-[拉希姆·艾哈迈多夫老师与艺术家同仁。艺术家私人档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[布尔马金向拉希姆·艾哈迈多夫老师致贺。艺术家私人档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-拉希姆·艾哈迈多夫老师与艺术家同仁。艺术家私人档案。
+布尔马金向拉希姆·艾哈迈多夫老师致贺。艺术家私人档案。
 
 **苏富比图录中的拉希姆·艾哈迈多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

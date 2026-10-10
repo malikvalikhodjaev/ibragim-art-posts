@@ -308,8 +308,8 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。
 
-[画家仲間とともに写る師ラヒム・アフメドフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[師ラヒム・アフメドフを祝福するブルマキン。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-画家仲間とともに写る師ラヒム・アフメドフ。画家の個人アーカイブより。
+師ラヒム・アフメドフを祝福するブルマキン。画家の個人アーカイブより。
 
 **サザビーズのカタログに掲載されたラヒム・アフメドフの作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

@@ -308,8 +308,8 @@ Rahim Ahmedov — o‘zbek rassomi va ustoz, xalq rassomi hamda akademik. Uning 
 
 Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.
 
-[Ustoz Rahim Ahmedov rassomlar davrasida. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-Ustoz Rahim Ahmedov rassomlar davrasida. Rassomning shaxsiy arxividan.
+Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.
 
 **Sotheby’s kataloglarida Rahim Ahmedov asarlari:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

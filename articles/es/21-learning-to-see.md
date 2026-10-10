@@ -308,8 +308,8 @@ Pintor y docente uzbeko, Rahim Ahmedov fue Artista del Pueblo y miembro de la Ac
 
 El maestro Rahim Ahmedov e Ibragim Valikhodjaev. Archivo personal del artista.
 
-[El maestro Rahim Ahmedov junto a otros artistas. Archivo personal del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+[Burmakin felicita al maestro Rahim Ahmedov. Archivo personal del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
-El maestro Rahim Ahmedov junto a otros artistas. Archivo personal del artista.
+Burmakin felicita al maestro Rahim Ahmedov. Archivo personal del artista.
 
 **Obras de Rahim Ahmedov en los catálogos de Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
