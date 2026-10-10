@@ -23,7 +23,7 @@ edition_date: "2026-10-11"
 
 ## 納曼干：故事從家開始
 
-在展廳、國際旅行和巨幅畫作之前，是納曼干。伊布拉吉姆・瓦利霍賈耶夫在這裡與三位姊姊一同長大。父親是一名工匠，此前曾在市徵兵辦公室工作；母親照料家務與孩子。作為家中最小的兒子，即使後來以繪畫為業，故鄉的家仍在他的生活中佔有重要位置。
+伊布拉吉姆·瓦利霍賈耶夫於1958年11月28日出生在納曼干。 在展廳、國際旅行和巨幅畫作之前，是納曼干。伊布拉吉姆・瓦利霍賈耶夫在這裡與三位姊姊一同長大。父親是一名工匠，此前曾在市徵兵辦公室工作；母親照料家務與孩子。作為家中最小的兒子，即使後來以繪畫為業，故鄉的家仍在他的生活中佔有重要位置。
 
 他在求學時就想成為畫家。不過，從童年的願望到進入高等藝術院校，中間還有多年獨立工作的經歷。後來創作的市集場景、肖像和鄉村生活畫作，呈現他對日常經驗的關注：人們、他們的勞作，以及周遭的環境。在這裡，畫家的個人歷程與故鄉及家庭的歷史相遇。
 
@@ -37,9 +37,11 @@ edition_date: "2026-10-11"
 
 ## 早期委託：先工作，後取得文憑
 
-二十多歲時，瓦利霍賈耶夫已在組織藝術委託的製作。實際工作與協調共同計畫的經驗，早於專業學習的完成。此後，這兩條線索繼續並行發展：自己的繪畫，以及為其他藝術家創造工作的條件。
+在蘇聯時期的城市裡，藝術家的工作並不侷限於展廳：製作宣傳畫、繪製招牌和裝飾室內空間，也需要他們參與。年輕時，瓦利霍賈耶夫在納曼干承接這類工作，帶領由工匠和畫家組成的團隊。這讓他累積了分配任務、組織製作並共同完成計畫的實務經驗。
 
-檔案照片中的年輕畫家置身於作品和工作環境之間。它們讓故事從一個仍在建立職業生活的人開始，而非從多年後的博物館展覽和公共職務開始。
+據家人回憶，進入學院之前，他已憑工作收入購置住宅和一輛莫斯科人牌汽車，後來開著自己的車去上課。但經濟獨立並未取代兒時的理想：他希望接受專業藝術教育，成為畫家。準備入學考試時，他住在塔什干一位學生熟人的家中，對方協助他學習。家人將考入學院視為一個需要認真準備的艱難關口。
+
+入學後，他停止了此前承接商業訂單的工作，將精力轉向學習。已經建立的謀生方式讓位於接受繪畫訓練的願望。不過，組織工作的經驗並未消失，後來在創辦工作室、畫廊和藝術計畫時發揮了作用。
 
 [年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
 
@@ -47,7 +49,7 @@ edition_date: "2026-10-11"
 
 ## 教師開路，藝術家尋找語言
 
-他成年後才進入學院。1986至1991年，他在以亞歷山大・奧斯特洛夫斯基命名的塔什干國立戲劇與美術學院學習繪畫，師從拉希姆・艾哈邁多夫。在最初的工作經歷之後，學生時代的願望成為經過思考的職業選擇。
+1986年，瓦利霍賈耶夫考入以亞歷山大·奧斯特洛夫斯基命名的塔什干國立戲劇與藝術學院繪畫系。同年11月，他滿28歲。他在拉希姆·艾哈邁多夫的工作室學習，直至1991年。經歷了獨立工作之後，兒時的願望成為經過深思熟慮的職業選擇。
 
 [學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，1988年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
@@ -59,27 +61,23 @@ edition_date: "2026-10-11"
 
 [上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
-## 與拉希姆・艾哈邁多夫老師在一起
-
-拉希姆・艾哈邁多夫是烏茲別克繪畫的重要大師，也培養了幾代藝術家。他獲授烏茲別克蘇維埃社會主義共和國人民藝術家和蘇聯人民藝術家稱號，擔任教授，並為蘇聯藝術科學院通訊院士。他的肖像、風俗畫與風景畫，把扎實的繪畫傳統與對烏茲別克人民及文化的關注結合起來。師從他，是瓦利霍賈耶夫專業成長的重要部分。
-
-[拉希姆・艾哈邁多夫——俄羅斯藝術科學院傳記](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
-
-拉希姆・艾哈邁多夫是烏茲別克畫家與美術教育家，獲人民藝術家稱號，並為藝術科學院院士。他的肖像畫在烏茲別克現代繪畫的發展中占有重要地位。瓦利霍賈耶夫於1986至1991年在他的畫室學習。這些檔案照片為這段師承關係留下了生動的見證：老師與年輕畫家身處同業之中，共同參與當時的藝術生活。下方連結指向蘇富比圖錄中收錄的艾哈邁多夫作品。
-
 [拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
 拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。
+
+## 與拉希姆・艾哈邁多夫老師在一起
+
+拉希姆·艾哈邁多夫是烏茲別克繪畫的重要名家，也是一位培養了數代藝術家的教師。他獲得烏茲別克蘇維埃社會主義共和國及蘇聯人民藝術家稱號，任教授，並為蘇聯藝術科學院通訊院士；這些資歷見於[俄羅斯藝術科學院的官方傳記](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)。他的心理性肖像、風俗畫和風景畫，將紮實的繪畫傳統與對人物及烏茲別克文化的關注結合起來。瓦利霍賈耶夫於1986至1991年在其工作室學習，這段師承關係是其專業成長的重要部分。
+
+檔案照片呈現老師與年輕畫家並肩處於同一藝術圈中的情景。艾哈邁多夫本人的作品可見於蘇富比目錄：[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)及[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)。這些連結展示的是老師的藝術，檔案則幫助讀者了解瓦利霍賈耶夫受訓的環境。
 
 [弗拉基米爾・伊萬諾維奇・布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
 [弗拉基米爾・伊萬諾維奇・布爾馬金](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>)向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。
 
-**蘇富比圖錄中的拉希姆・艾哈邁多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
-
 ## 1987年：第一間私人藝術工作室
 
-1987年，仍在求學的瓦利霍賈耶夫建立了自己的第一間私人藝術工作室。家人回憶，那是烏茲別克蘇維埃社會主義共和國開始放寬獨立經營限制的時期。學院工作室提供專業訓練，自己的工作室則為實際創作和藝術委託提供空間。
+1987年，在學習期間，瓦利霍賈耶夫創辦了自己的第一家私人藝術工作室。家人將這項舉措與當時烏茲別克蘇維埃社會主義共和國逐步放寬獨立經營限制的背景聯繫起來。他入學時已停止此前帶領裝飾藝術團隊承接訂單的工作；新的工作室是另一階段的起點，而專業繪畫訓練仍是學習的重心。
 
 在這段人生經歷中，學習與工作始終並行。後來，組織展覽、策展和創辦畫廊也加入其中。第一間工作室讓這種延續變得清晰：藝術家創作作品，同時尋找讓藝術工作得以開展的條件。
 
@@ -89,20 +87,17 @@ edition_date: "2026-10-11"
 
 返回故鄉也成為職業道路的一部分。納曼干始終是他繪畫中的重要地點：市集系列、日常生活觀察，以及同時代人的形象，都與這裡相連。後來的旅行和繪畫語言的變化拓展了這個視野，但他對具體人物與日常生活的關注一直延續。
 
-[伊布拉吉姆·瓦利霍賈耶夫。 《寂靜之中》展覽圖錄中的肖像。藝術家檔案照片的作品圖像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
+[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
-伊布拉吉姆·瓦利霍賈耶夫。 《寂靜之中》展覽圖錄中的肖像。藝術家檔案照片的作品圖像。
+年輕時的藝術家與自己的作品。 藝術家檔案。
 
-- **生活與工作:** 烏茲別克，塔什干
-- **家鄉:** 納曼干
-- **工作領域:** 繪畫、雕塑、策展與組織藝術項目
-- **專業角色:** 烏茲別克藝術科學院院士；烏茲別克美術家協會主席；Valikhodjaev Gallery House創辦人
+[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
 
-在節目“創意公式”（Ijod formulasi）中，對話以參觀伊布拉吉姆·瓦利霍賈耶夫的工作室開始。不同時期的作品並排陳列：市場場景、紅色風景、大型抽象作品。它們背後是同一個創作生涯，但每一件作品都展現了藝術家迎接新的挑戰。這次工作室之旅幫助我們了解最重要的一點：瓦利霍賈耶夫的好奇心不斷為他的探索開闢新的方向。
-
-他身兼畫家、雕塑家、組織者、策展人、畫廊創辦人以及導師等多重身分。貫穿所有這些身分的共同問題是：如何保持新鮮的視角？在他發表的訪談中，經驗被視為持續研究、實驗和尋找新的表達方式的契機。
+年輕時的藝術家與自己的作品。 藝術家檔案。
 
 ## 市集不只是一個主題
+
+求學的最後幾年，巴扎成為他的畢業創作主題。早期處理建立在寫實觀察之上：具體的人物、他們的活動、姿態以及空間關係。後來，這一基礎發展出新的形式——輪廓更加概括，色彩更具獨立性，多人物場景也越來越明確地構成有節奏的畫面。這一主題的根源在學生時期，遠早於後來的展覽。
 
 在藝術家進行畢業創作期間，市集主題深深吸引了他，並長期成為其作品的主要主題之一。 《納曼干》系列作品提供了豐富的構圖素材：邂逅、商品交換、對話與姿態。白色頭巾、刺繡小帽和色彩鮮豔的服飾反覆出現，構成畫面的點睛之筆，而個體人物則融入日常生活的整體節奏之中。
 
@@ -114,6 +109,50 @@ edition_date: "2026-10-11"
 
 伊布拉吉姆·瓦利霍賈耶夫，《東方組曲》，2011年。依檔案說明，尺寸為：100 × 300 公分。藝術家檔案中的作品圖像。
 
+## 圖莫爾畫廊、納曼干與遷居塔什干
+
+1993年，瓦利霍賈耶夫在納曼干創辦圖莫爾畫廊沙龍，這是烏茲別克第一家私人藝術畫廊，他負責經營至1999年。這使他成為該國私人畫廊事業的先行者：個人發起的空間，讓作品能夠在傳統國營展覽場所之外與觀眾相遇。
+
+1997至1999年，他擔任藝術家聯盟及藝術基金納曼干分部的負責人。照顧母親、創作繪畫以及組織家鄉的藝術生活，是這一時期的不同側面。後來他從納曼干遷居塔什干，彼時母親已經去世。
+
+在首都，他的職責擴展至全國層面。他於1999至2005年領導烏茲別克藝術科學院特別基金，於1999至2012年領導烏茲別克共和國藝術基金。標註2002年的檔案照片屬於他負責特別基金的時期。這些職務為畫家的職業生涯增添了組織工作的責任。
+
+[奧克薩娜·卡德舍娃——《彩虹諸色的組曲》，2019年](<https://mytashkent.uz/2019/06/28/syuita-vseh-czvetov-radugi-ibragima-valihodzhaeva/>)
+
+[擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。
+
+## 持續而豐沛的創作：繪畫、展覽與寫生
+
+組織工作並未中斷他的創作。2005年結束特別基金的領導職務後，瓦利霍賈耶夫繼續主持藝術基金至2012年，同時發展自己的繪畫。2008年，為紀念其50歲生日，烏茲別克藝術科學院中央展覽廳舉辦個人展覽，展出200餘件作品。
+
+[伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。
+
+2012年的蒙特內哥羅之行尤其能說明他的創作效率。據家人提供的資訊，他在21天的戶外寫生計畫中完成42幅畫，並帶回烏茲別克。個人展覽《蒙特內哥羅21日》於6月28日至7月13日在塔什干舉行。寫生與展覽構成一個完整的工作過程：接觸新的地方，大量面對實景作畫，再將成果彙集成展覽。
+
+這樣的速度包含持續觀察與不斷作出繪畫判斷。下方照片呈現同一實踐的另一面：畫家置身鄉村街巷、庭院、岩石與樹木之間。這些檔案影像記錄的是他在烏茲別克的寫生實踐，並非蒙特內哥羅之行的照片。此後的展覽、示範教學及國際計畫，仍與他自己的創作並行。
+
+### 戶外寫生從觀看開始
+
+戶外寫生在第一筆落下之前就已開始：先行走，再選擇觀看的位置。照片中可見鄉村街巷、緊湊的院落、岩石山坡和秋日樹木。一處景物可被理解為明亮牆面與暗色門窗的交替，另一處則呈現道路在建築之間的延伸。畫家選擇的不只是畫什麼，還有支撐整幅作品的大塊形體關係。
+
+這些工作照片為風景畫補充了場地的尺度、變化的光線和表面質感。牆壁、屋頂、地面與樹冠構成色彩關係的材料。在完成的畫作中，觀察可以更自由、更概括，而與實景的聯繫仍保留在空間組織中。這些照片的具體地點和年份尚未確定，不能僅憑畫面便將其歸入米拉基、蒙特內哥羅或亞塞拜然的某次寫生活動。
+
+[戶外寫生途中：岩石與秋日樹木。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+戶外寫生途中：岩石與秋日樹木。 藝術家檔案。
+
+[戶外寫生途中：鄉村街巷與山景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+戶外寫生途中：鄉村街巷與山景。 藝術家檔案。
+
+[戶外寫生途中：院落與鄉村建築。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+戶外寫生途中：院落與鄉村建築。 藝術家檔案。
+
 ## 色彩成為研究對象
 
 在2017年的「紅色」展覽中，紅色成為了一個鮮明的藝術焦點。瓦利霍賈耶夫在接受nuz.uz網站採訪時解釋說，在他的作品中，有時會有一段時間特別注意某種顏色。紅色的情感力量以及它與其他顏色組合的複雜性深深吸引了他。
@@ -121,6 +160,34 @@ edition_date: "2026-10-11"
 這是一場色彩關係的探索。色彩佔據了畫面的哪個部分？它與相鄰色調的邊界處會發生什麼變化？如何在保留風景結構的同時，賦予色彩更大的自主性？在這些作品中，紅色在圖像的建構中扮演著重要角色，並決定圖像的情感共鳴。
 
 [上方影片· 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+### RED：在觀眾面前作畫
+
+2017年塔什干RED展覽期間繪畫示範的兩張照片，將色彩討論帶入實際創作。觀眾靠近畫架，觀察動作的先後順序。重要的不只是速度：輪廓、色塊的面積和形體間的間隔，都成為可以看見的選擇。
+
+烏茲別克使館的展覽報導記載了31件作品，以及面向觀眾的繪畫示範。照片讓人比較手的位置、調色盤和正在形成的畫面。對紅色的研究，由它與相鄰色調的關係，以及整張畫布的組織方式具體呈現。
+
+[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+
+[RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。
+
+[RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。
+
+### 繪畫與展覽空間
+
+展覽照片展示了作品與觀眾相遇的另一面。牆面的留白、畫作之間的距離，以及向後退步的空間，都會改變觀看條件。全景表現作品的尺度，觀眾入鏡的照片則呈現近看與遠觀之間的切換。
+
+[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
+
+[觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
 
 ## 現有的藝術語言仍可繼續探索
 
@@ -155,6 +222,23 @@ edition_date: "2026-10-11"
 在畫廊工作和教學中，分享經驗的願望顯而易見。 Valikhodjaev Gallery House 的第二家畫廊於2021年8月5日開幕。繪畫示範和為學生開設的課程讓學生有機會近距離觀察專業藝術家的創作過程：藝術家如何開始一幅畫作，如何修改局部，以及如何評估最終效果。組織聚會、參與戶外寫生活動以及創作自己的作品，這些都是不同的角色，各自承擔著不同的責任。
 
 [Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)
+
+## 今天：藝術創作與藝術共同體的責任
+
+瓦利霍賈耶夫自2017年起擔任烏茲別克藝術家聯盟主席，自2023年起為烏茲別克藝術科學院院士。他繼續從事繪畫與雕塑，同時策展、組織藝術研討創作活動、舉辦展覽並分享經驗。其豐沛的創作力體現於具體成果：大量作品、新的系列，以及每個計畫之後重新投入創作。
+
+[伊布拉吉姆·瓦利霍賈耶夫。照片選自In Silence展覽圖錄。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫。照片選自In Silence展覽圖錄。
+
+- **生活與工作:** 烏茲別克，塔什干
+- **家鄉:** 納曼干
+- **工作領域:** 繪畫、雕塑、策展與組織藝術項目
+- **專業角色:** 烏茲別克藝術科學院院士；烏茲別克美術家協會主席；Valikhodjaev Gallery House創辦人
+
+在節目“創意公式”（Ijod formulasi）中，對話以參觀伊布拉吉姆·瓦利霍賈耶夫的工作室開始。不同時期的作品並排陳列：市場場景、紅色風景、大型抽象作品。它們背後是同一個創作生涯，但每一件作品都展現了藝術家迎接新的挑戰。這次工作室之旅幫助我們了解最重要的一點：瓦利霍賈耶夫的好奇心不斷為他的探索開闢新的方向。
+
+他身兼畫家、雕塑家、組織者、策展人、畫廊創辦人以及導師等多重身分。貫穿所有這些身分的共同問題是：如何保持新鮮的視角？在他發表的訪談中，經驗被視為持續研究、實驗和尋找新的表達方式的契機。
 
 ## 繼續尋找，繼續創造
 
@@ -194,16 +278,6 @@ edition_date: "2026-10-11"
 
 藝術家連結：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## 藝術家的私人檔案
-
-[擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
-
-擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。
-
-[伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
-
-伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。
-
 ## 傳授經驗：西安繪畫大師課
 
 2025年9月，瓦利霍賈耶夫在中國西安美術學院為繪畫專業學生開設大師課。他以藝術家及烏茲別克斯坦藝術家聯盟主席的身分，參加了9月14日至19日與CASIE「一帶一路—中亞」計畫有關的訪問。課堂上以一小時二十分鐘完成的作品贈予了學院。下方的大師課影片記錄了畫面的形成過程：從最初的線條，到色塊之間的關係，直至完整構圖。
@@ -217,14 +291,6 @@ edition_date: "2026-10-11"
 ## 照片中的人生：畫室與藝術界
 
 檔案照片呈現出展覽清單無法表達的生活：狹小的畫室、未完成的畫布與已經成形的作品，以及畫前的交談。黑白肖像中的年輕畫家獨自面對創作；展覽照片中的他則置身於老師、同行和觀眾之間。這兩種場景同樣重要。作品始於個人探索，此後的生命則在藝術界的交流中展開。
-
-[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
-
-年輕時的藝術家與自己的作品。 藝術家檔案。
-
-[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
-
-年輕時的藝術家與自己的作品。 藝術家檔案。
 
 他與恩師拉希姆・艾哈邁多夫的關係，使這種傳承變得具體。1986至1991年在老師畫室的學習奠定了專業基礎，而他自己的繪畫語言則在持續的寫生、人物構圖和色彩研究中形成。師生在展覽相聚的照片，為履歷補充了一次真實的交流。學生的作品並非老師風格的簡單延續：紮實的訓練為獨立探索提供了支點。
 
@@ -280,40 +346,6 @@ edition_date: "2026-10-11"
 
 瓦利霍賈耶夫在畫室內。 藝術家檔案。
 
-## 戶外寫生從觀看開始
-
-戶外寫生在第一筆落下之前就已開始：先行走，再選擇觀看的位置。照片中可見鄉村街巷、緊湊的院落、岩石山坡和秋日樹木。一處景物可被理解為明亮牆面與暗色門窗的交替，另一處則呈現道路在建築之間的延伸。畫家選擇的不只是畫什麼，還有支撐整幅作品的大塊形體關係。
-
-這些工作照片為風景畫補充了場地的尺度、變化的光線和表面質感。牆壁、屋頂、地面與樹冠構成色彩關係的材料。在完成的畫作中，觀察可以更自由、更概括，而與實景的聯繫仍保留在空間組織中。這些照片的具體地點和年份尚未確定，不能僅憑畫面便將其歸入米拉基、蒙特內哥羅或亞塞拜然的某次寫生活動。
-
-[戶外寫生途中：岩石與秋日樹木。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-戶外寫生途中：岩石與秋日樹木。 藝術家檔案。
-
-[戶外寫生途中：鄉村街巷與山景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
-
-戶外寫生途中：鄉村街巷與山景。 藝術家檔案。
-
-[戶外寫生途中：院落與鄉村建築。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
-
-戶外寫生途中：院落與鄉村建築。 藝術家檔案。
-
-## RED：在觀眾面前作畫
-
-2017年塔什干RED展覽期間繪畫示範的兩張照片，將色彩討論帶入實際創作。觀眾靠近畫架，觀察動作的先後順序。重要的不只是速度：輪廓、色塊的面積和形體間的間隔，都成為可以看見的選擇。
-
-烏茲別克使館的展覽報導記載了31件作品，以及面向觀眾的繪畫示範。照片讓人比較手的位置、調色盤和正在形成的畫面。對紅色的研究，由它與相鄰色調的關係，以及整張畫布的組織方式具體呈現。
-
-[RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
-
-RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。
-
-[RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
-
-RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。
-
-[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
-
 ## 畫室內：展覽前後的工作
 
 畫室展示了繪畫決策的不同階段：畫架上的畫布、移動的畫筆，以及面對已畫表面的停頓。不同時期的照片把日常工作連結起來。畫面的表現力來自觀察與檢驗，來自畫家觀看作品的距離，也來自他對局部如何改變整體的關注。
@@ -321,18 +353,6 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 [藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。
-
-## 繪畫與展覽空間
-
-展覽照片展示了作品與觀眾相遇的另一面。牆面的留白、畫作之間的距離，以及向後退步的空間，都會改變觀看條件。全景表現作品的尺度，觀眾入鏡的照片則呈現近看與遠觀之間的切換。
-
-[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
-
-[觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
-
-觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
 
 ## 肯定與職業歷程
 

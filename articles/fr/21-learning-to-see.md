@@ -23,7 +23,7 @@ Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 ## Namangan : la maison où commence l’histoire
 
-Avant les salles d’exposition, les voyages à l’étranger et les grandes toiles, il y a Namangan, où Ibragim Valikhodjaev grandit avec trois sœurs aînées. Son père est artisan ; il a auparavant travaillé au bureau de recrutement militaire de la ville. Sa mère s’occupe du foyer. Pour le fils cadet, la maison familiale garde une place importante lorsque la peinture devient son métier.
+Ibragim Valikhodjaev est né le 28 novembre 1958 à Namangan. Avant les salles d’exposition, les voyages à l’étranger et les grandes toiles, il y a Namangan, où Ibragim Valikhodjaev grandit avec trois sœurs aînées. Son père est artisan ; il a auparavant travaillé au bureau de recrutement militaire de la ville. Sa mère s’occupe du foyer. Pour le fils cadet, la maison familiale garde une place importante lorsque la peinture devient son métier.
 
 Il veut être artiste dès ses années d’école. Pourtant, plusieurs années de travail indépendant séparent ce désir d’enfant de son entrée dans l’enseignement supérieur. Ses scènes de marché, ses portraits et ses tableaux de la vie rurale montrent ensuite son attention au quotidien : les personnes, leurs activités et leur environnement. Le parcours du peintre rejoint ici l’histoire de sa ville natale et de sa famille.
 
@@ -37,9 +37,11 @@ Il veut être artiste dès ses années d’école. Pourtant, plusieurs années d
 
 ## Les premières commandes : travailler avant le diplôme
 
-Alors qu’il est dans la vingtaine, Valikhodjaev organise déjà la réalisation de commandes artistiques. Le travail pratique et l’expérience d’un projet collectif précèdent ainsi le diplôme. Ces deux dimensions continueront de se développer ensemble : sa propre peinture et la création de conditions de travail pour d’autres artistes.
+Dans les villes soviétiques, le travail des artistes dépassait les salles d’exposition : affiches, enseignes et décoration intérieure faisaient aussi appel à leur savoir-faire. Jeune homme à Namangan, Valikhodjaev répondait à ces commandes et dirigeait des équipes d’artisans et de peintres. Il apprenait ainsi à répartir les tâches et à mener un projet collectif jusqu’à sa réalisation.
 
-Les photographies d’archives montrent le jeune artiste parmi des œuvres et dans son cadre de travail. Elles permettent de commencer par un homme qui construit encore sa vie professionnelle, bien avant les expositions muséales et les responsabilités publiques des années suivantes.
+Selon les souvenirs familiaux, avant son entrée à l’institut, il avait gagné de quoi acheter une maison et une Moskvitch. Il se rendait ensuite aux cours dans sa propre voiture. Cette indépendance matérielle n’avait pourtant pas remplacé son rêve d’enfant : recevoir une formation artistique et devenir peintre. Pour préparer les épreuves d’admission, il logeait à Tachkent chez une connaissance étudiante qui l’aidait à travailler. Sa famille évoque une étape difficile, exigeant une préparation sérieuse.
+
+Une fois admis, il cessa ses précédentes activités de commande commerciale pour se consacrer aux études. Un métier déjà établi laissait place au désir d’apprendre la peinture. Son expérience de l’organisation demeurait néanmoins un acquis, qui servirait plus tard à créer un atelier, une galerie et des projets artistiques.
 
 [Le jeune artiste parmi ses œuvres. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
 
@@ -47,7 +49,7 @@ Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 ## Le maître ouvre la voie, l'artiste cherche son langage
 
-Il entre à l’institut à l’âge adulte. De 1986 à 1991, il étudie la peinture à l’Institut d’État de théâtre et d’art de Tachkent, nommé en l’honneur d’Alexandre Ostrovski, dans l’atelier du maître Rahim Ahmedov. Après ses premières années de travail, le désir d’écolier devient un choix professionnel réfléchi.
+En 1986, Valikhodjaev entra au département de peinture de l’Institut d’État de théâtre et d’art de Tachkent Alexandre-Ostrovski. Il eut 28 ans au mois de novembre de cette année-là. Sa formation dans l’atelier du maître Rahim Ahmedov se poursuivit jusqu’en 1991 : après plusieurs années de travail indépendant, son aspiration d’enfant était devenue un choix professionnel réfléchi.
 
 [Ibragim Valikhodjaev pendant ses années d’études, auprès d’un buste d’étude en plâtre, 1988. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
@@ -59,27 +61,23 @@ Dans une interview télévisée, l'artiste établit une distinction entre le des
 
 [Vidéo ci-dessus · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 avril 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
 
-## Auprès du maître Rahim Ahmedov
-
-Rahim Ahmedov fut une figure majeure de la peinture ouzbèke et le professeur de plusieurs générations d’artistes. Artiste du peuple de la République socialiste soviétique d’Ouzbékistan et de l’Union soviétique, il était professeur et membre correspondant de l’Académie des beaux-arts de l’Union soviétique. Ses portraits, scènes de genre et paysages associent une solide tradition picturale à l’attention portée aux personnes et à la culture d’Ouzbékistan. Pour Valikhodjaev, étudier auprès de ce maître constitue une étape importante de sa formation artistique.
-
-[Rahim Ahmedov — biographie à l’Académie des beaux-arts de Russie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)
-
-Peintre et pédagogue ouzbek, Rahim Ahmedov fut Artiste du peuple et membre de l’Académie des arts. Ses portraits occupent une place importante dans l’histoire de la peinture moderne en Ouzbékistan. Valikhodjaev étudia dans son atelier de 1986 à 1991. Ces photographies d’archives donnent un visage à cette filiation : le maître et le jeune artiste apparaissent parmi leurs confrères, au sein d’un même milieu artistique. Les liens ci-dessous renvoient aux œuvres d’Ahmedov présentées dans les catalogues de Sotheby’s.
-
 [Le maître Rahim Ahmedov et Ibragim Valikhodjaev. Archives personnelles de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
 Le maître Rahim Ahmedov et Ibragim Valikhodjaev. Archives personnelles de l’artiste.
+
+## Auprès du maître Rahim Ahmedov
+
+Rahim Ahmedov est une figure majeure de la peinture ouzbèke et un pédagogue qui a formé plusieurs générations d’artistes. Ses titres d’artiste du peuple de la RSS d’Ouzbékistan et de l’URSS, de professeur et de membre correspondant de l’Académie des arts de l’URSS sont documentés dans sa [biographie publiée par l’Académie des arts de Russie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>). Ses portraits psychologiques, scènes de genre et paysages associent une solide tradition picturale à l’attention portée aux personnes et à la culture ouzbèke. Valikhodjaev étudia dans son atelier de 1986 à 1991 ; ce lien constitue une part importante de sa formation.
+
+La photographie d’archives réunit le maître et le jeune artiste au sein d’un même milieu artistique. Les œuvres d’Ahmedov lui-même sont présentées dans les catalogues de Sotheby’s : [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) et [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>). Ces liens éclairent l’art du professeur ; les archives donnent à voir le milieu dans lequel Valikhodjaev s’est formé.
 
 [Vladimir Ivanovitch Burmakin félicite le maître Rahim Ahmedov. Archives personnelles de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
 [Vladimir Ivanovitch Burmakin](<https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BC%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87>) félicite le maître Rahim Ahmedov. Archives personnelles de l’artiste.
 
-**Œuvres de Rahim Ahmedov dans les catalogues de Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
-
 ## 1987 : un premier atelier artistique privé
 
-En 1987, alors qu’il est encore étudiant, Valikhodjaev fonde son premier atelier artistique privé. Sa famille se souvient d’une période où les restrictions pesant sur l’activité indépendante commencent à s’assouplir en République socialiste soviétique d’Ouzbékistan. L’atelier de l’institut lui apporte une formation ; le sien offre un lieu pour le travail pratique et les commandes.
+En 1987, durant ses études, Valikhodjaev créa son premier atelier artistique privé. Sa famille rapproche cette initiative de l’assouplissement des restrictions sur les activités indépendantes dans la RSS d’Ouzbékistan. Il avait quitté ses anciennes équipes de décoration artistique lors de son admission ; son atelier représentait une nouvelle étape, tandis que sa formation de peintre demeurait au centre de ses études.
 
 Dans cette biographie, les études et le travail avancent de front. L’organisation d’expositions, le commissariat et la création d’une galerie s’ajouteront à ce parcours. Le premier atelier en révèle la continuité : l’artiste produit des œuvres tout en cherchant les conditions qui rendent le travail artistique possible.
 
@@ -89,20 +87,17 @@ Diplômé en 1991, Valikhodjaev retourne à Namangan pour être près de sa mèr
 
 Revenir dans sa ville natale fait aussi partie de son parcours professionnel. Namangan demeure un lieu essentiel de sa peinture, à travers la série du marché, l’observation du quotidien et les figures de ses contemporains. Les voyages et l’évolution du langage pictural élargiront ce champ sans effacer son attention aux personnes et à la vie ordinaire.
 
-[Ibragim Valikhodjaev. Portrait extrait du catalogue de l'exposition « In Silence ». Reproduction d'une photographie d'archives de l'artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
+[Le jeune artiste parmi ses œuvres. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev. Portrait extrait du catalogue de l'exposition « In Silence ». Reproduction d'une photographie d'archives de l'artiste.
+Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
-- **Vit et travaille:** Ouzbékistan, Tachkent
-- **Ville natale:** Namangan
-- **Domaines d'activité:** Peinture, sculpture, commissariat d'exposition et organisation de projets artistiques
-- **Rôles professionnels:** Académicien de l'Académie des arts d'Ouzbékistan ; président de l'Union des artistes d'Ouzbékistan ; fondateur de la Valikhodjaev Gallery House
+[Le jeune artiste parmi ses œuvres. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
 
-Dans l'émission « Ijod formulasi » (La formule de la créativité), la conversation débute par une visite de l'atelier d'Ibragim Valikhodjaev. Des œuvres de différentes périodes y sont présentées côte à côte : une scène de marché, un paysage rouge, une grande composition abstraite. Derrière chacune d'elles se cache une même vie créative, mais dans chaque œuvre, l'artiste relève un nouveau défi. Cette rencontre dans l'atelier nous permet de saisir l'essentiel : la curiosité de Valikhodjaev ouvre sans cesse de nouvelles perspectives à son exploration artistique.
-
-Il est peintre et sculpteur, organisateur et commissaire d'exposition, fondateur de galerie et mentor. Une question commune traverse toutes ces activités : comment conserver un regard neuf ? Dans ses entretiens publiés, l'expérience est présentée comme une occasion de poursuivre la recherche, d'expérimenter et de trouver de nouvelles solutions expressives.
+Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 ## Le bazar est plus qu'un sujet
+
+Dans ses dernières années d’études, le bazar devint le sujet de son travail de diplôme. Ses premières approches s’appuyaient sur l’observation réaliste : des personnes précises, leurs activités, leurs attitudes et leurs rapports dans l’espace. Plus tard, cette base prit d’autres formes : les silhouettes se simplifièrent, la couleur gagna en autonomie et la scène à plusieurs personnages s’organisa davantage en composition rythmique. Les origines du sujet remontent aux années d’études, bien avant les expositions ultérieures.
 
 Le thème du bazar a fasciné l'artiste pendant la réalisation de son travail de fin d’études et est longtemps resté l'un des thèmes principaux de son œuvre. La série Namangan offre une riche matière compositionnelle : rencontres, échanges de marchandises, conversations et gestes. Foulards blancs, calottes brodées et vêtements colorés forment des accents récurrents, tandis que les personnages s'intègrent au rythme général de la vie quotidienne.
 
@@ -114,6 +109,50 @@ Dans « Suite orientale », le regard se détourne des petites histoires humaine
 
 Ibragim Valikhodjaev. « Suite orientale », 2011. Dimensions selon la légende d'archives : 100 × 300 cm. Reproduction issue des archives de l'artiste.
 
+## Tumor, Namangan et l’installation à Tachkent
+
+En 1993, Valikhodjaev fonda à Namangan la galerie-salon Tumor, première galerie d’art privée d’Ouzbékistan, qu’il dirigea jusqu’en 1999. Il fut ainsi un pionnier des galeries privées dans le pays : une initiative personnelle créait un lieu de rencontre entre les œuvres et leur public, au-delà du réseau établi des espaces d’exposition publics.
+
+De 1997 à 1999, il présida les sections de Namangan de l’Union des artistes et du Fonds artistique. Prendre soin de sa mère, peindre et organiser la vie artistique de sa ville natale étaient autant de dimensions de cette période. Il quitta ensuite Namangan pour s’installer à Tachkent ; sa mère était alors décédée.
+
+Dans la capitale, ses responsabilités prirent une dimension nationale. Il présida le Fonds spécial de l’Académie des arts d’Ouzbékistan de 1999 à 2005 et le Fonds artistique de la République d’Ouzbékistan de 1999 à 2012. La photographie d’archives datée de 2002 appartient à sa période au Fonds spécial. Ces fonctions ajoutaient une responsabilité d’organisation à sa carrière de peintre.
+
+[Oksana Kadysheva — Une suite de toutes les couleurs de l’arc-en-ciel, 2019](<https://mytashkent.uz/2019/06/28/syuita-vseh-czvetov-radugi-ibragima-valihodzhaeva/>)
+
+[Ibragim Valikhodjaev, directeur du Fonds spécial, 2002. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev, directeur du Fonds spécial, 2002. Archives de l’artiste.
+
+## Une pratique féconde : tableaux, expositions et peinture en plein air
+
+Les fonctions d’organisation n’interrompirent pas sa création. Après avoir terminé son mandat au Fonds spécial en 2005, Valikhodjaev continua à présider le Fonds artistique jusqu’en 2012, tout en développant sa peinture. En 2008, une exposition personnelle célébrant ses 50 ans présenta plus de 200 œuvres au Hall central des expositions de l’Académie des arts d’Ouzbékistan.
+
+[Ibragim Valikhodjaev lors de son exposition jubilaire en 2008. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev lors de son exposition jubilaire en 2008. Archives de l’artiste.
+
+Sa fécondité apparaît particulièrement dans le séjour au Monténégro de 2012. D’après sa famille, il peignit 42 tableaux pendant un séjour de travail en plein air de 21 jours et les rapporta en Ouzbékistan. L’exposition personnelle « 21 jours au Monténégro » eut lieu à Tachkent du 28 juin au 13 juillet. Le séjour et l’exposition constituent un même cycle : découvrir un lieu, travailler intensément d’après nature et réunir le résultat dans une présentation au public.
+
+Cette cadence repose sur l’observation continue et les décisions prises en peignant. Les photographies ci-dessous montrent un autre versant de cette pratique, parmi les rues de village, les cours, les rochers et les arbres. Ces images d’archives illustrent son travail en plein air en Ouzbékistan ; elles ne documentent pas le séjour au Monténégro. Expositions, ateliers de démonstration et projets internationaux se poursuivront parallèlement à sa création personnelle.
+
+### Le plein air commence par le regard
+
+Le plein air commence avant le premier coup de pinceau, par une promenade et le choix d’un point de vue. Ces photographies montrent une rue de village, une cour resserrée, un versant rocheux et des arbres d’automne. Un motif devient une alternance de murs clairs et d’ouvertures sombres ; un autre, le mouvement d’un chemin entre les bâtiments. Le peintre choisit le sujet et l’organisation des grandes masses qui tiendront la composition.
+
+Ces images de travail complètent les paysages en restituant l’échelle du lieu, les variations de lumière et les textures. Murs, toits, bandes de terre et frondaisons nourrissent les rapports de couleur. Dans le tableau, l’observation peut devenir plus libre et synthétique ; le lien avec le motif demeure dans la construction de l’espace. Le lieu et l’année de ces photographies ne sont pas établis : leur aspect ne suffit pas à les rattacher à un séjour précis à Miraki, au Monténégro ou en Azerbaïdjan.
+
+[Sur le motif : rochers et arbres d’automne. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Sur le motif : rochers et arbres d’automne. Archives de l’artiste.
+
+[Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.
+
+[Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.
+
 ## La couleur devient le sujet de la recherche
 
 Pour l'exposition RED de 2017, le rouge est devenu un axe artistique majeur. Dans un entretien avec nuz.uz, Valikhodjaev explique que son travail est ponctué de périodes où il se concentre particulièrement sur une couleur. Le rouge l'a fasciné par sa puissance émotionnelle et la complexité de ses combinaisons avec d'autres couleurs.
@@ -121,6 +160,34 @@ Pour l'exposition RED de 2017, le rouge est devenu un axe artistique majeur. Dan
 Il s'agit d'une recherche sur les relations coloristiques. Quelle partie de la surface la couleur occupe-t-elle ? Que se passe-t-il à la frontière avec la teinte adjacente ? Comment préserver la structure du paysage tout en accordant une plus grande autonomie à la couleur ? Dans ces œuvres, le rouge participe à la construction de l'image et détermine sa résonance émotionnelle.
 
 [Vidéo ci-dessus · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 18 avril 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+### RED : peindre devant le public
+
+Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 donnent une dimension pratique à la réflexion sur la couleur. Le public se tient près du chevalet et suit les gestes. La rapidité ne suffit pas à expliquer le travail : silhouette, étendue d’une plage colorée et intervalles entre les formes deviennent des décisions visibles.
+
+Le compte rendu de l’ambassade d’Ouzbékistan mentionne 31 œuvres et une démonstration pour les visiteurs. Les photographies permettent de comparer le geste, la palette et l’image en cours. L’étude du rouge se précise dans ses rapports avec les tons voisins et dans l’organisation de toute la toile.
+
+[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+### Le tableau dans l’espace d’exposition
+
+Les vues d’exposition montrent la rencontre du tableau avec le public. Les murs laissés libres, l’espacement des œuvres et la possibilité de prendre du recul modifient le regard. La vue d’ensemble donne l’échelle ; les visiteurs montrent comment l’on s’approche d’une œuvre avant de la retrouver à distance.
+
+[Exposition personnelle d’Ibragim Valikhodjaev, Galerie des beaux-arts de la Banque nationale de la République d’Ouzbékistan, Ouzbékistan, Tachkent, 2018. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Exposition personnelle d’Ibragim Valikhodjaev, Galerie des beaux-arts de la Banque nationale de la République d’Ouzbékistan, Ouzbékistan, Tachkent, 2018. Archives de l’artiste. [À propos de l’exposition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
+
+[Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.
 
 ## Le langage trouvé laisse place au changement
 
@@ -155,6 +222,23 @@ Valikhodjaev mène de front son travail personnel et l'organisation et le commis
 Le désir de partager son expérience transparaît clairement dans le travail en galerie et l'enseignement. La deuxième galerie Valikhodjaev Gallery House a ouvert ses portes le 5 août 2021. Les démonstrations et les cours de peinture avec les étudiants permettent d'observer de près le travail d'un professionnel : comment l'artiste aborde une toile, modifie une partie et évalue le résultat. Organiser une rencontre, participer à une séance de peinture en plein air et créer sa propre œuvre sont autant de rôles différents, chacun avec ses propres responsabilités.
 
 [Kultura.uz · 10 septembre 2024](<https://kultura.uz/view_2_r_21279.html>)
+
+## Aujourd’hui : créer et accompagner la vie artistique
+
+Valikhodjaev préside l’Union des artistes d’Ouzbékistan depuis 2017 et est membre de l’Académie des arts d’Ouzbékistan depuis 2023. La peinture et la sculpture se poursuivent aux côtés du commissariat d’exposition, de l’organisation de symposiums, des expositions et de la transmission. Sa fécondité se mesure à des résultats concrets : de nombreuses œuvres, de nouvelles séries et le retour à la création après chaque projet.
+
+[Ibragim Valikhodjaev. Photographie tirée du catalogue de l’exposition In Silence.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev. Photographie tirée du catalogue de l’exposition In Silence.
+
+- **Vit et travaille:** Ouzbékistan, Tachkent
+- **Ville natale:** Namangan
+- **Domaines d'activité:** Peinture, sculpture, commissariat d'exposition et organisation de projets artistiques
+- **Rôles professionnels:** Académicien de l'Académie des arts d'Ouzbékistan ; président de l'Union des artistes d'Ouzbékistan ; fondateur de la Valikhodjaev Gallery House
+
+Dans l'émission « Ijod formulasi » (La formule de la créativité), la conversation débute par une visite de l'atelier d'Ibragim Valikhodjaev. Des œuvres de différentes périodes y sont présentées côte à côte : une scène de marché, un paysage rouge, une grande composition abstraite. Derrière chacune d'elles se cache une même vie créative, mais dans chaque œuvre, l'artiste relève un nouveau défi. Cette rencontre dans l'atelier nous permet de saisir l'essentiel : la curiosité de Valikhodjaev ouvre sans cesse de nouvelles perspectives à son exploration artistique.
+
+Il est peintre et sculpteur, organisateur et commissaire d'exposition, fondateur de galerie et mentor. Une question commune traverse toutes ces activités : comment conserver un regard neuf ? Dans ses entretiens publiés, l'expérience est présentée comme une occasion de poursuivre la recherche, d'expérimenter et de trouver de nouvelles solutions expressives.
 
 ## Continuez à chercher, continuez à créer
 
@@ -194,16 +278,6 @@ Dans les œuvres d'archives, cette curiosité se manifeste de diverses manières
 
 Liens de l'artiste : [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## Dans les archives personnelles de l’artiste
-
-[Ibragim Valikhodjaev, directeur du Fonds spécial, 2002. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev, directeur du Fonds spécial, 2002. Archives de l’artiste.
-
-[Ibragim Valikhodjaev lors de son exposition jubilaire en 2008. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev lors de son exposition jubilaire en 2008. Archives de l’artiste.
-
 ## Transmettre une expérience : une masterclass à Xi’an
 
 En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en peinture de l’Académie des beaux-arts de Xi’an, en Chine. Il participait, en tant qu’artiste et président de l’Union des artistes d’Ouzbékistan, à une visite du 14 au 19 septembre liée au programme CASIE « Une ceinture, une route — Asie centrale ». La composition, réalisée en une heure et vingt minutes, a été offerte à l’Académie. La vidéo de la masterclass ci-dessous permet de suivre la construction de l’image, des premières lignes aux rapports entre les plages de couleur et à la composition achevée.
@@ -217,14 +291,6 @@ En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en 
 ## Une vie en photographies : l’atelier et le milieu artistique
 
 Les photographies d’archives montrent ce qu’une liste d’expositions ne dit pas : l’espace resserré de l’atelier, une toile inachevée voisine d’une image déjà résolue, les conversations devant les œuvres. Dans les portraits en noir et blanc, le jeune peintre est seul avec son travail ; sur les photographies d’exposition, il rejoint ses maîtres, ses collègues et le public. Ces deux situations comptent. La peinture naît d’une recherche personnelle, puis poursuit sa vie dans un milieu artistique.
-
-[Le jeune artiste parmi ses œuvres. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
-
-Le jeune artiste parmi ses œuvres. Archives de l’artiste.
-
-[Le jeune artiste parmi ses œuvres. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
-
-Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 La relation avec le maître Rahim Ahmedov éclaire cette continuité. La formation dans son atelier, de 1986 à 1991, donne à Valikhodjaev des fondements professionnels ; son langage se développe ensuite au contact du modèle, des compositions figuratives et de la couleur. La photographie avec son professeur ajoute une rencontre humaine au récit biographique. Les tableaux de l’élève ne se réduisent pas à un prolongement de la manière du maître : la formation permet une recherche indépendante.
 
@@ -280,40 +346,6 @@ Valikhodjaev dans son atelier. Archives de l’artiste.
 
 Valikhodjaev dans son atelier. Archives de l’artiste.
 
-## Le plein air commence par le regard
-
-Le plein air commence avant le premier coup de pinceau, par une promenade et le choix d’un point de vue. Ces photographies montrent une rue de village, une cour resserrée, un versant rocheux et des arbres d’automne. Un motif devient une alternance de murs clairs et d’ouvertures sombres ; un autre, le mouvement d’un chemin entre les bâtiments. Le peintre choisit le sujet et l’organisation des grandes masses qui tiendront la composition.
-
-Ces images de travail complètent les paysages en restituant l’échelle du lieu, les variations de lumière et les textures. Murs, toits, bandes de terre et frondaisons nourrissent les rapports de couleur. Dans le tableau, l’observation peut devenir plus libre et synthétique ; le lien avec le motif demeure dans la construction de l’espace. Le lieu et l’année de ces photographies ne sont pas établis : leur aspect ne suffit pas à les rattacher à un séjour précis à Miraki, au Monténégro ou en Azerbaïdjan.
-
-[Sur le motif : rochers et arbres d’automne. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
-
-Sur le motif : rochers et arbres d’automne. Archives de l’artiste.
-
-[Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
-
-Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.
-
-[Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
-
-Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.
-
-## RED : peindre devant le public
-
-Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 donnent une dimension pratique à la réflexion sur la couleur. Le public se tient près du chevalet et suit les gestes. La rapidité ne suffit pas à expliquer le travail : silhouette, étendue d’une plage colorée et intervalles entre les formes deviennent des décisions visibles.
-
-Le compte rendu de l’ambassade d’Ouzbékistan mentionne 31 œuvres et une démonstration pour les visiteurs. Les photographies permettent de comparer le geste, la palette et l’image en cours. L’étude du rouge se précise dans ses rapports avec les tons voisins et dans l’organisation de toute la toile.
-
-[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
-
-Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
-
-[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
-
-Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
-
-[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
-
 ## Dans l’atelier, avant et après l’exposition
 
 L’atelier donne à voir plusieurs étapes d’une décision picturale : la toile sur le chevalet, le mouvement du pinceau, la pause devant la surface peinte. Les photographies relient le travail quotidien de différentes années. L’expression du tableau se construit par l’observation et la vérification, par la distance du regard et par l’attention portée à la manière dont un passage modifie l’ensemble.
@@ -321,18 +353,6 @@ L’atelier donne à voir plusieurs étapes d’une décision picturale : la toi
 [L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.
-
-## Le tableau dans l’espace d’exposition
-
-Les vues d’exposition montrent la rencontre du tableau avec le public. Les murs laissés libres, l’espacement des œuvres et la possibilité de prendre du recul modifient le regard. La vue d’ensemble donne l’échelle ; les visiteurs montrent comment l’on s’approche d’une œuvre avant de la retrouver à distance.
-
-[Exposition personnelle d’Ibragim Valikhodjaev, Galerie des beaux-arts de la Banque nationale de la République d’Ouzbékistan, Ouzbékistan, Tachkent, 2018. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
-
-Exposition personnelle d’Ibragim Valikhodjaev, Galerie des beaux-arts de la Banque nationale de la République d’Ouzbékistan, Ouzbékistan, Tachkent, 2018. Archives de l’artiste. [À propos de l’exposition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
-
-[Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
-
-Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.
 
 ## La reconnaissance d’un parcours
 
