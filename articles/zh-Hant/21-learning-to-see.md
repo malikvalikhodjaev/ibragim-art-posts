@@ -138,13 +138,13 @@ edition_date: "2026-10-10"
 
 ## 藝術家的私人檔案
 
-[年輕時期的伊布拉吉姆·瓦利霍賈耶夫與用於學習的石膏胸像。藝術家檔案；拍攝日期不詳。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+[學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，約1988年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
-年輕時期的伊布拉吉姆·瓦利霍賈耶夫與用於學習的石膏胸像。藝術家檔案；拍攝日期不詳。
+學生時期的伊布拉吉姆·瓦利霍賈耶夫，身旁是用於學習的石膏胸像，約1988年。藝術家檔案。
 
-[擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫。藝術家檔案；照片的確切日期不詳。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，約2002年。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫。藝術家檔案；照片的確切日期不詳。
+擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，約2002年。藝術家檔案。
 
 [伊布拉吉姆·瓦利霍賈耶夫在2008年週年紀念展上。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 

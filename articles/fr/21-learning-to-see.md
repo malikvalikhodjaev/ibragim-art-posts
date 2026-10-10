@@ -138,13 +138,13 @@ Liens de l'artiste : [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) 
 
 ## Dans les archives personnelles de l’artiste
 
-[Le jeune Ibragim Valikhodjaev auprès d’un buste d’étude en plâtre. Archives de l’artiste ; photographie non datée.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+[Ibragim Valikhodjaev pendant ses années d’études, auprès d’un buste d’étude en plâtre, vers 1988. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
-Le jeune Ibragim Valikhodjaev auprès d’un buste d’étude en plâtre. Archives de l’artiste ; photographie non datée.
+Ibragim Valikhodjaev pendant ses années d’études, auprès d’un buste d’étude en plâtre, vers 1988. Archives de l’artiste.
 
-[Ibragim Valikhodjaev, directeur du Fonds spécial. Archives de l’artiste ; date exacte de la photographie inconnue.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev, directeur du Fonds spécial, vers 2002. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev, directeur du Fonds spécial. Archives de l’artiste ; date exacte de la photographie inconnue.
+Ibragim Valikhodjaev, directeur du Fonds spécial, vers 2002. Archives de l’artiste.
 
 [Ibragim Valikhodjaev lors de son exposition jubilaire en 2008. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 

@@ -140,13 +140,13 @@ edition_date: "2026-10-10"
 
 ## מן הארכיון האישי של האמן
 
-[איברגים וליחודז'אייב בצעירותו, לצד פרוטומת גבס ששימשה ללימוד. ארכיון האמן; תאריך הצילום אינו ידוע.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+[איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, בסביבות 1988. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
-איברגים וליחודז'אייב בצעירותו, לצד פרוטומת גבס ששימשה ללימוד. ארכיון האמן; תאריך הצילום אינו ידוע.
+איברגים וליחודז'אייב בשנות לימודיו, לצד פרוטומת גבס ששימשה ללימוד, בסביבות 1988. ארכיון האמן.
 
-[איברגים וליחודז'אייב, מנהל הקרן המיוחדת. ארכיון האמן; תאריך הצילום המדויק אינו ידוע.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[איברגים וליחודז'אייב, מנהל הקרן המיוחדת, בסביבות 2002. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-איברגים וליחודז'אייב, מנהל הקרן המיוחדת. ארכיון האמן; תאריך הצילום המדויק אינו ידוע.
+איברגים וליחודז'אייב, מנהל הקרן המיוחדת, בסביבות 2002. ארכיון האמן.
 
 [איברגים וליחודז'אייב בתערוכת היובל שלו בשנת 2008. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 

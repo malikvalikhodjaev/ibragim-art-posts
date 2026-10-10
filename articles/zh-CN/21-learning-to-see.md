@@ -138,13 +138,13 @@ edition_date: "2026-10-10"
 
 ## 艺术家的私人档案
 
-[年轻时期的伊布拉吉姆·瓦利霍贾耶夫与用于学习的石膏胸像。艺术家档案；拍摄日期不详。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+[学生时期的伊布拉吉姆·瓦利霍贾耶夫，身旁是用于学习的石膏胸像，约1988年。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
-年轻时期的伊布拉吉姆·瓦利霍贾耶夫与用于学习的石膏胸像。艺术家档案；拍摄日期不详。
+学生时期的伊布拉吉姆·瓦利霍贾耶夫，身旁是用于学习的石膏胸像，约1988年。艺术家档案。
 
-[担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫。艺术家档案；照片的确切日期不详。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫，约2002年。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫。艺术家档案；照片的确切日期不详。
+担任专项基金负责人期间的伊布拉吉姆·瓦利霍贾耶夫，约2002年。艺术家档案。
 
 [伊布拉吉姆·瓦利霍贾耶夫在2008年周年纪念展上。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 
