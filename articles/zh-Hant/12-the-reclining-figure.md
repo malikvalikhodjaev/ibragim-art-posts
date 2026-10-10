@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 12
 description: "比較《至高和諧》《沉睡》與《人體》：輪廓、姿態、周圍色域和不同尺幅。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_299.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 斜倚的人體：線條、姿態與色彩的三種關係
@@ -96,3 +96,15 @@ Valikhodjaev Gallery House
 [藝術家檔案· 傳記與簡歷](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## 展廳中的人體繪畫
+
+檔案照片讓我們重新感受到人體繪畫在展廳中的實際尺度。畫家與觀眾站在作品旁邊，畫布的高度、紅色塊面的寬度，以及淺色輪廓的延展，都變得具體可感。這些照片補充了上方的作品圖像，呈現觀眾走近畫作的情景，也讓人看到畫中人物如何占據展牆上的空間。
+
+[伊布拉吉姆・瓦利霍賈耶夫在展覽中站於一幅人體畫旁。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+伊布拉吉姆・瓦利霍賈耶夫在展覽中站於一幅人體畫旁。藝術家檔案。
+
+[觀眾欣賞瓦利霍賈耶夫的人體繪畫。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+觀眾欣賞瓦利霍賈耶夫的人體繪畫。藝術家檔案。

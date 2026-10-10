@@ -4,7 +4,7 @@ language: "es"
 theme: 12
 description: "Armonía superior, Durmiente y Desnudo: contorno, pose y relaciones entre el cuerpo y el campo de color en Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # La figura reclinada: línea y color en los desnudos de Ibragim Valikhodjaev
@@ -96,3 +96,15 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Archivo del artista · Biografía y CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## El desnudo en el espacio de la exposición
+
+Las fotografías de archivo devuelven a las pinturas de figuras su escala en la sala de exposición. Junto al artista y los visitantes, se perciben la altura del lienzo, la amplitud de un campo rojo y la extensión de una silueta clara. Estas vistas complementan las reproducciones anteriores: muestran cómo el espectador se acerca al cuadro y cómo la figura pintada ocupa el espacio de la pared.
+
+[Ibragim Valikhodjaev junto a una pintura de desnudo en una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibragim Valikhodjaev junto a una pintura de desnudo en una exposición. Archivo del artista.
+
+[Visitantes ante las pinturas de desnudo de Valikhodjaev. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Visitantes ante las pinturas de desnudo de Valikhodjaev. Archivo del artista.

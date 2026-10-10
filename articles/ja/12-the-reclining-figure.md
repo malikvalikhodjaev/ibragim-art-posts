@@ -4,7 +4,7 @@ language: "ja"
 theme: 12
 description: "「至高の調和」「眠る女」「ヌード」。三つの作品から、身体、輪郭、姿勢、周囲の色面を考える。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_19.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 横たわる身体――ヴァリホジャエフのヌードに見る線と色
@@ -96,3 +96,15 @@ Valikhodjaev Gallery House
 [アーティストアーカイブ · 略歴と履歴書](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## 展示室で見る裸婦画
+
+資料写真からは、人物画の展示室での実際の大きさが伝わってきます。画家や来場者が隣に立つことで、キャンバスの高さ、赤い色面の広がり、明るい輪郭の長さが具体的に感じられます。これらの写真は上の作品図版を補い、鑑賞者が絵に近づく様子や、描かれた身体が展示壁の上で占める空間を示しています。
+
+[展覧会で裸婦画の隣に立つイブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+展覧会で裸婦画の隣に立つイブラギム・ヴァリホジャエフ。画家のアーカイブより。
+
+[ヴァリホジャエフの裸婦画を鑑賞する来場者。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+ヴァリホジャエフの裸婦画を鑑賞する来場者。画家のアーカイブより。

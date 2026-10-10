@@ -4,7 +4,7 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
@@ -299,3 +299,17 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 [授賞式でのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 授賞式でのヴァリホジャエフ。 画家のアーカイブより。
+
+## 師ラヒム・アフメドフとともに
+
+ラヒム・アフメドフはウズベキスタンの画家・美術教育者で、人民芸術家の称号を持ち、美術アカデミーの会員でもありました。彼の肖像画は同国の近代絵画の発展に重要な位置を占めています。ヴァリホジャエフは1986年から1991年までそのアトリエで学びました。これらの資料写真は、師と若い画家が同じ美術界の仲間とともに歩んだ姿を伝えています。下のリンクは、サザビーズのカタログに掲載されたアフメドフの作品です。
+
+[師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。
+
+[画家仲間とともに写る師ラヒム・アフメドフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+画家仲間とともに写る師ラヒム・アフメドフ。画家の個人アーカイブより。
+
+**サザビーズのカタログに掲載されたラヒム・アフメドフの作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

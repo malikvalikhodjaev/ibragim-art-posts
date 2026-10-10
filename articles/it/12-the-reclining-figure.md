@@ -4,7 +4,7 @@ language: "it"
 theme: 12
 description: "Armonia superiore, Dormiente e Nudo: tre studi della figura distesa, del contorno e dello spazio cromatico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # La figura distesa: linea e colore nei nudi di Ibragim Valikhodjaev
@@ -96,3 +96,15 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 [Archivio dell'artista · Biografia e CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## Il nudo nello spazio della mostra
+
+Le fotografie d’archivio restituiscono ai dipinti di figura la loro scala nella sala espositiva. Accanto all’artista e ai visitatori, diventano concrete l’altezza della tela, l’ampiezza di una campitura rossa e l’estensione di una sagoma chiara. Queste vedute completano le riproduzioni qui sopra e mostrano come lo spettatore si avvicina al quadro e come la figura dipinta occupa lo spazio della parete.
+
+[Ibragim Valikhodjaev accanto a un dipinto di nudo in mostra. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibragim Valikhodjaev accanto a un dipinto di nudo in mostra. Archivio dell’artista.
+
+[Visitatori davanti ai dipinti di nudo di Valikhodjaev. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Visitatori davanti ai dipinti di nudo di Valikhodjaev. Archivio dell’artista.

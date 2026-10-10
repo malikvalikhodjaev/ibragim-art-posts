@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 21
 description: "依據公開訪談與藝術家檔案，回望瓦利霍賈耶夫從納曼干市集到抽象、雕塑與教學的藝術探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 學會觀看：伊布拉吉姆·瓦利霍賈耶夫的藝術人生
@@ -299,3 +299,17 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 [瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。
+
+## 與拉希姆・艾哈邁多夫老師在一起
+
+拉希姆・艾哈邁多夫是烏茲別克畫家與美術教育家，獲人民藝術家稱號，並為藝術科學院院士。他的肖像畫在烏茲別克現代繪畫的發展中占有重要地位。瓦利霍賈耶夫於1986至1991年在他的畫室學習。這些檔案照片為這段師承關係留下了生動的見證：老師與年輕畫家身處同業之中，共同參與當時的藝術生活。下方連結指向蘇富比圖錄中收錄的艾哈邁多夫作品。
+
+[拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。
+
+[拉希姆・艾哈邁多夫老師與藝術家同仁。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+拉希姆・艾哈邁多夫老師與藝術家同仁。藝術家私人檔案。
+
+**蘇富比圖錄中的拉希姆・艾哈邁多夫作品:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

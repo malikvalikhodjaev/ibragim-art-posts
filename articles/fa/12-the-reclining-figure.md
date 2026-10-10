@@ -4,7 +4,7 @@ language: "fa"
 theme: 12
 description: "«هماهنگی والاتر»، «خوابیده» و «برهنه»: سه نگاه به بدن، خطوط بیرونی و رنگ در نقاشی ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_04.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # پیکرهٔ لمیده: خط و رنگ در برهنه‌نگاری‌های ابراهیم ولی‌خوجایف
@@ -98,6 +98,18 @@ Valikhodjaev Gallery House
 [آرشیو هنرمند · بیوگرافی و رزومه](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [گالری هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## نقاشی پیکر برهنه در فضای نمایشگاه
+
+عکس‌های آرشیوی اندازهٔ واقعی تابلوهای پیکر را در فضای نمایشگاه آشکار می‌کنند. در کنار هنرمند و بازدیدکنندگان، ارتفاع بوم، پهنای سطح سرخ و امتداد شکل روشن ملموس‌تر می‌شود. این تصاویر، بازتولیدهای آثار در بالا را تکمیل می‌کنند و نشان می‌دهند تماشاگر چگونه به تابلو نزدیک می‌شود و پیکر نقاشی‌شده چه فضایی را بر دیوار گالری اشغال می‌کند.
+
+[ابراهیم ولی‌خواجه‌یف در نمایشگاه، کنار تابلویی از پیکر برهنه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+ابراهیم ولی‌خواجه‌یف در نمایشگاه، کنار تابلویی از پیکر برهنه. از آرشیو هنرمند.
+
+[بازدیدکنندگان در برابر تابلوهای پیکر برهنهٔ ولی‌خواجه‌یف. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+بازدیدکنندگان در برابر تابلوهای پیکر برهنهٔ ولی‌خواجه‌یف. از آرشیو هنرمند.
 
 
 </div>

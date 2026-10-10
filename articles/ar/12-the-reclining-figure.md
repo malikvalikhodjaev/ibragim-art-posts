@@ -4,7 +4,7 @@ language: "ar"
 theme: 12
 description: "قراءة «الانسجام الأسمى» و«نائمة» و«عارية»: الجسد والخط واللون في أعمال إبراهيم فاليخودجاييف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_86.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # الجسد المستلقي: الخط واللون في لوحات إبراهيم فاليخودجاييف
@@ -98,6 +98,18 @@ edition_date: "2026-10-10"
 [أرشيف الفنان · السيرة الذاتية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [انستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [غاليري هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## رسم الجسد في فضاء المعرض
+
+تعيد الصور الأرشيفية إلى لوحات الجسد مقياسها الفعلي في قاعة العرض. فبوجود الفنان والزوار إلى جوارها، يتضح ارتفاع اللوحة واتساع المساحة الحمراء وامتداد الشكل الفاتح. تكمل هذه الصور نسخ الأعمال المعروضة أعلاه، وتبيّن كيف يقترب المتلقي من اللوحة وكيف يشغل الجسد المرسوم مساحة على جدار المعرض.
+
+[إبراهيم فاليخودجاييف بجوار لوحة لجسد عارٍ في معرض. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+إبراهيم فاليخودجاييف بجوار لوحة لجسد عارٍ في معرض. من أرشيف الفنان.
+
+[زوار يتأملون لوحات الجسد العاري لفاليخودجاييف. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+زوار يتأملون لوحات الجسد العاري لفاليخودجاييف. من أرشيف الفنان.
 
 
 </div>

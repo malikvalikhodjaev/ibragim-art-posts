@@ -4,7 +4,7 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
@@ -299,3 +299,17 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 [시상식의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 시상식의 발리호자예프. 작가 소장 사진.
+
+## 스승 라힘 아흐메도프와 함께
+
+라힘 아흐메도프는 우즈베키스탄의 화가이자 미술 교육자로, 인민예술가 칭호를 받았으며 예술아카데미 회원이었습니다. 그의 초상화는 우즈베키스탄 현대 회화의 발전에서 중요한 위치를 차지합니다. 발리호자예프는 1986년부터 1991년까지 그의 화실에서 배웠습니다. 이 기록 사진들은 스승과 젊은 화가가 동료들과 같은 미술계 안에서 활동하던 모습을 전합니다. 아래 링크는 소더비 카탈로그에 실린 아흐메도프의 작품으로 연결됩니다.
+
+[스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.
+
+[동료 화가들과 함께한 스승 라힘 아흐메도프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+동료 화가들과 함께한 스승 라힘 아흐메도프. 화가의 개인 소장 자료.
+
+**소더비 카탈로그에 수록된 라힘 아흐메도프의 작품:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

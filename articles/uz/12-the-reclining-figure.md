@@ -4,7 +4,7 @@ language: "uz"
 theme: 12
 description: "«Oliy uyg‘unlik», «Uyquda» va «Yalang‘och»: Valixo‘jayevning nyu asarlarida siluet, kontur va atrofdagi rang sohasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Yonboshlagan qomat: chiziq, poza va rangning uch xil munosabati
@@ -96,3 +96,15 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Rassom arxivi · Tarjimai hol va CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## Qomat tasviri ko‘rgazma zalida
+
+Arxiv suratlari kartinalarning ko‘rgazma zalidagi haqiqiy ko‘lamini his qilishga yordam beradi. Rassom va tomoshabinlar yonida tuvalning balandligi, qizil rang maydonining kengligi va yorug‘ siluetning cho‘zilishi yaqqol ko‘rinadi. Bu kadrlar yuqoridagi reproduksiyalarni to‘ldiradi: tomoshabin kartinaga qanday yaqinlashishi va tasvirlangan qomat zal makonida qanday namoyon bo‘lishini ko‘rsatadi.
+
+[Ibrohim Valixo‘jayev ko‘rgazmada yalang‘och qomat tasvirlangan kartina yonida. Shaxsiy arxivdan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibrohim Valixo‘jayev ko‘rgazmada yalang‘och qomat tasvirlangan kartina yonida. Shaxsiy arxivdan.
+
+[Tomoshabinlar Valixo‘jayevning yalang‘och qomat tasvirlangan kartinalari oldida. Shaxsiy arxivdan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Tomoshabinlar Valixo‘jayevning yalang‘och qomat tasvirlangan kartinalari oldida. Shaxsiy arxivdan.

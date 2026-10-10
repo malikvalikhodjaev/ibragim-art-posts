@@ -4,7 +4,7 @@ language: "ru"
 theme: 21
 description: "Ибрагим Валиходжаев: Наманганский базар, RED, абстракция, скульптура и передача опыта. Биографический портрет по опубликованным интервью."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Учиться видеть: Ибрагим Валиходжаев о жизни в искусстве
@@ -299,3 +299,17 @@ edition_date: "2026-10-10"
 [Ибрагим Валиходжаев на церемонии награждения. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Ибрагим Валиходжаев на церемонии награждения. Архив художника.
+
+## Рядом с Мастером: Рахим Ахмедов
+
+Рахим Ахмедов — узбекский живописец и педагог, народный художник и академик, один из мастеров, определивших развитие современной живописи Узбекистана. Особенно значимы его психологические портреты. В 1986–1991 годах Валиходжаев учился в его студии. Архивные снимки дополняют эту биографическую запись живым свидетельством: Мастер и молодой художник находятся среди коллег, в общей художественной среде. По ссылкам ниже представлены именно произведения Ахмедова из каталогов Sotheby’s.
+
+[Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Мастер Рахим Ахмедов и Ибрагим Валиходжаев. Из личного архива художника.
+
+[Мастер Рахим Ахмедов среди художников. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+Мастер Рахим Ахмедов среди художников. Из личного архива художника.
+
+**Произведения Рахима Ахмедова в каталогах Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-10",
+  "edition": "2026-10-11",
   "articles": [
     {
       "title": "How to Look at Abstract Art: A Guide Through Valikhodjaev’s Paintings",
@@ -223,17 +223,19 @@
       "theme": 12,
       "description": "Higher Harmony, Sleeping and Nude: three approaches to the reclining figure, contour, colour and pictorial space in Valikhodjaev’s work.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/en/12-the-reclining-figure.md",
       "labels": "English, Nude, Figure painting, Ibragim Valikhodjaev",
-      "sha256": "3306438297e6af9ea0416562c89e60a15d6f70294099657fc284cbb31615e464",
-      "published_html_sha256": "46293d9172b4a8ae717e81ccb2d1e622aace8c13bf49f352060039b21a1a3f6e",
+      "sha256": "47ee50f1cd2fd93a9c3e4c88c071608a9ef304908ac6a229b89e99b66fddb77f",
+      "published_html_sha256": "8bd43ba3bc624a31c3dfe9829cb5a6ab9683efc3cdd3ed174e5ec6d07adf8f49",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Courtyards and winding roads: the colour of Uzbek village life",
@@ -408,11 +410,11 @@
       "theme": 21,
       "description": "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/en/21-learning-to-see.md",
       "labels": "English, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "c1ef7995c251db4608ca8965e7e4e0232fdbc06cbc9344ac39294913366857e5",
-      "published_html_sha256": "98c37e356b0b7ca1c9433decc1d02f93e4f3cfe74b7fd2a536d92752e6580b2d",
+      "sha256": "f93b5d1edc27954b3a9bc25254c2e15da49fc8bb5a7a17f616b070d2bbff8050",
+      "published_html_sha256": "69baa7213066a1d2052602a187ddda614936c7232b744108b2bccf55b459af4d",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -448,9 +450,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Comment regarder l’abstraction ? Couleur et forme chez Valikhodjaev",
@@ -674,17 +678,19 @@
       "theme": 12,
       "description": "Harmonie supérieure, Dormeuse et Nu : trois études de la figure allongée, du contour et de l’espace pictural.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/fr/12-the-reclining-figure.md",
       "labels": "Français, Nu, Peinture de figure, Ibragim Valikhodjaev",
-      "sha256": "3121a87c7d61e506d9d5346562e6467d27e60823af2651d372c5ae9f7a9db47a",
-      "published_html_sha256": "aab8a0669aff61c49f5a99fe0514eef20b18806f924d79cf04ad870355601619",
+      "sha256": "c8f119d05f85c08df901c86e4c66fc6d2cc246da48e5a1ee8aee53a2c89d628e",
+      "published_html_sha256": "e9029e881c251b1ce55ab107104e6de55cfab51262fb1a868d1ad7c65e2cc98b",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Cours et chemins sinueux : les couleurs des villages ouzbeks",
@@ -859,11 +865,11 @@
       "theme": 21,
       "description": "Formation, recherches, enseignement et projets internationaux : une vie d’artiste racontée à partir d’entretiens publiés.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/fr/21-learning-to-see.md",
       "labels": "Français, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "e9a839fd0ed0f9675ba85ea42264d36c5a023ea80ebbc8f49339c6f96c157fde",
-      "published_html_sha256": "14e2ecb98f184bce2e5879a0aaffc4ce49c4f32e3ced752f5b19ac78da59b536",
+      "sha256": "b49e6542a33091749be461026bec444353bd39972605824fc943e2ca235595b5",
+      "published_html_sha256": "785a77f16501fcf3bc3ec24626782d5c2c4cb07abf7ddb7e45742eafd2f3e4b0",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -899,9 +905,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Come guardare l’astrazione: colore e forma in Valikhodjaev",
@@ -1125,17 +1133,19 @@
       "theme": 12,
       "description": "Armonia superiore, Dormiente e Nudo: tre studi della figura distesa, del contorno e dello spazio cromatico.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/it/12-the-reclining-figure.md",
       "labels": "Italiano, Nudo, Pittura di figura, Ibragim Valikhodjaev",
-      "sha256": "5955bca587da21fb064fdc3ebc76e54464342d616fa564944a52a2388d7a0078",
-      "published_html_sha256": "e2b43e04d2836449addb8d95e835236cc75611fb7511ec76caa75ffcf8515e08",
+      "sha256": "7e5cf69818fdf358be406427fa89cd2ddb49f61dd51335f44295ec956d05e07d",
+      "published_html_sha256": "1637b3c407641a1aaedbf64146086a8e397208e5bc5225c8e9b7911643e93ae2",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Cortili e strade sinuose: i colori dei villaggi uzbeki",
@@ -1310,11 +1320,11 @@
       "theme": 21,
       "description": "La vita artistica di Valikhodjaev attraverso interviste pubblicate: il bazar, RED, l’astrazione, la scultura e la formazione.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/it/21-learning-to-see.md",
       "labels": "Italiano, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "6863d2d587e5257a575a0783d27204b8721e3ad2ba2c8c7c42837ad05bfa6ad3",
-      "published_html_sha256": "bc8e02a6b9b206d2929edc11d6a3a481c422e3f54cacc86da73ae3d6397a5061",
+      "sha256": "c4dd07af475b0c832b7154f6e8b34bceb08c0e05e09f89ee2404778cbeba616a",
+      "published_html_sha256": "bbae2b1a8fa5b455361ec106b15cbe694f9e20cac0c8fb0afc6d77ab12578b9c",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -1350,9 +1360,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "如何觀看抽象繪畫：從色彩、線條到畫面尺度",
@@ -1576,17 +1588,19 @@
       "theme": 12,
       "description": "比較《至高和諧》《沉睡》與《人體》：輪廓、姿態、周圍色域和不同尺幅。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_299.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/zh-Hant/12-the-reclining-figure.md",
       "labels": "繁體中文, 人體繪畫, 人物造型, Ibragim Valikhodjaev",
-      "sha256": "a0ca0016c31f9bfe1a814c5da69fdaea71a46eec3a7fac48043715f022889695",
-      "published_html_sha256": "a2bb453c34042779c077ff915f97bb8d902041e7574fdae0d638200ddbfff6ef",
+      "sha256": "80ad0d545edcbf5390efe6b589293717bb69e67943c62d409cb17ffd3ff26a7b",
+      "published_html_sha256": "eac5981e8cc07df150b1af8e54d64d8b81f3ccb84c6a3bb37715270c4f90146b",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "庭院、牆壁與歸途：烏茲別克鄉村的色彩",
@@ -1761,11 +1775,11 @@
       "theme": 21,
       "description": "依據公開訪談與藝術家檔案，回望瓦利霍賈耶夫從納曼干市集到抽象、雕塑與教學的藝術探索。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/zh-Hant/21-learning-to-see.md",
       "labels": "繁體中文, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "0c43e432327a43f72fdb858786c6d761d52703f099b9f6b009b5f094e8038a02",
-      "published_html_sha256": "e266954ea9cea08db212232caa380c069d045bc8a483e54a1bc5b801c036a2cd",
+      "sha256": "f80fd780952e1862e93bdaa5e70acda4efa4cf066d90331959774218fa25d44b",
+      "published_html_sha256": "a97d7af0048467e161058c3f871438f3bf5788463c6287d6722f709f3cc5640e",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -1801,9 +1815,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "如何观看抽象绘画：从色彩、线条到画面尺度",
@@ -2027,17 +2043,19 @@
       "theme": 12,
       "description": "比较《至高和谐》《沉睡》与《人体》：轮廓、姿态、周围色域和不同尺幅。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_786.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/zh-CN/12-the-reclining-figure.md",
       "labels": "简体中文, 人体绘画, 人物造型, Ibragim Valikhodjaev",
-      "sha256": "f26fda0608afce5c674c006ed585427b30f3dad80ec8bca69127a446aefe3ac7",
-      "published_html_sha256": "c870e7f265de42f5419a7d3c4b78495fe009c50e8a556ee87f0f723d2f35f9cf",
+      "sha256": "8bf9c2d66f3bcc53110c32c12d60a75b7ec1ac06f3392f2fed6d193e8fee985a",
+      "published_html_sha256": "1597b85d9eb2de28636033ba9c0dd99fba2db4b2966d182ad325211574227e3b",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "庭院、墙壁与归途：乌兹别克斯坦乡村的色彩",
@@ -2212,11 +2230,11 @@
       "theme": 21,
       "description": "依据公开访谈与艺术家档案，回望瓦利霍贾耶夫从纳曼干集市到抽象、雕塑与教学的艺术探索。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/zh-CN/21-learning-to-see.md",
       "labels": "简体中文, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "ac05ece75b874da6ba0a0c5d91c122c0c8636bf069e7ab766c1f3f03179ff9a0",
-      "published_html_sha256": "5b793db347472e63a877363331e3638720aa1a18a59dc2b8b251648e3cbe027d",
+      "sha256": "04662aaf8d72dca9ce4cfb3e9c3576e7da1e1d501b7ea07f8a3c9efdf1bbce87",
+      "published_html_sha256": "690d2f451c900db2aa1ae68dd1e95137aa294197636ac02327a2f58334506d71",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -2252,9 +2270,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Как смотреть абстрактную живопись: картины Валиходжаева",
@@ -2478,17 +2498,19 @@
       "theme": 12,
       "description": "«Высшая гармония», «Спящая» и «Ню» Валиходжаева: три решения лежащей фигуры, линия, пластика и цветовое окружение.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_530.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ru/12-the-reclining-figure.md",
       "labels": "Русский, Ню, Обнажённая натура, Ibragim Valikhodjaev",
-      "sha256": "1e08d9a5e87cb3e7d6daf10590a7ad3f26ed930497db0125cd28b69424d62a75",
-      "published_html_sha256": "c6af09b17db42cbe77be01935e8fcbc94a12aeb0bc6634ff8a6848b4ce6d35a9",
+      "sha256": "6b13412684d9eb572a5559299f6ca80956fc736df14996d0b7e6d8cbc12f0638",
+      "published_html_sha256": "3a60ccbe10afdbc47832f87fbfb5ff6b3dcfcafca41ddcd9816f72b53f622893",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Дворы и извилистые дороги: колорит узбекского кишлака",
@@ -2663,11 +2685,11 @@
       "theme": 21,
       "description": "Ибрагим Валиходжаев: Наманганский базар, RED, абстракция, скульптура и передача опыта. Биографический портрет по опубликованным интервью.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ru/21-learning-to-see.md",
       "labels": "Русский, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "58f747094c6dcf7071f113c1b9698a28b73f591fb6f3f0c64dbcad2443a979da",
-      "published_html_sha256": "e80afb3b895f492af83c01594700f74e9cad28a9287204088ddd56c78a6a610e",
+      "sha256": "749b024eabaab6bc949df2909e389f5f5f8152b5e274f82be1323bdfe91eb889",
+      "published_html_sha256": "726e917fde2e7d35810da38a438065ff95839458188f83fde750e9a2b35af8db",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -2703,9 +2725,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Abstrakt rangtasvirni qanday ko‘rish kerak: rang, chiziq va miqyos",
@@ -2929,17 +2953,19 @@
       "theme": 12,
       "description": "«Oliy uyg‘unlik», «Uyquda» va «Yalang‘och»: Valixo‘jayevning nyu asarlarida siluet, kontur va atrofdagi rang sohasi.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/uz/12-the-reclining-figure.md",
       "labels": "O‘zbekcha, Yalang‘och natura, Qomat tasviri, Ibragim Valikhodjaev",
-      "sha256": "b8ae19bda0ba6f82c52fff3d1175ee102032a654a87ceedf0d947ac1ca19125d",
-      "published_html_sha256": "0195df2e6fa1dd1410bf2c162f9e49dc47913f05289a4c05d3fd8f2d67a9e563",
+      "sha256": "e73773c41d40975fe7b027367bbcb5dbe8364fa8c23a8c17762d0f026c730aaa",
+      "published_html_sha256": "d1912552b3fdb8f7d31bf3c862e738d9c85192c7245aa2f433fb6cf9b353b998",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Hovli, devor va qaytish yo‘li: o‘zbek qishlog‘ining ranglari",
@@ -3114,11 +3140,11 @@
       "theme": 21,
       "description": "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/uz/21-learning-to-see.md",
       "labels": "O‘zbekcha, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "39eead3f083653231e4838d9681bbd4054683e3f1e3d08981c060d33f0cdda46",
-      "published_html_sha256": "934aeb10fc654ff320782b055009a7913a9238ade9f75935ab556cf4fc969c72",
+      "sha256": "e687b3b1147b57dfab3a8cc2f1aae52df5e23393f53804bf8755897c3c31cae4",
+      "published_html_sha256": "1e00372cc6b5109a5d26271eabf570fc25a9891b4caf342e1babf09ccc1cd85f",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -3154,9 +3180,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Soyut resme nasıl bakılır: Valikhodjaev’de renk, çizgi ve kompozisyon",
@@ -3380,17 +3408,19 @@
       "theme": 12,
       "description": "Yüksek Uyum, Uyuyan ve Nü: Valikhodjaev’in resimlerinde uzanan beden, koyu kontur ve çevresindeki renk alanları.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/tr/12-the-reclining-figure.md",
       "labels": "Türkçe, Nü, Figür resmi, Ibragim Valikhodjaev",
-      "sha256": "1679465697f39e36d7a03982755b8c2908da82b74b3c26d20028b901aab2a44d",
-      "published_html_sha256": "bfee779c33824aa62d825bb575d5d04742a8c25d67f449efe174121e4b5ef282",
+      "sha256": "e7c6e93c2474a22515dccc09c40c438be872c908a07dcb8b46ec648192a88b9a",
+      "published_html_sha256": "c530513657efb3d8b0adabb2ed5d09403a2810560794d132940042e20fb3fbb0",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Avlular ve kıvrılan yollar: Özbek köylerinin renkleri",
@@ -3565,11 +3595,11 @@
       "theme": 21,
       "description": "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/tr/21-learning-to-see.md",
       "labels": "Türkçe, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "9027c8e7f23b4dcedc247d39132848d3cb08a5cbce22271326ec2aa4ebc90adf",
-      "published_html_sha256": "bab408d008a12050dc9368e40f1f91e552c5bbe3e65e6629f28ccd57475511fc",
+      "sha256": "ad5096eff57a324d0f63b9d66e5a055dca091e1acfae2aebdbee06e36c188863",
+      "published_html_sha256": "a5f525bd7408610c434981c9a75dc8ea514a6a107fd0aab5efb70bcd1c7b8067",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -3605,9 +3635,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "كيف ننظر إلى الفن التجريدي؟ دليل عبر لوحات فاليخودجاييف",
@@ -3831,17 +3863,19 @@
       "theme": 12,
       "description": "قراءة «الانسجام الأسمى» و«نائمة» و«عارية»: الجسد والخط واللون في أعمال إبراهيم فاليخودجاييف.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_86.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ar/12-the-reclining-figure.md",
       "labels": "العربية, رسم العاري, تصوير الجسد, Ibragim Valikhodjaev",
-      "sha256": "41ee5c4b6fa0886238a07f4f2555ab8eb8e51d562b971b5e0454c25997488e0e",
-      "published_html_sha256": "646d2afb0a93c0748d2fd3c02796fa01b8fb2fe5277b0c1a4d7959b05b7291a7",
+      "sha256": "5b0dff5bd7c5794f1b86969e98ef8f94269a70078166e653dea8329709ed5356",
+      "published_html_sha256": "d8b982ba732876898fe858a6cf2eed5188144092425d9dfa0fbb5f49782eb606",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "أفنية وطرق متعرّجة: ألوان الحياة في الريف الأوزبكي",
@@ -4016,11 +4050,11 @@
       "theme": 21,
       "description": "بورتريه سيري لإبراهيم فاليخودجاييف من مقابلات منشورة وأعمال أرشيفية: البازار وRED والتجريد والنحت والتدريس.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ar/21-learning-to-see.md",
       "labels": "العربية, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "5b64aea083f980a0bf5306e93cb1122afc0e3dd8306433b74f35945cbb6f8be6",
-      "published_html_sha256": "9d3bb20ce99b7b6a59cf7c60bc2fcf506507941705663b4a1482ad09102a921d",
+      "sha256": "ea5eab44c24e3fcc100f75e7bd669374dcce75dbace1afac65520a583af3aa06",
+      "published_html_sha256": "610c14f2fc7fa08b3d2864ed553c62fdf16e43de85c02aa945ab12a75af7c2fe",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -4056,9 +4090,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "چگونه هنر انتزاعی را ببینیم؟ راهنمایی در میان نقاشی‌های ولی‌خوجایف",
@@ -4280,17 +4316,19 @@
       "theme": 12,
       "description": "«هماهنگی والاتر»، «خوابیده» و «برهنه»: سه نگاه به بدن، خطوط بیرونی و رنگ در نقاشی ولی‌خوجایف.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_04.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/fa/12-the-reclining-figure.md",
       "labels": "فارسی, برهنه‌نگاری, نقاشی پیکر, Ibragim Valikhodjaev",
-      "sha256": "4b1f08380ac8d8eb5bbecf0a4b50ccd6509040fe0d3ec30a9db08d10bcb21c57",
-      "published_html_sha256": "acbd7f64bc46c8e20524d0ec2731b24a7d0626f4f91ff37da876837d72ad26df",
+      "sha256": "63b2f99b45a1637e232817e20387d5ee48c6bc8dfc1355218d9dd2f1755e4321",
+      "published_html_sha256": "587d379044b12b69bf6b928ec946053543314dc856ff8e1b70fd51abb4ecf756",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "حیاط‌ها و راه‌های پیچان: رنگ زندگی در روستاهای ازبکستان",
@@ -4465,11 +4503,11 @@
       "theme": 21,
       "description": "چهره‌ای از زندگی ابراهیم ولی‌خوجایف بر پایهٔ مصاحبه‌ها و آثار آرشیوی؛ بازار، RED، انتزاع، مجسمه‌سازی و آموزش.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/fa/21-learning-to-see.md",
       "labels": "فارسی, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "3c0952d960a3dbb726cc5283c50d26afb0b5273b721a717de369b6c0667823c3",
-      "published_html_sha256": "8a9afc0f0b8cc96fdc4d267e053fcd4aef152ea3e552e3f6e71a7b320709f2c2",
+      "sha256": "adaee42ede8275dc1a845efe764f045e2c1b07c011e22920fd7a485b64a83345",
+      "published_html_sha256": "f136b637a143a4cf2a55cb6c34931ed8c0a50f8eaa1449fdefbf896d72aad8ad",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -4505,9 +4543,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Cómo mirar la abstracción: color y forma en Valikhodjaev",
@@ -4731,17 +4771,19 @@
       "theme": 12,
       "description": "Armonía superior, Durmiente y Desnudo: contorno, pose y relaciones entre el cuerpo y el campo de color en Valikhodjaev.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/es/12-the-reclining-figure.md",
       "labels": "Español, Desnudo, Pintura de figura, Ibragim Valikhodjaev",
-      "sha256": "18f517a1cff15a5a81d638758bb6e98f0b1451c3df8094fdc8d8d05c0db4e3e1",
-      "published_html_sha256": "faae78d3abb277a8b259dacb5b1277397a52360df0b77204d262a02732b58858",
+      "sha256": "05b63fa9b4117565d3b14865d850057066c768750669f90b530e581a3c6947d7",
+      "published_html_sha256": "b97329b02aaf7b52b3052fb52b5d964e08df4129b3da9cb5e3df024ae55d440c",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Patios y caminos sinuosos: los colores de las aldeas uzbekas",
@@ -4916,11 +4958,11 @@
       "theme": 21,
       "description": "Del bazar a RED y la abstracción: un retrato biográfico de Ibragim Valikhodjaev basado en entrevistas y fuentes publicadas.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/es/21-learning-to-see.md",
       "labels": "Español, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "285c315d263d85998f73fcadd098234dd39c4b8fe32c943e2aa725f79c5cf731",
-      "published_html_sha256": "d3acd24c40c4a17d3a50b06aa367952d16469a6b6032b5987709db92c494c067",
+      "sha256": "d7b1b6afe3800df9efd8cb505f0107c9e2568a228562c3936ebdd51f8c5263fb",
+      "published_html_sha256": "1a20ee9c67e59c9be1e79b0804aeaa389a865aec27e50754a332e502286d7df4",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -4956,9 +4998,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Abstraktion betrachten: Farbe und Form bei Valikhodjaev",
@@ -5182,17 +5226,19 @@
       "theme": 12,
       "description": "Höhere Harmonie, Schlafend und Akt: Wie Valikhodjaev den menschlichen Körper durch Farbflächen, Konturen und kompositorische Ruhe gestaltet.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/de/12-the-reclining-figure.md",
       "labels": "Deutsch, Akt, Figurenmalerei, Ibragim Valikhodjaev",
-      "sha256": "6524d66c7932274b84e36527c47a24f4dba26e1ed363652ce6e5d2903db69f78",
-      "published_html_sha256": "15fbb7e035f2a0dedcf37822cebecbdfb5af24b52de81b02c237f3c51745eccd",
+      "sha256": "0430ee057b34f46cdacfb70a3b5d5d0793a2ce4d6b4d295aa61e909d8c8f0f63",
+      "published_html_sha256": "979f85db1a80305edb42b8cea25ff0ad1d1508e0afd63cf3037e346931c0a6a5",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "Höfe und gewundene Wege: die Farben usbekischer Dörfer",
@@ -5367,11 +5413,11 @@
       "theme": 21,
       "description": "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/de/21-learning-to-see.md",
       "labels": "Deutsch, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "5a383b994b2f826d75703dae8a3604827c3c79d259a78e084b72fe0dcbc2ee13",
-      "published_html_sha256": "7b45f902c96320833e89a22f162fde74cacc097517788bd8efe8ccf770a66852",
+      "sha256": "d969b0734824a56a1c521996569faf3085aa35837bd742b49276b738005c1deb",
+      "published_html_sha256": "4b7778f7b9b5e16bef039d7ab64b4144f9b74c2274115dc4d7c7d0d3bdb983dc",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -5407,9 +5453,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "איך מתבוננים בהפשטה? מסע בין ציוריו של וליכודג'ייב",
@@ -5631,17 +5679,19 @@
       "theme": 12,
       "description": "שלושה ציורי עירום: גוף, קווי מתאר, תנוחה ויחסי צבע ביצירתו של איברגים וליכודג'ייב.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_93.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/he/12-the-reclining-figure.md",
       "labels": "עברית, עירום, ציור דמות, Ibragim Valikhodjaev",
-      "sha256": "4271b8ed0a4d93c56065ef08e9b44e55eebe1ebe46ff0f4689074ef1a2d8d908",
-      "published_html_sha256": "aa5d40bb0252226a7fb994c4fe15596d453987e890d52caff617018ff0d77f1b",
+      "sha256": "a656008deea11ba2b5db5ba8e2ebc28833b247204b041da84df9f78083f097b2",
+      "published_html_sha256": "49d41bd07fe3e26c426f656015b97d3b2cedf48a0a53f558700a6b1d0f76ac2f",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "בתים ודרכים: החיים בכפר בציור",
@@ -5816,11 +5866,11 @@
       "theme": 21,
       "description": "דיוקן ביוגרפי על סמך שיחות ופרסומים: ללמוד לראות, לצייר, ללמד ולארגן מפגשי אמנות.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/he/21-learning-to-see.md",
       "labels": "עברית, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "4b7af233721fe27950b5eb5e5d4482d169206056952c46efd99e490e8e012a2c",
-      "published_html_sha256": "b21a5fe20a5b4c10b85f391bc51927160c30a4f609ca721f12b38d14c6d10db4",
+      "sha256": "f530dd12ff9d449f3432aaa1b73fe2829bc7457ffdb97a2440cfb9ae65257c65",
+      "published_html_sha256": "44a42cbabe4c4b30d2e51a0c9823b9a6f75f002cf96bf015c5175fb729e466e9",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -5856,9 +5906,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "抽象画をどう見るか――ヴァリホジャエフの絵画を手がかりに",
@@ -6080,17 +6132,19 @@
       "theme": 12,
       "description": "「至高の調和」「眠る女」「ヌード」。三つの作品から、身体、輪郭、姿勢、周囲の色面を考える。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_19.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ja/12-the-reclining-figure.md",
       "labels": "日本語, 裸婦画, 人体表現, Ibragim Valikhodjaev",
-      "sha256": "7a49835f0456647041d137a0898eac094a5edc3dfcbb4bb730d2e8dd0e29823c",
-      "published_html_sha256": "7aab730a4bbb25594136239302bb2040d7090a74126be76f9652bba1953f90fe",
+      "sha256": "f3ffd0312099e01a76bfe86fe3d15a8ef154afb6cea3ce15598f9c16e6e82d8f",
+      "published_html_sha256": "aa201f5a93396fcd969581124c8a82cfe999cfb7af2d71f346b4b8701f614360",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "家、庭、曲がり道――ウズベキスタンの村を描く",
@@ -6265,11 +6319,11 @@
       "theme": 21,
       "description": "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ja/21-learning-to-see.md",
       "labels": "日本語, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "282d09373089ee0eac754b57f1c27bc1e4756e2e4184b01d400bcadcb4ca68ec",
-      "published_html_sha256": "e855ab91059810cffae0d127dc5e4d86558ca6c3873868c85116ea439555bb7f",
+      "sha256": "083a22670309e84bbc511412b0f3b54cc1a5d9b2a59a1466fd4211bf84e6be4f",
+      "published_html_sha256": "02841006fee5ea4d42d2458a981ef206f8f9a1fca04745a4d5d13e9915840ac9",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -6305,9 +6359,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "추상화를 보는 법 — 발리호자예프의 그림에서 찾은 단서",
@@ -6529,17 +6585,19 @@
       "theme": 12,
       "description": "「지고의 조화」「잠자는 여인」「누드」. 세 작품에서 인체와 윤곽, 자세, 주변 색면의 관계를 비교한다.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/_09.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ko/12-the-reclining-figure.md",
       "labels": "한국어, 누드화, 인체 표현, Ibragim Valikhodjaev",
-      "sha256": "a188babd7711bdbf038755390f6910d1d7f22a54911a88bb40a1f2f601a680e9",
-      "published_html_sha256": "3c67ce4ef56c5f6f3990d7b9750cee8895ec905f4e710cd545dd4d255b8e2193",
+      "sha256": "34503e6103c68e9d615f6401a83db17b0846a62bc04f5e05a65f264085ba6080",
+      "published_html_sha256": "0754f0443d135da43589cfdcd2e2717e29be82744c77ed52b3f1b0051174ff68",
       "media_links": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiSRn2vMCh5pBUCteM4pEas2K-yCgEaCCRVgdeTTDHhXxCf6Xrp5sP52zR3TDIIBjlCDQn3HBC5-YJA9Lo7MzbvWWV_S5puM5jQGXtn334auwr_hJyO6DKY4YXFJA54Ke3DFiuKwQRMLyy8o0H7gr4BeLIpJ2ACsLfi6OrQ_ym2XcJSK0Oq6HVONTKYGy9j",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnCWUzm6hvaCRu-HYEC8RhqgK1PrL_Sh3ckOb3kpdu2P2INFX5y7ijDEhODCHk4PLC2zSOIACR33RlXFE4K7R1HHX2wXuD2S7PgCicexP5VpLwId4qpbGLetIsZpQRR6wqaj9faBG0Gmi95-eikabjQTLNLwlYGgr29kAhB8vQjYR4WGtlq9xciXcgbO9/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZh_6H-DnVetDz16mqUzEfLJT4ufRQKYAKxju1J9n1YgOJbIq8EMWN_nFdAcmGfkgT7Vn-uasB33yOunmeaA0LcUezCi4lb2rGI_wNJL8F6abwyZMbkbHIs_f-q2nyhzIFVN4t5bDOirjsgAkP3rX3dGydYyeWhnbOo3WQaVVHEWBJO1IamLFMhOmEgbCa/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png"
       ],
-      "paragraphs_checked": 34
+      "paragraphs_checked": 38
     },
     {
       "title": "집과 안뜰, 굽은 길 — 우즈베키스탄 마을을 그리다",
@@ -6714,11 +6772,11 @@
       "theme": 21,
       "description": "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "articles/ko/21-learning-to-see.md",
       "labels": "한국어, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "de3832360d7683116d0af496f7528813a783a7571ac96849d7d04a001a65c1b3",
-      "published_html_sha256": "1ac9e0e5a2ff389d2344937ff89236339730964f320772212c4fd83581133f38",
+      "sha256": "35be0a7b91d69db103a9bed00927a21945afd7577e223a18fdb5ac8a57c39e02",
+      "published_html_sha256": "a173aaf6c4d2dc856297beb2dfa2afa246ab01b451358f18c4b4eba1120a594e",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXVhyphenhyphenImCJ-csU6EuYEcEMAsiAyJpX9NLEZbJoQHPIrSehdijvmvIAw3Plfqn9e5vGc8z5P0xTcoU7Hk2D300VxjAGwl_9LzxxC7jnRSq0X7IBvDCdVdsmGMa_8fjV4LoDQs5ykx5Eypoea8wvq3L_IcEuLDK27_MfIw6PghSXXxBonuFcwrHvpGIFMrgOQ/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -6754,9 +6812,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 108
+      "paragraphs_checked": 113
     },
     {
       "title": "Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV",
@@ -6764,11 +6824,11 @@
       "theme": 0,
       "description": "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV.",
       "published_url": "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html",
-      "edition_date": "2026-10-10",
+      "edition_date": "2026-10-11",
       "file": "profile/biography.en.md",
       "labels": "",
-      "sha256": "683e305e0e707cee3522c464f45ee296ba35f0732d47bc498a93ab03b37b8de5",
-      "published_html_sha256": "be3edb81c1076480fd6f20801f9938987b73740de613d912effa5f4898bc9d91",
+      "sha256": "31e68db34d55df00f19766c9763579ec81540c715cd5cab27152992d5f27d59d",
+      "published_html_sha256": "914122b20b4f64872a700318a410e82747ec8d6dec8de81566a691939131f28a",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png",
@@ -6801,9 +6861,11 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
-        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png",
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png"
       ],
-      "paragraphs_checked": 88
+      "paragraphs_checked": 93
     }
   ],
   "languages": {

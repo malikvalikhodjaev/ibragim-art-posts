@@ -4,7 +4,7 @@ language: "fr"
 theme: 12
 description: "Harmonie supérieure, Dormeuse et Nu : trois études de la figure allongée, du contour et de l’espace pictural."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # La figure allongée : ligne et couleur dans les nus d’Ibragim Valikhodjaev
@@ -96,3 +96,15 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Archives de l'artiste · Biographie et CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## Le nu dans l’espace d’exposition
+
+Les photographies d’archives restituent aux peintures de figures leur échelle dans la salle d’exposition. La présence de l’artiste et des visiteurs permet de saisir la hauteur de la toile, l’étendue d’une plage rouge ou le déploiement d’une silhouette claire. Ces vues complètent les reproductions ci-dessus : elles montrent la manière dont le regardeur s’approche du tableau et dont la figure peinte occupe l’espace du mur.
+
+[Ibragim Valikhodjaev auprès d’un nu lors d’une exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibragim Valikhodjaev auprès d’un nu lors d’une exposition. Archives de l’artiste.
+
+[Des visiteurs devant les nus de Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Des visiteurs devant les nus de Valikhodjaev. Archives de l’artiste.

@@ -4,7 +4,7 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
@@ -299,3 +299,17 @@ Fotos von Auszeichnungen ergänzen die berufliche Chronik um erlebte Anerkennung
 [Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.
+
+## Mit Meister Rahim Ahmedov
+
+Der usbekische Maler und Lehrer Rahim Ahmedov war Volkskünstler und Mitglied der Akademie der Künste. Seine Porträts nehmen einen wichtigen Platz in der Entwicklung der modernen Malerei Usbekistans ein. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier. Die Archivfotografien geben dieser Verbindung ein menschliches Gesicht: Lehrer und junger Künstler sind unter Kollegen im gemeinsamen künstlerischen Umfeld zu sehen. Die folgenden Links führen zu Werken Ahmedovs in den Katalogen von Sotheby’s.
+
+[Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.
+
+[Meister Rahim Ahmedov im Kreis von Künstlerkollegen. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+Meister Rahim Ahmedov im Kreis von Künstlerkollegen. Persönliches Archiv des Künstlers.
+
+**Werke von Rahim Ahmedov in den Katalogen von Sotheby’s:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

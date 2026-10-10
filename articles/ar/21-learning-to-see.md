@@ -4,7 +4,7 @@ language: "ar"
 theme: 21
 description: "بورتريه سيري لإبراهيم فاليخودجاييف من مقابلات منشورة وأعمال أرشيفية: البازار وRED والتجريد والنحت والتدريس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # تعلّم الرؤية: إبراهيم فاليخودجاييف وحياة في الفن
@@ -301,6 +301,20 @@ edition_date: "2026-10-10"
 [فاليخوجاييف في حفل تكريم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 فاليخوجاييف في حفل تكريم. أرشيف الفنان.
+
+## مع الأستاذ رحيم أحمدوف
+
+رحيم أحمدوف رسام ومعلّم أوزبكي، حاز لقب فنان الشعب وكان عضواً في أكاديمية الفنون. تحتل لوحاته الشخصية مكانة مهمة في تطور الرسم الحديث في أوزبكستان. درس فاليخودجاييف في مرسمه بين عامي 1986 و1991. تضيف الصور الأرشيفية بعداً إنسانياً إلى هذه العلاقة: يظهر الأستاذ والفنان الشاب بين زملائهما، في بيئة فنية مشتركة. وتحيل الروابط أدناه إلى أعمال أحمدوف الموثّقة في كتالوجات سوذبيز.
+
+[الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+الأستاذ رحيم أحمدوف وإبراهيم فاليخودجاييف. من الأرشيف الشخصي للفنان.
+
+[الأستاذ رحيم أحمدوف بين زملائه الفنانين. من الأرشيف الشخصي للفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+الأستاذ رحيم أحمدوف بين زملائه الفنانين. من الأرشيف الشخصي للفنان.
+
+**لوحات رحيم أحمدوف في كتالوجات سوذبيز:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
 
 
 </div>

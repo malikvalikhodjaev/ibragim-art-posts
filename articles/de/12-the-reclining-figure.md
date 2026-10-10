@@ -4,7 +4,7 @@ language: "de"
 theme: 12
 description: "Höhere Harmonie, Schlafend und Akt: Wie Valikhodjaev den menschlichen Körper durch Farbflächen, Konturen und kompositorische Ruhe gestaltet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Die liegende Figur: Linie und Farbe in Ibragim Valikhodjaevs Aktbildern
@@ -96,3 +96,15 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Künstlerarchiv · Biografie und Lebenslauf](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## Aktmalerei im Ausstellungsraum
+
+Die Archivfotografien machen die Größe der Figurenbilder im Ausstellungsraum erfahrbar. Neben dem Künstler und den Besuchern lassen sich die Höhe der Leinwand, die Ausdehnung einer roten Farbfläche und die Länge einer hellen Silhouette ermessen. Diese Ansichten ergänzen die Reproduktionen oben. Sie zeigen, wie sich Betrachter einem Gemälde nähern und welchen Raum die gemalte Figur an der Galeriewand einnimmt.
+
+[Ibragim Valikhodjaev neben einem Aktgemälde in einer Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibragim Valikhodjaev neben einem Aktgemälde in einer Ausstellung. Archiv des Künstlers.
+
+[Besucher betrachten Valikhodjaevs Aktgemälde. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Besucher betrachten Valikhodjaevs Aktgemälde. Archiv des Künstlers.

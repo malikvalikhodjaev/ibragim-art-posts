@@ -4,7 +4,7 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
@@ -358,3 +358,17 @@ Presentation of a gold medal to Ibragim Valikhodjaev. Artist’s archive.
 [Ibragim Valikhodjaev at an award ceremony. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev at an award ceremony. Artist’s archive.
+
+## With Master Rahim Ahmedov
+
+Rahim Ahmedov was an Uzbek painter and teacher, a People’s Artist and Academician whose portraiture helped shape Uzbekistan’s modern painting tradition. Valikhodjaev studied in his studio in 1986–1991. These photographs bring that professional lineage into the personal archive: the teacher and the younger artist appear within the same artistic community. The works linked below are Ahmedov’s paintings, documented in Sotheby’s catalogues.
+
+[Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.
+
+[Master Rahim Ahmedov among fellow artists. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+Master Rahim Ahmedov among fellow artists. Artist’s personal archive.
+
+**Paintings by Rahim Ahmedov in Sotheby’s catalogues:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

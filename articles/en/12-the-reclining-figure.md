@@ -4,7 +4,7 @@ language: "en"
 theme: 12
 description: "Higher Harmony, Sleeping and Nude: three approaches to the reclining figure, contour, colour and pictorial space in Valikhodjaev’s work."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # The reclining figure: line and colour in Ibragim Valikhodjaev’s nudes
@@ -96,3 +96,15 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Artist Archives · Biography and CV](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## The figure painting in the exhibition room
+
+The archival photographs return the painted figure to the scale of an exhibition. Beside the artist and visitors, the canvases become physical objects: their height, the breadth of a red field and the curve of a pale silhouette can be measured against a person. These views complement the reproductions above, showing how a viewer approaches a painting and how the figure occupies space on the gallery wall.
+
+[Ibragim Valikhodjaev beside a figure painting at an exhibition. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+Ibragim Valikhodjaev beside a figure painting at an exhibition. Artist’s archive.
+
+[Visitors looking at Valikhodjaev’s figure paintings. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+Visitors looking at Valikhodjaev’s figure paintings. Artist’s archive.

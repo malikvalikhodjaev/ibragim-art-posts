@@ -4,7 +4,7 @@ language: "he"
 theme: 21
 description: "דיוקן ביוגרפי על סמך שיחות ופרסומים: ללמוד לראות, לצייר, ללמד ולארגן מפגשי אמנות."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # ללמוד לראות: איברגים וליכודג'ייב וחיים באמנות
@@ -301,6 +301,20 @@ edition_date: "2026-10-10"
 [וליחודז'אייב בטקס הוקרה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 וליחודז'אייב בטקס הוקרה. ארכיון האמן.
+
+## לצד המורה רחים אחמדוב
+
+רחים אחמדוב היה צייר ומורה אוזבקי, בעל התואר אמן העם וחבר האקדמיה לאמנויות. לדיוקנאותיו מקום חשוב בהתפתחות הציור המודרני באוזבקיסטן. וליחודג׳אייב למד בסטודיו שלו בשנים 1986–1991. תצלומי הארכיון מעניקים לקשר הזה ממד אנושי: המורה והאמן הצעיר נראים לצד עמיתיהם, כחלק מאותה סביבה אמנותית. הקישורים שלהלן מובילים ליצירות של אחמדוב המתועדות בקטלוגים של סותביס.
+
+[המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+המורה רחים אחמדוב ואיברגים וליחודג׳אייב. מהארכיון האישי של האמן.
+
+[המורה רחים אחמדוב בחברת אמנים. מהארכיון האישי של האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+המורה רחים אחמדוב בחברת אמנים. מהארכיון האישי של האמן.
+
+**יצירות של רחים אחמדוב בקטלוגים של סותביס:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).
 
 
 </div>

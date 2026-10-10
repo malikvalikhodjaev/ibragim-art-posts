@@ -4,7 +4,7 @@ language: "ko"
 theme: 12
 description: "「지고의 조화」「잠자는 여인」「누드」. 세 작품에서 인체와 윤곽, 자세, 주변 색면의 관계를 비교한다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_09.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 누워 있는 인체 — 발리호자예프의 누드화에 담긴 선과 색
@@ -96,3 +96,15 @@ Valikhodjaev Gallery House
 [작가 아카이브 · 약력 및 이력서](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## 전시 공간에서 보는 누드화
+
+기록 사진들은 인물화가 전시실에서 지니는 실제 크기를 보여줍니다. 화가와 관람객이 작품 곁에 서면 캔버스의 높이, 붉은 색면의 너비, 밝은 실루엣의 길이가 구체적으로 와닿습니다. 이 사진들은 위의 작품 이미지를 보완하며, 관람객이 그림에 다가가는 모습과 그려진 인체가 전시장 벽에서 차지하는 공간을 보여줍니다.
+
+[전시에서 누드화 곁에 선 이브라김 발리호자예프. 화가의 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+전시에서 누드화 곁에 선 이브라김 발리호자예프. 화가의 소장 자료.
+
+[발리호자예프의 누드화를 감상하는 관람객. 화가의 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+발리호자예프의 누드화를 감상하는 관람객. 화가의 소장 자료.

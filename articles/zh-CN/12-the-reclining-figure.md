@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 12
 description: "比较《至高和谐》《沉睡》与《人体》：轮廓、姿态、周围色域和不同尺幅。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_786.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 斜倚的人体：线条、姿态与色彩的三种关系
@@ -96,3 +96,15 @@ Valikhodjaev Gallery House
 [艺术家档案 · 传记和简历](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## 展厅中的人体绘画
+
+档案照片让我们重新感受到人体绘画在展厅中的实际尺度。画家和观众站在作品旁边，画布的高度、红色块面的宽度以及浅色轮廓的延展都变得具体可感。这些照片补充了上方的作品图像，呈现观众走近画作的情景，也让人看到画中人物如何占据展墙上的空间。
+
+[伊布拉吉姆·瓦利霍贾耶夫在展览中站于一幅人体画旁。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫在展览中站于一幅人体画旁。艺术家档案。
+
+[观众欣赏瓦利霍贾耶夫的人体绘画。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+观众欣赏瓦利霍贾耶夫的人体绘画。艺术家档案。

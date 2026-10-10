@@ -4,7 +4,7 @@ language: "tr"
 theme: 21
 description: "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı
@@ -299,3 +299,17 @@ Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.
 [Valikhodjaev bir ödül töreninde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Valikhodjaev bir ödül töreninde. Sanatçının arşivi.
+
+## Usta Rahim Ahmedov ile
+
+Özbek ressam ve eğitimci Rahim Ahmedov, Halk Sanatçısı ve akademisyen unvanlarıyla ülkesinin modern resim geleneğinde önemli bir yer edinmiştir. Özellikle portreleriyle tanınır. Valikhodjaev, 1986–1991 yıllarında onun atölyesinde eğitim aldı. Arşiv fotoğrafları bu ilişkinin insani yönünü gösterir: usta ve genç sanatçı, meslektaşlarıyla aynı sanat ortamında yer alır. Aşağıdaki bağlantılar Sotheby’s kataloglarında belgelenen Ahmedov tablolarına aittir.
+
+[Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
+
+Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
+
+[Usta Rahim Ahmedov, sanatçı arkadaşlarıyla. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
+
+Usta Rahim Ahmedov, sanatçı arkadaşlarıyla. Sanatçının kişisel arşivi.
+
+**Sotheby’s kataloglarında Rahim Ahmedov’un tabloları:** [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) · [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>).

@@ -4,7 +4,7 @@ language: "he"
 theme: 12
 description: "שלושה ציורי עירום: גוף, קווי מתאר, תנוחה ויחסי צבע ביצירתו של איברגים וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_93.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # הגוף כצורה: שלושה ציורי עירום של וליכודג'ייב
@@ -98,6 +98,18 @@ Valikhodjaev Gallery House
 [ארכיון אמן · ביוגרפיה וקורות חיים](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [בית הגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
+
+## ציור העירום בחלל התערוכה
+
+תצלומי הארכיון מחזירים לציורי הדמות את קנה המידה שלהם בחלל התערוכה. לצד האמן והמבקרים אפשר לחוש בגובה הבד, ברוחב משטח הצבע האדום ובאורך הצללית הבהירה. התצלומים משלימים את הרפרודוקציות שלמעלה ומראים כיצד הצופה ניגש לציור וכיצד הדמות המצוירת תופסת מקום על קיר הגלריה.
+
+[איברגים וליחודג׳אייב לצד ציור עירום בתערוכה. מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO5hpcwd_67qzRBA7Eb2BnOZSVVIIyO8fIGgbl4w_p5e1O7egcRvKIeuiRcOE7gfWdg-gkYmZHP7nnVzoOInfbtzZluHJbXQOrxaBIWAQSQGfv8SxmMxh9_zLMSP17AmRqbmVUOfu8nCTi05T3rLk9AMNohqlGIOCy2jGodUn6-Pope48WZqBahV9w3O8/s0/clipboard.png>)
+
+איברגים וליחודג׳אייב לצד ציור עירום בתערוכה. מארכיון האמן.
+
+[מבקרים מתבוננים בציורי העירום של וליחודג׳אייב. מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+
+מבקרים מתבוננים בציורי העירום של וליחודג׳אייב. מארכיון האמן.
 
 
 </div>
