@@ -107,15 +107,25 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 مطالب مربوط به سرمقاله از Valikhodjaev Gallery House. منابع تصاویر در توضیحات ذکر شده است.
 
+## بازگشت به رودخانه در زمستان
+
+این ویدیوهای زمستان ۲۰۲۶ هنرمند را در کنار رودخانه و مجسمه‌ها را میان یخ نشان می‌دهند. ترکیب پیکره‌های رنگی در پشت او در عکس، اثر خود اوست؛ مجسمه‌های دیگرِ ویدیو ساختهٔ هنرمندان مختلف‌اند. او در سال ۲۰۲۴ در پروژهٔ هولان شرکت کرد و این تصاویر دیداری دوباره از محیط رودخانه را ثبت می‌کنند.
+
+[ویدئو](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[هنرمند به سوی رودخانهٔ یخ‌زده می‌رود](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[قدم‌زدن روی یخ میان مجسمه‌های هنرمندان مختلف](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## از آرشیو پروژه مجسمه‌سازی در چین
 
 [مجسمه فلزی ابراهیم ولی‌خواجه‌اف در مرحله آماده‌سازی برای نصب روی آب. آرشیو هنرمند؛ تاریخ عکاسی تأیید نشده است.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 مجسمه فلزی ابراهیم ولی‌خواجه‌اف در مرحله آماده‌سازی برای نصب روی آب. آرشیو هنرمند؛ تاریخ عکاسی تأیید نشده است.
 
-[مجسمه شناور ابراهیم ولی‌خواجه‌اف در رودخانه‌ای یخ‌زده در چین. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[ابراهیم ولی‌خوجایف در برابر مجسمهٔ شناور خود بر رودخانهٔ یخ‌زده، چین، ۲۵ فوریهٔ ۲۰۲۶. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-مجسمه شناور ابراهیم ولی‌خواجه‌اف در رودخانه‌ای یخ‌زده در چین. آرشیو هنرمند؛ تاریخ عکس مشخص نیست.
+ابراهیم ولی‌خوجایف در برابر مجسمهٔ شناور خود بر رودخانهٔ یخ‌زده، چین، ۲۵ فوریهٔ ۲۰۲۶. آرشیو هنرمند.
 
 
 </div>

@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 博物館展覽
 
-[參觀者在哈爾濱禹舜美術館欣賞伊布拉吉姆·瓦利霍賈耶夫的大型幾何畫作。](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[易卜拉欣・瓦利霍賈耶夫站在自己的巨幅畫作前。「雪地之陽」個展，禹舜美術館，中國哈爾濱，2026年2月21日。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-哈爾濱禹舜美術館「雪地之陽」展覽上的幾何抽象畫作。圖片來自[中國新聞網站搜狐，](<https://www.sohu.com/a/990524748_121106822>) 2026年2月27日的報導。
+易卜拉欣・瓦利霍賈耶夫站在自己的巨幅畫作前。「雪地之陽」個展，禹舜美術館，中國哈爾濱，2026年2月21日。藝術家檔案。
 
 在哈爾濱舉辦的個展「雪地之陽」：一幅巨幅畫布、一個幾何構圖以及觀眾在博物館空間中的體驗。
 
@@ -37,11 +37,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [展覽開幕式完整錄影](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[在哈爾濱舉辦的伊布拉吉姆·瓦利霍賈耶夫畫展上，參觀者正在欣賞兩幅大型畫作。](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[「雪地之陽」展覽現場，禹舜美術館，中國哈爾濱，2026年2月21日。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-參觀者在哈爾濱禹舜美術館欣賞「雪地之陽」畫展上的畫作。圖片來自[中國新聞網站搜狐](<https://www.sohu.com/a/990524748_121106822>)，2026年2月27日。
+「雪地之陽」展覽現場，禹舜美術館，中國哈爾濱，2026年2月21日。藝術家檔案。
 
-在展廳照片中，兩位參觀者站在幾何圖案的畫布前，畫布的輪廓遠遠超出他們的身形。人的輪廓成為了這巨大畫面的尺度。紅色、黃色、白色和深色的形狀沿著牆壁展開；為了感知它們的整體聯繫和各個組成部分，觀者必須變換視角。
+文章首圖中，易卜拉欣・瓦利霍賈耶夫站在巨幅幾何繪畫前。他的身形讓畫面的尺度變得直觀。紅、黃、白及深色形狀沿牆展開；觀眾需要移動位置，才能體會它們的整體關係與局部變化。
 
 藝術家的中文姓名在當地報道中亦譯為「易卜拉欣·瓦利霍賈耶夫」。個展《雪地之陽》於2026年2月19日至3月19日在中國哈爾濱禹舜美術館舉行。中國[藝術報刊](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)報導了此次展覽展出的19幅大型畫作，其中核心作品為一幅22.24公尺×3公尺的巨幅畫布。本次展覽為觀者帶來了獨特的挑戰：觀者對畫作的感知與在展廳內的移動融為一體，而美術館的建築結構也為藝術體驗增添了色彩。
 
@@ -117,3 +117,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
 [烏茲別克國家通訊社— 烏茲別克藝術展，北京，2024年1月23日（烏茲別克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## 從另兩個角度看哈爾濱展覽
+
+[影片](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[2026年展覽開幕現場的全景影像](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[展覽現場播放的影片節目——50分鐘](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

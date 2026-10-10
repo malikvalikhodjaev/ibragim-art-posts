@@ -105,12 +105,22 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
+## Returning to the river in winter
+
+These winter recordings from 2026 show the artist by the waterfront and sculptures amid the ice. The coloured figurative composition behind him in the photograph is his own work; the other sculptures in the recording are by different artists. His participation in the Hulan project dates to 2024, while these materials document a later return to the river setting.
+
+[Video](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[The artist walking towards the frozen river](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[A walk on the ice among sculptures by different artists](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## From the archive of a sculpture project in China
 
 [Ibragim Valikhodjaev’s metal sculpture being prepared for installation on water. Artist’s archive; the filming date has not been confirmed.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev’s metal sculpture being prepared for installation on water. Artist’s archive; the filming date has not been confirmed.
 
-[Ibragim Valikhodjaev’s floating sculpture in a frozen river in China. Artist’s archive; photograph undated.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ibragim Valikhodjaev with his own floating sculpture on the frozen river, China, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev’s floating sculpture in a frozen river in China. Artist’s archive; photograph undated.
+Ibragim Valikhodjaev with his own floating sculpture on the frozen river, China, 25 February 2026. Artist’s archive.

@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Exposition au musée
 
-[Visiteurs devant de grandes peintures géométriques d'Ibragim Valikhodjaev au musée Yu Shun de Harbin.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibragim Valikhodjaev devant sa peinture monumentale. « Soleil sur la neige », musée d’art Yu Shun, Chine, Harbin, 21 février 2026. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Toiles géométriques de l'exposition « Soleil sur neige » au musée Yu Shun de Harbin. Photo tirée de [Sohu, un média chinois](<https://www.sohu.com/a/990524748_121106822>) , 27 février 2026.
+Ibragim Valikhodjaev devant sa peinture monumentale. « Soleil sur la neige », musée d’art Yu Shun, Chine, Harbin, 21 février 2026. Archives de l’artiste.
 
 Exposition personnelle « Soleil sur neige » à Harbin : une toile monumentale, une composition géométrique et une expérience immersive pour le spectateur dans un espace muséal.
 
@@ -37,11 +37,11 @@ Dans cet article
 
 [Enregistrement intégral du vernissage de l'exposition](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Des visiteurs contemplent deux grandes toiles de l'exposition Ibragim Valikhodjaev à Harbin.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[Vue de l’exposition « Soleil sur la neige », musée d’art Yu Shun, Chine, Harbin, 21 février 2026. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Des visiteurs admirent les peintures de l'exposition « Soleil sur neige » au musée Yu Shun de Harbin. Photo : [Sohu, média chinois](<https://www.sohu.com/a/990524748_121106822>) , 27 février 2026.
+Vue de l’exposition « Soleil sur la neige », musée d’art Yu Shun, Chine, Harbin, 21 février 2026. Archives de l’artiste.
 
-Sur la photographie principale de la salle, deux visiteurs se tiennent devant des toiles géométriques qui s'étendent bien au-delà de leurs silhouettes. Celles-ci deviennent l'unité de mesure de l'immense surface picturale. Des formes rouges, jaunes, blanches et sombres se déploient le long des murs ; pour percevoir leur cohérence d'ensemble et leurs fragments individuels, le spectateur doit changer de point de vue.
+Sur la photographie d’ouverture, Ibragim Valikhodjaev se tient devant une peinture géométrique monumentale. Sa silhouette permet de saisir l’échelle de la surface peinte. Les formes rouges, jaunes, blanches et sombres se déploient le long du mur ; pour en découvrir les rapports et les différents passages, le spectateur doit changer de point de vue.
 
 L'exposition personnelle « Soleil sur neige » s'est tenue à Harbin, en Chine, au musée Yu Shun, du 19 février au 19 mars 2026. Un [journal d'art](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) chinois a consacré un article à 19 grandes toiles et à une toile de 22,24 mètres sur 3. Cette exposition propose un défi particulier au visiteur : la perception de la peinture s'intègre à son parcours dans la salle, et l'architecture du musée contribue à l'expérience artistique.
 
@@ -117,3 +117,11 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
 
 [OuzA — Exposition d'art d'Ouzbékistan à Pékin, 23 janvier 2024 (texte ouzbek)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Deux autres regards sur l’exposition de Harbin
+
+[Vidéo](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Vue panoramique de l’inauguration, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Le programme vidéo projeté dans l’exposition — 50 minutes](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

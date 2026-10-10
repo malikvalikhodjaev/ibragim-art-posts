@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Muzey ko‘rgazmasi
 
-[Xarbindagi Yu Shun muzeyida Ibrohim Valixo‘jayevning yirik geometrik rasmlari oldida mehmonlar.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibrohim Valixodjayev monumental asari oldida. «Qor ustidagi quyosh» ko‘rgazmasi, Yu Shun san’at muzeyi, Xitoy, Harbin, 2026-yil 21-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Xarbindagi Yu Shun muzeyidagi "Qor ustidagi quyosh" ko‘rgazmasidagi geometrik rasmlar. Surat [Xitoyning Sohu axborot agentligidan](<https://www.sohu.com/a/990524748_121106822>) olingan , 2026-yil 27-fevral.
+Ibrohim Valixodjayev monumental asari oldida. «Qor ustidagi quyosh» ko‘rgazmasi, Yu Shun san’at muzeyi, Xitoy, Harbin, 2026-yil 21-fevral. Rassom arxivi.
 
 Xarbindagi "Qor ustidagi quyosh" shaxsiy ko‘rgazmasi: monumental polotno, geometrik kompozitsiya va tomoshabinning muzey makonidagi tajribasi.
 
@@ -37,11 +37,11 @@ Ushbu maqolada
 
 [Ko‘rgazma ochilishining to‘liq videoyozuvi](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Mehmonlar Xarbindagi Ibrohim Valixo‘jayev ko‘rgazmasida ikkita katta rasmni tomosha qilmoqdalar.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[«Qor ustidagi quyosh» ko‘rgazmasining umumiy ko‘rinishi, Yu Shun san’at muzeyi, Xitoy, Harbin, 2026-yil 21-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Tashrif buyuruvchilar Xarbindagi Yu Shun muzeyida bo‘lib o‘tgan "Qor ustidagi quyosh" ko‘rgazmasidagi rasmlarni tomosha qilmoqda. Surat [Xitoyning Sohu axborot agentligidan](<https://www.sohu.com/a/990524748_121106822>) olingan , 2026-yil 27-fevral.
+«Qor ustidagi quyosh» ko‘rgazmasining umumiy ko‘rinishi, Yu Shun san’at muzeyi, Xitoy, Harbin, 2026-yil 21-fevral. Rassom arxivi.
 
-Zalning asosiy fotosuratida ikkita mehmon o‘z qomatlaridan ancha keng geometrik sirtga ega bo‘lgan geometrik polotnolar oldida turishadi. Inson silueti ulkan tasviriy sirtning o‘lchoviga aylanadi. Qizil, sariq, oq va to‘q rangli shakllar devorlar bo‘ylab yoyilgan; ularning umumiy bog‘liqligini va alohida parchalarini ko‘rish uchun tomoshabin o‘z nuqtai nazarini o‘zgartirishi kerak.
+Asosiy suratda Ibrohim Valixodjayev monumental geometrik asari oldida turibdi. Rassomning gavdasi rangtasvir yuzasining ko‘lamini his qilishga yordam beradi. Qizil, sariq, oq va to‘q shakllar devor bo‘ylab yoyilgan; ularning o‘zaro bog‘lanishi va ayrim qismlarini ko‘rish uchun tomoshabin o‘z joyini o‘zgartirishi kerak.
 
 "Qor ustidagi quyosh" shaxsiy ko‘rgazmasi 2026-yil 19-fevraldan 19-martgacha Xitoyning Xarbin shahridagi Yu Shun muzeyida bo‘lib o‘tdi. Xitoy [san'at gazetasida](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) 19 ta katta rasm va 22,24 x 3 metrli polotno haqida xabar berilgan edi. Ushbu ko‘rgazma tomoshabin uchun alohida qiyinchilik tug‘diradi: rasmni idrok etish xonadagi harakatning bir qismiga aylanadi va muzey arxitekturasi badiiy tajribaga hissa qo‘shadi.
 
@@ -117,3 +117,11 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [O‘zA — Pekinda O‘zbekiston san’ati ko‘rgazmasi, 2024-yil 23-yanvar (o‘zbekcha matn)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Harbindagi ko‘rgazmadan yana ikki lavha
+
+[Videoyozuv](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Ko‘rgazma ochilishining panoramali tasviri, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Ko‘rgazmada namoyish etilgan videodastur — 50 daqiqa](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

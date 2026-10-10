@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Museumsausstellung
 
-[Besucher vor großformatigen geometrischen Gemälden von Ibragim Valikhodjaev im Yu Shun Art Museum in Harbin.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibragim Valikhodjaev vor seinem monumentalen Gemälde. „Sonne auf Schnee“, Yu Shun Art Museum, China, Harbin, 21. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Geometrische Leinwände in der Ausstellung „Sonne auf Schnee“ im Yu Shun Art Museum in Harbin. Foto aus [Sohu, einem chinesischen Nachrichtenportal](<https://www.sohu.com/a/990524748_121106822>) , 27. Februar 2026.
+Ibragim Valikhodjaev vor seinem monumentalen Gemälde. „Sonne auf Schnee“, Yu Shun Art Museum, China, Harbin, 21. Februar 2026. Archiv des Künstlers.
 
 Einzelausstellung „Sonne auf Schnee“ in Harbin: ein monumentales Gemälde, eine geometrische Komposition und die Erfahrung des Betrachters im Museumsraum.
 
@@ -37,11 +37,11 @@ In diesem Artikel
 
 [Vollständige Aufzeichnung der Ausstellungseröffnung](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Besucher betrachten zwei große Gemälde in der Ibragim-Valikhodjaev-Ausstellung in Harbin.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[Blick in die Ausstellung „Sonne auf Schnee“, Yu Shun Art Museum, China, Harbin, 21. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Besucher bewundern Gemälde in der Ausstellung „Sonne auf Schnee“ im Yu Shun Art Museum in Harbin. Foto von [Sohu, einem chinesischen Nachrichtenportal](<https://www.sohu.com/a/990524748_121106822>) , 27. Februar 2026.
+Blick in die Ausstellung „Sonne auf Schnee“, Yu Shun Art Museum, China, Harbin, 21. Februar 2026. Archiv des Künstlers.
 
-Auf dem Hauptfoto des Raumes stehen zwei Besucher vor geometrischen Leinwänden, die weit über ihre Gestalten hinausragen. Die menschliche Silhouette wird zum Maßstab der riesigen Bildfläche. Rote, gelbe, weiße und dunkle Formen entfalten sich an den Wänden; um ihren Zusammenhang und ihre einzelnen Fragmente zu erfassen, muss der Betrachter seinen Blickwinkel verändern.
+Auf dem Eingangsbild steht Ibragim Valikhodjaev vor einem monumentalen geometrischen Gemälde. Seine Gestalt macht die Größe der bemalten Fläche anschaulich. Rote, gelbe, weiße und dunkle Formen erstrecken sich entlang der Wand; um ihre Beziehungen und einzelne Partien zu erfassen, muss der Betrachter seinen Standpunkt verändern.
 
 Die Einzelausstellung „Sonne auf Schnee“ fand vom 19. Februar bis 19. März 2026 im Yu Shun Art Museum in Harbin, China, statt. Eine chinesische [Kunstzeitung](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) berichtete über 19 großformatige Gemälde und eine 22,24 x 3 Meter große Leinwand. Die Ausstellung stellt den Betrachter vor eine besondere Herausforderung: Die Wahrnehmung des Gemäldes wird Teil der Bewegung durch den Raum, und die Architektur des Museums trägt zum Kunsterlebnis bei.
 
@@ -117,3 +117,11 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in den Bildunterschriften angegeben.
 
 [UzA – Usbekische Kunstausstellung in Peking, 23. Januar 2024 (usbekischer Text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Zwei weitere Einblicke in die Ausstellung in Harbin
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Panorama der Ausstellungseröffnung, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Das in der Ausstellung gezeigte Videoprogramm — 50 Minuten](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

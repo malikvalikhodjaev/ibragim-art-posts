@@ -105,12 +105,22 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
+## 冬日重訪河畔
+
+這兩段攝於2026年冬季的影片呈現了藝術家在河畔的身影，以及冰面中的雕塑。照片中他身後的彩色人物組合是其本人作品；影片中的其他雕塑由不同藝術家創作。他於2024年參與呼蘭計畫，而這些影像記錄的是此後重訪河畔的情景。
+
+[影片](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[藝術家走向冰封的河面](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[行走在冰面上，觀看不同藝術家的雕塑](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## 中國雕塑計畫檔案
 
 [伊布拉吉姆·瓦利霍賈耶夫的金屬雕塑，正在為水上安裝做準備。藝術家檔案；拍攝日期尚未確認。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫的金屬雕塑，正在為水上安裝做準備。藝術家檔案；拍攝日期尚未確認。
 
-[伊布拉吉姆·瓦利霍賈耶夫的漂浮雕塑，位於中國一條結冰的河流中。藝術家檔案；拍攝日期不詳。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[易卜拉欣・瓦利霍賈耶夫與自己創作的漂浮雕塑，冰封的河面，中國，2026年2月25日。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-伊布拉吉姆·瓦利霍賈耶夫的漂浮雕塑，位於中國一條結冰的河流中。藝術家檔案；拍攝日期不詳。
+易卜拉欣・瓦利霍賈耶夫與自己創作的漂浮雕塑，冰封的河面，中國，2026年2月25日。藝術家檔案。

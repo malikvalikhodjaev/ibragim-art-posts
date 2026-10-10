@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Exposición en un museo
 
-[Visitantes frente a grandes pinturas geométricas de Ibragim Valikhodjaev en el Museo Yu Shun de Harbin.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibragim Valikhodjaev ante su pintura monumental. «Sol sobre la nieve», Yu Shun Art Museum, China, Harbin, 21 de febrero de 2026. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Lienzos geométricos en la exposición "Sol sobre la nieve" en el Museo Yu Shun de Harbin. Fotografía de [Sohu, un medio de comunicación chino](<https://www.sohu.com/a/990524748_121106822>) , 27 de febrero de 2026.
+Ibragim Valikhodjaev ante su pintura monumental. «Sol sobre la nieve», Yu Shun Art Museum, China, Harbin, 21 de febrero de 2026. Archivo del artista.
 
 Exposición individual "Sol sobre la nieve" en Harbin: un lienzo monumental, una composición geométrica y la experiencia del espectador en un espacio museístico.
 
@@ -37,11 +37,11 @@ En este artículo
 
 [Grabación completa de la inauguración de la exposición.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Los visitantes observan dos grandes pinturas en la exposición de Ibragim Valikhodjaev en Harbin.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[Vista de la exposición «Sol sobre la nieve», Yu Shun Art Museum, China, Harbin, 21 de febrero de 2026. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Los visitantes admiran las pinturas en la exposición "Sol sobre la nieve" en el Museo Yu Shun de Harbin. Foto de [Sohu, un medio de comunicación chino](<https://www.sohu.com/a/990524748_121106822>) , 27 de febrero de 2026.
+Vista de la exposición «Sol sobre la nieve», Yu Shun Art Museum, China, Harbin, 21 de febrero de 2026. Archivo del artista.
 
-En la fotografía principal de la sala, dos visitantes se encuentran frente a lienzos geométricos que se extienden mucho más allá de sus figuras. La silueta humana se convierte en la medida de la vasta superficie pictórica. Formas rojas, amarillas, blancas y oscuras se despliegan a lo largo de las paredes; para percibir su conexión general y sus fragmentos individuales, el espectador debe cambiar su perspectiva.
+En la fotografía de apertura, Ibragim Valikhodjaev posa ante una pintura geométrica monumental. Su figura permite apreciar la escala de la superficie pintada. Las formas rojas, amarillas, blancas y oscuras se extienden a lo largo del muro; para ver sus relaciones y sus distintos pasajes, el espectador debe cambiar de posición.
 
 La exposición individual «Sol sobre la nieve» tuvo lugar en Harbin, China, en el Museo Yu Shun, del 19 de febrero al 19 de marzo de 2026. Un [periódico de arte](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) chino informó sobre 19 pinturas de gran formato y un lienzo de 22,24 x 3 metros. Esta exposición plantea un reto particular para el espectador: la percepción de la pintura se integra al recorrido por la sala, y la arquitectura del museo contribuye a la experiencia artística.
 
@@ -117,3 +117,11 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las imágenes se indican en los pies de foto.
 
 [UzA — Exposición de arte de Uzbekistán en Beijing, 23 de enero de 2024 (texto en uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Otras dos perspectivas de la exposición de Harbin
+
+[Vídeo](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Vista panorámica de la inauguración, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[El programa de vídeo proyectado en la exposición — 50 minutos](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

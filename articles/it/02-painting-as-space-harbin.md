@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Mostra museale
 
-[Visitatori davanti ai grandi dipinti geometrici di Ibragim Valikhodjaev al Museo Yu Shun di Harbin.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibragim Valikhodjaev davanti al suo dipinto monumentale. «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Tele geometriche alla mostra "Sole sulla neve" presso il Museo Yu Shun di Harbin. Foto tratta da [un reportage pubblicato sul portale cinese Sohu](<https://www.sohu.com/a/990524748_121106822>) , del 27 febbraio 2026.
+Ibragim Valikhodjaev davanti al suo dipinto monumentale. «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 febbraio 2026. Archivio dell’artista.
 
 Mostra personale "Sole sulla neve" a Harbin: una tela monumentale, una composizione geometrica e l'esperienza dello spettatore in uno spazio museale.
 
@@ -37,11 +37,11 @@ In questo articolo
 
 [Registrazione integrale dell'inaugurazione della mostra.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[I visitatori osservano due grandi dipinti alla mostra di Ibragim Valikhodjaev ad Harbin.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[Veduta della mostra «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-I visitatori ammirano i dipinti alla mostra "Sole sulla neve" presso il Museo Yu Shun di Harbin. Foto tratta da [un reportage pubblicato sul portale cinese Sohu](<https://www.sohu.com/a/990524748_121106822>) , 27 febbraio 2026.
+Veduta della mostra «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 febbraio 2026. Archivio dell’artista.
 
-Nella fotografia principale della sala, due visitatori sono in piedi davanti a tele geometriche che si estendono ben oltre le loro figure. La silhouette umana diventa la misura della vasta superficie pittorica. Forme rosse, gialle, bianche e scure si dispiegano lungo le pareti; per percepirne la connessione complessiva e i singoli frammenti, lo spettatore deve cambiare punto di vista.
+Nella fotografia di apertura, Ibragim Valikhodjaev è davanti a un dipinto geometrico monumentale. La sua figura permette di cogliere le dimensioni della superficie dipinta. Forme rosse, gialle, bianche e scure si dispiegano lungo la parete; per osservarne i rapporti e i singoli passaggi, lo spettatore deve cambiare punto di vista.
 
 La mostra personale "Sole sulla neve" si è tenuta a Harbin, in Cina, presso il Museo Yu Shun dal 19 febbraio al 19 marzo 2026. Un [giornale d'arte](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) cinese ha parlato di 19 dipinti di grandi dimensioni e di una tela di 22,24 x 3 metri. Questa mostra pone una sfida particolare allo spettatore: la percezione del dipinto diventa parte del percorso all'interno della sala, e l'architettura del museo contribuisce all'esperienza artistica.
 
@@ -117,3 +117,11 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini sono indicate nelle didascalie.
 
 [UzA — Mostra d'arte dell'Uzbekistan a Pechino, 23 gennaio 2024 (testo uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Altre due prospettive sulla mostra di Harbin
+
+[Video](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Veduta panoramica dell’inaugurazione, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Il programma video proiettato durante la mostra — 50 minuti](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

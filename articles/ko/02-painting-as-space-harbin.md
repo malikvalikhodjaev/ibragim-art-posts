@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 미술관 전시
 
-[하얼빈의 위순(禹舜) 미술관에서 이브라김 발리호자예프의 대형 기하학적 그림 앞에 서 있는 관람객들.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[자신의 대형 회화 앞에 선 이브라김 발리호자예프. 개인전 《눈 위의 태양》, 위순미술관, 중국 하얼빈, 2026년 2월 21일. 작가 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-하얼빈 위순(禹舜) 미술관에서 열린 "눈 위의 태양" 전시회에 전시된 기하학적 캔버스 작품들. 사진은 [Sohu: 하얼빈 개인전 개막 보도, 2026년 2월 27일](<https://www.sohu.com/a/990524748_121106822>) (2026년 2월 27일)에서 발췌.
+자신의 대형 회화 앞에 선 이브라김 발리호자예프. 개인전 《눈 위의 태양》, 위순미술관, 중국 하얼빈, 2026년 2월 21일. 작가 아카이브.
 
 하얼빈 개인전 "눈 위의 태양": 거대한 캔버스, 기하학적 구성, 그리고 미술관 공간에서 관람객이 경험하는 것들.
 
@@ -37,11 +37,11 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 [전시회 개막식 전체 녹화 영상](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[하얼빈에서 열린 이브라김 발리호자예프 전시회에서 관람객들이 두 점의 대형 그림을 감상하고 있다.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[《눈 위의 태양》 전시 전경, 위순미술관, 중국 하얼빈, 2026년 2월 21일. 작가 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-하얼빈 위순(禹舜) 미술관에서 열린 '눈 위의 태양' 전시회를 관람하는 방문객들이 그림들을 감상하고 있다. 사진은 [Sohu: 하얼빈 개인전 개막 보도, 2026년 2월 27일](<https://www.sohu.com/a/990524748_121106822>) 2026년 2월 27일에 보도되었다.
+《눈 위의 태양》 전시 전경, 위순미술관, 중국 하얼빈, 2026년 2월 21일. 작가 아카이브.
 
-전시실의 대표 사진에서 두 관람객은 자신들의 모습을 훨씬 뛰어넘는 기하학적 캔버스 앞에 서 있다. 사람의 실루엣은 광활한 회화적 표면의 크기를 가늠하는 척도가 된다. 붉은색, 노란색, 흰색, 그리고 검은색의 형태들이 벽면을 따라 펼쳐져 있으며, 그 전체적인 연결과 개별적인 조각들을 인식하려면 관람객은 시점을 바꿔야 한다.
+첫 사진에서 이브라김 발리호자예프는 기념비적 규모의 기하학적 회화 앞에 서 있다. 작가의 모습과 비교하면 화면의 크기를 실감할 수 있다. 빨강, 노랑, 흰색과 어두운 형태들이 벽을 따라 펼쳐진다. 형태들의 전체적인 관계와 세부를 살펴보려면 관람자도 위치를 바꿔야 한다.
 
 개인전 "눈 위의 태양"은 2026년 2월 19일부터 3월 19일까지 중국 하얼빈의 위순(禹舜) 미술관에서 열렸다. 중국의 한 [미술 신문은](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) 이 전시에 포함된 19점의 대형 회화 작품과 22.24 x 3미터 크기의 캔버스 작품에 대해 보도했다. 이 전시는 관람객에게 특별한 경험을 선사한다. 그림을 감상하는 행위 자체가 전시장 안을 이동하는 과정의 일부가 되며, 미술관의 건축적 요소 또한 예술적 경험에 기여한다.
 
@@ -117,3 +117,11 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
 [UzA — 2024년 1월 23일 베이징에서 열린 우즈베키스탄 미술 전시회(우즈베크어 원문)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## 하얼빈 전시를 다른 각도에서 보는 두 영상
+
+[영상](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[전시 개막 현장의 파노라마 영상, 2026년](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[전시장에서 상영된 영상 프로그램 — 50분](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

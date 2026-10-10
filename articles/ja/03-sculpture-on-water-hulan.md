@@ -105,12 +105,22 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
+## 冬の川を再訪する
+
+2026年冬の映像には、川岸に立つ作家と氷の中の彫刻が映っている。写真で作家の背後に見える色鮮やかな人物群の作品は、彼自身が制作したものだ。映像に登場するほかの彫刻は、それぞれ別の作家による。呼蘭のプロジェクトへの参加は2024年で、今回の映像はその後の再訪を記録している。
+
+[映像](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[凍結した川へ向かう作家](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[氷上を歩き、さまざまな作家の彫刻を見る](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## 中国での彫刻プロジェクトの記録
 
 [水上への設置に向けて準備されるイブラギム・ヴァリホジャエフの金属彫刻。画家のアーカイブより。撮影日は未確認。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 水上への設置に向けて準備されるイブラギム・ヴァリホジャエフの金属彫刻。画家のアーカイブより。撮影日は未確認。
 
-[中国の凍った川に設置されたイブラギム・ヴァリホジャエフの浮体彫刻。画家のアーカイブより。撮影年不明。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[自身の浮遊彫刻を背景にしたイブラギム・ヴァリホジャエフ。凍結した川、中国、2026年2月25日。作家アーカイブ。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-中国の凍った川に設置されたイブラギム・ヴァリホジャエフの浮体彫刻。画家のアーカイブより。撮影年不明。
+自身の浮遊彫刻を背景にしたイブラギム・ヴァリホジャエフ。凍結した川、中国、2026年2月25日。作家アーカイブ。

@@ -105,12 +105,22 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
+## Qishda daryoga qaytish
+
+2026-yil qishida olingan videolarda rassom qirg‘oq bo‘yida va muz orasidagi haykallar aks etgan. Suratdagi uning ortida ko‘rinayotgan rangli figuralardan tuzilgan kompozitsiya — o‘z asari; videodagi boshqa haykallar turli mualliflarga tegishli. U Xulan loyihasida 2024-yilda qatnashgan, bu materiallar esa keyingi tashrifni ko‘rsatadi.
+
+[Videoyozuv](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Rassom muzlagan daryo tomon yo‘l olmoqda](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Muz ustidagi sayr va turli mualliflarning haykallari](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## Xitoydagi haykaltaroshlik loyihasi arxividan
 
 [Ibrohim Valixodjayevning suvga o‘rnatishga tayyorlanayotgan metall haykali. Rassom arxivi; suratning aniq sanasi tasdiqlanmagan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 Ibrohim Valixodjayevning suvga o‘rnatishga tayyorlanayotgan metall haykali. Rassom arxivi; suratning aniq sanasi tasdiqlanmagan.
 
-[Ibrohim Valixodjayevning Xitoydagi muzlagan daryoda turgan suzuvchi haykali. Rassom arxivi; surat sanasi aniqlanmagan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ibrohim Valixodjayev muzlagan daryodagi o‘z suzuvchi haykali fonida, Xitoy, 2026-yil 25-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-Ibrohim Valixodjayevning Xitoydagi muzlagan daryoda turgan suzuvchi haykali. Rassom arxivi; surat sanasi aniqlanmagan.
+Ibrohim Valixodjayev muzlagan daryodagi o‘z suzuvchi haykali fonida, Xitoy, 2026-yil 25-fevral. Rassom arxivi.

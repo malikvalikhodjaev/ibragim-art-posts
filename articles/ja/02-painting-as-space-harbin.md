@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 美術館の展覧会
 
-[ハルビンの禹舜美術館で、イブラギム・ヴァリホジャエフによる巨大な幾何学模様の絵画の前で作品を鑑賞する来館者たち。](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[自身の大作の前に立つイブラギム・ヴァリホジャエフ。個展「雪上の太陽」、禹舜美術館、中国・ハルビン、2026年2月21日。作家アーカイブ。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-ハルビン市の禹舜美術館で開催された「雪上の太陽」展に展示された幾何学模様のキャンバス。写真は[Sohu：ハルビンの個展開幕を伝える写真記事、2026年2月27日](<https://www.sohu.com/a/990524748_121106822>)2026年2月27日に報じたもの。
+自身の大作の前に立つイブラギム・ヴァリホジャエフ。個展「雪上の太陽」、禹舜美術館、中国・ハルビン、2026年2月21日。作家アーカイブ。
 
 ハルビンでの個展「雪上の太陽」：巨大なキャンバス、幾何学的な構成、そして美術館空間における鑑賞者の体験。
 
@@ -37,11 +37,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [展覧会オープニングの完全録画](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[ハルビンで開催されたイブラギム・ヴァリホジャエフ展で、来場者が2点の大型絵画を鑑賞している。](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[「雪上の太陽」の展示風景。禹舜美術館、中国・ハルビン、2026年2月21日。作家アーカイブ。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-ハルビン市の禹舜美術館で開催中の「雪上の太陽」展で、来場者が絵画を鑑賞している。写真は[Sohu：ハルビンの個展開幕を伝える写真記事、2026年2月27日](<https://www.sohu.com/a/990524748_121106822>)より、2026年2月27日公開の記事より。
+「雪上の太陽」の展示風景。禹舜美術館、中国・ハルビン、2026年2月21日。作家アーカイブ。
 
-部屋のメイン写真では、2人の来場者が、自分たちの姿をはるかに超えて広がる幾何学的なキャンバスの前に立っている。人間のシルエットが、広大な絵画表面の大きさを測る尺度となっている。赤、黄、白、そして暗い色の形が壁に沿って展開し、それらの全体的なつながりや個々の断片を認識するには、鑑賞者は視点を変えなければならない。
+冒頭の写真では、イブラギム・ヴァリホジャエフが巨大な幾何学的絵画の前に立っている。作家の姿と比べることで、画面の大きさが実感できる。赤、黄、白、暗色の形が壁に沿って広がり、その全体的な関係と細部を見るには、鑑賞者も立ち位置を変える必要がある。
 
 個展「雪上の太陽」は、2026年2月19日から3月19日まで、中国ハルビンの禹舜美術館で開催された。中国の[美術新聞](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)は、19点の大型絵画と22.24×3メートルのキャンバスについて報じた。この展覧会は鑑賞者に特別な挑戦を突きつける。絵画の知覚は、室内を移動する過程の一部となり、美術館の建築も芸術体験に貢献する。
 
@@ -117,3 +117,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## ハルビン展を別の角度から見る二つの映像
+
+[映像](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[展覧会開幕のパノラマ映像、2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[展覧会場で上映された映像プログラム — 50分](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

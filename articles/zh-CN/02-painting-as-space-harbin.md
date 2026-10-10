@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 博物馆展览
 
-[参观者在哈尔滨禹舜美术馆欣赏伊布拉吉姆·瓦利霍贾耶夫的大型几何画作。](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[易卜拉欣·瓦利霍贾耶夫站在自己的巨幅画作前。“雪地之阳”个展，禹舜美术馆，中国哈尔滨，2026年2月21日。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-哈尔滨禹舜美术馆“雪地之阳”展览上的几何抽象画作。图片来自[中国新闻网站搜狐，](<https://www.sohu.com/a/990524748_121106822>) 2026年2月27日报道。
+易卜拉欣·瓦利霍贾耶夫站在自己的巨幅画作前。“雪地之阳”个展，禹舜美术馆，中国哈尔滨，2026年2月21日。艺术家档案。
 
 在哈尔滨举办的个展“雪地之阳”：一幅巨幅画布、一个几何构图以及观众在博物馆空间中的体验。
 
@@ -37,11 +37,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [展览开幕式完整录像](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[在哈尔滨举办的伊布拉吉姆·瓦利霍贾耶夫画展上，参观者正在欣赏两幅大型画作。](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[“雪地之阳”展览现场，禹舜美术馆，中国哈尔滨，2026年2月21日。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-参观者在哈尔滨禹舜美术馆欣赏“雪地之阳”画展上的画作。图片来自[中国新闻网站搜狐](<https://www.sohu.com/a/990524748_121106822>)，2026年2月27日。
+“雪地之阳”展览现场，禹舜美术馆，中国哈尔滨，2026年2月21日。艺术家档案。
 
-在展厅照片中，两位参观者站在几何图案的画布前，画布的轮廓远远超出他们的身形。人的轮廓成为了这巨大画面的尺度。红色、黄色、白色和深色的形状沿着墙壁展开；为了感知它们的整体联系和各个组成部分，观者必须变换视角。
+文章首图中，易卜拉欣·瓦利霍贾耶夫站在巨幅几何绘画前。他的身形让画面的尺度变得直观。红、黄、白及深色形状沿墙展开；观众需要移动位置，才能体会它们的整体关系与局部变化。
 
 艺术家的中文姓名在当地报道中亦译为“易卜拉欣·瓦利霍贾耶夫”。个展《雪地之阳》于2026年2月19日至3月19日在中国哈尔滨禹舜美术馆举行。一家中国[艺术报刊](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)报道了此次展览展出的19幅大型画作，其中核心作品为一幅22.24米×3米的巨幅画布。本次展览为观者带来了一种独特的挑战：观者对画作的感知与在展厅内的移动融为一体，而美术馆的建筑结构也为艺术体验增添了色彩。
 
@@ -117,3 +117,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
 
 [乌兹别克斯坦国家通讯社 — 乌兹别克斯坦艺术展，北京，2024年1月23日（乌兹别克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## 从另两个角度看哈尔滨展览
+
+[视频](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[2026年展览开幕现场的全景影像](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[展览现场播放的视频节目——50分钟](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

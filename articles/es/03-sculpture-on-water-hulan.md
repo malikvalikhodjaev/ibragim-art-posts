@@ -105,12 +105,22 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las imágenes se indican en los pies de foto.
 
+## El regreso al río en invierno
+
+Estas grabaciones del invierno de 2026 muestran al artista junto a la ribera y las esculturas en el paisaje helado. La composición de figuras de colores que aparece detrás de él en la fotografía es su obra; las demás esculturas filmadas pertenecen a distintos artistas. Su participación en el proyecto de Hulan tuvo lugar en 2024, mientras que estas imágenes documentan una visita posterior.
+
+[Vídeo](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[El artista se dirige al río helado](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Un paseo sobre el hielo entre esculturas de distintos artistas](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## Del archivo de un proyecto escultórico en China
 
 [La escultura de metal de Ibragim Valikhodjaev durante su preparación para instalarla sobre el agua. Archivo del artista; fecha de la fotografía no confirmada.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 La escultura de metal de Ibragim Valikhodjaev durante su preparación para instalarla sobre el agua. Archivo del artista; fecha de la fotografía no confirmada.
 
-[La escultura flotante de Ibragim Valikhodjaev en un río helado de China. Archivo del artista; fotografía sin fecha.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, 25 de febrero de 2026. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-La escultura flotante de Ibragim Valikhodjaev en un río helado de China. Archivo del artista; fotografía sin fecha.
+Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, 25 de febrero de 2026. Archivo del artista.

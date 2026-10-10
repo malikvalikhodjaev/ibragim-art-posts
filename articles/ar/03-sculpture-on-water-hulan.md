@@ -107,15 +107,25 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 مواد تحريرية من Valikhodjaev Gallery House. مصادر الصور موضحة في التعليقات.
 
+## العودة إلى النهر في الشتاء
+
+تُظهر هذه التسجيلات من شتاء 2026 الفنان عند ضفة النهر والمنحوتات وسط الجليد. التكوين المؤلف من شخصيات ملونة خلفه في الصورة هو عمله؛ أما المنحوتات الأخرى في التسجيل فهي لفنانين مختلفين. شارك في مشروع هولان عام 2024، وتوثق هذه المواد زيارة لاحقة إلى الموقع النهري.
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[الفنان يتجه إلى النهر المتجمد](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[جولة على الجليد بين منحوتات لفنانين مختلفين](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## من أرشيف مشروع نحتي في الصين
 
 [منحوتة إبراهيم فاليخوجاييف المعدنية أثناء تجهيزها للتركيب على الماء. أرشيف الفنان؛ تاريخ التصوير غير مؤكد.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 منحوتة إبراهيم فاليخوجاييف المعدنية أثناء تجهيزها للتركيب على الماء. أرشيف الفنان؛ تاريخ التصوير غير مؤكد.
 
-[منحوتة إبراهيم فاليخوجاييف العائمة في نهر متجمد في الصين. أرشيف الفنان؛ تاريخ الصورة غير معروف.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، 25 فبراير 2026. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-منحوتة إبراهيم فاليخوجاييف العائمة في نهر متجمد في الصين. أرشيف الفنان؛ تاريخ الصورة غير معروف.
+إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، 25 فبراير 2026. أرشيف الفنان.
 
 
 </div>

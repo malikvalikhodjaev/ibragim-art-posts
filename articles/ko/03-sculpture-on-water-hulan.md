@@ -105,12 +105,22 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
+## 겨울의 강을 다시 찾다
+
+2026년 겨울에 촬영된 영상에는 강가의 작가와 얼음 사이의 조각들이 담겨 있다. 사진 속 작가 뒤에 보이는 색색의 인물 구성은 작가 자신의 작품이며, 영상에 등장하는 다른 조각들은 여러 작가의 작품이다. 후란 프로젝트에 참여한 해는 2024년으로, 이번 영상은 이후 강을 다시 찾은 방문을 기록한다.
+
+[영상](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[얼어붙은 강으로 걸어가는 작가](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[얼음 위를 걸으며 여러 작가의 조각을 살펴보다](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## 중국 조각 프로젝트의 기록
 
 [수상 설치를 위해 준비 중인 이브라김 발리호자예프의 금속 조각. 작가 소장 사진. 촬영 날짜는 확인되지 않았다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 수상 설치를 위해 준비 중인 이브라김 발리호자예프의 금속 조각. 작가 소장 사진. 촬영 날짜는 확인되지 않았다.
 
-[중국의 얼어붙은 강에 설치된 이브라김 발리호자예프의 부유 조각. 작가 소장 사진. 촬영 연도 미상.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[얼어붙은 강 위에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프, 중국, 2026년 2월 25일. 작가 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-중국의 얼어붙은 강에 설치된 이브라김 발리호자예프의 부유 조각. 작가 소장 사진. 촬영 연도 미상.
+얼어붙은 강 위에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프, 중국, 2026년 2월 25일. 작가 아카이브.

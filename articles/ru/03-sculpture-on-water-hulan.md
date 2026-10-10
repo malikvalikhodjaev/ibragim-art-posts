@@ -109,6 +109,16 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 Металлическая скульптура Ибрагима Валиходжаева на стадии подготовки к установке на воде. Архив художника; точная дата съёмки не подтверждена.
 
-[Плавающая скульптура Ибрагима Валиходжаева в замёрзшей реке, Китай. Архив художника; дата снимка не установлена.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ибрагим Валиходжаев на фоне собственной плавающей скульптуры в замёрзшей реке, Китай, 25 февраля 2026 года. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-Плавающая скульптура Ибрагима Валиходжаева в замёрзшей реке, Китай. Архив художника; дата снимка не установлена.
+Ибрагим Валиходжаев на фоне собственной плавающей скульптуры в замёрзшей реке, Китай, 25 февраля 2026 года. Архив художника.
+
+## Возвращение к реке зимой
+
+Зимние видеозаписи 2026 года показывают художника у набережной и скульптуры среди льда. Цветная фигурная композиция, перед которой он сфотографирован, — его собственная работа; другие скульптуры в видеозаписи принадлежат разным авторам. Участие в проекте Хулана относится к 2024 году, а эти материалы показывают последующую встречу с речным пространством.
+
+[Видеозапись](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Художник идёт к замёрзшей реке](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Прогулка по льду и скульптуры разных авторов](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)

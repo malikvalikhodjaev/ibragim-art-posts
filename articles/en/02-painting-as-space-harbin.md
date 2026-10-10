@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Museum exhibition
 
-[Visitors in front of large geometric paintings by Ibragim Valikhodjaev at the Yu Shun Museum in Harbin.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[Ibragim Valikhodjaev in front of his monumental painting. “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Geometric canvases at the "Sun on Snow" exhibition at the Yu Shun Museum in Harbin. Photo from [Sohu, a Chinese news report](<https://www.sohu.com/a/990524748_121106822>) , February 27, 2026.
+Ibragim Valikhodjaev in front of his monumental painting. “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 February 2026. Artist’s archive.
 
 Solo exhibition "Sun on Snow" in Harbin: a monumental canvas, a geometric composition, and the viewer's experience in a museum space.
 
@@ -37,11 +37,11 @@ In this article
 
 [Full recording of the exhibition opening](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Visitors look at two large paintings at the Ibragim Valikhodjaev exhibition in Harbin.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[Installation view of “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Visitors admire paintings at the "Sun on Snow" exhibition at the Yu Shun Museum in Harbin. Photo from [Sohu, a Chinese news outlet](<https://www.sohu.com/a/990524748_121106822>) , February 27, 2026.
+Installation view of “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 February 2026. Artist’s archive.
 
-In the main photograph of the room, two visitors stand before geometric canvases that extend far beyond their figures. The human silhouette becomes the measure of the vast pictorial surface. Red, yellow, white, and dark shapes unfold along the walls; to perceive their overall connection and individual fragments, the viewer must shift their vantage point.
+In the lead photograph, Ibragim Valikhodjaev stands before a monumental geometric painting. His figure gives a sense of the scale of the painted surface. Red, yellow, white and dark shapes extend along the wall; seeing their relationships and individual passages requires the viewer to change position.
 
 The solo exhibition "Sun on Snow" was held in Harbin, China, at the Yu Shun Museum from February 19 to March 19, 2026. A Chinese [art newspaper](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) reported on 19 large paintings and a 22.24 x 3-meter canvas. This exhibition presents a particular challenge for the viewer: the perception of the painting becomes part of the movement through the room, and the museum's architecture contributes to the artistic experience.
 
@@ -117,3 +117,11 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
 [UzA — Uzbekistan Art Exhibition in Beijing, January 23, 2024 (Uzbek text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Two further views of the Harbin exhibition
+
+[Video](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[A panoramic view of the opening, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[The video programme screened at the exhibition — 50 minutes](<https://www.youtube.com/watch?v=XNCh44JMBYM>)

@@ -105,12 +105,22 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini sono indicate nelle didascalie.
 
+## Ritorno al fiume in inverno
+
+Questi video girati nell’inverno 2026 mostrano l’artista sul lungofiume e le sculture nel paesaggio ghiacciato. La composizione di figure colorate alle sue spalle nella fotografia è una sua opera; le altre sculture riprese appartengono a diversi artisti. La sua partecipazione al progetto di Hulan risale al 2024, mentre questi materiali documentano un successivo ritorno sul posto.
+
+[Video](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[L’artista si dirige verso il fiume ghiacciato](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Una passeggiata sul ghiaccio tra sculture di diversi artisti](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## Dall’archivio di un progetto scultoreo in Cina
 
 [La scultura in metallo di Ibragim Valikhodjaev durante la preparazione per l’installazione sull’acqua. Archivio dell’artista; data dello scatto non confermata.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 La scultura in metallo di Ibragim Valikhodjaev durante la preparazione per l’installazione sull’acqua. Archivio dell’artista; data dello scatto non confermata.
 
-[La scultura galleggiante di Ibragim Valikhodjaev in un fiume ghiacciato in Cina. Archivio dell’artista; fotografia non datata.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, 25 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-La scultura galleggiante di Ibragim Valikhodjaev in un fiume ghiacciato in Cina. Archivio dell’artista; fotografia non datata.
+Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, 25 febbraio 2026. Archivio dell’artista.

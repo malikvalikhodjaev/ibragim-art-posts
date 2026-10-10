@@ -105,12 +105,22 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 
 Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in den Bildunterschriften angegeben.
 
+## Rückkehr an den Fluss im Winter
+
+Diese Aufnahmen aus dem Winter 2026 zeigen den Künstler am Ufer und die Skulpturen in der Eislandschaft. Die Komposition aus farbigen Figuren hinter ihm auf dem Foto ist sein eigenes Werk; die übrigen gefilmten Skulpturen stammen von verschiedenen Künstlern. Er nahm 2024 am Projekt in Hulan teil. Diese Aufnahmen dokumentieren einen späteren Besuch am Fluss.
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Der Künstler auf dem Weg zum zugefrorenen Fluss](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Ein Spaziergang auf dem Eis zwischen Skulpturen verschiedener Künstler](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## Aus dem Archiv eines Skulpturenprojekts in China
 
 [Ibragim Valikhodjaevs Metallskulptur während der Vorbereitung zur Installation auf dem Wasser. Archiv des Künstlers; Aufnahmedatum nicht bestätigt.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 Ibragim Valikhodjaevs Metallskulptur während der Vorbereitung zur Installation auf dem Wasser. Archiv des Künstlers; Aufnahmedatum nicht bestätigt.
 
-[Ibragim Valikhodjaevs schwimmende Skulptur in einem zugefrorenen Fluss in China. Archiv des Künstlers; undatierte Aufnahme.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, 25. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-Ibragim Valikhodjaevs schwimmende Skulptur in einem zugefrorenen Fluss in China. Archiv des Künstlers; undatierte Aufnahme.
+Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, 25. Februar 2026. Archiv des Künstlers.

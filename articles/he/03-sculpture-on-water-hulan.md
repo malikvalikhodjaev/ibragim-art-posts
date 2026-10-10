@@ -107,15 +107,25 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 חומר עריכה מValikhodjaev Gallery House. מקורות התמונה מצוינים בכיתובים.
 
+## חזרה אל הנהר בחורף
+
+סרטונים אלה, שצולמו בחורף 2026, מציגים את האמן על גדת הנהר ואת הפסלים בין משטחי הקרח. הקומפוזיציה של דמויות צבעוניות שמאחוריו בתצלום היא יצירה שלו; שאר הפסלים בסרטון הם של אמנים שונים. הוא השתתף בפרויקט בחולאן ב־2024, ואילו תיעוד זה מציג ביקור מאוחר יותר בסביבת הנהר.
+
+[סרטון](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[האמן הולך אל הנהר הקפוא](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[הליכה על הקרח בין פסלים של אמנים שונים](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## מארכיון פרויקט הפיסול בסין
 
 [פסל המתכת של איברגים וליחודז'אייב במהלך ההכנה להצבה על המים. ארכיון האמן; תאריך הצילום לא אושר.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 פסל המתכת של איברגים וליחודז'אייב במהלך ההכנה להצבה על המים. ארכיון האמן; תאריך הצילום לא אושר.
 
-[הפסל הצף של איברגים וליחודז'אייב בנהר קפוא בסין. ארכיון האמן; תאריך הצילום אינו ידוע.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[איברגים וליחודג'אייב על רקע הפסל הצף שיצר, בנהר הקפוא, סין, 25 בפברואר 2026. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-הפסל הצף של איברגים וליחודז'אייב בנהר קפוא בסין. ארכיון האמן; תאריך הצילום אינו ידוע.
+איברגים וליחודג'אייב על רקע הפסל הצף שיצר, בנהר הקפוא, סין, 25 בפברואר 2026. ארכיון האמן.
 
 
 </div>

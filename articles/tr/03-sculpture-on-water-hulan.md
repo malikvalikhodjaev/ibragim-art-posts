@@ -105,12 +105,22 @@ Yukarıdaki ilk video, çalışma sürecini gösteriyor ve serginin genel görü
 
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
+## Kışın nehre dönüş
+
+2026 kışında çekilen bu videolar sanatçıyı nehir kıyısında, heykelleri ise buzlar arasında gösteriyor. Fotoğrafta sanatçının arkasındaki renkli figürlerden oluşan kompozisyon kendi eseridir; videodaki diğer heykeller farklı sanatçılara aittir. Hulan projesine katılımı 2024 yılına uzanır; bu kayıtlar nehir çevresine daha sonraki dönüşünü belgeliyor.
+
+[Video kaydı](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Sanatçı donmuş nehre doğru yürüyor](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
+
+[Buz üzerinde yürüyüş ve farklı sanatçıların heykelleri](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+
 ## Çin’deki heykel projesinin arşivinden
 
 [Ibragim Valikhodjaev’in suya yerleştirilmek üzere hazırlanan metal heykeli. Sanatçının arşivi; çekim tarihi doğrulanmamıştır.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev’in suya yerleştirilmek üzere hazırlanan metal heykeli. Sanatçının arşivi; çekim tarihi doğrulanmamıştır.
 
-[Ibragim Valikhodjaev’in Çin’de donmuş bir nehirdeki yüzen heykeli. Sanatçının arşivi; fotoğraf tarihsizdir.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJXXCUMdhpHQZV_stOImuPgtQnMuRKSDFWOjCuwdPnwe1ARUJxbRssPetvpTct8_zkyZNio9vpJUN93m5R19zQ_nHuYHxxWtQqSnA1CwbjP1IxzutLwXl-ES8N3YssYRAj2Clw3RTbFy8FVoHSaYG7yPXTE1vRhsCGN-CeZEyAldoPfY2eC9RMzcip_Jj/s1600/clipboard.png>)
+[İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, 25 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev’in Çin’de donmuş bir nehirdeki yüzen heykeli. Sanatçının arşivi; fotoğraf tarihsizdir.
+İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, 25 Şubat 2026. Sanatçının arşivi.

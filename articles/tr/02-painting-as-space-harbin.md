@@ -13,9 +13,9 @@ edition_date: "2026-10-10"
 
 Müze sergisi
 
-[Harbin'deki Yu Shun Art Museum’da İbrahim Valikhodjaev'in büyük geometrik resimlerinin önünde duran ziyaretçiler.](<https://q5.itc.cn/q_70/images03/20260227/8f471d6ab2fe4a64957261c6b3d9edfe.png>)
+[İbragim Valikhodjaev anıtsal tablosunun önünde. “Kar Üzerinde Güneş”, Yu Shun Sanat Müzesi, Çin, Harbin, 21 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiV53gW8NtpcRgndxE8jUBLYGYntYILLF-OQQK8Aeyvc4_8N477cog2kBMjKI70g7Oj9VQH1Djb6c2ODCjMzYQLthbIF2lEDAUGeS96gbkxhpH8SFTaofFtt-LwCC1dwfI4HYw9EZvDzHWrwFvxveLHSaVoRNazgBW0QzNX-aDstUycvGdHqRZiuPdI4E/s1600/clipboard.png>)
 
-Harbin'deki Yu Shun Art Museum’da düzenlenen "Kar Üzerinde Güneş" sergisindeki geometrik tuvaller. Fotoğraf [, Çin haber platformu Sohu'dan](<https://www.sohu.com/a/990524748_121106822>) , 27 Şubat 2026.
+İbragim Valikhodjaev anıtsal tablosunun önünde. “Kar Üzerinde Güneş”, Yu Shun Sanat Müzesi, Çin, Harbin, 21 Şubat 2026. Sanatçının arşivi.
 
 Harbin'de "Kar Üzerinde Güneş" adlı kişisel sergi: anıtsal bir tuval, geometrik bir kompozisyon ve müze mekanındaki izleyici deneyimi.
 
@@ -37,11 +37,11 @@ Bu makalede
 
 [Sergi açılışının tam kaydı](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 
-[Ziyaretçiler, Harbin'deki İbrahim Valikhodjaev sergisinde iki büyük tabloya bakıyor.](<https://q7.itc.cn/q_70/images03/20260227/ba5c00e7d092478e8ef4dc468250a6f7.png>)
+[“Kar Üzerinde Güneş” sergisinden genel görünüm, Yu Shun Sanat Müzesi, Çin, Harbin, 21 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
-Ziyaretçiler, Harbin'deki Yu Shun Art Museum’da düzenlenen "Kar Üzerinde Güneş" sergisinde resimlere hayranlıkla bakıyor. Fotoğraf [, Çin haber platformu Sohu'dan](<https://www.sohu.com/a/990524748_121106822>) , 27 Şubat 2026.
+“Kar Üzerinde Güneş” sergisinden genel görünüm, Yu Shun Sanat Müzesi, Çin, Harbin, 21 Şubat 2026. Sanatçının arşivi.
 
-Odanın ana fotoğrafında, iki ziyaretçi, figürlerinin çok ötesine uzanan geometrik tuvallerin önünde duruyor. İnsan silueti, uçsuz bucaksız resim yüzeyinin ölçüsü haline geliyor. Kırmızı, sarı, beyaz ve koyu şekiller duvarlar boyunca açılıyor; bunların genel bağlantısını ve bireysel parçalarını algılamak için izleyicinin bakış açısını değiştirmesi gerekiyor.
+Açılış fotoğrafında İbragim Valikhodjaev anıtsal geometrik tablosunun önünde duruyor. Sanatçının figürü, resim yüzeyinin ölçeğini kavramamıza yardımcı oluyor. Kırmızı, sarı, beyaz ve koyu biçimler duvar boyunca uzanıyor; aralarındaki ilişkileri ve tek tek bölümleri görmek için izleyicinin konumunu değiştirmesi gerekiyor.
 
 "Kar Üzerinde Güneş" adlı kişisel sergi, 19 Şubat - 19 Mart 2026 tarihleri ​​arasında Çin'in Harbin şehrindeki Yu Shun Art Museum’da düzenlendi. Bir Çin [sanat gazetesi,](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) 19 büyük resim ve 22,24 x 3 metrelik bir tuval hakkında haber yaptı. Bu sergi, izleyici için özel bir meydan okuma sunuyor: resmin algılanması, mekân içindeki hareketin bir parçası haline geliyor ve müzenin mimarisi sanatsal deneyime katkıda bulunuyor.
 
@@ -117,3 +117,11 @@ Biçim farklılığı algı açısından çok önemlidir. Bir karma sergi, farkl
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
 [UzA - Pekin'deki Özbekistan Sanat Sergisi, 23 Ocak 2024 (Özbekçe metin)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+## Harbin sergisinden iki farklı görüntü daha
+
+[Video kaydı](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Sergi açılışının panoramik görüntüsü, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+[Sergide gösterilen video programı — 50 dakika](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
