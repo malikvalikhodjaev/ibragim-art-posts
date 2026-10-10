@@ -129,5 +129,33 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [بازدید از نمایشگاه — ابراهیم ولی‌خواجه‌اف، رئیس اتحادیه هنرمندان ازبکستان](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
+## تابلو و فضای نمایشگاه
+
+عکس‌های چیدمان، دیدار تابلو با تماشاگر را نشان می‌دهند. بخش‌های خالی دیوار، فاصلهٔ آثار و امکان عقب رفتن، شرایط دیدن را تغییر می‌دهند. نمای کلی مقیاس را روشن می‌کند و عکس بازدیدکنندگان حرکت میان نگاه نزدیک و دور را نشان می‌دهد.
+
+[بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
+
+[نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.
+
+## قدردانی و مسیر حرفه‌ای
+
+عکس‌های تقدیر، لحظه‌های زندهٔ به‌رسمیت‌شناختن را به کارنامه می‌افزایند. حرکت اهدای جایزه و حضور همکاران در عکس حفظ می‌شود، در حالی که فهرست جوایز نام‌ها و سال‌های رسمی را ثبت می‌کند. مدال شوهرات در 2020 میلادی و مدال طلای آکادمی هنرها در 2018 میلادی از افتخارات تأییدشده‌اند. این تاریخ‌ها سالِ عکس‌های حاضر نیستند؛ ظاهر یک مدال به‌تنهایی مراسم را مشخص نمی‌کند.
+
+[اهدای مدال طلا به ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+اهدای مدال طلا به ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.
+
 
 </div>

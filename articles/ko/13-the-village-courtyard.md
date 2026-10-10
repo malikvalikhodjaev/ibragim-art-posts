@@ -117,3 +117,21 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 링크](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에 표시되어 있다.
+
+## 야외 작업은 바라보는 데서 시작된다
+
+야외 작업은 첫 붓질보다 앞서, 걷고 시점을 고르는 데서 시작된다. 사진에는 마을길, 좁은 마당, 바위 비탈과 가을 나무가 보인다. 한 풍경은 밝은 벽과 어두운 출입구의 반복으로, 다른 풍경은 건물 사이로 이어지는 길의 움직임으로 읽힌다. 화가는 소재뿐 아니라 화면을 지탱할 큰 형태들의 관계도 선택한다.
+
+이 작업 사진은 풍경화에 장소의 규모, 고르지 않은 빛과 표면의 질감을 더한다. 벽과 지붕, 흙길과 나무의 수관이 색채 관계의 재료가 된다. 완성작에서는 관찰이 더 자유롭고 압축될 수 있지만, 실제 풍경과의 연결은 공간 구성에 남는다. 사진의 촬영 장소와 연도는 확인되지 않았다. 모습만으로 미라키, 몬테네그로, 아제르바이잔의 특정 야외 작업 행사에 연결할 수는 없다.
+
+[야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.
+
+[야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.
+
+[야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.

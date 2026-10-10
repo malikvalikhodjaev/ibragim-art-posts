@@ -117,3 +117,21 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[画廊链接](<https://linktr.ee/ibragim.valikhodjaev>)
 
 本文内容来自瓦利霍贾耶夫画廊。插图来源已在图注中注明。
+
+## 户外写生从观看开始
+
+户外写生在第一笔落下之前就已开始：先行走，再选择观看的位置。照片中可见乡村街巷、紧凑的院落、岩石山坡和秋日树木。一处景物可被理解为明亮墙面与暗色门窗的交替，另一处则呈现道路在建筑之间的延伸。画家选择的不只是画什么，还有支撑整幅作品的大块形体关系。
+
+这些工作照片为风景画补充了场地的尺度、变化的光线和表面质感。墙壁、屋顶、地面与树冠构成色彩关系的材料。在完成的画作中，观察可以更自由、更概括，而与实景的联系仍保留在空间组织中。这些照片的具体地点和年份尚未确定，不能仅凭画面便将其归入米拉基、黑山或阿塞拜疆的某次写生活动。
+
+[户外写生途中：乡村街巷与山景。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+户外写生途中：乡村街巷与山景。 艺术家档案。
+
+[户外写生途中：院落与乡村建筑。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+户外写生途中：院落与乡村建筑。 艺术家档案。
+
+[户外写生途中：岩石与秋日树木。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+户外写生途中：岩石与秋日树木。 艺术家档案。

@@ -125,5 +125,45 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [تقرير عن الزيارة والدرس · Facebook، 8 أكتوبر 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
 
+## داخل المرسم: قبل المعرض وبعده
+
+يكشف المرسم مراحل القرار التشكيلي: القماش على الحامل، وحركة الفرشاة، والتوقف أمام السطح المرسوم. تصل الصور بين العمل اليومي في سنوات مختلفة. تنشأ قوة التعبير من الملاحظة والمراجعة، ومن المسافة التي ينظر منها الفنان إلى اللوحة، والانتباه إلى الطريقة التي يغير بها جزء واحد التكوين كله.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
+[الفنان يتأمل لوحة ذات مساحة لونية حمراء. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+الفنان يتأمل لوحة ذات مساحة لونية حمراء. أرشيف الفنان.
+
+[فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.
+
+## RED: الرسم أمام الجمهور
+
+تنقل صورتان للدرس التطبيقي المصاحب لمعرض RED في طشقند عام 2017 النقاش حول اللون إلى الممارسة. يقترب الزوار من الحامل ويتابعون تسلسل الأفعال. ليست السرعة وحدها المهمة: محيط الشكل ومساحة البقعة اللونية والفواصل بين الأشكال تصبح قرارات مرئية.
+
+يسجل تقرير سفارة أوزبكستان عن المعرض 31 عملاً ودرساً تطبيقياً للزوار. تتيح الصور المقارنة بين وضع اليد ولوحة الألوان والصورة الناشئة. يتجسد البحث في الأحمر عبر علاقاته بالدرجات المجاورة وتنظيم سطح اللوحة كله.
+
+[درس RED التطبيقي: الزوار يتابعون عمل الفنان، أوزبكستان، طشقند، 2017. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+درس RED التطبيقي: الزوار يتابعون عمل الفنان، أوزبكستان، طشقند، 2017. أرشيف الفنان.
+
+[درس RED التطبيقي: بناء التكوين، أوزبكستان، طشقند، 2017. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+درس RED التطبيقي: بناء التكوين، أوزبكستان، طشقند، 2017. أرشيف الفنان.
+
+[RED والدرس التطبيقي: تقرير سفارة أوزبكستان، 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
 
 </div>

@@ -113,3 +113,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 [陈列伊布拉吉姆·瓦利霍贾耶夫作品的展厅全景。艺术家档案；展览名称和日期尚未确认。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 陈列伊布拉吉姆·瓦利霍贾耶夫作品的展厅全景。艺术家档案；展览名称和日期尚未确认。
+
+## 绘画与展览空间
+
+展览照片展示了作品与观众相遇的另一面。墙面的留白、画作之间的距离，以及向后退步的空间，都会改变观看条件。全景表现作品的尺度，观众入镜的照片则呈现近看与远观之间的切换。
+
+[观众观看瓦利霍贾耶夫的作品。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+观众观看瓦利霍贾耶夫的作品。 艺术家档案。

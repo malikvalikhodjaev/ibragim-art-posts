@@ -113,3 +113,11 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 [Ibrohim Valixodjayev asarlari namoyish etilgan ko‘rgazma zalining umumiy ko‘rinishi. Rassom arxivi; ko‘rgazma nomi va sanasi tasdiqlanmagan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Ibrohim Valixodjayev asarlari namoyish etilgan ko‘rgazma zalining umumiy ko‘rinishi. Rassom arxivi; ko‘rgazma nomi va sanasi tasdiqlanmagan.
+
+## Asar va ko‘rgazma makoni
+
+Ekspozitsiya suratlari asarning tomoshabin bilan uchrashuvini ko‘rsatadi. Devorning bo‘sh joylari, kartinalar oralig‘i va orqaga chekinib qarash imkoniyati idrokni o‘zgartiradi. Zalning umumiy ko‘rinishi ko‘lamni ochadi; tashrifchilar tushgan kadr esa yaqindan kuzatish va uzoqdan qarash o‘rtasidagi almashinuvni ko‘rsatadi.
+
+[Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.

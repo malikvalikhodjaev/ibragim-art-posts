@@ -126,3 +126,31 @@ Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesi
 [Video kaydı](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Sergiyi incelemek — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## Resim ve sergi mekânı
+
+Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar alanları, eserlerin arasındaki uzaklık ve geriye çekilebilme olanağı algıyı değiştirir. Genel görünüm ölçeği anlatır; ziyaretçilerin bulunduğu kare, yakından incelemeyle uzaktan bakış arasındaki geçişi gösterir.
+
+[Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
+
+[Serginin genel görünümü. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Serginin genel görünümü. Sanatçının arşivi.
+
+[Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.
+
+## Takdir ve mesleki yolculuk
+
+Ödül fotoğrafları mesleki kronolojiye yaşanmış takdir anları ekler. Takdim hareketini ve meslektaşların varlığını korurken, ödül listesi resmî adları ve yılları kaydeder. Doğrulanmış başarılar arasında 2020 Shukhrat Madalyası ve 2018 Güzel Sanatlar Akademisi Altın Madalyası bulunur. Bu tarihler fotoğrafları tarihlendirmez; bir madalyanın görünümü tek başına töreni belirleyemez.
+
+[Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.
+
+[Valikhodjaev bir ödül töreninde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Valikhodjaev bir ödül töreninde. Sanatçının arşivi.

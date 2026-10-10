@@ -129,5 +129,33 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [جولة في المعرض — إبراهيم فاليخوجاييف بصفته رئيس اتحاد فناني أوزبكستان](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
+## اللوحة وفضاء العرض
+
+تُظهر صور العرض لقاء اللوحة بالجمهور. تؤثر المساحات الخالية على الجدران والفواصل بين الأعمال وإمكانية التراجع إلى الخلف في المشاهدة. يوضح المشهد العام المقياس، بينما تكشف صورة الزوار الانتقال بين التأمل القريب والنظر من بعيد.
+
+[زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.
+
+[مشهد عام لتنسيق المعرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+مشهد عام لتنسيق المعرض. أرشيف الفنان.
+
+[فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.
+
+## التقدير والمسار المهني
+
+تضيف صور التكريم لحظات حية من التقدير إلى السجل المهني. تحفظ حركة تقديم الجائزة وحضور الزملاء، بينما تسجل قائمة الجوائز الأسماء والسنوات الرسمية. تشمل الإنجازات المؤكدة ميدالية شهرت في 2020 والميدالية الذهبية لأكاديمية الفنون في 2018. هذه التواريخ لا تؤرخ الصور المعروضة: فشكل الميدالية وحده لا يحدد حفلاً بعينه.
+
+[تقديم ميدالية ذهبية إلى إبراهيم فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+تقديم ميدالية ذهبية إلى إبراهيم فاليخوجاييف. أرشيف الفنان.
+
+[فاليخوجاييف في حفل تكريم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+فاليخوجاييف في حفل تكريم. أرشيف الفنان.
+
 
 </div>

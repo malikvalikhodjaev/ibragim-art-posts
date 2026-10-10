@@ -109,3 +109,27 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## En el taller, antes y después de la exposición
+
+El taller permite observar varias etapas de una decisión pictórica: el lienzo en el caballete, el movimiento del pincel y una pausa ante la superficie pintada. Las fotografías enlazan el trabajo cotidiano de distintos años. La expresividad se construye mediante la observación y la revisión, a través de la distancia de la mirada y de la atención a cómo un fragmento modifica el conjunto.
+
+[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+El joven artista entre sus obras. Archivo del artista.
+
+[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+El joven artista entre sus obras. Archivo del artista.
+
+[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
+
+El joven artista entre sus obras. Archivo del artista.
+
+[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
+
+El joven artista entre sus obras. Archivo del artista.
+
+[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
+
+El joven artista entre sus obras. Archivo del artista.

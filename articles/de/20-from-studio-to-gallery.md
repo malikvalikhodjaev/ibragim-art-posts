@@ -126,3 +126,31 @@ Die beiden Archivvideos zeigen den Künstler bei der Vorbereitung und Besichtigu
 [Videoaufnahme](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Rundgang durch die Ausstellung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## Das Gemälde im Ausstellungsraum
+
+Ausstellungsfotos zeigen die Begegnung des Bildes mit seinen Betrachtern. Freie Wandflächen, Abstände zwischen Werken und Raum zum Zurücktreten verändern das Sehen. Die Gesamtansicht vermittelt den Maßstab; Besucher verdeutlichen den Wechsel zwischen Nahsicht und Betrachtung aus der Ferne.
+
+[Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.
+
+[Blick in die Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Blick in die Ausstellung. Archiv des Künstlers.
+
+[Valikhodjaev und sein Lehrer Rahim Ahmedov bei einer Begegnung in einer Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev und sein Lehrer Rahim Ahmedov bei einer Begegnung in einer Ausstellung. Archiv des Künstlers.
+
+## Anerkennung und künstlerischer Werdegang
+
+Fotos von Auszeichnungen ergänzen die berufliche Chronik um erlebte Anerkennung. Sie bewahren die Geste der Übergabe und die Anwesenheit von Kollegen; die Auszeichnungsliste nennt offizielle Bezeichnungen und Jahre. Zu den bestätigten Ehrungen gehören die Shukhrat-Medaille 2020 und die Goldmedaille der Akademie der Künste 2018. Diese Daten datieren die Fotos nicht: Das Aussehen einer Medaille allein identifiziert keine bestimmte Zeremonie.
+
+[Überreichung einer Goldmedaille an Ibragim Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Überreichung einer Goldmedaille an Ibragim Valikhodjaev. Archiv des Künstlers.
+
+[Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Valikhodjaev bei einer Auszeichnung. Archiv des Künstlers.

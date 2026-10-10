@@ -130,3 +130,27 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Enlaces a la galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las imágenes se indican en los pies de foto.
+
+## RED: pintar ante el público
+
+Dos fotografías de la clase magistral que acompañó RED en Taskent en 2017 llevan la reflexión sobre el color a la práctica. Los visitantes se acercan al caballete y siguen los gestos. No importa solo la rapidez: la silueta, la extensión de una mancha de color y los intervalos entre formas se convierten en decisiones visibles.
+
+El informe de la Embajada de Uzbekistán recoge 31 obras y una clase magistral para visitantes. Las fotografías permiten comparar la posición de la mano, la paleta y la imagen en desarrollo. La investigación del rojo se concreta en sus relaciones con los tonos vecinos y en la organización del lienzo entero.
+
+[Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 2017. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 2017. Archivo del artista.
+
+[Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.
+
+[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## En el taller, antes y después de la exposición
+
+El taller permite observar varias etapas de una decisión pictórica: el lienzo en el caballete, el movimiento del pincel y una pausa ante la superficie pintada. Las fotografías enlazan el trabajo cotidiano de distintos años. La expresividad se construye mediante la observación y la revisión, a través de la distancia de la mirada y de la atención a cómo un fragmento modifica el conjunto.
+
+[El artista contempla una pintura con un campo cromático rojo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+El artista contempla una pintura con un campo cromático rojo. Archivo del artista.

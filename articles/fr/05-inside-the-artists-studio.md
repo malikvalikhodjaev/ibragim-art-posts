@@ -122,3 +122,43 @@ En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en 
 [Vidéo de la masterclass · Chine, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Compte rendu de la visite et de la masterclass · Facebook, 8 octobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Dans l’atelier, avant et après l’exposition
+
+L’atelier donne à voir plusieurs étapes d’une décision picturale : la toile sur le chevalet, le mouvement du pinceau, la pause devant la surface peinte. Les photographies relient le travail quotidien de différentes années. L’expression du tableau se construit par l’observation et la vérification, par la distance du regard et par l’attention portée à la manière dont un passage modifie l’ensemble.
+
+[Valikhodjaev dans son atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev dans son atelier. Archives de l’artiste.
+
+[Valikhodjaev dans son atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev dans son atelier. Archives de l’artiste.
+
+[Valikhodjaev dans son atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev dans son atelier. Archives de l’artiste.
+
+[L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.
+
+[Valikhodjaev et le maître Rahim Ahmedov lors d’une rencontre à l’exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev et le maître Rahim Ahmedov lors d’une rencontre à l’exposition. Archives de l’artiste.
+
+## RED : peindre devant le public
+
+Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 donnent une dimension pratique à la réflexion sur la couleur. Le public se tient près du chevalet et suit les gestes. La rapidité ne suffit pas à expliquer le travail : silhouette, étendue d’une plage colorée et intervalles entre les formes deviennent des décisions visibles.
+
+Le compte rendu de l’ambassade d’Ouzbékistan mentionne 31 œuvres et une démonstration pour les visiteurs. Les photographies permettent de comparer le geste, la palette et l’image en cours. L’étude du rouge se précise dans ses rapports avec les tons voisins et dans l’organisation de toute la toile.
+
+[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

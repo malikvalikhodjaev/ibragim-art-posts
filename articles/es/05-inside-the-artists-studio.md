@@ -122,3 +122,43 @@ En septiembre de 2025, Valikhodjaev impartió una clase magistral a estudiantes 
 [Vídeo de la clase magistral · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Crónica de la visita y la clase magistral · Facebook, 8 de octubre de 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## En el taller, antes y después de la exposición
+
+El taller permite observar varias etapas de una decisión pictórica: el lienzo en el caballete, el movimiento del pincel y una pausa ante la superficie pintada. Las fotografías enlazan el trabajo cotidiano de distintos años. La expresividad se construye mediante la observación y la revisión, a través de la distancia de la mirada y de la atención a cómo un fragmento modifica el conjunto.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
+[El artista contempla una pintura con un campo cromático rojo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+El artista contempla una pintura con un campo cromático rojo. Archivo del artista.
+
+[Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.
+
+## RED: pintar ante el público
+
+Dos fotografías de la clase magistral que acompañó RED en Taskent en 2017 llevan la reflexión sobre el color a la práctica. Los visitantes se acercan al caballete y siguen los gestos. No importa solo la rapidez: la silueta, la extensión de una mancha de color y los intervalos entre formas se convierten en decisiones visibles.
+
+El informe de la Embajada de Uzbekistán recoge 31 obras y una clase magistral para visitantes. Las fotografías permiten comparar la posición de la mano, la paleta y la imagen en desarrollo. La investigación del rojo se concreta en sus relaciones con los tonos vecinos y en la organización del lienzo entero.
+
+[Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 2017. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 2017. Archivo del artista.
+
+[Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.
+
+[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

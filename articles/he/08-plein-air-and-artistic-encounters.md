@@ -128,5 +128,23 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 «מיראקי: חורף», 2011. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.
 
+## ציור בחוץ מתחיל בהתבוננות
+
+ציור בחוץ מתחיל לפני משיכת המכחול הראשונה, בהליכה ובבחירת נקודת מבט. בתצלומים נראים רחוב כפרי, חצר סגורה, מדרון סלעי ועצים בסתיו. אפשר לקרוא מוטיב אחד כרצף של קירות בהירים ופתחים כהים, ואחר כתנועת דרך בין מבנים. הצייר בוחר הן את הנושא והן את היחסים בין גושי הצורה הגדולים שיחזיקו את הקומפוזיציה.
+
+תצלומי העבודה משלימים את ציורי הנוף בתחושת קנה מידה, אור משתנה ומרקם. קיר, גג, רצועת אדמה וצמרת עץ מספקים חומר ליחסי צבע. בציור המוגמר ההתבוננות יכולה להיות חופשית ומרוכזת יותר, והקשר לטבע נשאר בבניית המרחב. מקום התצלומים ושנתם לא נקבעו. אי אפשר לשייך אותם, על סמך המראה בלבד, למסע מסוים במיראקי, במונטנגרו או באזרבייג׳ן.
+
+[במסע לציור מן הטבע: רחוב כפרי ונוף הררי. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+במסע לציור מן הטבע: רחוב כפרי ונוף הררי. ארכיון האמן.
+
+[במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.
+
+[במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+במסע לציור מן הטבע: סלעים ועצים בסתיו. ארכיון האמן.
+
 
 </div>

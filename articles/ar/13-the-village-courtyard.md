@@ -120,5 +120,23 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 مواد تحريرية من Valikhodjaev Gallery House. مصادر الرسوم التوضيحية مذكورة في التعليقات.
 
+## الرسم في الهواء الطلق يبدأ بالنظر
+
+يبدأ الرسم في الهواء الطلق قبل أول ضربة فرشاة، بالمشي واختيار زاوية النظر. تُظهر الصور شارعاً قروياً وفناءً ضيقاً ومنحدراً صخرياً وأشجاراً خريفية. يمكن قراءة أحد المشاهد بوصفه تعاقباً بين جدران فاتحة وفتحات داكنة، وآخر بوصفه حركة طريق بين المباني. يختار الرسام الموضوع والعلاقات بين الكتل الكبرى التي ستحمل التكوين.
+
+تكمل صور العمل لوحات المناظر الطبيعية بإعادة الإحساس بمقياس المكان والضوء المتغير وملمس السطوح. الجدار والسقف وشريط الأرض وتاج الشجرة تصبح مواد للعلاقات اللونية. وقد يغدو الرصد أكثر حرية واختزالاً في اللوحة المكتملة، بينما يبقى الاتصال بالطبيعة في بناء الفضاء. لم يُثبت مكان هذه الصور أو عامها؛ ولا يتيح مظهرها وحده نسبتها إلى رحلة بعينها في ميراكي أو الجبل الأسود أو أذربيجان.
+
+[خلال رحلة للرسم من الطبيعة: شارع قروي ومشهد جبلي. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+خلال رحلة للرسم من الطبيعة: شارع قروي ومشهد جبلي. أرشيف الفنان.
+
+[خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.
+
+[خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+خلال رحلة للرسم من الطبيعة: صخور وأشجار خريفية. أرشيف الفنان.
+
 
 </div>

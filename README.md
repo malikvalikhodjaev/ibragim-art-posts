@@ -2,7 +2,7 @@
 
 Public text archive about Ibragim Valikhodjaev, an Uzbek painter, sculptor, curator, art organiser and gallery founder.
 
-The student photograph is captioned **c. 1988**, and the Special Fund photograph **c. 2002**. These are approximate archival dates, not confirmed capture dates.
+Archive captions use **1988** for the student photograph and **2002** for the Special Fund photograph.
 
 **315 articles: 21 themes in 15 languages, plus the main artist biography.** This snapshot includes the editorial editions and language corrections, with archival photographs, artwork captions, the Xi’an 2025 painting masterclass and exhibition-work videos added on 10 October 2026. The Harbin exhibition and Hulan sculpture articles also include three new archive photographs and four video recordings: the exhibition opening, the screened video programme and the artist’s return to the frozen river in 2026. Alternative transliterations used in the texts include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.
 
@@ -12,7 +12,7 @@ The student photograph is captioned **c. 1988**, and the Special Fund photograph
 
 Публичный текстовый архив об Ибрагиме Валиходжаеве: 21 тема на 15 языках и основная биография. Обновление от 10 октября 2026 года включает подписи к архивным фотографиям и новым репродукциям, мастер-класс в Сиане в 2025 году, видеозаписи выставочной работы и актуальную биографию с CV версии 25. В статьях о Харбине и Хулане добавлены три архивные фотографии и четыре видеозаписи: открытие выставки, показанная на ней видеопрограмма и возвращение художника к замёрзшей реке в 2026 году. Статьи рассказывают о Наманганском базаре, RED, абстракции, ню, портретах, натюрмортах, пейзажах, скульптуре, выставках, преподавании и художественных встречах.
 
-Студенческий снимок подписан «около 1988 года», фотография периода руководства Специальным фондом — «около 2002 года». Это ориентировочные архивные даты; точные даты съёмки не подтверждены.
+Подписи архивных фотографий: студенческие годы — **1988**; работа руководителем Специального фонда — **2002**. В восьми тематических статьях на всех 15 языках добавлены фотографии мастерской, пленэров, выставок, встреч с Мастером Рахимом Ахмедовым, мастер-класса RED и награждений. Прежние тексты и иллюстрации сохранены.
 
 Репозиторий содержит тексты Markdown и реестр публикаций. Фотографии, документы CV, рабочие резервные копии и личные материалы не загружены. Подписи к иллюстрациям и ссылки на изображения, видеозаписи, источники и опубликованные статьи сохранены. Полное оформление с изображениями и их фрагментами доступно на Blogger; в текстовом архиве ссылка на видеозапись заменяет встроенный проигрыватель.
 

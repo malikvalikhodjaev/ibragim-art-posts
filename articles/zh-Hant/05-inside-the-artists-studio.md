@@ -122,3 +122,43 @@ Valikhodjaev Gallery House · 2026年10月6日
 [大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## 畫室內：展覽前後的工作
+
+畫室展示了繪畫決策的不同階段：畫架上的畫布、移動的畫筆，以及面對已畫表面的停頓。不同時期的照片把日常工作連結起來。畫面的表現力來自觀察與檢驗，來自畫家觀看作品的距離，也來自他對局部如何改變整體的關注。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
+[藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。
+
+[瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。
+
+## RED：在觀眾面前作畫
+
+2017年塔什干RED展覽期間繪畫示範的兩張照片，將色彩討論帶入實際創作。觀眾靠近畫架，觀察動作的先後順序。重要的不只是速度：輪廓、色塊的面積和形體間的間隔，都成為可以看見的選擇。
+
+烏茲別克使館的展覽報導記載了31件作品，以及面向觀眾的繪畫示範。照片讓人比較手的位置、調色盤和正在形成的畫面。對紅色的研究，由它與相鄰色調的關係，以及整張畫布的組織方式具體呈現。
+
+[RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。
+
+[RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。
+
+[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)

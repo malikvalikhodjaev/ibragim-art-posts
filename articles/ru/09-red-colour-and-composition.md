@@ -130,3 +130,27 @@ RED связан с увлечённым исследованием красно
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Ссылки галереи](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Редакционный материал Valikhodjaev Gallery House. Источники изображений указаны в подписях.
+
+## RED: живопись перед зрителями
+
+Две фотографии мастер-класса, сопровождавшего RED в Ташкенте в 2017 году, переводят разговор о цвете в плоскость практики. Зрители стоят близко к мольберту и наблюдают последовательность действий. Важна не только скорость письма: построение силуэта, площадь цветового пятна и промежутки между формами становятся видимыми решениями.
+
+В сообщении Посольства Узбекистана об этой выставке отмечены 31 произведение и мастер-класс для посетителей. На фотографиях процесс открыт зрителю: можно сравнить положение руки, палитру и возникающее изображение. Так исследование красного раскрывается через работу с соседними тонами и через организацию всей поверхности холста.
+
+[Мастер-класс RED: зрители наблюдают за работой художника, Узбекистан, Ташкент, 2017. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Мастер-класс RED: зрители наблюдают за работой художника, Узбекистан, Ташкент, 2017. Архив художника.
+
+[Мастер-класс RED: работа над композицией, Узбекистан, Ташкент, 2017. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Мастер-класс RED: работа над композицией, Узбекистан, Ташкент, 2017. Архив художника.
+
+[RED и мастер-класс: сообщение Посольства Узбекистана, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## В мастерской: работа до и после выставки
+
+В мастерской можно увидеть несколько стадий художественного решения: холст на мольберте, движение кисти, остановку перед уже написанной поверхностью. Архивные фотографии связывают повседневную работу разных лет. Они показывают, что выразительность картины складывается из наблюдения и проверки — из расстояния, с которого художник смотрит на полотно, и внимания к тому, как один фрагмент меняет целое.
+
+[Художник рассматривает работу с красным цветовым полем. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Художник рассматривает работу с красным цветовым полем. Архив художника.

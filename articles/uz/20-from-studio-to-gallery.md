@@ -126,3 +126,31 @@ Ikki arxiv videoyozuvi rassomning ko‘rgazmani tayyorlash va ko‘zdan kechiris
 [Videoyozuv](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Ekspozitsiyani ko‘zdan kechirish — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## Asar va ko‘rgazma makoni
+
+Ekspozitsiya suratlari asarning tomoshabin bilan uchrashuvini ko‘rsatadi. Devorning bo‘sh joylari, kartinalar oralig‘i va orqaga chekinib qarash imkoniyati idrokni o‘zgartiradi. Zalning umumiy ko‘rinishi ko‘lamni ochadi; tashrifchilar tushgan kadr esa yaqindan kuzatish va uzoqdan qarash o‘rtasidagi almashinuvni ko‘rsatadi.
+
+[Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.
+
+[Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.
+
+[Valixodjayev va ustozi Rahim Ahmedov ko‘rgazmadagi uchrashuvda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valixodjayev va ustozi Rahim Ahmedov ko‘rgazmadagi uchrashuvda. Rassom arxivi.
+
+## E’tirof va kasbiy yo‘l
+
+Taqdirlash suratlari kasbiy tarixni e’tirofning jonli lahzalari bilan to‘ldiradi. Ularda medal topshirish harakati va hamkasblar ishtiroki saqlangan; mukofotlar ro‘yxati esa rasmiy nomlar va yillarni qayd etadi. Tasdiqlangan yutuqlar orasida 2020-yilgi «Shuhrat» medali va 2018-yilgi Badiiy akademiya oltin medali bor. Bu sanalar suratlarni belgilash uchun ishlatilmaydi: medalning ko‘rinishi bir marosimni aniqlashga yetmaydi.
+
+[Ibrohim Valixodjayevga oltin medal topshirilmoqda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Ibrohim Valixodjayevga oltin medal topshirilmoqda. Rassom arxivi.
+
+[Valixodjayev taqdirlash marosimida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Valixodjayev taqdirlash marosimida. Rassom arxivi.

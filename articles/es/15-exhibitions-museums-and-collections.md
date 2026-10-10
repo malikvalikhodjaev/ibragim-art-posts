@@ -113,3 +113,11 @@ Material editorial de la Valikhodjaev Gallery House. Las fuentes de las ilustrac
 [Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.
+
+## El cuadro en el espacio expositivo
+
+Las fotografías del montaje muestran el encuentro del cuadro con el público. La pared vacía, la separación entre obras y el espacio para retroceder modifican la percepción. La vista general establece la escala; la presencia de visitantes muestra cómo se pasa de mirar de cerca a contemplar desde lejos.
+
+[Visitantes ante las pinturas de Valikhodjaev. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Visitantes ante las pinturas de Valikhodjaev. Archivo del artista.

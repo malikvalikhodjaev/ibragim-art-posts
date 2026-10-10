@@ -130,3 +130,27 @@ REDは、赤色への情熱的な探求と結びついている。ヴァリホ�
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーリンク](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
+
+## RED：観客の前で描く
+
+2017年タシケントのRED展に伴う制作実演の二枚の写真は、色彩の話を実践につなぐ。観客はイーゼルの近くで動作の順序を見守る。重要なのは速さだけではない。輪郭、色面の大きさ、形の間隔が、目に見える判断となる。
+
+ウズベキスタン大使館の報告には、31点の作品と来場者向けの制作実演が記されている。写真では手の位置、パレット、生まれつつある絵を比べられる。赤の探究は、隣り合う色調との関係とカンヴァス全体の構成を通じて具体化する。
+
+[REDの制作実演を見守る来場者。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+REDの制作実演を見守る来場者。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
+
+[REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
+
+[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## アトリエで：展覧会の前と後
+
+アトリエでは、絵画上の判断の段階が見える。イーゼルの上のカンヴァス、筆の動き、描かれた表面を前にした立ち止まり。異なる時期の写真は日々の仕事をつなぐ。表現は観察と検討、作品を見る距離、そして一つの部分が全体をどう変えるかへの注意から形づくられる。
+
+[赤い色面のある絵画を見つめる画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+赤い色面のある絵画を見つめる画家。 画家のアーカイブより。

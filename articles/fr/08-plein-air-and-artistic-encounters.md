@@ -125,3 +125,21 @@ Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont
 [«Miraki. Hiver», 2011. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
 
 «Miraki. Hiver», 2011. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.
+
+## Le plein air commence par le regard
+
+Le plein air commence avant le premier coup de pinceau, par une promenade et le choix d’un point de vue. Ces photographies montrent une rue de village, une cour resserrée, un versant rocheux et des arbres d’automne. Un motif devient une alternance de murs clairs et d’ouvertures sombres ; un autre, le mouvement d’un chemin entre les bâtiments. Le peintre choisit le sujet et l’organisation des grandes masses qui tiendront la composition.
+
+Ces images de travail complètent les paysages en restituant l’échelle du lieu, les variations de lumière et les textures. Murs, toits, bandes de terre et frondaisons nourrissent les rapports de couleur. Dans le tableau, l’observation peut devenir plus libre et synthétique ; le lien avec le motif demeure dans la construction de l’espace. Le lieu et l’année de ces photographies ne sont pas établis : leur aspect ne suffit pas à les rattacher à un séjour précis à Miraki, au Monténégro ou en Azerbaïdjan.
+
+[Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.
+
+[Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.
+
+[Sur le motif : rochers et arbres d’automne. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Sur le motif : rochers et arbres d’automne. Archives de l’artiste.

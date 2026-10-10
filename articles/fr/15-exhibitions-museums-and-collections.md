@@ -113,3 +113,11 @@ Documents éditoriaux de la Valikhodjaev Gallery House. Les sources des illustra
 [Vue d’ensemble d’une salle d’exposition présentant des œuvres d’Ibragim Valikhodjaev. Archives de l’artiste ; titre et date de l’exposition non confirmés.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Vue d’ensemble d’une salle d’exposition présentant des œuvres d’Ibragim Valikhodjaev. Archives de l’artiste ; titre et date de l’exposition non confirmés.
+
+## Le tableau dans l’espace d’exposition
+
+Les vues d’exposition montrent la rencontre du tableau avec le public. Les murs laissés libres, l’espacement des œuvres et la possibilité de prendre du recul modifient le regard. La vue d’ensemble donne l’échelle ; les visiteurs montrent comment l’on s’approche d’une œuvre avant de la retrouver à distance.
+
+[Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.

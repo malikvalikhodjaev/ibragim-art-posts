@@ -115,3 +115,21 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Ссылки галереи](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Редакционный материал Valikhodjaev Gallery House. Источники иллюстраций указаны в подписях.
+
+## Пленэр начинается с внимательного взгляда
+
+Пленэр начинается задолго до первого мазка — с прогулки и выбора точки зрения. На этих фотографиях видны сельская улица, тесный двор, каменистый склон и осенние деревья. Один мотив можно прочитать как чередование светлых стен и тёмных проёмов, другой — как движение дороги между постройками. Художник выбирает не только предмет изображения, но и соотношение больших масс, которое удержит будущую картину.
+
+Эти рабочие снимки дополняют репродукции пейзажей: они возвращают зрителя к масштабу места, неоднородному свету и фактуре поверхности. Стена, кровля, полоса земли и крона дерева дают материал для колористических отношений. В законченном полотне наблюдение может стать свободнее и обобщённее; связь с натурой сохраняется в устройстве пространства. Точные место и год этих фотографий не указаны: сами кадры не позволяют приписать их конкретному пленэру в Мираки, Черногории или Азербайджане.
+
+[Ибрагим Валиходжаев на пленэре: сельская улица и горный пейзаж. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Ибрагим Валиходжаев на пленэре: сельская улица и горный пейзаж. Архив художника.
+
+[На пленэре: двор и сельские постройки. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+На пленэре: двор и сельские постройки. Архив художника.
+
+[На пленэре: среди камней и осенних деревьев. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+На пленэре: среди камней и осенних деревьев. Архив художника.

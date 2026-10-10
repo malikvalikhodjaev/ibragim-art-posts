@@ -117,3 +117,21 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya havolalari](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
+
+## Plener sinchiklab kuzatishdan boshlanadi
+
+Plener ilk mo‘yqalam zarbasidan oldin — sayr va ko‘rish nuqtasini tanlashdan boshlanadi. Suratlarda qishloq ko‘chasi, tor hovli, toshli yonbag‘ir va kuzgi daraxtlar ko‘rinadi. Bir motivni och devorlar va qoramtir eshik-derazalar almashinuvi sifatida, boshqasini imoratlar orasidan o‘tuvchi yo‘l harakati sifatida o‘qish mumkin. Rassom tasvir mavzusini ham, kompozitsiyani ushlab turadigan katta shakllar nisbatini ham tanlaydi.
+
+Bu ish jarayoni suratlari manzaralarga joyning ko‘lami, o‘zgaruvchan yorug‘lik va sirt fakturasini qaytaradi. Devor, tom, yer tasmasi va daraxt shox-shabbasi rang munosabatlariga asos bo‘ladi. Tayyor asarda kuzatish erkinroq va umumlashgan tus olishi mumkin; natura bilan aloqa makon qurilishida saqlanadi. Suratlarning aniq joyi va yili belgilanmagan. Faqat ko‘rinishiga qarab ularni Miraki, Chernogoriya yoki Ozarbayjondagi muayyan plenerga nisbat berib bo‘lmaydi.
+
+[Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.
+
+[Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.
+
+[Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Plener safarida: qoyalar va kuzgi daraxtlar orasida. Rassom arxivi.

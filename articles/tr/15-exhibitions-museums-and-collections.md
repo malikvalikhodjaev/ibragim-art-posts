@@ -113,3 +113,11 @@ Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsellerin kaynaklar
 [Ibragim Valikhodjaev’in eserlerinin sergilendiği salonun genel görünümü. Sanatçının arşivi; serginin adı ve tarihi doğrulanmamıştır.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev’in eserlerinin sergilendiği salonun genel görünümü. Sanatçının arşivi; serginin adı ve tarihi doğrulanmamıştır.
+
+## Resim ve sergi mekânı
+
+Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar alanları, eserlerin arasındaki uzaklık ve geriye çekilebilme olanağı algıyı değiştirir. Genel görünüm ölçeği anlatır; ziyaretçilerin bulunduğu kare, yakından incelemeyle uzaktan bakış arasındaki geçişi gösterir.
+
+[Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.

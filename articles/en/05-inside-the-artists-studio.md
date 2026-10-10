@@ -122,3 +122,43 @@ In September 2025, Valikhodjaev led a painting masterclass for students at Xi’
 [Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Inside the studio: before and after the exhibition
+
+The studio reveals several stages of a pictorial decision: a canvas on the easel, a moving brush, a pause before a painted surface. Photographs from different years connect the daily work. They show how a painting’s expression emerges through observation and assessment — through the distance from which the artist studies it, and attention to the way one passage changes the whole.
+
+[Ibragim Valikhodjaev in his studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev in his studio. Artist’s archive.
+
+[Ibragim Valikhodjaev in his studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev in his studio. Artist’s archive.
+
+[Ibragim Valikhodjaev in his studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev in his studio. Artist’s archive.
+
+[The artist looking at a painting with a red colour field. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+The artist looking at a painting with a red colour field. Artist’s archive.
+
+[Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist’s archive.
+
+## RED: painting before an audience
+
+Two photographs of the masterclass accompanying RED in Tashkent in 2017 bring the discussion of colour into practice. Visitors gather close to the easel and follow the sequence of actions. Speed is only one part of the demonstration: the silhouette, the extent of a colour patch and the intervals between forms become visible decisions.
+
+The Embassy of Uzbekistan’s report on the exhibition records 31 works and a masterclass for visitors. The photographs open the process to view: the position of the hand, the palette and the emerging image can be compared. The investigation of red takes shape through its neighbouring tones and the organisation of the entire canvas.
+
+[RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 2017. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 2017. Artist’s archive.
+
+[RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.
+
+[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

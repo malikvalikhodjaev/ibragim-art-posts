@@ -133,5 +133,29 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 مطالب مربوط به سرمقاله از Valikhodjaev Gallery House. منابع تصاویر در توضیحات ذکر شده است.
 
+## RED: نقاشی در برابر تماشاگران
+
+دو عکس از کلاس عملی همراه نمایشگاه RED در تاشکند در 2017 میلادی، بحث رنگ را به عمل نزدیک می‌کنند. تماشاگران کنار سه‌پایه توالی حرکت‌ها را دنبال می‌کنند. فقط سرعت اهمیت ندارد؛ خطوط پیرامونی، وسعت لکهٔ رنگ و فاصلهٔ میان شکل‌ها به تصمیم‌های قابل دیدن تبدیل می‌شوند.
+
+گزارش سفارت ازبکستان 31 اثر و کلاسی عملی برای بازدیدکنندگان را ثبت کرده است. عکس‌ها امکان مقایسهٔ وضعیت دست، پالت و تصویر در حال شکل‌گیری را می‌دهند. پژوهش در قرمز از طریق روابطش با رنگ‌های مجاور و سازمان‌دهی کل سطح بوم آشکار می‌شود.
+
+[کلاس عملی RED: تماشاگران کار نقاش را دنبال می‌کنند، ازبکستان، تاشکند، 2017 میلادی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+کلاس عملی RED: تماشاگران کار نقاش را دنبال می‌کنند، ازبکستان، تاشکند، 2017 میلادی. آرشیو هنرمند.
+
+[کلاس عملی RED: شکل‌گیری ترکیب‌بندی، ازبکستان، تاشکند، 2017 میلادی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+کلاس عملی RED: شکل‌گیری ترکیب‌بندی، ازبکستان، تاشکند، 2017 میلادی. آرشیو هنرمند.
+
+[RED و کلاس عملی: گزارش سفارت ازبکستان، 2017 میلادی](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## در آتلیه، پیش و پس از نمایشگاه
+
+آتلیه مراحل یک تصمیم نقاشانه را نشان می‌دهد: بوم روی سه‌پایه، حرکت قلم‌مو و مکث در برابر سطح نقاشی‌شده. عکس‌ها کار روزمرهٔ سال‌های مختلف را به هم پیوند می‌دهند. بیان تابلو از مشاهده و بازبینی، از فاصلهٔ نگاه نقاش و توجه به تأثیر یک بخش بر کل شکل می‌گیرد.
+
+[هنرمند تابلویی با پهنهٔ رنگی قرمز را نگاه می‌کند. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+هنرمند تابلویی با پهنهٔ رنگی قرمز را نگاه می‌کند. آرشیو هنرمند.
+
 
 </div>

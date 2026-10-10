@@ -126,3 +126,31 @@ These two archival videos show the artist taking part in preparing and viewing a
 [Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## The painting and its exhibition space
+
+Installation photographs reveal another part of a painting’s life: its encounter with viewers. Empty wall space, the intervals between pictures and room to step back alter the conditions of looking. The wider view establishes scale; the photograph with visitors shows the habit of approaching a work and returning to it from a distance.
+
+[Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.
+
+[A view of the exhibition installation. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+A view of the exhibition installation. Artist’s archive.
+
+[Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist’s archive.
+
+## Recognition and a professional life
+
+Award photographs add lived moments of recognition to the professional record. They preserve the gesture of presentation and the company of colleagues; an award list preserves official names and years. Confirmed achievements include the Shukhrat Medal in 2020 and the Academy of Arts Gold Medal in 2018. These entries do not date the photographs shown here: separate ceremonies cannot be identified from a medal’s appearance alone.
+
+[Presentation of a gold medal to Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Presentation of a gold medal to Ibragim Valikhodjaev. Artist’s archive.
+
+[Ibragim Valikhodjaev at an award ceremony. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev at an award ceremony. Artist’s archive.

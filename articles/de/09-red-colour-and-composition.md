@@ -130,3 +130,27 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galerie-Links](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in den Bildunterschriften angegeben.
+
+## RED: Malen vor Publikum
+
+Zwei Fotos des Malkurses zur Ausstellung RED in Taschkent 2017 führen die Überlegungen zur Farbe in die Praxis. Die Besucher stehen dicht an der Staffelei und verfolgen die Arbeitsschritte. Es geht nicht nur um Geschwindigkeit: Silhouette, Ausdehnung einer Farbfläche und Abstände zwischen Formen werden als Entscheidungen sichtbar.
+
+Der Bericht der usbekischen Botschaft nennt 31 Werke und einen Malkurs für Besucher. Die Fotos ermöglichen den Vergleich von Handhaltung, Palette und entstehendem Bild. Die Untersuchung des Rot entfaltet sich in seinen Beziehungen zu benachbarten Tönen und im Aufbau der gesamten Leinwand.
+
+[RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent, 2017. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
+
+[RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
+
+[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## Im Atelier, vor und nach der Ausstellung
+
+Im Atelier werden mehrere Phasen einer malerischen Entscheidung sichtbar: die Leinwand auf der Staffelei, die Bewegung des Pinsels, das Innehalten vor der bemalten Fläche. Die Fotografien verbinden den Arbeitsalltag verschiedener Jahre. Ausdruck entsteht durch Beobachten und Prüfen, durch den Abstand zum Bild und die Aufmerksamkeit dafür, wie eine einzelne Partie das Ganze verändert.
+
+[Der Künstler betrachtet ein Gemälde mit einer roten Farbfläche. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Der Künstler betrachtet ein Gemälde mit einer roten Farbfläche. Archiv des Künstlers.

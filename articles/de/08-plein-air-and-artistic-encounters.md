@@ -125,3 +125,21 @@ Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in 
 [«Miraki. Winter», 2011. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
 
 «Miraki. Winter», 2011. Ibragim Valikhodjaev. Reproduktion aus dem Archiv des Künstlers.
+
+## Freilichtmalerei beginnt mit dem Sehen
+
+Freilichtmalerei beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
+
+Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, Montenegro oder Aserbaidschan.
+
+[Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv des Künstlers.
+
+[Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.
+
+[Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Arbeiten nach der Natur: Felsen und Herbstbäume. Archiv des Künstlers.

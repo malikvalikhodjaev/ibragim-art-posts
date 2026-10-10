@@ -128,5 +128,23 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 «میراکی: زمستان», 2011. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.
 
+## نقاشی در فضای باز با دیدن آغاز می‌شود
+
+نقاشی در فضای باز پیش از نخستین ضربهٔ قلم‌مو، با قدم زدن و انتخاب زاویهٔ دید آغاز می‌شود. در عکس‌ها کوچهٔ روستا، حیاطی کوچک، دامنه‌ای سنگی و درختان پاییزی دیده می‌شود. یک منظره را می‌توان به‌صورت تناوب دیوارهای روشن و بازشوهای تیره خواند، و دیگری را حرکت راهی میان بناها دانست. نقاش هم موضوع و هم نسبت توده‌های بزرگِ سازندهٔ ترکیب‌بندی را انتخاب می‌کند.
+
+این عکس‌های کار، مقیاس مکان، نور متغیر و بافت سطوح را به تصاویر مناظر می‌افزایند. دیوار، بام، نوار خاک و تاج درخت به مادهٔ روابط رنگی بدل می‌شوند. مشاهده در تابلوی نهایی می‌تواند آزادتر و فشرده‌تر شود، اما ارتباط با طبیعت در ساختار فضا باقی می‌ماند. مکان و سال این عکس‌ها مشخص نشده است؛ ظاهرشان به‌تنهایی انتساب به برنامه‌ای معین در میراکی، مونته‌نگرو یا آذربایجان را ممکن نمی‌کند.
+
+[در سفر برای نقاشی از طبیعت: کوچهٔ روستا و منظرهٔ کوهستان. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+در سفر برای نقاشی از طبیعت: کوچهٔ روستا و منظرهٔ کوهستان. آرشیو هنرمند.
+
+[در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.
+
+[در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+در سفر برای نقاشی از طبیعت: صخره‌ها و درختان پاییزی. آرشیو هنرمند.
+
 
 </div>

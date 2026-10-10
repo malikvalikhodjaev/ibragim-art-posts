@@ -126,3 +126,31 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [영상](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [전시장 둘러보기 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## 회화와 전시 공간
+
+전시 사진은 그림과 관객의 만남을 보여 준다. 비어 있는 벽면, 작품 사이의 간격, 뒤로 물러설 공간이 감상 조건을 바꾼다. 전경은 규모를 전하고 관람객이 담긴 사진은 가까이 보다가 멀리서 다시 바라보는 움직임을 전한다.
+
+[발리호자예프의 그림을 보는 관람객. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+발리호자예프의 그림을 보는 관람객. 작가 소장 사진.
+
+[전시장 전경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+전시장 전경. 작가 소장 사진.
+
+[전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.
+
+## 인정과 작가의 경력
+
+시상 사진은 경력 기록에 실제 인정의 순간을 더한다. 수여하는 몸짓과 동료의 모습은 사진에, 공식 명칭과 연도는 수상 목록에 남는다. 확인된 영예에는 2020년 슈흐라트 메달과 2018년 예술아카데미 금메달이 있다. 이 연도를 사진의 촬영 연도로 사용하지는 않는다. 메달의 겉모습만으로 개별 행사를 특정할 수는 없다.
+
+[이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.
+
+[시상식의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+시상식의 발리호자예프. 작가 소장 사진.

@@ -125,3 +125,21 @@ Editorial material from Valikhodjaev Gallery House. Image sources are indicated 
 [«Miraki. Winter», 2011. Ibragim Valikhodjaev. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
 
 «Miraki. Winter», 2011. Ibragim Valikhodjaev. Reproduction from the artist’s archive.
+
+## Plein air begins with looking
+
+Plein air begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
+
+These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, Montenegro or Azerbaijan.
+
+[Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist’s archive.
+
+[On a plein-air visit: a courtyard and village buildings. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+On a plein-air visit: a courtyard and village buildings. Artist’s archive.
+
+[On a plein-air visit: rocks and autumn trees. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+On a plein-air visit: rocks and autumn trees. Artist’s archive.

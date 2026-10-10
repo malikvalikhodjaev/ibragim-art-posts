@@ -122,3 +122,43 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 [Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Atölyede, sergiden önce ve sonra
+
+Atölye, resimsel bir kararın aşamalarını gösterir: şövaledeki tuval, fırçanın hareketi, boyanmış yüzeyin karşısında bir duraklama. Farklı yılların fotoğrafları gündelik çalışmayı birbirine bağlar. Resmin ifadesi gözlem ve değerlendirmeyle, sanatçının tuvale baktığı uzaklıkla ve bir bölümün bütünü nasıl değiştirdiğine dikkat etmesiyle oluşur.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
+[Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.
+
+[Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.
+
+## RED: izleyicilerin önünde resim yapmak
+
+2017’de Taşkent’te RED sergisine eşlik eden uygulamalı çalışmanın iki fotoğrafı, renk üzerine düşünceyi pratiğe taşır. İzleyiciler şövaleye yaklaşarak hareketlerin sırasını takip eder. Yalnızca hız önemli değildir: siluet, renk lekesinin kapladığı alan ve biçimler arasındaki aralıklar görünür kararlara dönüşür.
+
+Özbekistan Büyükelçiliği’nin sergi haberinde 31 eser ve ziyaretçiler için düzenlenen uygulamalı çalışma kaydedilir. Fotoğraflar elin konumunu, paleti ve oluşan resmi karşılaştırmaya imkân verir. Kırmızının araştırılması, komşu tonlarla ilişkilerinde ve tuvalin bütününün düzenlenmesinde somutlaşır.
+
+[RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekistan, Taşkent, 2017. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
+
+[RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
+
+[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

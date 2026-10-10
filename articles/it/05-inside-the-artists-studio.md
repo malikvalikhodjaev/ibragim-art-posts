@@ -122,3 +122,43 @@ Nel settembre 2025 Valikhodjaev ha tenuto una masterclass per gli studenti di pi
 [Video della masterclass · Cina, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Resoconto della visita e della masterclass · Facebook, 8 ottobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Nello studio, prima e dopo la mostra
+
+Lo studio mostra diverse fasi di una decisione pittorica: la tela sul cavalletto, il movimento del pennello, una pausa davanti alla superficie dipinta. Le fotografie collegano il lavoro quotidiano di anni diversi. L’espressività nasce dall’osservazione e dalla verifica, dalla distanza dello sguardo e dall’attenzione a come un passaggio modifica l’intero quadro.
+
+[Valikhodjaev nel suo studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev nel suo studio. Archivio dell’artista.
+
+[Valikhodjaev nel suo studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev nel suo studio. Archivio dell’artista.
+
+[Valikhodjaev nel suo studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev nel suo studio. Archivio dell’artista.
+
+[L’artista osserva un dipinto con un campo cromatico rosso. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+L’artista osserva un dipinto con un campo cromatico rosso. Archivio dell’artista.
+
+[Valikhodjaev e il maestro Rahim Ahmedov durante un incontro in mostra. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev e il maestro Rahim Ahmedov durante un incontro in mostra. Archivio dell’artista.
+
+## RED: dipingere davanti al pubblico
+
+Due fotografie della masterclass che accompagnava RED a Tashkent nel 2017 portano il discorso sul colore nella pratica. I visitatori si raccolgono vicino al cavalletto e seguono la successione dei gesti. Non conta soltanto la rapidità: il profilo, l’estensione di una macchia cromatica e gli intervalli fra le forme diventano scelte visibili.
+
+Il resoconto dell’Ambasciata dell’Uzbekistan ricorda 31 opere e una masterclass per i visitatori. Le immagini consentono di confrontare la mano, la tavolozza e il dipinto in formazione. La ricerca sul rosso prende forma nei rapporti con i toni vicini e nell’organizzazione dell’intera tela.
+
+[Masterclass RED: il pubblico osserva il pittore, Uzbekistan, Tashkent, 2017. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Masterclass RED: il pubblico osserva il pittore, Uzbekistan, Tashkent, 2017. Archivio dell’artista.
+
+[Masterclass RED: sviluppo della composizione, Uzbekistan, Tashkent, 2017. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Masterclass RED: sviluppo della composizione, Uzbekistan, Tashkent, 2017. Archivio dell’artista.
+
+[RED e la masterclass: Ambasciata dell’Uzbekistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

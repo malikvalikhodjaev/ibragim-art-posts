@@ -126,3 +126,31 @@ Valikhodjaev Gallery House · 2026年10月6日
 [视频](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [巡视展览——乌兹别克斯坦艺术家联盟主席伊布拉吉姆·瓦利霍贾耶夫](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## 绘画与展览空间
+
+展览照片展示了作品与观众相遇的另一面。墙面的留白、画作之间的距离，以及向后退步的空间，都会改变观看条件。全景表现作品的尺度，观众入镜的照片则呈现近看与远观之间的切换。
+
+[观众观看瓦利霍贾耶夫的作品。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+观众观看瓦利霍贾耶夫的作品。 艺术家档案。
+
+[展览陈列全景。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+展览陈列全景。 艺术家档案。
+
+[瓦利霍贾耶夫与恩师拉希姆·艾哈迈多夫在展览交流活动中。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+瓦利霍贾耶夫与恩师拉希姆·艾哈迈多夫在展览交流活动中。 艺术家档案。
+
+## 认可与职业历程
+
+颁奖照片为职业年表补充了真实的认可时刻，保留授奖的动作与同行在场的情景；奖项清单则记录正式名称与年份。已确认的荣誉包括2020年“舒赫拉特”奖章和2018年艺术科学院金质奖章。这些年份并非所示照片的拍摄日期：仅凭奖章外观不能确定某一场仪式。
+
+[向伊布拉吉姆·瓦利霍贾耶夫颁发金质奖章。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+向伊布拉吉姆·瓦利霍贾耶夫颁发金质奖章。 艺术家档案。
+
+[瓦利霍贾耶夫在颁奖仪式上。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+瓦利霍贾耶夫在颁奖仪式上。 艺术家档案。

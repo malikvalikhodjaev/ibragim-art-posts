@@ -113,3 +113,11 @@ Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에
 [이브라김 발리호자예프의 작품이 전시된 공간의 전경. 작가 소장 사진. 전시명과 날짜는 확인되지 않았다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 이브라김 발리호자예프의 작품이 전시된 공간의 전경. 작가 소장 사진. 전시명과 날짜는 확인되지 않았다.
+
+## 회화와 전시 공간
+
+전시 사진은 그림과 관객의 만남을 보여 준다. 비어 있는 벽면, 작품 사이의 간격, 뒤로 물러설 공간이 감상 조건을 바꾼다. 전경은 규모를 전하고 관람객이 담긴 사진은 가까이 보다가 멀리서 다시 바라보는 움직임을 전한다.
+
+[발리호자예프의 그림을 보는 관람객. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+발리호자예프의 그림을 보는 관람객. 작가 소장 사진.

@@ -130,3 +130,27 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[画廊链接](<https://linktr.ee/ibragim.valikhodjaev>)
 
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
+
+## RED：在观众面前作画
+
+2017年塔什干RED展览期间绘画示范的两张照片，将色彩讨论带入实际创作。观众靠近画架，观察动作的先后顺序。重要的不只是速度：轮廓、色块的面积和形体间的间隔，都成为可以看见的选择。
+
+乌兹别克斯坦使馆的展览报道记载了31件作品，以及面向观众的绘画示范。照片让人比较手的位置、调色板和正在形成的画面。对红色的研究，由它与相邻色调的关系，以及整张画布的组织方式具体呈现。
+
+[RED绘画示范：观众观看创作，乌兹别克斯坦，塔什干，2017年。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED绘画示范：观众观看创作，乌兹别克斯坦，塔什干，2017年。 艺术家档案。
+
+[RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 艺术家档案。
+
+[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## 画室内：展览前后的工作
+
+画室展示了绘画决策的不同阶段：画架上的画布、移动的画笔，以及面对已画表面的停顿。不同时期的照片把日常工作连接起来。画面的表现力来自观察与检验，来自画家观看作品的距离，也来自他对局部如何改变整体的关注。
+
+[艺术家观看一幅以红色色域为特征的画作。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+艺术家观看一幅以红色色域为特征的画作。 艺术家档案。

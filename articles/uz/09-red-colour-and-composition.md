@@ -130,3 +130,27 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya havolalari](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
+
+## RED: tomoshabinlar oldida rangtasvir
+
+Toshkentdagi RED ko‘rgazmasiga hamroh bo‘lgan 2017-yilgi mahorat darsining ikki surati rang haqidagi fikrni amaliyot bilan bog‘laydi. Tashrifchilar molbertga yaqin turib, harakatlar ketma-ketligini kuzatadi. Faqat tezlik emas, siluet, rang dog‘ining ko‘lami va shakllar oralig‘i ham ko‘zga ko‘rinadigan qarorlarga aylanadi.
+
+O‘zbekiston elchixonasining ko‘rgazma haqidagi xabarida 31 asar va tashrifchilar uchun mahorat darsi qayd etilgan. Suratlar qo‘l holatini, palitrani va yuzaga kelayotgan tasvirni qiyoslash imkonini beradi. Qizil rang tadqiqi uning qo‘shni tuslar bilan aloqasi va butun mato yuzasining tashkil etilishida namoyon bo‘ladi.
+
+[RED mahorat darsi: tashrifchilar rassomning ishini kuzatmoqda, O‘zbekiston, Toshkent, 2017. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED mahorat darsi: tashrifchilar rassomning ishini kuzatmoqda, O‘zbekiston, Toshkent, 2017. Rassom arxivi.
+
+[RED mahorat darsi: kompozitsiya ustida ishlash, O‘zbekiston, Toshkent, 2017. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED mahorat darsi: kompozitsiya ustida ishlash, O‘zbekiston, Toshkent, 2017. Rassom arxivi.
+
+[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## Ustaxonada: ko‘rgazmadan oldin va keyin
+
+Ustaxonada badiiy qarorning turli bosqichlari ko‘rinadi: molbertdagi mato, mo‘yqalam harakati, yozilgan sirt oldidagi to‘xtalish. Arxiv suratlari turli yillardagi kundalik mehnatni bog‘laydi. Asarning ifodaliligi kuzatish va tekshirishdan, rassomning unga qanday masofadan qarashidan hamda bir parcha butun kompozitsiyani qanday o‘zgartirishiga e’tiboridan shakllanadi.
+
+[Rassom qizil rang maydoni ustun bo‘lgan asarni ko‘zdan kechirmoqda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Rassom qizil rang maydoni ustun bo‘lgan asarni ko‘zdan kechirmoqda. Rassom arxivi.

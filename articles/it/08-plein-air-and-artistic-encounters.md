@@ -125,3 +125,21 @@ Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini s
 [«Miraki. Inverno», 2011. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
 
 «Miraki. Inverno», 2011. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.
+
+## La pittura all’aperto comincia dallo sguardo
+
+La pittura all’aperto comincia prima della prima pennellata, con una passeggiata e la scelta del punto di vista. Le fotografie mostrano una strada di villaggio, un cortile raccolto, un pendio roccioso e alberi autunnali. Un motivo si legge come alternanza di muri chiari e aperture scure; un altro come movimento di una strada fra gli edifici. Il pittore sceglie sia il soggetto sia il rapporto fra le grandi masse della composizione.
+
+Queste immagini di lavoro completano i paesaggi, restituendo la scala dei luoghi, la luce irregolare e le texture. Pareti, tetti, una striscia di terra e la chioma di un albero alimentano i rapporti cromatici. Nel dipinto l’osservazione può diventare più libera e sintetica, mantenendo il legame con il motivo nella costruzione dello spazio. Luogo e anno delle fotografie non sono accertati: il loro aspetto non basta a collegarle a un preciso soggiorno a Miraki, in Montenegro o in Azerbaigian.
+
+[Uscita di lavoro dal vero: una strada di villaggio e le montagne. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+Uscita di lavoro dal vero: una strada di villaggio e le montagne. Archivio dell’artista.
+
+[Lavoro dal vero: un cortile e costruzioni rurali. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+Lavoro dal vero: un cortile e costruzioni rurali. Archivio dell’artista.
+
+[Lavoro dal vero: rocce e alberi autunnali. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+Lavoro dal vero: rocce e alberi autunnali. Archivio dell’artista.

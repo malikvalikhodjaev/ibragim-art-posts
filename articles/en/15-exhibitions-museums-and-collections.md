@@ -113,3 +113,11 @@ Editorial material from Valikhodjaev Gallery House. Sources for illustrations ar
 [An exhibition hall displaying works by Ibragim Valikhodjaev. Artist’s archive; the exhibition title and date have not been confirmed.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 An exhibition hall displaying works by Ibragim Valikhodjaev. Artist’s archive; the exhibition title and date have not been confirmed.
+
+## The painting and its exhibition space
+
+Installation photographs reveal another part of a painting’s life: its encounter with viewers. Empty wall space, the intervals between pictures and room to step back alter the conditions of looking. The wider view establishes scale; the photograph with visitors shows the habit of approaching a work and returning to it from a distance.
+
+[Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.

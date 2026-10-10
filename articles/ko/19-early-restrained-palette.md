@@ -109,3 +109,27 @@ Valikhodjaev Gallery House
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 작업실에서: 전시 전후의 시간
+
+작업실에서는 회화적 판단의 여러 단계가 보인다. 이젤 위의 캔버스, 움직이는 붓, 그려진 표면 앞에서의 멈춤이 그것이다. 서로 다른 시기의 사진이 일상적인 작업을 연결한다. 표현력은 관찰과 검토, 그림을 바라보는 거리, 한 부분이 전체를 어떻게 바꾸는지에 대한 주의 속에서 형성된다.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.

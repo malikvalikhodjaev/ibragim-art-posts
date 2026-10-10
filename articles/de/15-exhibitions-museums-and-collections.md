@@ -113,3 +113,11 @@ Redaktionelles Material aus dem Valikhodjaev Gallery House. Die Quellen der Abbi
 [Blick in einen Ausstellungssaal mit Werken von Ibragim Valikhodjaev. Archiv des Künstlers; Ausstellungstitel und Datum nicht bestätigt.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Blick in einen Ausstellungssaal mit Werken von Ibragim Valikhodjaev. Archiv des Künstlers; Ausstellungstitel und Datum nicht bestätigt.
+
+## Das Gemälde im Ausstellungsraum
+
+Ausstellungsfotos zeigen die Begegnung des Bildes mit seinen Betrachtern. Freie Wandflächen, Abstände zwischen Werken und Raum zum Zurücktreten verändern das Sehen. Die Gesamtansicht vermittelt den Maßstab; Besucher verdeutlichen den Wechsel zwischen Nahsicht und Betrachtung aus der Ferne.
+
+[Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.

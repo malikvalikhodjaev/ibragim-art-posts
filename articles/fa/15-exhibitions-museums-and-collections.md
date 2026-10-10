@@ -116,5 +116,13 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 نمای کلی تالاری با آثار ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند؛ نام و تاریخ نمایشگاه تأیید نشده است.
 
+## تابلو و فضای نمایشگاه
+
+عکس‌های چیدمان، دیدار تابلو با تماشاگر را نشان می‌دهند. بخش‌های خالی دیوار، فاصلهٔ آثار و امکان عقب رفتن، شرایط دیدن را تغییر می‌دهند. نمای کلی مقیاس را روشن می‌کند و عکس بازدیدکنندگان حرکت میان نگاه نزدیک و دور را نشان می‌دهد.
+
+[بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
+
 
 </div>

@@ -111,3 +111,11 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Общий вид выставочного зала с произведениями Ибрагима Валиходжаева. Архив художника; название выставки и дата не подтверждены.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Общий вид выставочного зала с произведениями Ибрагима Валиходжаева. Архив художника; название выставки и дата не подтверждены.
+
+## Картина и пространство выставки
+
+Фотографии экспозиции показывают ещё одну сторону жизни картины — встречу со зрителем. Пустые участки стены, расстояния между полотнами и возможность отойти меняют условия восприятия. Общий вид зала помогает увидеть масштаб, а кадр с посетителями — привычку рассматривать работу вблизи и возвращаться к ней издалека.
+
+[Посетители у картин Ибрагима Валиходжаева. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Посетители у картин Ибрагима Валиходжаева. Архив художника.

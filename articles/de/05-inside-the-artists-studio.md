@@ -122,3 +122,43 @@ Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Ma
 [Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## Im Atelier, vor und nach der Ausstellung
+
+Im Atelier werden mehrere Phasen einer malerischen Entscheidung sichtbar: die Leinwand auf der Staffelei, die Bewegung des Pinsels, das Innehalten vor der bemalten Fläche. Die Fotografien verbinden den Arbeitsalltag verschiedener Jahre. Ausdruck entsteht durch Beobachten und Prüfen, durch den Abstand zum Bild und die Aufmerksamkeit dafür, wie eine einzelne Partie das Ganze verändert.
+
+[Valikhodjaev in seinem Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev in seinem Atelier. Archiv des Künstlers.
+
+[Valikhodjaev in seinem Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev in seinem Atelier. Archiv des Künstlers.
+
+[Valikhodjaev in seinem Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev in seinem Atelier. Archiv des Künstlers.
+
+[Der Künstler betrachtet ein Gemälde mit einer roten Farbfläche. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Der Künstler betrachtet ein Gemälde mit einer roten Farbfläche. Archiv des Künstlers.
+
+[Valikhodjaev und sein Lehrer Rahim Ahmedov bei einer Begegnung in einer Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev und sein Lehrer Rahim Ahmedov bei einer Begegnung in einer Ausstellung. Archiv des Künstlers.
+
+## RED: Malen vor Publikum
+
+Zwei Fotos des Malkurses zur Ausstellung RED in Taschkent 2017 führen die Überlegungen zur Farbe in die Praxis. Die Besucher stehen dicht an der Staffelei und verfolgen die Arbeitsschritte. Es geht nicht nur um Geschwindigkeit: Silhouette, Ausdehnung einer Farbfläche und Abstände zwischen Formen werden als Entscheidungen sichtbar.
+
+Der Bericht der usbekischen Botschaft nennt 31 Werke und einen Malkurs für Besucher. Die Fotos ermöglichen den Vergleich von Handhaltung, Palette und entstehendem Bild. Die Untersuchung des Rot entfaltet sich in seinen Beziehungen zu benachbarten Tönen und im Aufbau der gesamten Leinwand.
+
+[RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent, 2017. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
+
+[RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
+
+[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)

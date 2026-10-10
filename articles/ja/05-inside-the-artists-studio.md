@@ -122,3 +122,43 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 [マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## アトリエで：展覧会の前と後
+
+アトリエでは、絵画上の判断の段階が見える。イーゼルの上のカンヴァス、筆の動き、描かれた表面を前にした立ち止まり。異なる時期の写真は日々の仕事をつなぐ。表現は観察と検討、作品を見る距離、そして一つの部分が全体をどう変えるかへの注意から形づくられる。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
+[赤い色面のある絵画を見つめる画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+赤い色面のある絵画を見つめる画家。 画家のアーカイブより。
+
+[展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。
+
+## RED：観客の前で描く
+
+2017年タシケントのRED展に伴う制作実演の二枚の写真は、色彩の話を実践につなぐ。観客はイーゼルの近くで動作の順序を見守る。重要なのは速さだけではない。輪郭、色面の大きさ、形の間隔が、目に見える判断となる。
+
+ウズベキスタン大使館の報告には、31点の作品と来場者向けの制作実演が記されている。写真では手の位置、パレット、生まれつつある絵を比べられる。赤の探究は、隣り合う色調との関係とカンヴァス全体の構成を通じて具体化する。
+
+[REDの制作実演を見守る来場者。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+REDの制作実演を見守る来場者。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
+
+[REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
+
+[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)

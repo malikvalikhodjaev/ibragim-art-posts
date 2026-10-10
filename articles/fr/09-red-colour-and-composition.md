@@ -130,3 +130,27 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Liens vers la galerie](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
+
+## RED : peindre devant le public
+
+Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 donnent une dimension pratique à la réflexion sur la couleur. Le public se tient près du chevalet et suit les gestes. La rapidité ne suffit pas à expliquer le travail : silhouette, étendue d’une plage colorée et intervalles entre les formes deviennent des décisions visibles.
+
+Le compte rendu de l’ambassade d’Ouzbékistan mentionne 31 œuvres et une démonstration pour les visiteurs. Les photographies permettent de comparer le geste, la palette et l’image en cours. L’étude du rouge se précise dans ses rapports avec les tons voisins et dans l’organisation de toute la toile.
+
+[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
+
+[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## Dans l’atelier, avant et après l’exposition
+
+L’atelier donne à voir plusieurs étapes d’une décision picturale : la toile sur le chevalet, le mouvement du pinceau, la pause devant la surface peinte. Les photographies relient le travail quotidien de différentes années. L’expression du tableau se construit par l’observation et la vérification, par la distance du regard et par l’attention portée à la manière dont un passage modifie l’ensemble.
+
+[L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+L’artiste devant une peinture dominée par le rouge. Archives de l’artiste.

@@ -129,5 +129,33 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [סיור בתערוכה — איברגים וליחודז'אייב כיו״ר איגוד האמנים של אוזבקיסטן](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
+## הציור בחלל התערוכה
+
+תצלומי התצוגה מראים את המפגש של הציור עם הצופים. שטחי הקיר הריקים, המרווחים בין היצירות והאפשרות לסגת לאחור משנים את תנאי ההתבוננות. המראה הכללי מבהיר קנה מידה, ותצלום המבקרים מראה את התנועה בין מבט מקרוב למבט מרחוק.
+
+[מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.
+
+[מראה כללי של התצוגה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+מראה כללי של התצוגה. ארכיון האמן.
+
+[וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.
+
+## הוקרה והמסלול המקצועי
+
+תצלומי ההוקרה מוסיפים רגעים חיים לרשומה המקצועית. הם משמרים את מחוות ההענקה ואת נוכחות העמיתים; רשימת העיטורים מתעדת שמות ושנים רשמיים. בין העיטורים המאומתים מדליית שוחראט מ־2020 ומדליית הזהב של האקדמיה לאמנויות מ־2018. השנים הללו אינן מתארכות את התצלומים המוצגים: מראה המדליה לבדו אינו מזהה טקס מסוים.
+
+[הענקת מדליית זהב לאיברגים וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+הענקת מדליית זהב לאיברגים וליחודז'אייב. ארכיון האמן.
+
+[וליחודז'אייב בטקס הוקרה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+וליחודז'אייב בטקס הוקרה. ארכיון האמן.
+
 
 </div>

@@ -130,3 +130,27 @@ Eserleri incelerken, genel görünümden detaylara geçmek faydalıdır: önce a
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galeri Bağlantıları](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
+
+## RED: izleyicilerin önünde resim yapmak
+
+2017’de Taşkent’te RED sergisine eşlik eden uygulamalı çalışmanın iki fotoğrafı, renk üzerine düşünceyi pratiğe taşır. İzleyiciler şövaleye yaklaşarak hareketlerin sırasını takip eder. Yalnızca hız önemli değildir: siluet, renk lekesinin kapladığı alan ve biçimler arasındaki aralıklar görünür kararlara dönüşür.
+
+Özbekistan Büyükelçiliği’nin sergi haberinde 31 eser ve ziyaretçiler için düzenlenen uygulamalı çalışma kaydedilir. Fotoğraflar elin konumunu, paleti ve oluşan resmi karşılaştırmaya imkân verir. Kırmızının araştırılması, komşu tonlarla ilişkilerinde ve tuvalin bütününün düzenlenmesinde somutlaşır.
+
+[RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekistan, Taşkent, 2017. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
+
+[RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
+
+[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## Atölyede, sergiden önce ve sonra
+
+Atölye, resimsel bir kararın aşamalarını gösterir: şövaledeki tuval, fırçanın hareketi, boyanmış yüzeyin karşısında bir duraklama. Farklı yılların fotoğrafları gündelik çalışmayı birbirine bağlar. Resmin ifadesi gözlem ve değerlendirmeyle, sanatçının tuvale baktığı uzaklıkla ve bir bölümün bütünü nasıl değiştirdiğine dikkat etmesiyle oluşur.
+
+[Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.

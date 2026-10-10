@@ -113,3 +113,11 @@ Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle illustrazi
 [Veduta d’insieme di una sala con opere di Ibragim Valikhodjaev. Archivio dell’artista; titolo e data della mostra non confermati.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Veduta d’insieme di una sala con opere di Ibragim Valikhodjaev. Archivio dell’artista; titolo e data della mostra non confermati.
+
+## Il dipinto nello spazio della mostra
+
+Le fotografie dell’allestimento mostrano l’incontro del dipinto con il pubblico. Le porzioni di parete vuota, la distanza fra le opere e la possibilità di arretrare modificano la percezione. La veduta d’insieme restituisce la scala; i visitatori mostrano il passaggio dall’osservazione ravvicinata a quella da lontano.
+
+[Visitatori davanti ai dipinti di Valikhodjaev. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Visitatori davanti ai dipinti di Valikhodjaev. Archivio dell’artista.

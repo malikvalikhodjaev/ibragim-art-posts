@@ -116,5 +116,13 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 منظر عام لقاعة تعرض أعمال إبراهيم فاليخوجاييف. أرشيف الفنان؛ اسم المعرض وتاريخه غير مؤكدين.
 
+## اللوحة وفضاء العرض
+
+تُظهر صور العرض لقاء اللوحة بالجمهور. تؤثر المساحات الخالية على الجدران والفواصل بين الأعمال وإمكانية التراجع إلى الخلف في المشاهدة. يوضح المشهد العام المقياس، بينما تكشف صورة الزوار الانتقال بين التأمل القريب والنظر من بعيد.
+
+[زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.
+
 
 </div>

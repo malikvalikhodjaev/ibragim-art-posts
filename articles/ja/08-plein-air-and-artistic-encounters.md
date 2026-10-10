@@ -125,3 +125,21 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 [«ミラキの冬», 2011. イブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkgA38oKJXUMy8GbExLpopGmd6dJ5r9CmbDBRSPIAWLb3q5jojm46j1OQxroVta4UiHytgIwbIx1KBhCcVEpdPX_g7QgnK53AC3U8aAW9_VbFJRDL8bF9hZHQj9pD080vBrNAq5WBFcRx0jyb6Bn4ES7A9BO60UbbRa6s05PV4SO4-RYOrP5dBz6ksQtM/s1600/clipboard.png>)
 
 «ミラキの冬», 2011. イブラギム・ヴァリホジャエフ。画家のアーカイブより。
+
+## 戸外制作は、見ることから始まる
+
+戸外制作は最初の一筆より前、歩きながら視点を選ぶところから始まる。写真には村の道、囲まれた中庭、岩の斜面、秋の木々が写る。明るい壁と暗い開口部の交互の配置として見える風景もあれば、建物の間を通る道の動きとして見える風景もある。画家は題材とともに、画面を支える大きな形の関係を選ぶ。
+
+これらの制作記録は、風景画に場所の大きさ、変化する光、表面の質感を補う。壁、屋根、地面の帯、木の枝葉が色彩関係の素材となる。完成作では観察がより自由で簡潔になることもあるが、実景とのつながりは空間の構成に残る。写真の撮影場所と年は確定していない。見た目だけから、ミラキ、モンテネグロ、アゼルバイジャンでの特定の制作滞在に結びつけることはできない。
+
+[戸外制作の旅：村の道と山の風景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+戸外制作の旅：村の道と山の風景。 画家のアーカイブより。
+
+[戸外制作の旅：中庭と村の建物。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+戸外制作の旅：中庭と村の建物。 画家のアーカイブより。
+
+[戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+戸外制作の旅：岩場と秋の木々。 画家のアーカイブより。

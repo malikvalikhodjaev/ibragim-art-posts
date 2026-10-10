@@ -117,3 +117,21 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[畫廊連結](<https://linktr.ee/ibragim.valikhodjaev>)
 
 本文內容來自瓦利霍賈耶夫畫廊。插圖來源已在圖說中註明。
+
+## 戶外寫生從觀看開始
+
+戶外寫生在第一筆落下之前就已開始：先行走，再選擇觀看的位置。照片中可見鄉村街巷、緊湊的院落、岩石山坡和秋日樹木。一處景物可被理解為明亮牆面與暗色門窗的交替，另一處則呈現道路在建築之間的延伸。畫家選擇的不只是畫什麼，還有支撐整幅作品的大塊形體關係。
+
+這些工作照片為風景畫補充了場地的尺度、變化的光線和表面質感。牆壁、屋頂、地面與樹冠構成色彩關係的材料。在完成的畫作中，觀察可以更自由、更概括，而與實景的聯繫仍保留在空間組織中。這些照片的具體地點和年份尚未確定，不能僅憑畫面便將其歸入米拉基、蒙特內哥羅或亞塞拜然的某次寫生活動。
+
+[戶外寫生途中：鄉村街巷與山景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+戶外寫生途中：鄉村街巷與山景。 藝術家檔案。
+
+[戶外寫生途中：院落與鄉村建築。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+戶外寫生途中：院落與鄉村建築。 藝術家檔案。
+
+[戶外寫生途中：岩石與秋日樹木。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+戶外寫生途中：岩石與秋日樹木。 藝術家檔案。

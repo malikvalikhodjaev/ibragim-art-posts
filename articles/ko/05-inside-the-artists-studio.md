@@ -122,3 +122,43 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 [마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## 작업실에서: 전시 전후의 시간
+
+작업실에서는 회화적 판단의 여러 단계가 보인다. 이젤 위의 캔버스, 움직이는 붓, 그려진 표면 앞에서의 멈춤이 그것이다. 서로 다른 시기의 사진이 일상적인 작업을 연결한다. 표현력은 관찰과 검토, 그림을 바라보는 거리, 한 부분이 전체를 어떻게 바꾸는지에 대한 주의 속에서 형성된다.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.
+
+[전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.
+
+## RED: 관객 앞에서 그리기
+
+2017년 타슈켄트 RED 전시에 동반된 시연 사진 두 장은 색채에 대한 이야기를 실제 작업으로 옮긴다. 관객은 이젤 가까이에서 동작의 순서를 지켜본다. 중요한 것은 속도만이 아니다. 윤곽, 색면의 크기, 형태 사이의 간격이 눈에 보이는 선택이 된다.
+
+우즈베키스탄 대사관의 전시 보도에는 작품 31점과 관람객을 위한 시연이 기록되어 있다. 사진은 손의 위치, 팔레트와 만들어지는 이미지를 비교하게 한다. 붉은색 연구는 인접한 색조와의 관계, 캔버스 전체의 구성에서 구체화된다.
+
+[RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
+
+[RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
+
+[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)

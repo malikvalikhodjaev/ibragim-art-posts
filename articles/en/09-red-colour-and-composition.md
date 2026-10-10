@@ -130,3 +130,27 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery Links](<https://linktr.ee/ibragim.valikhodjaev>)
 
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
+
+## RED: painting before an audience
+
+Two photographs of the masterclass accompanying RED in Tashkent in 2017 bring the discussion of colour into practice. Visitors gather close to the easel and follow the sequence of actions. Speed is only one part of the demonstration: the silhouette, the extent of a colour patch and the intervals between forms become visible decisions.
+
+The Embassy of Uzbekistan’s report on the exhibition records 31 works and a masterclass for visitors. The photographs open the process to view: the position of the hand, the palette and the emerging image can be compared. The investigation of red takes shape through its neighbouring tones and the organisation of the entire canvas.
+
+[RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 2017. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 2017. Artist’s archive.
+
+[RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.
+
+[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## Inside the studio: before and after the exhibition
+
+The studio reveals several stages of a pictorial decision: a canvas on the easel, a moving brush, a pause before a painted surface. Photographs from different years connect the daily work. They show how a painting’s expression emerges through observation and assessment — through the distance from which the artist studies it, and attention to the way one passage changes the whole.
+
+[The artist looking at a painting with a red colour field. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+The artist looking at a painting with a red colour field. Artist’s archive.

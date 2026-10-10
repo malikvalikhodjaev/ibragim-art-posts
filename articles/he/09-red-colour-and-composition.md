@@ -133,5 +133,29 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 חומר עריכה מValikhodjaev Gallery House. מקורות התמונה מצוינים בכיתובים.
 
+## RED: לצייר מול קהל
+
+שני תצלומים של ההדגמה שליוותה את RED בטשקנט ב־2017 מעבירים את הדיון בצבע אל העבודה עצמה. המבקרים ניצבים קרוב לכן ועוקבים אחר רצף הפעולות. לא רק המהירות חשובה: קו המתאר, גודל כתם הצבע והמרווחים בין הצורות נעשים להחלטות שאפשר לראות.
+
+דיווח שגרירות אוזבקיסטן על התערוכה מציין 31 יצירות והדגמת ציור למבקרים. התצלומים מאפשרים להשוות בין תנוחת היד, הפלטה והדימוי המתהווה. חקר האדום מתגלה ביחסיו עם גוונים סמוכים ובארגון של משטח הבד כולו.
+
+[הדגמת RED: המבקרים עוקבים אחר עבודת הצייר, אוזבקיסטן, טשקנט, 2017. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+הדגמת RED: המבקרים עוקבים אחר עבודת הצייר, אוזבקיסטן, טשקנט, 2017. ארכיון האמן.
+
+[הדגמת RED: בניית הקומפוזיציה, אוזבקיסטן, טשקנט, 2017. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+הדגמת RED: בניית הקומפוזיציה, אוזבקיסטן, טשקנט, 2017. ארכיון האמן.
+
+[RED והדגמת הציור: דיווח שגרירות אוזבקיסטן, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## בסטודיו, לפני התערוכה ואחריה
+
+הסטודיו חושף שלבים שונים של החלטה ציורית: בד על כן, תנועת מכחול ועצירה מול המשטח המצויר. התצלומים מחברים עבודה יומיומית משנים שונות. כוח הביטוי נבנה מתוך התבוננות ובחינה, מן המרחק שבו הצייר מביט בציור, ומתשומת הלב לדרך שבה חלק אחד משנה את השלם.
+
+[האמן מתבונן בציור בעל שדה צבע אדום. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+האמן מתבונן בציור בעל שדה צבע אדום. ארכיון האמן.
+
 
 </div>

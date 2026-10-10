@@ -124,3 +124,31 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Видеозапись](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Осмотр экспозиции — Ибрагим Валиходжаев как председатель Союза художников Узбекистана](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## Картина и пространство выставки
+
+Фотографии экспозиции показывают ещё одну сторону жизни картины — встречу со зрителем. Пустые участки стены, расстояния между полотнами и возможность отойти меняют условия восприятия. Общий вид зала помогает увидеть масштаб, а кадр с посетителями — привычку рассматривать работу вблизи и возвращаться к ней издалека.
+
+[Посетители у картин Ибрагима Валиходжаева. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Посетители у картин Ибрагима Валиходжаева. Архив художника.
+
+[Общий вид выставочной экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Общий вид выставочной экспозиции. Архив художника.
+
+[Ибрагим Валиходжаев и Мастер Рахим Ахмедов на выставочной встрече. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Ибрагим Валиходжаев и Мастер Рахим Ахмедов на выставочной встрече. Архив художника.
+
+## Признание и профессиональный путь
+
+Фотографии награждений дополняют профессиональную хронику живыми эпизодами признания. Они сохраняют жест вручения и присутствие коллег, тогда как перечень наград фиксирует официальные названия и годы. Среди подтверждённых достижений — медаль «Шухрат» в 2020 году и золотая медаль Академии художеств в 2018 году. Эти записи не используются для датировки приведённых фотографий: отдельные церемонии нельзя отождествлять только по внешнему виду медали.
+
+[Вручение золотой медали Ибрагиму Валиходжаеву. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Вручение золотой медали Ибрагиму Валиходжаеву. Архив художника.
+
+[Ибрагим Валиходжаев на церемонии награждения. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Ибрагим Валиходжаев на церемонии награждения. Архив художника.

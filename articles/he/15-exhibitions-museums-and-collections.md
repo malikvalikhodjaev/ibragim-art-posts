@@ -116,5 +116,13 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 מבט כללי על אולם שבו מוצגות יצירות של איברגים וליחודז'אייב. ארכיון האמן; שם התערוכה ותאריכה לא אושרו.
 
+## הציור בחלל התערוכה
+
+תצלומי התצוגה מראים את המפגש של הציור עם הצופים. שטחי הקיר הריקים, המרווחים בין היצירות והאפשרות לסגת לאחור משנים את תנאי ההתבוננות. המראה הכללי מבהיר קנה מידה, ותצלום המבקרים מראה את התנועה בין מבט מקרוב למבט מרחוק.
+
+[מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.
+
 
 </div>

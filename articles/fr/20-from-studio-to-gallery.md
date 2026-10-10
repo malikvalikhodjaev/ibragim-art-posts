@@ -126,3 +126,31 @@ Ces deux vidéos d’archives montrent la participation de l’artiste à la pr�
 [Vidéo](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [Visite de l’exposition — Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## Le tableau dans l’espace d’exposition
+
+Les vues d’exposition montrent la rencontre du tableau avec le public. Les murs laissés libres, l’espacement des œuvres et la possibilité de prendre du recul modifient le regard. La vue d’ensemble donne l’échelle ; les visiteurs montrent comment l’on s’approche d’une œuvre avant de la retrouver à distance.
+
+[Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+Des visiteurs devant les tableaux de Valikhodjaev. Archives de l’artiste.
+
+[Vue de l’exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+Vue de l’exposition. Archives de l’artiste.
+
+[Valikhodjaev et le maître Rahim Ahmedov lors d’une rencontre à l’exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev et le maître Rahim Ahmedov lors d’une rencontre à l’exposition. Archives de l’artiste.
+
+## La reconnaissance d’un parcours
+
+Les photographies de remise de prix ajoutent des moments vécus à la chronologie professionnelle. Elles gardent le geste de la remise et la présence des collègues ; la liste des distinctions conserve les noms et les années officiels. Parmi les distinctions confirmées figurent la médaille Shukhrat en 2020 et la médaille d’or de l’Académie des beaux-arts en 2018. Ces dates ne servent pas à dater les photographies : l’aspect d’une médaille ne permet pas d’identifier une cérémonie.
+
+[Remise d’une médaille d’or à Ibragim Valikhodjaev. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Remise d’une médaille d’or à Ibragim Valikhodjaev. Archives de l’artiste.
+
+[Valikhodjaev lors d’une cérémonie de remise de prix. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Valikhodjaev lors d’une cérémonie de remise de prix. Archives de l’artiste.

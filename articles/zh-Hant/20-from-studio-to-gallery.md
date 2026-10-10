@@ -126,3 +126,31 @@ Valikhodjaev Gallery House · 2026年10月6日
 [影片](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [巡視展覽——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## 繪畫與展覽空間
+
+展覽照片展示了作品與觀眾相遇的另一面。牆面的留白、畫作之間的距離，以及向後退步的空間，都會改變觀看條件。全景表現作品的尺度，觀眾入鏡的照片則呈現近看與遠觀之間的切換。
+
+[觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
+
+[展覽陳列全景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+展覽陳列全景。 藝術家檔案。
+
+[瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。
+
+## 肯定與職業歷程
+
+頒獎照片為職業年表補充了真實的肯定時刻，保留授獎的動作與同行在場的情景；獎項清單則記錄正式名稱與年份。已確認的榮譽包括2020年「舒赫拉特」獎章和2018年藝術科學院金質獎章。這些年份並非所示照片的拍攝日期：僅憑獎章外觀不能確定某一場典禮。
+
+[向伊布拉吉姆・瓦利霍賈耶夫頒發金質獎章。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+向伊布拉吉姆・瓦利霍賈耶夫頒發金質獎章。 藝術家檔案。
+
+[瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。

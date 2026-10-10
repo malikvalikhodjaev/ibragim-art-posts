@@ -126,3 +126,31 @@ Valikhodjaev Gallery House · 2026年10月6日
 [映像](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
 [展示を見て回る――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+
+## 絵画と展示空間
+
+展示写真は作品と観客の出会いを示す。壁の余白、作品同士の間隔、後ろへ下がる空間が鑑賞条件を変える。全景は大きさを伝え、来場者を写した写真は近くで見た後に離れて眺める動きを伝える。
+
+[ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。
+
+[展示会場の全景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+展示会場の全景。 画家のアーカイブより。
+
+[展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。
+
+## 評価と画家の歩み
+
+授賞式の写真は、職歴に評価を受けた瞬間を加える。授与の身振りと仲間の姿が写り、受賞歴には正式な名称と年が残る。確認済みの栄誉には2020年のシュフラト・メダル、2018年の芸術アカデミー金メダルがある。ただし、この年を写真の撮影年として用いてはいない。メダルの外観だけで個々の式典を特定することはできない。
+
+[イブラギム・ヴァリホジャエフへの金メダル授与。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+イブラギム・ヴァリホジャエフへの金メダル授与。 画家のアーカイブより。
+
+[授賞式でのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+授賞式でのヴァリホジャエフ。 画家のアーカイブより。

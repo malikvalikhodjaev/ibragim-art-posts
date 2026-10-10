@@ -138,13 +138,13 @@ edition_date: "2026-10-10"
 
 ## 작가의 개인 기록에서
 
-[학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
+[학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png>)
 
-학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년경. 작가 소장 사진.
+학생 시절의 이브라김 발리호자예프와 학습용 석고 흉상. 1988년. 작가 소장 사진.
 
-[특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년경. 작가 소장 사진.
+특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년. 작가 소장 사진.
 
 [2008년 기념 전시에서의 이브라김 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 
@@ -159,3 +159,143 @@ edition_date: "2026-10-10"
 [마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+## 사진으로 읽는 삶: 작업실과 미술계
+
+소장 사진은 전시 목록만으로 전할 수 없는 삶을 보여 준다. 비좁은 작업실, 미완성 캔버스 옆의 이미 완성된 이미지, 그림 앞에서 나누는 대화가 담겨 있다. 흑백 초상 속 젊은 작가는 홀로 작업과 마주하고, 전시 사진에서는 스승과 동료, 관객 사이에 있다. 두 장면 모두 그의 삶에 중요하다. 그림은 개인의 탐구에서 시작되지만 이후의 삶은 미술계와의 교류 속에서 이어진다.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjESV-fY8An7rcXvAfkY5t5kK5tz0yqETeqTahcn7EKSbLuTMgcjzgKgYoBsyf0vMMxFNydE5vvuUpf6ERxG8QnVxFkO-7IAIWqoW1QL21KAkd5vrwd73K9q0UNBHnJptQYpPr0LyRdqtukD8MoF4McNHJDMbw4HOQUafwjDKwJSFoCWdCkGzxY8nSDijS9/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0stbkklEroDQeXwIdg8Jhgp114q7f3GcOpZaWmiN-0Lj66eWkqNv_VrpIR14GezZiYswo3st56M-sJbwBAE-MtA4_Jl5Pjd_dh0FJ0FF_eIc5ogO1XALCLWMiJM9PxSjrrJzpEz5wFJJKeALZUoYsuGvHBbDCxjpljsfM-_akvPtN4ScO3HZPG_KuXyNx/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzB_1T3aagJLpjNL10nIOAO3OphwyC4IdGqPy3laXD9XRfABfZ9ZDhmqj5RodFcuV7RXbMXDQ_ANK9cnd4BTdGvQST5rL89dIv5-vcCzJLZ1dUSW-GSvfeRU6EDoewCZy62OteGnQ-vZUpBTZ11roYauOB69eMcqvtJWvU5TOFY7w4D1MoIELkPb0Xwybb/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+스승 라힘 아흐메도프와의 관계는 이러한 연결을 구체적으로 보여 준다. 1986~1991년 스승의 작업실에서 받은 교육은 전문적 토대가 되었다. 자신의 회화 언어는 자연을 직접 관찰하는 작업, 인물 구도와 색채 연구를 통해 형성되었다. 전시에서 스승과 함께한 사진은 이력에 실제 만남을 더한다. 제자의 작품을 스승 화풍의 단순한 연장으로 볼 수는 없다. 교육은 독립적인 탐구를 뒷받침한다.
+
+[전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.
+
+그의 경력은 우즈베키스탄 미술 기관의 변화와 나란히 이어졌다. 예술아카데미는 1997년 1월 23일 설립되었으며, 같은 해 발리호자예프는 예술가연맹 나망간 지부 회장이 되었다. 이후 아카데미 특별기금을 1999~2005년, 우즈베키스탄 미술기금을 1999~2012년에 이끌었다. 2017년부터의 연맹 회장직, 2023년 아카데미 회원 선임, 갤러리 활동과 국제 프로젝트는 개인의 창작이 다른 작가를 위한 여건 마련과 어떻게 연결되는지 보여 준다. 이는 생애를 문화적 배경 속에 놓는 비교이지, 한 작가가 그 환경의 발전을 결정했다는 뜻은 아니다.
+
+[역사적 배경: 우즈베키스탄 예술아카데미](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+[전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
+[야외에서 촬영된 소장 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+야외에서 촬영된 소장 사진. 작가 소장 사진.
+
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
+[도자기 옆의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+도자기 옆의 발리호자예프. 작가 소장 사진.
+
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
+[역사적 건축물 옆에 선 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+역사적 건축물 옆에 선 작가. 작가 소장 사진.
+
+[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
+
+자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+## 야외 작업은 바라보는 데서 시작된다
+
+야외 작업은 첫 붓질보다 앞서, 걷고 시점을 고르는 데서 시작된다. 사진에는 마을길, 좁은 마당, 바위 비탈과 가을 나무가 보인다. 한 풍경은 밝은 벽과 어두운 출입구의 반복으로, 다른 풍경은 건물 사이로 이어지는 길의 움직임으로 읽힌다. 화가는 소재뿐 아니라 화면을 지탱할 큰 형태들의 관계도 선택한다.
+
+이 작업 사진은 풍경화에 장소의 규모, 고르지 않은 빛과 표면의 질감을 더한다. 벽과 지붕, 흙길과 나무의 수관이 색채 관계의 재료가 된다. 완성작에서는 관찰이 더 자유롭고 압축될 수 있지만, 실제 풍경과의 연결은 공간 구성에 남는다. 사진의 촬영 장소와 연도는 확인되지 않았다. 모습만으로 미라키, 몬테네그로, 아제르바이잔의 특정 야외 작업 행사에 연결할 수는 없다.
+
+[야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
+
+야외 작업 여행: 마을길과 산 풍경. 작가 소장 사진.
+
+[야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
+
+야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.
+
+[야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiw1Say7lzI7zDkYUuydMLeem36OaIzKIXH4p2dBEY7K3lO3VL_GVef4zU2_4q8MvZ3IFM82u1yHSgW08rmZrqmh0FITR3RzXWZOMei6x5IXnrQLpHkODZ8_YsFVjlTCml8C-GghWa4yAJn3WDLPG6e6l1_Cl9dmSKn0KAV_vSUVMXNRmc-3VtkGi6MyD/s1600/clipboard.png>)
+
+야외 작업 여행: 바위와 가을 나무들. 작가 소장 사진.
+
+## RED: 관객 앞에서 그리기
+
+2017년 타슈켄트 RED 전시에 동반된 시연 사진 두 장은 색채에 대한 이야기를 실제 작업으로 옮긴다. 관객은 이젤 가까이에서 동작의 순서를 지켜본다. 중요한 것은 속도만이 아니다. 윤곽, 색면의 크기, 형태 사이의 간격이 눈에 보이는 선택이 된다.
+
+우즈베키스탄 대사관의 전시 보도에는 작품 31점과 관람객을 위한 시연이 기록되어 있다. 사진은 손의 위치, 팔레트와 만들어지는 이미지를 비교하게 한다. 붉은색 연구는 인접한 색조와의 관계, 캔버스 전체의 구성에서 구체화된다.
+
+[RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+
+RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
+
+[RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+
+RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
+
+[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)
+
+## 작업실에서: 전시 전후의 시간
+
+작업실에서는 회화적 판단의 여러 단계가 보인다. 이젤 위의 캔버스, 움직이는 붓, 그려진 표면 앞에서의 멈춤이 그것이다. 서로 다른 시기의 사진이 일상적인 작업을 연결한다. 표현력은 관찰과 검토, 그림을 바라보는 거리, 한 부분이 전체를 어떻게 바꾸는지에 대한 주의 속에서 형성된다.
+
+[붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.
+
+## 회화와 전시 공간
+
+전시 사진은 그림과 관객의 만남을 보여 준다. 비어 있는 벽면, 작품 사이의 간격, 뒤로 물러설 공간이 감상 조건을 바꾼다. 전경은 규모를 전하고 관람객이 담긴 사진은 가까이 보다가 멀리서 다시 바라보는 움직임을 전한다.
+
+[발리호자예프의 그림을 보는 관람객. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+
+발리호자예프의 그림을 보는 관람객. 작가 소장 사진.
+
+[전시장 전경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+
+전시장 전경. 작가 소장 사진.
+
+## 인정과 작가의 경력
+
+시상 사진은 경력 기록에 실제 인정의 순간을 더한다. 수여하는 몸짓과 동료의 모습은 사진에, 공식 명칭과 연도는 수상 목록에 남는다. 확인된 영예에는 2020년 슈흐라트 메달과 2018년 예술아카데미 금메달이 있다. 이 연도를 사진의 촬영 연도로 사용하지는 않는다. 메달의 겉모습만으로 개별 행사를 특정할 수는 없다.
+
+[이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.
+
+[시상식의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+시상식의 발리호자예프. 작가 소장 사진.
