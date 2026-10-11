@@ -41,6 +41,18 @@ Keksa odamning yuzi tomoshabinga yaqin tortilgan. Uning to‘q rangli bosh kiyim
 
 Yelkalar rasmning pastki yarmining katta qismini egallaydi. Kiyimning to‘q kulrang va ko‘k tuslari figuraning og‘irligini qo‘llab-quvvatlaydi va yuzni markazda qoldiradi. Orqa fon juda oddiy, ammo bo‘sh emas: yuqori qismidagi tor oxra chizig‘i bosh kiyim silueti bog‘liq bo‘lgan chegarani belgilaydi.
 
+## Melis Abzalov ustaxonada: uchrashuvdan portretgacha
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) — o‘zbek aktyori va kinorejissyori. Arxiv suratlarida uning Valixodjayev bilan uchrashuvi va rassomning portret ustida ishlashi aks etgan. Tayyor kartinalar yonida bu kadrlar ijod jarayonini ham ko‘rsatadi: modelning ishtiroki, molbertgacha bo‘lgan masofa, yuz va gavda holatiga e’tibor.
+
+[Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.
+
+[Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
+
 ## Portret ko‘zni qanday yo‘naltiradi
 
 "Dias Rahmatov portreti"da nigoh qorong‘ulik va yorug‘lik o‘rtasidagi keng ko‘lamli munosabatlardan boshlanadi. Keyin u yuz ichidagi farqlarga o‘tadi: boshning burilishi, peshonaga och rangli mo‘yqalam surtmasi, ko‘z atrofidagi qorong‘u joylar. Umumiy siluetdan alohida mo‘yqalam surtmasigacha nazar tashlab, so‘ng yana kartinaning yaxlit tuzilishiga qaytish mumkin.

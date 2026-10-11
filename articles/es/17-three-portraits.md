@@ -41,6 +41,18 @@ El rostro del anciano se acerca al espectador. Su tocado oscuro casi se funde co
 
 Los hombros ocupan una parte importante de la mitad inferior del cuadro. Los tonos gris oscuro y azul de la vestimenta sostienen el peso de la figura, dejando el rostro en el centro. El fondo es sumamente sencillo, pero no vacío: una estrecha franja ocre en la parte superior define el límite con el que se relaciona la silueta del tocado.
 
+## Melis Abzalov en el estudio: del encuentro al retrato
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) fue un actor y director de cine uzbeko. Estas fotografías de archivo muestran su encuentro con Valikhodjaev y al artista trabajando en su retrato. Junto a las pinturas terminadas, permiten observar el proceso: la presencia del modelo, la distancia al caballete y la atención al rostro y la postura.
+
+[Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.
+
+[Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.
+
 ## Cómo un retrato dirige la mirada
 
 En «Retrato de Dias Rakhmatov», la mirada comienza con las relaciones a gran escala entre la luz y la sombra. Luego se centra en las diferencias dentro del rostro: el giro de la cabeza, la pincelada clara en la frente, las zonas oscuras alrededor de los ojos. La obra puede apreciarse desde la silueta general hasta las pinceladas individuales, volviendo finalmente al conjunto.

@@ -43,6 +43,10 @@ edition_date: "2026-10-11"
 
 בערי התקופה הסובייטית נדרשה עבודתם של אמנים גם מחוץ לאולמות התצוגה: הם הוזמנו להכין כרזות, לצייר שלטים ולעצב חללים פנימיים. בצעירותו עסק וליחודג'אייב בעבודות כאלה בנמנגן וניהל צוותים של בעלי מלאכה וציירים. כך צבר ניסיון בחלוקת משימות ובהבאת רעיון משותף לידי ביצוע.
 
+[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
+
 לפי זיכרונות המשפחה, עוד לפני כניסתו למכון כבר השתכר די לקניית בית ומכונית מוסקביץ'. בהמשך נסע ללימודים במכוניתו שלו. אך העצמאות הכלכלית לא החליפה את חלום הילדות: ללמוד אמנות באופן מקצועי ולהיות צייר. לקראת מבחני הקבלה שהה בטשקנט אצל מכר שהיה סטודנט וסייע לו להתכונן. המשפחה זוכרת את הקבלה כשלב קשה שדרש הכנה רצינית.
 
 לאחר שהתקבל הפסיק את עבודתו הקודמת בהזמנות מסחריות והתמקד בלימודים. עיסוק שכבר ביסס פינה מקום לרצון ללמוד ציור. הניסיון הארגוני נותר עמו, ובהמשך סייע בהקמת סדנה, גלריה ומיזמי אמנות.
@@ -99,6 +103,28 @@ edition_date: "2026-10-11"
 
 האמן הצעיר בין יצירותיו. ארכיון האמן.
 
+הקשר עם מורו רחים אחמדוב מאיר את הרצף הזה. הלימודים בסטודיו שלו בשנים 1986–1991 העניקו לו בסיס מקצועי; שפתו האישית התפתחה בעבודה מן הטבע, בקומפוזיציות של דמויות ובמחקר הצבע. התצלום עם המורה בתערוכה מוסיף מפגש אנושי לרשומה הביוגרפית. יצירות התלמיד אינן רק המשך לסגנון המורה: הלימודים מספקים בסיס לחיפוש עצמאי.
+
+[וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.
+
+[וליחודז'אייב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+וליחודז'אייב במפגש בתערוכה. ארכיון האמן.
+
+[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
+
+[תצלום חוץ מן הארכיון. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+תצלום חוץ מן הארכיון. ארכיון האמן.
+
+[וליחודז'אייב לצד כלי קרמיקה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+וליחודז'אייב לצד כלי קרמיקה. ארכיון האמן.
+
 ## תחילת שנות התשעים: כיוונים שונים של חיפוש אמנותי
 
 הציורים מראשית שנות התשעים מגלים את המגוון בחיפושיו העצמאיים הראשונים. ב״מלאך״ המבט מתמקד באישה יושבת, בפניה, בידיה ובבגדיה הבהירים. ב״זעקה״ הדימוי נבנה באמצעות גוש כהה גדול והדגשים בהירים וחדים. ההתבוננות באדם ניצבת לצד חיפוש אחר צורה מצומצמת וסמלית. ציורי הבזאר יתפתחו בתוך חקירה אמנותית רחבה זו.
@@ -153,6 +179,36 @@ edition_date: "2026-10-11"
 
 איברגים וליחודז'אייב, מנהל הקרן המיוחדת, 2002. ארכיון האמן.
 
+[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
+
+[האמן לצד מבנה היסטורי. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+האמן לצד מבנה היסטורי. ארכיון האמן.
+
+דרכו התפתחה לצד השינויים במוסדות האמנות באוזבקיסטן. האקדמיה לאמנויות נוסדה ב־23 בינואר 1997; באותה שנה מונה וליחודז'אייב ליו״ר סניף נמנגן של איגוד האמנים. בהמשך ניהל את הקרן המיוחדת של האקדמיה בשנים 1999–2005 ואת קרן האמנות של אוזבקיסטן בשנים 1999–2012. כהונתו כיו״ר האיגוד מאז 2017, קבלתו כחבר האקדמיה ב־2023, פעילות הגלריה והמיזמים הבין־לאומיים מחברים בין יצירה אישית לבין יצירת תנאי עבודה לאחרים. זו הקבלה הממקמת ביוגרפיה בסביבתה התרבותית, ולא טענה שאמן יחיד קבע את התפתחותה.
+
+[הקשר היסטורי: האקדמיה לאמנויות של אוזבקיסטן](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## טשקנט: ציור לצד העבודה בקרנות האמנות
+
+תצלומי הארכיון מגלים את מה שרשימת תערוכות אינה מספרת: הצפיפות בסטודיו, בד שטרם הושלם לצד ציור שכבר מצא את צורתו, ושיחות מול יצירות. בדיוקנאות בשחור־לבן האמן הצעיר לבדו עם עבודתו; בתצלומי התערוכות הוא נמצא בין מורים, עמיתים וצופים. שני המצבים חשובים לסיפורו. ציור מתחיל בחיפוש אישי, אך המשך חייו מתרחש בתוך סביבה אמנותית.
+
+הסטודיו חושף שלבים שונים של החלטה ציורית: בד על כן, תנועת מכחול ועצירה מול המשטח המצויר. התצלומים מחברים עבודה יומיומית משנים שונות. כוח הביטוי נבנה מתוך התבוננות ובחינה, מן המרחק שבו הצייר מביט בציור, ומתשומת הלב לדרך שבה חלק אחד משנה את השלם.
+
+[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+וליחודז'אייב בסטודיו שלו. ארכיון האמן.
+
+[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+וליחודז'אייב בסטודיו שלו. ארכיון האמן.
+
+[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+וליחודז'אייב בסטודיו שלו. ארכיון האמן.
+
 ## עשייה פורייה: ציורים, תערוכות וציור בחוץ
 
 התפקידים הארגוניים לא עצרו את עבודתו היצירתית. לאחר שסיים את ניהול הקרן המיוחדת ב־2005, המשיך וליחודג'אייב לעמוד בראש קרן האמנות עד 2012 ובה בעת פיתח את ציוריו. ב־2008 הוצגו יותר מ־200 יצירות בתערוכת יחיד לציון יום הולדתו ה־50, באולם התערוכות המרכזי של האקדמיה לאמנויות של אוזבקיסטן.
@@ -189,19 +245,13 @@ edition_date: "2026-10-11"
 
 ילדים צופים באמן בעבודתו בחוץ. ארכיון האמן.
 
-[איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.
-
-[עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.
-
-[איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.
-
 [תיעוד וידאו של ההכנות לתערוכה: איברגים וליחודג'אייב כיו״ר איגוד האמנים של אוזבקיסטן](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[איברהים וליחודג׳אייב במפגש ציור בחיק הטבע בטורקיה. מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+איברהים וליחודג׳אייב במפגש ציור בחיק הטבע בטורקיה. מארכיון האמן.
+
+[מליס אבזלוב בסטודיו: מן המפגש אל הדיוקן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html#iv-melis-abzalov>)
 
 ## צבע הופך לנושא המחקר
 
@@ -290,6 +340,22 @@ edition_date: "2026-10-11"
 
 הוא צייר ופסל, מארגן ואוצר, מייסד גלריה ומנטור. שאלה משותפת עוברת בכל הפעילויות הללו: כיצד לשמור על פרספקטיבה רעננה? בשיחות שפורסמו, החוויה מוצגת כהזדמנות להמשיך במחקר, להתנסות ולמצוא פתרונות אקספרסיביים חדשים.
 
+[איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.
+
+## הכרה ודרך מקצועית
+
+דרכו המקצועית של וליחודג׳אייב זכתה להכרה, בין היתר במדליית שוהראט בשנת 2020 ובמדליית הזהב של האקדמיה לאמנויות של אוזבקיסטן בשנת 2018. תצלומי הארכיון משמרים את רגעי הענקת הפרסים ואת המפגשים עם אישים מחיי התרבות והציבור במדינה.
+
+[טטיאנה קרימובה, רעייתו של איסלאם קרימוב, נשיאה הראשון של אוזבקיסטן, מעניקה לאיברהים וליחודג׳אייב את מדליית הזהב של נשיא הרפובליקה של אוזבקיסטן. מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+[טטיאנה קרימובה](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), רעייתו של איסלאם קרימוב, נשיאה הראשון של אוזבקיסטן, מעניקה לאיברהים וליחודג׳אייב את מדליית הזהב של נשיא הרפובליקה של אוזבקיסטן. מארכיון האמן.
+
+[אכמל נור, יו״ר האקדמיה לאמנויות של אוזבקיסטן, מעניק לאיברהים וליחודג׳אייב את מדליית הזהב של האקדמיה. מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+[אכמל נור](<https://art-academy.uz/ru/structure/rahbariyat/1>), יו״ר האקדמיה לאמנויות של אוזבקיסטן, מעניק לאיברהים וליחודג׳אייב את מדליית הזהב של האקדמיה. מארכיון האמן.
+
 ## להמשיך לחפש, להמשיך ליצור
 
 הביוגרפיה מאפשרת לנו לעקוב אחר תערוכות ומשימות מקצועיות; ראיונות חושפים את הפעולות הפנימיות של עבודתו. וליכודג'ייב מדבר על מאמץ, ספק, חיפוש אחר מושג והקושי לגרום ליצירה להיראות פשוטה כלפי חוץ. הרהורים אלה מחזירים אותנו לסטודיו, שם יש להפוך את הניסיון המצטבר לפתרון קונקרטי על הבד.
@@ -337,84 +403,6 @@ edition_date: "2026-10-11"
 [סרטון כיתת האמן · סין, שיאן, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [דיווח על הביקור ועל כיתת האמן · Facebook, 8 באוקטובר 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## חיים בתצלומים: הסטודיו והסביבה האמנותית
-
-תצלומי הארכיון מגלים את מה שרשימת תערוכות אינה מספרת: הצפיפות בסטודיו, בד שטרם הושלם לצד ציור שכבר מצא את צורתו, ושיחות מול יצירות. בדיוקנאות בשחור־לבן האמן הצעיר לבדו עם עבודתו; בתצלומי התערוכות הוא נמצא בין מורים, עמיתים וצופים. שני המצבים חשובים לסיפורו. ציור מתחיל בחיפוש אישי, אך המשך חייו מתרחש בתוך סביבה אמנותית.
-
-הקשר עם מורו רחים אחמדוב מאיר את הרצף הזה. הלימודים בסטודיו שלו בשנים 1986–1991 העניקו לו בסיס מקצועי; שפתו האישית התפתחה בעבודה מן הטבע, בקומפוזיציות של דמויות ובמחקר הצבע. התצלום עם המורה בתערוכה מוסיף מפגש אנושי לרשומה הביוגרפית. יצירות התלמיד אינן רק המשך לסגנון המורה: הלימודים מספקים בסיס לחיפוש עצמאי.
-
-[וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.
-
-דרכו התפתחה לצד השינויים במוסדות האמנות באוזבקיסטן. האקדמיה לאמנויות נוסדה ב־23 בינואר 1997; באותה שנה מונה וליחודז'אייב ליו״ר סניף נמנגן של איגוד האמנים. בהמשך ניהל את הקרן המיוחדת של האקדמיה בשנים 1999–2005 ואת קרן האמנות של אוזבקיסטן בשנים 1999–2012. כהונתו כיו״ר האיגוד מאז 2017, קבלתו כחבר האקדמיה ב־2023, פעילות הגלריה והמיזמים הבין־לאומיים מחברים בין יצירה אישית לבין יצירת תנאי עבודה לאחרים. זו הקבלה הממקמת ביוגרפיה בסביבתה התרבותית, ולא טענה שאמן יחיד קבע את התפתחותה.
-
-[הקשר היסטורי: האקדמיה לאמנויות של אוזבקיסטן](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[וליחודז'אייב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-וליחודז'אייב במפגש בתערוכה. ארכיון האמן.
-
-[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-וליחודז'אייב בסטודיו שלו. ארכיון האמן.
-
-[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
-
-[תצלום חוץ מן הארכיון. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-תצלום חוץ מן הארכיון. ארכיון האמן.
-
-[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
-
-[וליחודז'אייב לצד כלי קרמיקה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-וליחודז'אייב לצד כלי קרמיקה. ארכיון האמן.
-
-[מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-מפגש עם עמיתים בתצלום ארכיוני. ארכיון האמן.
-
-[האמן לצד מבנה היסטורי. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-האמן לצד מבנה היסטורי. ארכיון האמן.
-
-[האמן הצעיר בין יצירותיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-האמן הצעיר בין יצירותיו. ארכיון האמן.
-
-[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-וליחודז'אייב בסטודיו שלו. ארכיון האמן.
-
-[וליחודז'אייב בסטודיו שלו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-וליחודז'אייב בסטודיו שלו. ארכיון האמן.
-
-## בסטודיו, לפני התערוכה ואחריה
-
-הסטודיו חושף שלבים שונים של החלטה ציורית: בד על כן, תנועת מכחול ועצירה מול המשטח המצויר. התצלומים מחברים עבודה יומיומית משנים שונות. כוח הביטוי נבנה מתוך התבוננות ובחינה, מן המרחק שבו הצייר מביט בציור, ומתשומת הלב לדרך שבה חלק אחד משנה את השלם.
-
-[האמן מתבונן בציור בעל שדה צבע אדום. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-האמן מתבונן בציור בעל שדה צבע אדום. ארכיון האמן.
-
-## הוקרה והמסלול המקצועי
-
-תצלומי ההוקרה מוסיפים רגעים חיים לרשומה המקצועית. הם משמרים את מחוות ההענקה ואת נוכחות העמיתים; רשימת העיטורים מתעדת שמות ושנים רשמיים. בין העיטורים המאומתים מדליית שוחראט מ־2020 ומדליית הזהב של האקדמיה לאמנויות מ־2018. השנים הללו אינן מתארכות את התצלומים המוצגים: מראה המדליה לבדו אינו מזהה טקס מסוים.
-
-[הענקת מדליית זהב לאיברגים וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-הענקת מדליית זהב לאיברגים וליחודז'אייב. ארכיון האמן.
-
-[וליחודז'אייב בטקס הוקרה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-וליחודז'אייב בטקס הוקרה. ארכיון האמן.
 
 
 </div>

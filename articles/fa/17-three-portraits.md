@@ -43,6 +43,18 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 شانه‌ها بخش قابل توجهی از نیمه پایینی نقاشی را اشغال کرده‌اند. تُن‌های خاکستری تیره و آبی لباس، وزن پیکره را تحمل می‌کنند و صورت را در مرکز قرار می‌دهند. پس‌زمینه بسیار ساده است، اما خالی نیست: یک نوار باریک اخرایی در بالا، مرزی را مشخص می‌کند که سیلوئت پوشش سر با آن مرتبط است.
 
+## ملیس ابزالوف در کارگاه: از دیدار تا پرتره
+
+[ملیس ابزالوف](<https://dsmi.uz/ru/melis-abzalov-2/>) بازیگر و کارگردان سینمای ازبکستان بود. این عکس‌های آرشیوی دیدار او با ولی‌خوجایف و کار نقاش بر پرترهٔ او را نشان می‌دهند. در کنار نقاشی‌های کامل‌شده، عکس‌ها فرایند کار را آشکار می‌کنند: حضور مدل، فاصله تا سه‌پایه و توجه به چهره و حالت بدن.
+
+[ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+
+[کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+
 ## چگونه یک پرتره چشم را هدایت می‌کند
 
 در «پرتره دیاس رحمتوف»، نگاه با روابط کلان بین تاریکی و روشنایی آغاز می‌شود. سپس به تفاوت‌های درون چهره می‌رسد: چرخش سر، ضربهٔ روشن قلم‌مو روی پیشانی، نواحی تیره اطراف چشم‌ها. این اثر را می‌توان از سیلوئت کلی تا ضربه‌های قلم موی منفرد مشاهده کرد و به کل اثر بازگشت.

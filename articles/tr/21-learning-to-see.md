@@ -41,6 +41,10 @@ Daha okuldayken ressam olmak istiyordu. Ancak bu çocukluk isteğiyle yüksekö�
 
 Sovyet döneminin kentlerinde sanatçıların emeğine sergi salonlarının dışında da ihtiyaç vardı: afişler, tabelalar ve iç mekân düzenlemeleri için sanatçılara iş verilirdi. Valikhodjaev gençliğinde Namangan’da bu tür siparişler aldı; zanaatkâr ve sanatçılardan oluşan ekiplere liderlik etti. Böylece görev dağılımı yapmayı ve ortak bir tasarımı uygulamaya geçirmeyi öğrendi.
 
+[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
+
 Ailesinin anlatımına göre, enstitüye girdiğinde bir ev ve Moskvich otomobil alabilecek kadar kazanmıştı. Daha sonra derslerine kendi arabasıyla gidiyordu. Ancak maddi bağımsızlık, çocukluk hayalinin yerini almadı: sanat eğitimi almak ve ressam olmak istiyordu. Giriş sınavlarına hazırlanırken Taşkent’te öğrenci bir tanıdığının evinde kaldı; bu kişi çalışmalarına yardımcı oldu. Ailesi enstitüye kabulü, ciddi hazırlık gerektiren zorlu bir dönüm noktası olarak hatırlıyor.
 
 Kabul edildikten sonra önceki ticari sipariş işlerini bırakarak eğitimine yoğunlaştı. Kurulu bir iş düzeni, resim eğitimi alma arzusuna yer açmıştı. Organizasyon deneyimi ise daha sonra atölye, galeri ve sanat projeleri kurarken ona yol gösterecekti.
@@ -97,6 +101,28 @@ Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
+Ustası Rahim Ahmedov ile ilişkisi bu sürekliliği aydınlatır. Ahmedov’un atölyesinde 1986–1991 yıllarında aldığı eğitim, Valikhodjaev’e mesleki bir temel kazandırdı. Kendi dili, doğadan çalışma, figürlü kompozisyonlar ve renkle yürüttüğü araştırmalar içinde gelişti. Hocasıyla sergi buluşmasını gösteren fotoğraf, biyografiye canlı bir karşılaşma ekler. Öğrencinin resimleri, ustanın üslubunun devamına indirgenemez; eğitim bağımsız bir arayışın dayanağıdır.
+
+[Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.
+
+[Valikhodjaev bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+Valikhodjaev bir sergi buluşmasında. Sanatçının arşivi.
+
+[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
+
+[Arşivden bir açık hava fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+Arşivden bir açık hava fotoğrafı. Sanatçının arşivi.
+
+[Valikhodjaev seramik kapların yanında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+Valikhodjaev seramik kapların yanında. Sanatçının arşivi.
+
 ## 1990’ların başı: farklı arayışlar
 
 1990’ların başındaki resimleri, ilk bağımsız arayışlarının çeşitliliğini ortaya koyar. Melek’te dikkat, oturan bir kadının yüzüne, ellerine ve açık renk giysisine yönelir. Çığlık’ta ise büyük koyu bir kütle ve keskin açık renk vurgular imgeyi kurar. Bu eserlerde insanı gözlemlemek, yalınlaştırılmış ve simgesel biçim arayışıyla yan yana gelir. Pazar resimleri bu daha geniş sanatsal araştırmanın içinde gelişecektir.
@@ -151,6 +177,36 @@ Başkentte sorumlulukları ülke çapına yayıldı. 1999–2005’te Özbekista
 
 Özel Fon yöneticisi Ibragim Valikhodjaev, 2002. Sanatçının arşivi.
 
+[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
+
+[Sanatçı bir mimari anıtın yanında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+Sanatçı bir mimari anıtın yanında. Sanatçının arşivi.
+
+Sanatçının yolu, Özbekistan’daki sanat kurumlarının dönüşümüyle birlikte ilerledi. Güzel Sanatlar Akademisi 23 Ocak 1997’de kuruldu; aynı yıl Valikhodjaev, Sanatçılar Birliği’nin Namangan şubesinin başkanı oldu. Daha sonra Akademi’nin Özel Fonu’nu 1999–2005, Özbekistan Sanat Fonu’nu 1999–2012 yıllarında yönetti. Birlik başkanlığını 2017’den beri sürdürmesi, 2023’te akademisyen unvanını alması, galeri çalışmaları ve uluslararası projeleri, kişisel üretimin başkalarının çalışma koşullarını oluşturmakla nasıl birleştiğini gösterir. Bu, biyografi ile kültürel çevre arasında bir paralelliktir; çevrenin gelişimini tek bir sanatçıya bağlayan bir iddia değildir.
+
+[Tarihsel bağlam: Özbekistan Güzel Sanatlar Akademisi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## Taşkent: sanat fonlarındaki görevlerin yanında süren resim çalışmaları
+
+Arşiv fotoğrafları, bir sergi listesinin anlatamadıklarını gösterir: atölyenin dar alanını, tamamlanmamış bir tuvalin yanında çözümüne ulaşmış bir resmi, eserlerin önündeki konuşmaları. Siyah beyaz portrelerde genç sanatçı işiyle baş başadır; sergi fotoğraflarında hocaları, meslektaşları ve izleyicilerle bir araya gelir. Her iki ortam da bu yolculuğun parçasıdır. Resim kişisel bir arayışla doğar; sonraki yaşamı sanat çevresinde sürer.
+
+Atölye, resimsel bir kararın aşamalarını gösterir: şövaledeki tuval, fırçanın hareketi, boyanmış yüzeyin karşısında bir duraklama. Farklı yılların fotoğrafları gündelik çalışmayı birbirine bağlar. Resmin ifadesi gözlem ve değerlendirmeyle, sanatçının tuvale baktığı uzaklıkla ve bir bölümün bütünü nasıl değiştirdiğine dikkat etmesiyle oluşur.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
+[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev atölyesinde. Sanatçının arşivi.
+
 ## Üretken bir çalışma: resimler, sergiler ve açık hava resmi
 
 Yönetim görevleri yaratıcı çalışmasını durdurmadı. Valikhodjaev, 2005’te Özel Fon’daki görevini tamamladıktan sonra 2012’ye kadar Sanat Fonu’nu yönetmeyi sürdürürken resmini de geliştirdi. 2008’de 50. yaşını kutlayan kişisel sergisinde, Özbekistan Sanat Akademisi Merkez Sergi Salonu’nda 200’den fazla eser gösterildi.
@@ -187,19 +243,13 @@ Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.
 
 Çocuklar açık havada çalışan sanatçıyı izliyor. Sanatçının arşivi.
 
-[Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.
-
-[Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.
-
-[Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.
-
 [Sergi hazırlığının video kaydı: Özbekistan Sanatçılar Birliği Başkanı olarak Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Ibragim Valikhodjaev Türkiye’de bir açık hava resim etkinliğinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev Türkiye’de bir açık hava resim etkinliğinde. Sanatçının arşivi.
+
+[Melis Abzalov atölyede: buluşmadan portreye](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html#iv-melis-abzalov>)
 
 ## Renk, araştırma konusu haline geliyor.
 
@@ -288,6 +338,22 @@ Valikhodjaev 2017’den beri Özbekistan Sanatçılar Birliği Başkanı, 2023�
 
 O bir ressam ve heykeltıraş, organizatör ve küratör, galeri kurucusu ve akıl hocasıdır. Tüm bu faaliyetlerde ortak bir soru göze çarpar: taze bir bakış açısını nasıl koruyabiliriz? Yayınlanan söyleşilerde, deneyim, araştırmaya devam etmek, denemeler yapmak ve yeni ifade çözümleri bulmak için bir fırsat olarak sunulmaktadır.
 
+[Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.
+
+## Takdir ve meslek yaşamı
+
+Valikhodjaev’in meslek yaşamı, 2020’de Şuhrat Madalyası ve 2018’de Özbekistan Sanat Akademisinin Altın Madalyası gibi ödüllerle takdir edildi. Arşiv fotoğrafları, ödüllerin takdim edildiği anları ve ülkenin kültür ve toplum yaşamından kişilerle buluşmaları kayda geçiriyor.
+
+[Özbekistan’ın ilk cumhurbaşkanı İslam Karimov’un eşi Tatyana Karimova, Ibragim Valikhodjaev’e Özbekistan Cumhuriyeti Cumhurbaşkanının Altın Madalyasını takdim ediyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+Özbekistan’ın ilk cumhurbaşkanı İslam Karimov’un eşi [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), Ibragim Valikhodjaev’e Özbekistan Cumhuriyeti Cumhurbaşkanının Altın Madalyasını takdim ediyor. Sanatçının arşivi.
+
+[Özbekistan Sanat Akademisi Başkanı Akmal Nur, Ibragim Valikhodjaev’e akademinin Altın Madalyasını takdim ediyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+Özbekistan Sanat Akademisi Başkanı [Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), Ibragim Valikhodjaev’e akademinin Altın Madalyasını takdim ediyor. Sanatçının arşivi.
+
 ## Aramaya ve üretmeye devam edin.
 
 Biyografi, sergilerini ve profesyonel görevlerini takip etmemizi sağlarken, röportajlar da çalışmalarının iç işleyişini ortaya koyuyor. Valikhodjaev, çabadan, şüpheden, bir kavram arayışından ve bir eseri dışarıdan basit göstermenin zorluğundan bahsediyor. Bu düşünceler bizi, birikmiş deneyimin tuval üzerinde somut bir çözüme dönüştürülmesi gereken stüdyoya geri götürüyor.
@@ -335,81 +401,3 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 [Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## Fotoğraflarla bir yaşam: atölye ve sanat çevresi
-
-Arşiv fotoğrafları, bir sergi listesinin anlatamadıklarını gösterir: atölyenin dar alanını, tamamlanmamış bir tuvalin yanında çözümüne ulaşmış bir resmi, eserlerin önündeki konuşmaları. Siyah beyaz portrelerde genç sanatçı işiyle baş başadır; sergi fotoğraflarında hocaları, meslektaşları ve izleyicilerle bir araya gelir. Her iki ortam da bu yolculuğun parçasıdır. Resim kişisel bir arayışla doğar; sonraki yaşamı sanat çevresinde sürer.
-
-Ustası Rahim Ahmedov ile ilişkisi bu sürekliliği aydınlatır. Ahmedov’un atölyesinde 1986–1991 yıllarında aldığı eğitim, Valikhodjaev’e mesleki bir temel kazandırdı. Kendi dili, doğadan çalışma, figürlü kompozisyonlar ve renkle yürüttüğü araştırmalar içinde gelişti. Hocasıyla sergi buluşmasını gösteren fotoğraf, biyografiye canlı bir karşılaşma ekler. Öğrencinin resimleri, ustanın üslubunun devamına indirgenemez; eğitim bağımsız bir arayışın dayanağıdır.
-
-[Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.
-
-Sanatçının yolu, Özbekistan’daki sanat kurumlarının dönüşümüyle birlikte ilerledi. Güzel Sanatlar Akademisi 23 Ocak 1997’de kuruldu; aynı yıl Valikhodjaev, Sanatçılar Birliği’nin Namangan şubesinin başkanı oldu. Daha sonra Akademi’nin Özel Fonu’nu 1999–2005, Özbekistan Sanat Fonu’nu 1999–2012 yıllarında yönetti. Birlik başkanlığını 2017’den beri sürdürmesi, 2023’te akademisyen unvanını alması, galeri çalışmaları ve uluslararası projeleri, kişisel üretimin başkalarının çalışma koşullarını oluşturmakla nasıl birleştiğini gösterir. Bu, biyografi ile kültürel çevre arasında bir paralelliktir; çevrenin gelişimini tek bir sanatçıya bağlayan bir iddia değildir.
-
-[Tarihsel bağlam: Özbekistan Güzel Sanatlar Akademisi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[Valikhodjaev bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-Valikhodjaev bir sergi buluşmasında. Sanatçının arşivi.
-
-[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-Valikhodjaev atölyesinde. Sanatçının arşivi.
-
-[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
-
-[Arşivden bir açık hava fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-Arşivden bir açık hava fotoğrafı. Sanatçının arşivi.
-
-[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
-
-[Valikhodjaev seramik kapların yanında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-Valikhodjaev seramik kapların yanında. Sanatçının arşivi.
-
-[Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
-
-[Sanatçı bir mimari anıtın yanında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-Sanatçı bir mimari anıtın yanında. Sanatçının arşivi.
-
-[Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
-
-[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-Valikhodjaev atölyesinde. Sanatçının arşivi.
-
-[Valikhodjaev atölyesinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-Valikhodjaev atölyesinde. Sanatçının arşivi.
-
-## Atölyede, sergiden önce ve sonra
-
-Atölye, resimsel bir kararın aşamalarını gösterir: şövaledeki tuval, fırçanın hareketi, boyanmış yüzeyin karşısında bir duraklama. Farklı yılların fotoğrafları gündelik çalışmayı birbirine bağlar. Resmin ifadesi gözlem ve değerlendirmeyle, sanatçının tuvale baktığı uzaklıkla ve bir bölümün bütünü nasıl değiştirdiğine dikkat etmesiyle oluşur.
-
-[Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-Sanatçı kırmızı renk alanının öne çıktığı bir resmi inceliyor. Sanatçının arşivi.
-
-## Takdir ve mesleki yolculuk
-
-Ödül fotoğrafları mesleki kronolojiye yaşanmış takdir anları ekler. Takdim hareketini ve meslektaşların varlığını korurken, ödül listesi resmî adları ve yılları kaydeder. Doğrulanmış başarılar arasında 2020 Shukhrat Madalyası ve 2018 Güzel Sanatlar Akademisi Altın Madalyası bulunur. Bu tarihler fotoğrafları tarihlendirmez; bir madalyanın görünümü tek başına töreni belirleyemez.
-
-[Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-Ibragim Valikhodjaev’e altın madalya takdimi. Sanatçının arşivi.
-
-[Valikhodjaev bir ödül töreninde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-Valikhodjaev bir ödül töreninde. Sanatçının arşivi.

@@ -41,6 +41,10 @@ edition_date: "2026-10-11"
 
 ソ連時代の都市では、美術家の仕事は展示室の外にも広がっていた。ポスター、看板、室内の装飾にも美術家が必要とされた。若いヴァリホジャエフはナマンガンでこうした仕事を請け負い、職人や画家のチームを率いた。役割を分担し、共同の構想を実際の仕事として完成させる経験を積んだのである。
 
+[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+同業の仲間との集まりを写した記録。 画家のアーカイブより。
+
 家族の回想によると、学院に入るまでに家とモスクヴィッチの車を買えるだけの収入を得ており、その後は自分の車で授業に通った。だが経済的な自立は、子どもの頃の夢に代わるものではなかった。専門的な美術教育を受け、画家になりたかったのである。入学試験の準備のためタシケントで学生の知人宅に滞在し、その知人から学習の助けを受けた。家族は入学を、十分な準備を要する難しい節目として覚えている。
 
 入学後は、それまでの商業的な受注仕事をやめ、勉学に集中した。すでに築いた仕事よりも、絵画を学ぶ願いを選んだのである。組織を動かす経験はその後も残り、工房、ギャラリー、共同制作の事業を立ち上げる際に生かされることになった。
@@ -97,6 +101,28 @@ edition_date: "2026-10-11"
 
 自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
+師ラヒム・アフメドフとの関係は、このつながりを具体的に示す。1986～1991年に師のアトリエで受けた教育が専門的な基盤となり、自身の絵画言語は写生、人物構成、色彩の研究を通じて育った。師と展覧会で交流する写真は、略歴に人と人との出会いを加える。弟子の作品は師の画風の延長だけでは説明できない。学びは、自立した探究を支える土台となる。
+
+[展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。
+
+[展覧会で交流するヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+展覧会で交流するヴァリホジャエフ。 画家のアーカイブより。
+
+[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+同業の仲間との集まりを写した記録。 画家のアーカイブより。
+
+[屋外で撮影されたアーカイブ写真。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+屋外で撮影されたアーカイブ写真。 画家のアーカイブより。
+
+[陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。
+
 ## 1990年代初頭：さまざまな探究の方向
 
 1990年代初めの作品は、独立した画家としての初期の探究がすでに多様であったことを示している。《天使》では、座る女性の顔、手、明るい衣服に視線が向かう。《叫び》では、大きな暗い塊と鋭い明色のアクセントが画面を組み立てる。具体的な人物の観察と、形を要約し象徴へと変える試みが共存している。バザールの絵画も、この幅広い探求のなかで発展していく。
@@ -151,6 +177,36 @@ edition_date: "2026-10-11"
 
 特別基金の責任者を務めていた頃のイブラギム・ヴァリホジャエフ。2002年。画家のアーカイブより。
 
+[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+同業の仲間との集まりを写した記録。 画家のアーカイブより。
+
+[歴史的建築のそばに立つ画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+歴史的建築のそばに立つ画家。 画家のアーカイブより。
+
+その歩みはウズベキスタンの美術機関の変化と並行している。芸術アカデミーは1997年1月23日に設立され、同年、ヴァリホジャエフは芸術家連盟ナマンガン支部の会長となった。その後、アカデミーの特別基金を1999～2005年、ウズベキスタン美術基金を1999～2012年に率いた。2017年からの連盟会長職、2023年のアカデミー会員就任、画廊活動、国際プロジェクトは、個人の制作と他の作家のための環境づくりとの接点を示す。これは生涯を文化的背景のなかに置く比較であり、一人の画家がその発展を決めたという主張ではない。
+
+[歴史的背景：ウズベキスタン芸術アカデミー](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## タシケント：美術基金での仕事と並行して続く制作
+
+アーカイブ写真には、展覧会の一覧だけでは伝わらない生活が写っている。手狭なアトリエ、未完成のカンヴァスとすでに形を得た作品、絵の前で交わされる会話。白黒の肖像では若い画家が自分の仕事と向き合い、展覧会の写真では教師や仲間、観客とともにいる。どちらもその歩みに欠かせない。作品は個人の探究から生まれ、その後は美術の世界との関わりのなかで生き続ける。
+
+アトリエでは、絵画上の判断の段階が見える。イーゼルの上のカンヴァス、筆の動き、描かれた表面を前にした立ち止まり。異なる時期の写真は日々の仕事をつなぐ。表現は観察と検討、作品を見る距離、そして一つの部分が全体をどう変えるかへの注意から形づくられる。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
+[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+アトリエのヴァリホジャエフ。 画家のアーカイブより。
+
 ## 旺盛な制作：絵画、展覧会、野外制作
 
 組織の仕事が創作を止めることはなかった。2005年に特別基金の役職を終えた後も、ヴァリホジャエフは2012年まで美術基金を率いながら、自身の絵画を展開した。2008年には50歳の誕生日を記念する個展がウズベキスタン美術アカデミー中央展示ホールで開かれ、200点を超える作品が展示された。
@@ -187,19 +243,13 @@ edition_date: "2026-10-11"
 
 野外で制作する画家を見守る子どもたち。 画家のアーカイブより。
 
-[アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。
-
-[アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。
-
-[ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。
-
 [展覧会準備の映像：ウズベキスタン芸術家連盟会長として活動するイブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[トルコでの野外写生会に参加するイブラギム・ワリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+トルコでの野外写生会に参加するイブラギム・ワリホジャエフ。画家のアーカイブより。
+
+[アトリエのメリス・アブザロフ：出会いから肖像へ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html#iv-melis-abzalov>)
 
 ## 色が研究対象となる
 
@@ -288,6 +338,22 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 彼は画家であり彫刻家であり、企画者でありキュレーターであり、ギャラリーの創設者であり、指導者でもある。これらの活動すべてに共通する問いは、「いかにして新鮮な視点を維持するか」ということだ。出版された対談の中で、彼は経験を、研究を続け、実験を重ね、新たな表現方法を見出す機会として捉えている。
 
+[ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。
+
+## 評価と職業上の歩み
+
+ワリホジャエフの活動は、2020年のシュフラト勲章や2018年のウズベキスタン芸術アカデミー金メダルなどによって評価されてきました。アーカイブ写真には、授与の場面や、同国の文化・社会を担う人々との交流が残されています。
+
+[ウズベキスタン初代大統領イスラム・カリモフの夫人タチアナ・カリモワが、イブラギム・ワリホジャエフにウズベキスタン共和国大統領の金メダルを授与する場面。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+ウズベキスタン初代大統領イスラム・カリモフの夫人[タチアナ・カリモワ](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)が、イブラギム・ワリホジャエフにウズベキスタン共和国大統領の金メダルを授与する場面。画家のアーカイブより。
+
+[ウズベキスタン芸術アカデミー会長アクマル・ヌルが、イブラギム・ワリホジャエフに同アカデミーの金メダルを授与する場面。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+ウズベキスタン芸術アカデミー会長[アクマル・ヌル](<https://art-academy.uz/ru/structure/rahbariyat/1>)が、イブラギム・ワリホジャエフに同アカデミーの金メダルを授与する場面。画家のアーカイブより。
+
 ## 探求を続ける、制作を続ける
 
 伝記からは、彼の展覧会や仕事の軌跡を辿ることができ、インタビューからは彼の作品制作の内幕が明らかになる。ヴァリホジャエフは、努力、葛藤、コンセプトの探求、そして作品を外見上はシンプルに見せることの難しさについて語る。こうした考察は、私たちをスタジオへと誘い、そこで積み重ねてきた経験がキャンバス上の具体的な解決策へと昇華される過程を思い起こさせる。
@@ -335,81 +401,3 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 [マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## 写真でたどる歩み：アトリエと美術の世界
-
-アーカイブ写真には、展覧会の一覧だけでは伝わらない生活が写っている。手狭なアトリエ、未完成のカンヴァスとすでに形を得た作品、絵の前で交わされる会話。白黒の肖像では若い画家が自分の仕事と向き合い、展覧会の写真では教師や仲間、観客とともにいる。どちらもその歩みに欠かせない。作品は個人の探究から生まれ、その後は美術の世界との関わりのなかで生き続ける。
-
-師ラヒム・アフメドフとの関係は、このつながりを具体的に示す。1986～1991年に師のアトリエで受けた教育が専門的な基盤となり、自身の絵画言語は写生、人物構成、色彩の研究を通じて育った。師と展覧会で交流する写真は、略歴に人と人との出会いを加える。弟子の作品は師の画風の延長だけでは説明できない。学びは、自立した探究を支える土台となる。
-
-[展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。
-
-その歩みはウズベキスタンの美術機関の変化と並行している。芸術アカデミーは1997年1月23日に設立され、同年、ヴァリホジャエフは芸術家連盟ナマンガン支部の会長となった。その後、アカデミーの特別基金を1999～2005年、ウズベキスタン美術基金を1999～2012年に率いた。2017年からの連盟会長職、2023年のアカデミー会員就任、画廊活動、国際プロジェクトは、個人の制作と他の作家のための環境づくりとの接点を示す。これは生涯を文化的背景のなかに置く比較であり、一人の画家がその発展を決めたという主張ではない。
-
-[歴史的背景：ウズベキスタン芸術アカデミー](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[展覧会で交流するヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-展覧会で交流するヴァリホジャエフ。 画家のアーカイブより。
-
-[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-アトリエのヴァリホジャエフ。 画家のアーカイブより。
-
-[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-同業の仲間との集まりを写した記録。 画家のアーカイブより。
-
-[屋外で撮影されたアーカイブ写真。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-屋外で撮影されたアーカイブ写真。 画家のアーカイブより。
-
-[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-同業の仲間との集まりを写した記録。 画家のアーカイブより。
-
-[陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。
-
-[同業の仲間との集まりを写した記録。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-同業の仲間との集まりを写した記録。 画家のアーカイブより。
-
-[歴史的建築のそばに立つ画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-歴史的建築のそばに立つ画家。 画家のアーカイブより。
-
-[自身の作品に囲まれた若き画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-自身の作品に囲まれた若き画家。 画家のアーカイブより。
-
-[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-アトリエのヴァリホジャエフ。 画家のアーカイブより。
-
-[アトリエのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-アトリエのヴァリホジャエフ。 画家のアーカイブより。
-
-## アトリエで：展覧会の前と後
-
-アトリエでは、絵画上の判断の段階が見える。イーゼルの上のカンヴァス、筆の動き、描かれた表面を前にした立ち止まり。異なる時期の写真は日々の仕事をつなぐ。表現は観察と検討、作品を見る距離、そして一つの部分が全体をどう変えるかへの注意から形づくられる。
-
-[赤い色面のある絵画を見つめる画家。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-赤い色面のある絵画を見つめる画家。 画家のアーカイブより。
-
-## 評価と画家の歩み
-
-授賞式の写真は、職歴に評価を受けた瞬間を加える。授与の身振りと仲間の姿が写り、受賞歴には正式な名称と年が残る。確認済みの栄誉には2020年のシュフラト・メダル、2018年の芸術アカデミー金メダルがある。ただし、この年を写真の撮影年として用いてはいない。メダルの外観だけで個々の式典を特定することはできない。
-
-[イブラギム・ヴァリホジャエフへの金メダル授与。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-イブラギム・ヴァリホジャエフへの金メダル授与。 画家のアーカイブより。
-
-[授賞式でのヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-授賞式でのヴァリホジャエフ。 画家のアーカイブより。

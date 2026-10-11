@@ -41,6 +41,18 @@ The elderly man's face is drawn close to the viewer. His dark headdress almost b
 
 The shoulders occupy a significant portion of the lower half of the painting. The dark grey and blue tones of the clothing support the figure's weight, leaving the face in the centre. The background is extremely simple, but not empty: a narrow ochre stripe at the top defines the boundary against which the silhouette of the headdress is related.
 
+## Melis Abzalov in the studio: from encounter to portrait
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) was an Uzbek actor and film director. These archive photographs show his meeting with Valikhodjaev and the artist at work on his portrait. Alongside the finished paintings, they reveal the process itself: the sitter’s presence, the distance from the easel, and attention to the face and pose.
+
+[Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.
+
+[Working on a portrait of Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Working on a portrait of Melis Abzalov in the studio. Artist’s archive.
+
 ## How a portrait directs the eye
 
 In "Portrait of Dias Rakhmatov," the gaze begins with large-scale relationships between dark and light. It then moves to differences within the face: the turn of the head, the light brushstroke on the forehead, the dark areas around the eyes. The work can be viewed from the overall silhouette to individual brushstrokes, returning back to the whole.

@@ -43,6 +43,10 @@ edition_date: "2026-10-11"
 
 در شهرهای دوران شوروی، کار هنرمندان به سالن نمایشگاه محدود نبود؛ برای طراحی پوستر، تابلوهای سردر و آرایش فضای داخلی نیز به آنان سفارش می‌دادند. ولی‌خوجایف در جوانی در نمنگان چنین کارهایی انجام می‌داد و گروه‌هایی از استادکاران و نقاشان را هدایت می‌کرد. این کار به او تجربهٔ تقسیم وظایف و رساندن یک طرح مشترک به مرحلهٔ اجرا را داد.
 
+[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
+
 بنا بر خاطرات خانواده، پیش از ورود به مؤسسه درآمد کافی برای خرید خانه و یک خودروی موسکویچ به دست آورده بود. بعدها با خودروی خودش به کلاس می‌رفت. بااین‌حال استقلال مالی جای رؤیای کودکی را نگرفت: می‌خواست آموزش حرفه‌ای هنر ببیند و نقاش شود. برای آمادگی آزمون ورودی، در تاشکند نزد آشنایی دانشجو اقامت داشت که در تمرین‌ها به او کمک می‌کرد. خانواده ورود به مؤسسه را مرحله‌ای دشوار و نیازمند آمادگی جدی به یاد می‌آورد.
 
 پس از پذیرفته‌شدن، فعالیت قبلی خود در سفارش‌های تجاری را کنار گذاشت و بر تحصیل تمرکز کرد. کاری که پیش‌تر سامان گرفته بود، جای خود را به خواست یادگیری نقاشی داد. تجربهٔ سازمان‌دهی با او ماند و بعدها در تأسیس کارگاه، گالری و پروژه‌های هنری به کار آمد.
@@ -99,6 +103,28 @@ edition_date: "2026-10-11"
 
 هنرمند جوان در میان آثارش. آرشیو هنرمند.
 
+رابطه با استاد رحیم احمدوف این پیوستگی را روشن می‌کند. آموزش در آتلیهٔ او در سال‌های 1986 تا 1991 میلادی، بنیانی حرفه‌ای به ولی‌خواجه‌اف داد. زبان شخصی‌اش سپس با کار از روی طبیعت، ترکیب‌بندی‌های پیکرنما و پژوهش در رنگ شکل گرفت. عکس دیدار با استاد در نمایشگاه، به زندگی‌نامه یک برخورد انسانی می‌افزاید. آثار شاگرد را نمی‌توان صرفاً ادامهٔ شیوهٔ استاد دانست؛ آموزش تکیه‌گاهی برای جست‌وجوی مستقل است.
+
+[ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف در دیداری در نمایشگاه. آرشیو هنرمند.
+
+[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
+
+[عکسی در فضای باز از آرشیو. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+عکسی در فضای باز از آرشیو. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف کنار ظروف سفالی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف کنار ظروف سفالی. آرشیو هنرمند.
+
 ## اوایل دههٔ ۱۹۹۰: مسیرهای گوناگون جست‌وجوی هنری
 
 آثار او در اوایل دههٔ ۱۹۹۰، تنوع نخستین جست‌وجوهای مستقلش را نشان می‌دهند. در «فرشته»، نگاه بر زنی نشسته، چهره، دست‌ها و لباس روشن او متمرکز می‌شود. در «فریاد»، توده‌ای بزرگ و تیره و تأکیدهای روشن و تند تصویر را می‌سازند. مشاهدهٔ انسان در کنار جست‌وجوی فرمی ساده‌شده و نمادین قرار می‌گیرد. نقاشی‌های بازار نیز در دل این کاوش هنری گسترده‌تر رشد خواهند کرد.
@@ -153,6 +179,36 @@ edition_date: "2026-10-11"
 
 ابراهیم ولی‌خواجه‌اف در مقام مدیر صندوق ویژه، سال 2002 میلادی. آرشیو هنرمند.
 
+[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
+
+[هنرمند کنار یک بنای تاریخی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+هنرمند کنار یک بنای تاریخی. آرشیو هنرمند.
+
+مسیر او در کنار تحول نهادهای هنری ازبکستان پیش رفت. آکادمی هنرها در 23 ژانویهٔ 1997 میلادی تأسیس شد و همان سال ولی‌خواجه‌اف ریاست شعبهٔ نمنگان اتحادیهٔ هنرمندان را بر عهده گرفت. سپس صندوق ویژهٔ آکادمی را در 1999–2005 و صندوق هنری ازبکستان را در 1999–2012 اداره کرد. ریاست اتحادیه از 2017، عضویت آکادمی از 2023، فعالیت گالری و طرح‌های بین‌المللی، پیوند خلق اثر با فراهم کردن شرایط کار برای دیگران را نشان می‌دهد. این مقایسه زندگی‌نامه را در بستر فرهنگی‌اش قرار می‌دهد، نه اینکه توسعهٔ آن بستر را به یک هنرمند نسبت دهد.
+
+[بستر تاریخی: آکادمی هنرهای ازبکستان](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## تاشکند: ادامهٔ نقاشی در کنار مسئولیت‌های صندوق‌های هنری
+
+عکس‌های آرشیوی چیزی را نشان می‌دهند که فهرست نمایشگاه‌ها نمی‌گوید: فضای فشردهٔ آتلیه، بومی ناتمام کنار تصویری که به نتیجه رسیده، و گفت‌وگوهای مقابل تابلوها. در پرتره‌های سیاه‌وسفید، هنرمند جوان با کارش تنهاست؛ در عکس‌های نمایشگاه، کنار استادان، همکاران و تماشاگران قرار می‌گیرد. هر دو موقعیت برای روایت مسیر او مهم‌اند. تابلو از جست‌وجویی شخصی زاده می‌شود و زندگی بعدی‌اش در محیط هنری ادامه می‌یابد.
+
+آتلیه مراحل یک تصمیم نقاشانه را نشان می‌دهد: بوم روی سه‌پایه، حرکت قلم‌مو و مکث در برابر سطح نقاشی‌شده. عکس‌ها کار روزمرهٔ سال‌های مختلف را به هم پیوند می‌دهند. بیان تابلو از مشاهده و بازبینی، از فاصلهٔ نگاه نقاش و توجه به تأثیر یک بخش بر کل شکل می‌گیرد.
+
+[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
+
+[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
+
 ## کاری پربار: نقاشی، نمایشگاه و کار در فضای باز
 
 نقش‌های سازمانی کار خلاقهٔ او را متوقف نکردند. ولی‌خوجایف پس از پایان مدیریت صندوق ویژه در ۲۰۰۵، تا ۲۰۱۲ به ریاست صندوق هنر ادامه داد و هم‌زمان نقاشی خود را گسترش داد. در سال ۲۰۰۸، نمایشگاهی انفرادی به مناسبت پنجاه‌سالگی او بیش از ۲۰۰ اثر را در سالن مرکزی نمایشگاه‌های آکادمی هنرهای ازبکستان به نمایش گذاشت.
@@ -189,19 +245,13 @@ edition_date: "2026-10-11"
 
 کودکان کار هنرمند را در فضای باز تماشا می‌کنند. از آرشیو هنرمند.
 
-[ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
-
-[کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
-
-[ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.
-
 [ویدئوی آماده‌سازی نمایشگاه: ابراهیم ولی‌خوجایف در مقام رئیس اتحادیهٔ هنرمندان ازبکستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[ابراهیم ولی‌خوجایف در گردهمایی نقاشی در فضای باز در ترکیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+ابراهیم ولی‌خوجایف در گردهمایی نقاشی در فضای باز در ترکیه. آرشیو هنرمند.
+
+[ملیس ابزالوف در کارگاه: از دیدار تا پرتره](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_10.html#iv-melis-abzalov>)
 
 ## رنگ موضوع تحقیق می‌شود
 
@@ -290,6 +340,22 @@ edition_date: "2026-10-11"
 
 او نقاش و مجسمه‌ساز، برگزارکننده و نمایشگاه‌گردان، بنیانگذار گالری و مربی است. یک سوال رایج در تمام این فعالیت‌ها وجود دارد: چگونه می‌توان دیدگاهی تازه را حفظ کرد؟ در گفتگوهای منتشر شده، تجربه به عنوان فرصتی برای ادامه تحقیق، آزمایش و یافتن راه‌حل‌های جدید و گویا ارائه می‌شود.
 
+[ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.
+
+## تقدیر و مسیر حرفه‌ای
+
+مسیر حرفه‌ای ولی‌خوجایف با جوایزی از جمله مدال «شهرت» در سال ۲۰۲۰ و مدال طلای آکادمی هنرهای ازبکستان در سال ۲۰۱۸ مورد تقدیر قرار گرفته است. عکس‌های آرشیوی لحظه‌های اهدای جوایز و دیدار با چهره‌های فرهنگی و اجتماعی کشور را ثبت کرده‌اند.
+
+[تاتیانا کریمووا، همسر اسلام کریموف، نخستین رئیس‌جمهور ازبکستان، مدال طلای رئیس‌جمهور جمهوری ازبکستان را به ابراهیم ولی‌خوجایف اهدا می‌کند. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+[تاتیانا کریمووا](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)، همسر اسلام کریموف، نخستین رئیس‌جمهور ازبکستان، مدال طلای رئیس‌جمهور جمهوری ازبکستان را به ابراهیم ولی‌خوجایف اهدا می‌کند. آرشیو هنرمند.
+
+[اکمل نور، رئیس آکادمی هنرهای ازبکستان، مدال طلای آکادمی را به ابراهیم ولی‌خوجایف اهدا می‌کند. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+[اکمل نور](<https://art-academy.uz/ru/structure/rahbariyat/1>)، رئیس آکادمی هنرهای ازبکستان، مدال طلای آکادمی را به ابراهیم ولی‌خوجایف اهدا می‌کند. آرشیو هنرمند.
+
 ## به جستجو ادامه بده، به ساختن ادامه بده
 
 این زندگینامه به ما امکان می‌دهد تا نمایشگاه‌ها و مأموریت‌های حرفه‌ای او را ردیابی کنیم؛ مصاحبه‌ها، سازوکار درونی آثارش را آشکار می‌کنند. ولی‌خوجایف از تلاش، تردید، جستجوی یک مفهوم و دشواری ساده جلوه دادن یک اثر سخن می‌گوید. این تأملات ما را به کارگاه بازمی‌گرداند، جایی که تجربیات انباشته شده باید به راه‌حل‌های ملموس روی بوم تبدیل شوند.
@@ -337,84 +403,6 @@ edition_date: "2026-10-11"
 [ویدیوی کلاس نقاشی · چین، شی‌آن، ۲۰۲۵](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [گزارش سفر و کلاس نقاشی · Facebook، ۸ اکتبر ۲۰۲۵](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## زندگی در عکس‌ها: آتلیه و محیط هنری
-
-عکس‌های آرشیوی چیزی را نشان می‌دهند که فهرست نمایشگاه‌ها نمی‌گوید: فضای فشردهٔ آتلیه، بومی ناتمام کنار تصویری که به نتیجه رسیده، و گفت‌وگوهای مقابل تابلوها. در پرتره‌های سیاه‌وسفید، هنرمند جوان با کارش تنهاست؛ در عکس‌های نمایشگاه، کنار استادان، همکاران و تماشاگران قرار می‌گیرد. هر دو موقعیت برای روایت مسیر او مهم‌اند. تابلو از جست‌وجویی شخصی زاده می‌شود و زندگی بعدی‌اش در محیط هنری ادامه می‌یابد.
-
-رابطه با استاد رحیم احمدوف این پیوستگی را روشن می‌کند. آموزش در آتلیهٔ او در سال‌های 1986 تا 1991 میلادی، بنیانی حرفه‌ای به ولی‌خواجه‌اف داد. زبان شخصی‌اش سپس با کار از روی طبیعت، ترکیب‌بندی‌های پیکرنما و پژوهش در رنگ شکل گرفت. عکس دیدار با استاد در نمایشگاه، به زندگی‌نامه یک برخورد انسانی می‌افزاید. آثار شاگرد را نمی‌توان صرفاً ادامهٔ شیوهٔ استاد دانست؛ آموزش تکیه‌گاهی برای جست‌وجوی مستقل است.
-
-[ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.
-
-مسیر او در کنار تحول نهادهای هنری ازبکستان پیش رفت. آکادمی هنرها در 23 ژانویهٔ 1997 میلادی تأسیس شد و همان سال ولی‌خواجه‌اف ریاست شعبهٔ نمنگان اتحادیهٔ هنرمندان را بر عهده گرفت. سپس صندوق ویژهٔ آکادمی را در 1999–2005 و صندوق هنری ازبکستان را در 1999–2012 اداره کرد. ریاست اتحادیه از 2017، عضویت آکادمی از 2023، فعالیت گالری و طرح‌های بین‌المللی، پیوند خلق اثر با فراهم کردن شرایط کار برای دیگران را نشان می‌دهد. این مقایسه زندگی‌نامه را در بستر فرهنگی‌اش قرار می‌دهد، نه اینکه توسعهٔ آن بستر را به یک هنرمند نسبت دهد.
-
-[بستر تاریخی: آکادمی هنرهای ازبکستان](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[ولی‌خواجه‌اف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف در دیداری در نمایشگاه. آرشیو هنرمند.
-
-[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
-
-[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
-
-[عکسی در فضای باز از آرشیو. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-عکسی در فضای باز از آرشیو. آرشیو هنرمند.
-
-[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
-
-[ولی‌خواجه‌اف کنار ظروف سفالی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف کنار ظروف سفالی. آرشیو هنرمند.
-
-[دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-دیدار با همکاران، عکس آرشیوی. آرشیو هنرمند.
-
-[هنرمند کنار یک بنای تاریخی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-هنرمند کنار یک بنای تاریخی. آرشیو هنرمند.
-
-[هنرمند جوان در میان آثارش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-هنرمند جوان در میان آثارش. آرشیو هنرمند.
-
-[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
-
-[ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف در آتلیه‌اش. آرشیو هنرمند.
-
-## در آتلیه، پیش و پس از نمایشگاه
-
-آتلیه مراحل یک تصمیم نقاشانه را نشان می‌دهد: بوم روی سه‌پایه، حرکت قلم‌مو و مکث در برابر سطح نقاشی‌شده. عکس‌ها کار روزمرهٔ سال‌های مختلف را به هم پیوند می‌دهند. بیان تابلو از مشاهده و بازبینی، از فاصلهٔ نگاه نقاش و توجه به تأثیر یک بخش بر کل شکل می‌گیرد.
-
-[هنرمند تابلویی با پهنهٔ رنگی قرمز را نگاه می‌کند. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-هنرمند تابلویی با پهنهٔ رنگی قرمز را نگاه می‌کند. آرشیو هنرمند.
-
-## قدردانی و مسیر حرفه‌ای
-
-عکس‌های تقدیر، لحظه‌های زندهٔ به‌رسمیت‌شناختن را به کارنامه می‌افزایند. حرکت اهدای جایزه و حضور همکاران در عکس حفظ می‌شود، در حالی که فهرست جوایز نام‌ها و سال‌های رسمی را ثبت می‌کند. مدال شوهرات در 2020 میلادی و مدال طلای آکادمی هنرها در 2018 میلادی از افتخارات تأییدشده‌اند. این تاریخ‌ها سالِ عکس‌های حاضر نیستند؛ ظاهر یک مدال به‌تنهایی مراسم را مشخص نمی‌کند.
-
-[اهدای مدال طلا به ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-اهدای مدال طلا به ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند.
-
-[ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-ولی‌خواجه‌اف در مراسم تقدیر. آرشیو هنرمند.
 
 
 </div>

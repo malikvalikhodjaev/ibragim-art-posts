@@ -43,6 +43,18 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 הכתפיים תופסות חלק ניכר מהחצי התחתון של הציור. גווני האפור והכחול הכהים של הבגדים תומכים במשקל הדמות, ומשאירים את הפנים במרכז. הרקע פשוט ביותר, אך לא ריק: פס אוקר צר בחלקו העליון מגדיר את הגבול שאליו מתייחסת צללית כיסוי הראש.
 
+## מליס אבזלוב בסטודיו: מן המפגש אל הדיוקן
+
+[מליס אבזלוב](<https://dsmi.uz/ru/melis-abzalov-2/>) היה שחקן ובמאי קולנוע אוזבקי. תצלומי הארכיון האלה מראים את מפגשו עם וליחודג׳אייב ואת עבודת האמן על דיוקנו. לצד הציורים המוגמרים הם מאפשרים לראות את תהליך העבודה: נוכחותו של היושב, המרחק מן כן הציור ותשומת הלב לפנים ולתנוחה.
+
+[איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.
+
+[עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.
+
 ## כיצד דיוקן מכוון את העין
 
 ב"דיוקן של דיאס רחמטוב", המבט מתחיל ביחסים רחבי היקף בין חושך לאור. לאחר מכן הוא עובר להבדלים בתוך הפנים: סיבוב הראש, משיכת מכחול בהירה על המצח, האזורים הכהים סביב העיניים. ניתן להתבונן בעבודה מהצללית הכוללת ועד למשיכות מכחול בודדות, וחזרה אל השלם.

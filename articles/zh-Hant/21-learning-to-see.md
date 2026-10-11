@@ -41,6 +41,10 @@ edition_date: "2026-10-11"
 
 在蘇聯時期的城市裡，藝術家的工作並不侷限於展廳：製作宣傳畫、繪製招牌和裝飾室內空間，也需要他們參與。年輕時，瓦利霍賈耶夫在納曼干承接這類工作，帶領由工匠和畫家組成的團隊。這讓他累積了分配任務、組織製作並共同完成計畫的實務經驗。
 
+[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+與同行相聚的檔案照片。 藝術家檔案。
+
 據家人回憶，進入學院之前，他已憑工作收入購置住宅和一輛莫斯科人牌汽車，後來開著自己的車去上課。但經濟獨立並未取代兒時的理想：他希望接受專業藝術教育，成為畫家。準備入學考試時，他住在塔什干一位學生熟人的家中，對方協助他學習。家人將考入學院視為一個需要認真準備的艱難關口。
 
 入學後，他停止了此前承接商業訂單的工作，將精力轉向學習。已經建立的謀生方式讓位於接受繪畫訓練的願望。不過，組織工作的經驗並未消失，後來在創辦工作室、畫廊和藝術計畫時發揮了作用。
@@ -97,6 +101,28 @@ edition_date: "2026-10-11"
 
 年輕時的藝術家與自己的作品。 藝術家檔案。
 
+他與恩師拉希姆・艾哈邁多夫的關係，使這種傳承變得具體。1986至1991年在老師畫室的學習奠定了專業基礎，而他自己的繪畫語言則在持續的寫生、人物構圖和色彩研究中形成。師生在展覽相聚的照片，為履歷補充了一次真實的交流。學生的作品並非老師風格的簡單延續：紮實的訓練為獨立探索提供了支點。
+
+[瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。
+
+[瓦利霍賈耶夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在展覽交流活動中。 藝術家檔案。
+
+[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+與同行相聚的檔案照片。 藝術家檔案。
+
+[檔案中的戶外照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+檔案中的戶外照片。 藝術家檔案。
+
+[瓦利霍賈耶夫與陶器。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+瓦利霍賈耶夫與陶器。 藝術家檔案。
+
 ## 1990年代初：不同方向的探索
 
 20世紀90年代初的作品，展現出他最初獨立探索的多樣性。《天使》將視線引向一位坐著的女子、她的面容、雙手和淺色衣服；《吶喊》則以大塊深色形體與鮮明的淺色點綴構成畫面。對具體人物的觀察，與對概括性、象徵性形態的探索在這裡並存。巴扎題材將在這一更廣闊的藝術探索中發展。
@@ -151,6 +177,36 @@ edition_date: "2026-10-11"
 
 擔任專項基金負責人期間的伊布拉吉姆·瓦利霍賈耶夫，2002年。藝術家檔案。
 
+[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+與同行相聚的檔案照片。 藝術家檔案。
+
+[藝術家在建築古蹟旁。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+藝術家在建築古蹟旁。 藝術家檔案。
+
+他的職業道路與烏茲別克藝術機構的變化並行。藝術科學院於1997年1月23日成立；同年，瓦利霍賈耶夫擔任藝術家聯盟納曼干分會主席。此後，他於1999至2005年領導科學院專項基金，於1999至2012年領導烏茲別克藝術基金。自2017年擔任聯盟主席、2023年成為院士，加上畫廊工作與國際計畫，展現出個人創作如何與為其他藝術家創造條件相連結。這是一種把生平放回文化環境中的對照，並不意味著整個環境的發展由一位藝術家決定。
+
+[歷史背景：烏茲別克藝術科學院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## 塔什干：在藝術基金的工作之外持續創作
+
+檔案照片呈現出展覽清單無法表達的生活：狹小的畫室、未完成的畫布與已經成形的作品，以及畫前的交談。黑白肖像中的年輕畫家獨自面對創作；展覽照片中的他則置身於老師、同行和觀眾之間。這兩種場景同樣重要。作品始於個人探索，此後的生命則在藝術界的交流中展開。
+
+畫室展示了繪畫決策的不同階段：畫架上的畫布、移動的畫筆，以及面對已畫表面的停頓。不同時期的照片把日常工作連結起來。畫面的表現力來自觀察與檢驗，來自畫家觀看作品的距離，也來自他對局部如何改變整體的關注。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
+[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+瓦利霍賈耶夫在畫室內。 藝術家檔案。
+
 ## 持續而豐沛的創作：繪畫、展覽與寫生
 
 組織工作並未中斷他的創作。2005年結束特別基金的領導職務後，瓦利霍賈耶夫繼續主持藝術基金至2012年，同時發展自己的繪畫。2008年，為紀念其50歲生日，烏茲別克藝術科學院中央展覽廳舉辦個人展覽，展出200餘件作品。
@@ -187,19 +243,13 @@ edition_date: "2026-10-11"
 
 孩子們圍觀藝術家的戶外創作。 藝術家檔案。
 
-[伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。
-
-[在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。
-
-[伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。
-
 [展覽籌備錄影：以烏茲別克藝術家聯盟主席身分參與工作的伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[伊布拉吉姆・瓦利霍賈耶夫參加土耳其的戶外寫生活動。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+伊布拉吉姆・瓦利霍賈耶夫參加土耳其的戶外寫生活動。藝術家檔案。
+
+[梅利斯・阿布扎洛夫在畫室：從相聚到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html#iv-melis-abzalov>)
 
 ## 色彩成為研究對象
 
@@ -288,6 +338,22 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 他身兼畫家、雕塑家、組織者、策展人、畫廊創辦人以及導師等多重身分。貫穿所有這些身分的共同問題是：如何保持新鮮的視角？在他發表的訪談中，經驗被視為持續研究、實驗和尋找新的表達方式的契機。
 
+[伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。
+
+## 榮譽與職業歷程
+
+瓦利霍賈耶夫曾獲得多項榮譽，包括2020年的「舒赫拉特」獎章與2018年烏茲別克藝術科學院金質獎章。檔案照片留下了頒獎時刻，以及他與烏茲別克文化界和社會人士相聚的場景。
+
+[烏茲別克首任總統伊斯蘭・卡里莫夫的夫人塔季揚娜・卡里莫娃向伊布拉吉姆・瓦利霍賈耶夫頒授烏茲別克共和國總統金質獎章。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+烏茲別克首任總統伊斯蘭・卡里莫夫的夫人[塔季揚娜・卡里莫娃](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)向伊布拉吉姆・瓦利霍賈耶夫頒授烏茲別克共和國總統金質獎章。藝術家檔案。
+
+[烏茲別克藝術科學院院長阿克馬爾・努爾向伊布拉吉姆・瓦利霍賈耶夫頒授藝術科學院金質獎章。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+烏茲別克藝術科學院院長[阿克馬爾・努爾](<https://art-academy.uz/ru/structure/rahbariyat/1>)向伊布拉吉姆・瓦利霍賈耶夫頒授藝術科學院金質獎章。藝術家檔案。
+
 ## 繼續尋找，繼續創造
 
 傳記讓我們得以追溯他的展覽和職業經歷；訪談則揭示了他創作的內在機制。瓦利霍賈耶夫談到了努力、懷疑、對概念的探索，以及如何讓作品表面看似簡潔卻又充滿挑戰。這些思考將我們帶回工作室，在那裡，他必須將累積的經驗轉化為畫布上的具體選擇。
@@ -335,81 +401,3 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 [大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## 照片中的人生：畫室與藝術界
-
-檔案照片呈現出展覽清單無法表達的生活：狹小的畫室、未完成的畫布與已經成形的作品，以及畫前的交談。黑白肖像中的年輕畫家獨自面對創作；展覽照片中的他則置身於老師、同行和觀眾之間。這兩種場景同樣重要。作品始於個人探索，此後的生命則在藝術界的交流中展開。
-
-他與恩師拉希姆・艾哈邁多夫的關係，使這種傳承變得具體。1986至1991年在老師畫室的學習奠定了專業基礎，而他自己的繪畫語言則在持續的寫生、人物構圖和色彩研究中形成。師生在展覽相聚的照片，為履歷補充了一次真實的交流。學生的作品並非老師風格的簡單延續：紮實的訓練為獨立探索提供了支點。
-
-[瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。
-
-他的職業道路與烏茲別克藝術機構的變化並行。藝術科學院於1997年1月23日成立；同年，瓦利霍賈耶夫擔任藝術家聯盟納曼干分會主席。此後，他於1999至2005年領導科學院專項基金，於1999至2012年領導烏茲別克藝術基金。自2017年擔任聯盟主席、2023年成為院士，加上畫廊工作與國際計畫，展現出個人創作如何與為其他藝術家創造條件相連結。這是一種把生平放回文化環境中的對照，並不意味著整個環境的發展由一位藝術家決定。
-
-[歷史背景：烏茲別克藝術科學院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[瓦利霍賈耶夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-瓦利霍賈耶夫在展覽交流活動中。 藝術家檔案。
-
-[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-瓦利霍賈耶夫在畫室內。 藝術家檔案。
-
-[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-與同行相聚的檔案照片。 藝術家檔案。
-
-[檔案中的戶外照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-檔案中的戶外照片。 藝術家檔案。
-
-[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-與同行相聚的檔案照片。 藝術家檔案。
-
-[瓦利霍賈耶夫與陶器。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-瓦利霍賈耶夫與陶器。 藝術家檔案。
-
-[與同行相聚的檔案照片。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-與同行相聚的檔案照片。 藝術家檔案。
-
-[藝術家在建築古蹟旁。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-藝術家在建築古蹟旁。 藝術家檔案。
-
-[年輕時的藝術家與自己的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-年輕時的藝術家與自己的作品。 藝術家檔案。
-
-[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-瓦利霍賈耶夫在畫室內。 藝術家檔案。
-
-[瓦利霍賈耶夫在畫室內。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-瓦利霍賈耶夫在畫室內。 藝術家檔案。
-
-## 畫室內：展覽前後的工作
-
-畫室展示了繪畫決策的不同階段：畫架上的畫布、移動的畫筆，以及面對已畫表面的停頓。不同時期的照片把日常工作連結起來。畫面的表現力來自觀察與檢驗，來自畫家觀看作品的距離，也來自他對局部如何改變整體的關注。
-
-[藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-藝術家觀看一幅以紅色色域為特徵的畫作。 藝術家檔案。
-
-## 肯定與職業歷程
-
-頒獎照片為職業年表補充了真實的肯定時刻，保留授獎的動作與同行在場的情景；獎項清單則記錄正式名稱與年份。已確認的榮譽包括2020年「舒赫拉特」獎章和2018年藝術科學院金質獎章。這些年份並非所示照片的拍攝日期：僅憑獎章外觀不能確定某一場典禮。
-
-[向伊布拉吉姆・瓦利霍賈耶夫頒發金質獎章。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-向伊布拉吉姆・瓦利霍賈耶夫頒發金質獎章。 藝術家檔案。
-
-[瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-瓦利霍賈耶夫在頒獎典禮上。 藝術家檔案。

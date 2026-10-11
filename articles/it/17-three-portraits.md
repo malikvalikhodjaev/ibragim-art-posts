@@ -41,6 +41,18 @@ Il volto dell'anziano è ritratto in primo piano rispetto all'osservatore. Il su
 
 Le spalle occupano una porzione significativa della metà inferiore del dipinto. Le tonalità grigio scuro e blu degli abiti sostengono il peso della figura, lasciando il volto al centro. Lo sfondo è estremamente semplice, ma non vuoto: una stretta striscia ocra nella parte superiore definisce il confine rispetto al quale si staglia la silhouette del copricapo.
 
+## Melis Abzalov nello studio: dall’incontro al ritratto
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) era un attore e regista uzbeko. Queste fotografie d’archivio mostrano il suo incontro con Valikhodjaev e l’artista al lavoro sul ritratto. Accanto ai dipinti finiti, documentano il processo: la presenza del modello, la distanza dal cavalletto e l’attenzione al volto e alla posa.
+
+[Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.
+
+[Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.
+
 ## Come un ritratto guida lo sguardo
 
 Nel "Ritratto di Dias Rakhmatov", lo sguardo inizia con le ampie relazioni tra luce e ombra. Si sposta poi sulle differenze all'interno del volto: la torsione della testa, la pennellata chiara sulla fronte, le zone scure intorno agli occhi. L'opera può essere osservata dalla silhouette complessiva fino alle singole pennellate, per poi tornare all'insieme.

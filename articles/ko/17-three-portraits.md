@@ -41,6 +41,18 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 어깨는 그림 하단의 상당 부분을 차지하고 있다. 어두운 회색과 푸른색 계열의 옷은 인물의 무게감을 받쳐주며, 얼굴은 중앙에 자리 잡고 있다. 배경은 매우 단순하지만 비어있지는 않다. 상단의 좁은 황토색 줄무늬는 모자의 실루엣이 놓일 경계를 명확히 구분해 준다.
 
+## 작업실의 멜리스 압잘로프: 만남에서 초상화로
+
+[멜리스 압잘로프](<https://dsmi.uz/ru/melis-abzalov-2/>)는 우즈베키스탄의 배우이자 영화감독이었습니다. 이 아카이브 사진은 발리호자예프와의 만남, 그리고 화가가 그의 초상화를 그리는 모습을 보여 줍니다. 완성된 그림과 함께 보면 모델의 존재, 이젤까지의 거리, 얼굴과 자세를 살피는 시선 등 제작 과정을 이해할 수 있습니다.
+
+[작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.
+
+[작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.
+
 ## 초상화는 어떻게 시선을 이끄는가
 
 "디아스 라흐마토프의 초상"에서 시선은 먼저 어둠과 빛의 거대한 대비에서 시작된다. 그런 다음 고개의 움직임, 이마의 밝은 붓질, 눈 주위의 어두운 부분 등 얼굴 내부의 미묘한 차이로 옮겨간다. 이 작품은 전체적인 실루엣에서 개별 붓질에 이르기까지, 그리고 다시 전체로 돌아오는 다양한 각도에서 감상할 수 있다.

@@ -43,6 +43,10 @@ edition_date: "2026-10-11"
 
 في مدن الحقبة السوفيتية، لم يقتصر عمل الفنانين على قاعات العرض؛ فقد كانوا يتلقون تكليفات لإعداد الملصقات واللافتات وتزيين المساحات الداخلية. مارس فاليخودجاييف هذه الأعمال في شبابه في نامانغان، وقاد فرقًا من الحرفيين والرسامين. واكتسب بذلك خبرة عملية في توزيع المهام وتحويل التصور المشترك إلى عمل مكتمل.
 
+[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
+
 بحسب ذكريات الأسرة، كان قد كسب ما يكفي لشراء منزل وسيارة موسكفيتش قبل دخوله المعهد، ثم صار يذهب إلى دروسه بسيارته الخاصة. لكن الاستقلال المادي لم يحلّ محل حلم الطفولة: أراد دراسة الفن دراسة مهنية وأن يصبح رسامًا. وللاستعداد لاختبارات القبول، أقام في طشقند لدى أحد معارفه من الطلاب، الذي ساعده على الدراسة. وتتذكر الأسرة القبول بوصفه مرحلة صعبة تطلبت استعدادًا جادًا.
 
 بعد قبوله، أوقف نشاطه السابق في تنفيذ الطلبات التجارية وركز على الدراسة. أفسح العمل الذي استقر فيه مجالًا لرغبته في التكوين الفني. وظلت خبرته التنظيمية حاضرة، فاستفاد منها لاحقًا في تأسيس مرسم ومعرض فني ومشروعات مشتركة.
@@ -99,6 +103,28 @@ edition_date: "2026-10-11"
 
 الفنان الشاب بين أعماله. أرشيف الفنان.
 
+توضح علاقته بأستاذه رحيم أحمدوف هذا الامتداد. أتاح له التكوين في مرسمه بين 1986 و1991 أساساً مهنياً؛ ثم تشكلت لغته الخاصة عبر العمل من الطبيعة والتكوينات البشرية والبحث في اللون. تضيف صورة اللقاء مع الأستاذ في المعرض واقعة إنسانية إلى السيرة. ولا تختزل أعمال التلميذ في امتداد لأسلوب المعلم: فالتعليم يمنح أساساً لبحث مستقل.
+
+[فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.
+
+[فاليخوجاييف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+فاليخوجاييف في لقاء داخل معرض. أرشيف الفنان.
+
+[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
+
+[صورة في الهواء الطلق من الأرشيف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+صورة في الهواء الطلق من الأرشيف. أرشيف الفنان.
+
+[فاليخوجاييف بجوار أوانٍ خزفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+فاليخوجاييف بجوار أوانٍ خزفية. أرشيف الفنان.
+
 ## بدايات التسعينيات: مسارات مختلفة للبحث الفني
 
 تكشف لوحاته في مطلع التسعينيات عن تنوع تجاربه المستقلة الأولى. في «الملاك» يتجه النظر إلى امرأة جالسة، إلى وجهها ويديها وملابسها الفاتحة. أما «الصرخة» فتُبنى صورتها من كتلة داكنة كبيرة ولمسات فاتحة حادة. يتجاور في هذين العملين تأمل الإنسان والبحث عن شكل مختزل ورمزي. وستتطور لوحات البازار ضمن هذا الاستكشاف الفني الأوسع.
@@ -153,6 +179,36 @@ edition_date: "2026-10-11"
 
 إبراهيم فاليخوجاييف، مدير الصندوق الخاص، عام 2002. أرشيف الفنان.
 
+[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
+
+[الفنان إلى جوار معلم معماري. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+الفنان إلى جوار معلم معماري. أرشيف الفنان.
+
+تطور هذا المسار بالتوازي مع تغير المؤسسات الفنية في أوزبكستان. أُنشئت أكاديمية الفنون في 23 يناير 1997؛ وفي العام نفسه تولى فاليخوجاييف رئاسة فرع اتحاد الفنانين في نمنغان. ثم أدار الصندوق الخاص بالأكاديمية في 1999–2005، والصندوق الفني لأوزبكستان في 1999–2012. وتربط رئاسته للاتحاد منذ 2017، وحصوله على عضوية الأكاديمية في 2023، ونشاطه في صالات العرض ومشروعاته الدولية بين الممارسة الشخصية وإتاحة ظروف العمل للآخرين. إنها موازاة تضع السيرة في سياقها الثقافي، لا ادعاء بأن فناناً واحداً حدد تطور هذا السياق.
+
+[السياق التاريخي: أكاديمية الفنون في أوزبكستان](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## طشقند: الرسم إلى جانب العمل في المؤسسات الفنية
+
+تكشف الصور الأرشيفية ما لا تقوله قائمة المعارض: ضيق المرسم، ولوحة غير مكتملة إلى جانب صورة استقر بناؤها، والأحاديث أمام الأعمال. في الصور بالأبيض والأسود يواجه الفنان الشاب عمله منفرداً؛ وفي صور المعارض يجتمع بأساتذته وزملائه والجمهور. كلا المشهدين ضروري لفهم مساره. تبدأ اللوحة ببحث شخصي، ثم تواصل حياتها داخل الوسط الفني.
+
+يكشف المرسم مراحل القرار التشكيلي: القماش على الحامل، وحركة الفرشاة، والتوقف أمام السطح المرسوم. تصل الصور بين العمل اليومي في سنوات مختلفة. تنشأ قوة التعبير من الملاحظة والمراجعة، ومن المسافة التي ينظر منها الفنان إلى اللوحة، والانتباه إلى الطريقة التي يغير بها جزء واحد التكوين كله.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
+[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+فاليخوجاييف في مرسمه. أرشيف الفنان.
+
 ## عمل غزير: لوحات ومعارض ورسم في الهواء الطلق
 
 لم توقف الأدوار التنظيمية عمله الإبداعي. بعد انتهاء رئاسته للصندوق الخاص عام 2005، واصل فاليخودجاييف قيادة صندوق الفنون حتى 2012، مع تطوير تجربته في الرسم. وفي عام 2008، أقيم معرض فردي بمناسبة بلوغه الخمسين، عرض أكثر من 200 عمل في قاعة المعارض المركزية لأكاديمية الفنون في أوزبكستان.
@@ -189,19 +245,13 @@ edition_date: "2026-10-11"
 
 أطفال يتابعون الفنان أثناء عمله في الهواء الطلق. من أرشيف الفنان.
 
-[إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.
-
-[العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.
-
-[إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.
-
 [فيديو التحضير للمعرض: إبراهيم فاليخوجاييف بصفته رئيس اتحاد الفنانين في أوزبكستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[إبراهيم فاليخوجاييف خلال ملتقى للرسم في الهواء الطلق في تركيا. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+إبراهيم فاليخوجاييف خلال ملتقى للرسم في الهواء الطلق في تركيا. من أرشيف الفنان.
+
+[ميليس أبزالوف في المرسم: من اللقاء إلى البورتريه](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html#iv-melis-abzalov>)
 
 ## يصبح اللون موضوعًا للبحث
 
@@ -290,6 +340,22 @@ edition_date: "2026-10-11"
 
 هو رسام ونحات، ومنظم وقيّم فني، ومؤسس معرض، ومرشد. يتردد سؤال مشترك في جميع أنشطته: كيف نحافظ على منظور جديد؟ في حواراته المنشورة، تُطرح التجربة كفرصة لمواصلة البحث والتجريب وإيجاد حلول تعبيرية جديدة.
 
+[إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.
+
+## التقدير والمسيرة المهنية
+
+حظيت مسيرة فاليخوجاييف بالتقدير من خلال جوائز منها ميدالية «شهرت» عام 2020 والميدالية الذهبية لأكاديمية الفنون في أوزبكستان عام 2018. وتحتفظ صور الأرشيف بلحظات تسليم الجوائز واللقاءات مع شخصيات من الحياة الثقافية والعامة في البلاد.
+
+[تسلّم تاتيانا كريموفا، زوجة إسلام كريموف أول رئيس لأوزبكستان، إبراهيم فاليخوجاييف الميدالية الذهبية لرئيس جمهورية أوزبكستان. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+تسلّم [تاتيانا كريموفا](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)، زوجة إسلام كريموف أول رئيس لأوزبكستان، إبراهيم فاليخوجاييف الميدالية الذهبية لرئيس جمهورية أوزبكستان. من أرشيف الفنان.
+
+[يسلّم أكمل نور، رئيس أكاديمية الفنون في أوزبكستان، إبراهيم فاليخوجاييف الميدالية الذهبية للأكاديمية. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+يسلّم [أكمل نور](<https://art-academy.uz/ru/structure/rahbariyat/1>)، رئيس أكاديمية الفنون في أوزبكستان، إبراهيم فاليخوجاييف الميدالية الذهبية للأكاديمية. من أرشيف الفنان.
+
 ## استمر في البحث، استمر في الإبداع
 
 تتيح لنا السيرة الذاتية تتبع معارضه ومهامه المهنية؛ وتكشف المقابلات عن مسار التفكير وراء أعماله. يتحدث فاليخودجاييف عن الجهد والشك والبحث عن فكرة، وصعوبة جعل العمل يبدو بسيطًا ظاهريًا. تعيدنا هذه التأملات إلى المرسم، حيث يجب تحويل الخبرة المتراكمة إلى حل ملموس على اللوحة.
@@ -337,84 +403,6 @@ edition_date: "2026-10-11"
 [فيديو الدرس · الصين، شيآن، 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [تقرير عن الزيارة والدرس · Facebook، 8 أكتوبر 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## حياة في الصور: المرسم والوسط الفني
-
-تكشف الصور الأرشيفية ما لا تقوله قائمة المعارض: ضيق المرسم، ولوحة غير مكتملة إلى جانب صورة استقر بناؤها، والأحاديث أمام الأعمال. في الصور بالأبيض والأسود يواجه الفنان الشاب عمله منفرداً؛ وفي صور المعارض يجتمع بأساتذته وزملائه والجمهور. كلا المشهدين ضروري لفهم مساره. تبدأ اللوحة ببحث شخصي، ثم تواصل حياتها داخل الوسط الفني.
-
-توضح علاقته بأستاذه رحيم أحمدوف هذا الامتداد. أتاح له التكوين في مرسمه بين 1986 و1991 أساساً مهنياً؛ ثم تشكلت لغته الخاصة عبر العمل من الطبيعة والتكوينات البشرية والبحث في اللون. تضيف صورة اللقاء مع الأستاذ في المعرض واقعة إنسانية إلى السيرة. ولا تختزل أعمال التلميذ في امتداد لأسلوب المعلم: فالتعليم يمنح أساساً لبحث مستقل.
-
-[فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-فاليخوجاييف وأستاذه رحيم أحمدوف في لقاء داخل معرض. أرشيف الفنان.
-
-تطور هذا المسار بالتوازي مع تغير المؤسسات الفنية في أوزبكستان. أُنشئت أكاديمية الفنون في 23 يناير 1997؛ وفي العام نفسه تولى فاليخوجاييف رئاسة فرع اتحاد الفنانين في نمنغان. ثم أدار الصندوق الخاص بالأكاديمية في 1999–2005، والصندوق الفني لأوزبكستان في 1999–2012. وتربط رئاسته للاتحاد منذ 2017، وحصوله على عضوية الأكاديمية في 2023، ونشاطه في صالات العرض ومشروعاته الدولية بين الممارسة الشخصية وإتاحة ظروف العمل للآخرين. إنها موازاة تضع السيرة في سياقها الثقافي، لا ادعاء بأن فناناً واحداً حدد تطور هذا السياق.
-
-[السياق التاريخي: أكاديمية الفنون في أوزبكستان](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[فاليخوجاييف في لقاء داخل معرض. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-فاليخوجاييف في لقاء داخل معرض. أرشيف الفنان.
-
-[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-فاليخوجاييف في مرسمه. أرشيف الفنان.
-
-[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
-
-[صورة في الهواء الطلق من الأرشيف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-صورة في الهواء الطلق من الأرشيف. أرشيف الفنان.
-
-[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
-
-[فاليخوجاييف بجوار أوانٍ خزفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-فاليخوجاييف بجوار أوانٍ خزفية. أرشيف الفنان.
-
-[لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-لقاء مع زملاء في صورة أرشيفية. أرشيف الفنان.
-
-[الفنان إلى جوار معلم معماري. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-الفنان إلى جوار معلم معماري. أرشيف الفنان.
-
-[الفنان الشاب بين أعماله. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-الفنان الشاب بين أعماله. أرشيف الفنان.
-
-[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-فاليخوجاييف في مرسمه. أرشيف الفنان.
-
-[فاليخوجاييف في مرسمه. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-فاليخوجاييف في مرسمه. أرشيف الفنان.
-
-## داخل المرسم: قبل المعرض وبعده
-
-يكشف المرسم مراحل القرار التشكيلي: القماش على الحامل، وحركة الفرشاة، والتوقف أمام السطح المرسوم. تصل الصور بين العمل اليومي في سنوات مختلفة. تنشأ قوة التعبير من الملاحظة والمراجعة، ومن المسافة التي ينظر منها الفنان إلى اللوحة، والانتباه إلى الطريقة التي يغير بها جزء واحد التكوين كله.
-
-[الفنان يتأمل لوحة ذات مساحة لونية حمراء. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-الفنان يتأمل لوحة ذات مساحة لونية حمراء. أرشيف الفنان.
-
-## التقدير والمسار المهني
-
-تضيف صور التكريم لحظات حية من التقدير إلى السجل المهني. تحفظ حركة تقديم الجائزة وحضور الزملاء، بينما تسجل قائمة الجوائز الأسماء والسنوات الرسمية. تشمل الإنجازات المؤكدة ميدالية شهرت في 2020 والميدالية الذهبية لأكاديمية الفنون في 2018. هذه التواريخ لا تؤرخ الصور المعروضة: فشكل الميدالية وحده لا يحدد حفلاً بعينه.
-
-[تقديم ميدالية ذهبية إلى إبراهيم فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-تقديم ميدالية ذهبية إلى إبراهيم فاليخوجاييف. أرشيف الفنان.
-
-[فاليخوجاييف في حفل تكريم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-فاليخوجاييف في حفل تكريم. أرشيف الفنان.
 
 
 </div>

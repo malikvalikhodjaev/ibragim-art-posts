@@ -41,6 +41,10 @@ edition_date: "2026-10-11"
 
 소련 시기 도시에서 예술가의 일은 전시장 밖에서도 필요했다. 포스터와 간판, 실내 장식을 위해 예술가에게 작업을 맡겼다. 젊은 발리호자예프는 나망간에서 이런 주문을 받아 일하며 장인과 화가로 구성된 팀을 이끌었다. 업무를 나누고 공동의 구상을 실제 결과물로 완성하는 경험을 쌓았다.
 
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
 가족의 회고에 따르면, 학교에 입학하기 전에 이미 집과 모스크비치 자동차를 살 만큼 벌었고 이후 자신의 차로 수업에 다녔다. 그러나 경제적 독립이 어린 시절의 꿈을 대신하지는 못했다. 그는 전문적인 미술교육을 받고 화가가 되고 싶었다. 입학시험을 준비하며 타슈켄트에서 학생인 지인의 집에 머물렀고, 그 지인은 학습을 도왔다. 가족은 입학을 철저한 준비가 필요한 어려운 관문으로 기억한다.
 
 입학 후에는 이전의 상업적 주문 작업을 중단하고 공부에 집중했다. 이미 기반을 마련한 일보다 회화를 배우려는 꿈을 택한 것이다. 조직을 이끌던 경험은 이후 작업실과 갤러리, 공동 미술 프로젝트를 만드는 데 도움이 되었다.
@@ -97,6 +101,28 @@ edition_date: "2026-10-11"
 
 자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
+스승 라힘 아흐메도프와의 관계는 이러한 연결을 구체적으로 보여 준다. 1986~1991년 스승의 작업실에서 받은 교육은 전문적 토대가 되었다. 자신의 회화 언어는 자연을 직접 관찰하는 작업, 인물 구도와 색채 연구를 통해 형성되었다. 전시에서 스승과 함께한 사진은 이력에 실제 만남을 더한다. 제자의 작품을 스승 화풍의 단순한 연장으로 볼 수는 없다. 교육은 독립적인 탐구를 뒷받침한다.
+
+[전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.
+
+[전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.
+
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
+[야외에서 촬영된 소장 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+야외에서 촬영된 소장 사진. 작가 소장 사진.
+
+[도자기 옆의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+도자기 옆의 발리호자예프. 작가 소장 사진.
+
 ## 1990년대 초: 다양한 탐구의 방향
 
 1990년대 초의 작품들은 독립적인 화가로서 시작한 탐구가 얼마나 다양했는지 보여 준다. 《천사》는 앉아 있는 여성의 얼굴과 손, 밝은 옷에 시선을 모은다. 《외침》에서는 커다란 어두운 덩어리와 선명한 밝은 부분이 화면을 구성한다. 구체적인 인물의 관찰과 형태를 단순화해 상징으로 만드는 탐색이 나란히 이루어진다. 시장을 그린 작품들도 이러한 폭넓은 탐구 안에서 발전하게 된다.
@@ -151,6 +177,36 @@ edition_date: "2026-10-11"
 
 특별기금 책임자로 활동하던 이브라김 발리호자예프. 2002년. 작가 소장 사진.
 
+[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
+
+[역사적 건축물 옆에 선 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+역사적 건축물 옆에 선 작가. 작가 소장 사진.
+
+그의 경력은 우즈베키스탄 미술 기관의 변화와 나란히 이어졌다. 예술아카데미는 1997년 1월 23일 설립되었으며, 같은 해 발리호자예프는 예술가연맹 나망간 지부 회장이 되었다. 이후 아카데미 특별기금을 1999~2005년, 우즈베키스탄 미술기금을 1999~2012년에 이끌었다. 2017년부터의 연맹 회장직, 2023년 아카데미 회원 선임, 갤러리 활동과 국제 프로젝트는 개인의 창작이 다른 작가를 위한 여건 마련과 어떻게 연결되는지 보여 준다. 이는 생애를 문화적 배경 속에 놓는 비교이지, 한 작가가 그 환경의 발전을 결정했다는 뜻은 아니다.
+
+[역사적 배경: 우즈베키스탄 예술아카데미](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## 타슈켄트: 예술기금 업무와 나란히 이어진 창작
+
+소장 사진은 전시 목록만으로 전할 수 없는 삶을 보여 준다. 비좁은 작업실, 미완성 캔버스 옆의 이미 완성된 이미지, 그림 앞에서 나누는 대화가 담겨 있다. 흑백 초상 속 젊은 작가는 홀로 작업과 마주하고, 전시 사진에서는 스승과 동료, 관객 사이에 있다. 두 장면 모두 그의 삶에 중요하다. 그림은 개인의 탐구에서 시작되지만 이후의 삶은 미술계와의 교류 속에서 이어진다.
+
+작업실에서는 회화적 판단의 여러 단계가 보인다. 이젤 위의 캔버스, 움직이는 붓, 그려진 표면 앞에서의 멈춤이 그것이다. 서로 다른 시기의 사진이 일상적인 작업을 연결한다. 표현력은 관찰과 검토, 그림을 바라보는 거리, 한 부분이 전체를 어떻게 바꾸는지에 대한 주의 속에서 형성된다.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
+[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+작업실의 발리호자예프. 작가 소장 사진.
+
 ## 왕성한 작업: 그림, 전시, 야외 제작
 
 조직 운영의 역할이 창작을 멈추게 하지는 않았다. 2005년 특별기금의 임기를 마친 뒤에도 발리호자예프는 2012년까지 미술기금을 이끌면서 자신의 회화를 발전시켰다. 2008년에는 50세 생일을 기념하는 개인전이 우즈베키스탄 미술아카데미 중앙전시장에서 열려 200점이 넘는 작품을 선보였다.
@@ -187,19 +243,13 @@ edition_date: "2026-10-11"
 
 야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.
 
-[작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.
-
-[작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.
-
-[우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.
-
 [전시 준비 영상: 우즈베키스탄 예술가연맹 회장으로 활동하는 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[튀르키예의 야외 사생 행사에 참여한 이브라힘 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+튀르키예의 야외 사생 행사에 참여한 이브라힘 발리호자예프. 화가의 아카이브.
+
+[작업실의 멜리스 압잘로프: 만남에서 초상화로](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html#iv-melis-abzalov>)
 
 ## 색채가 연구의 주제가 되다
 
@@ -288,6 +338,22 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 그는 화가이자 조각가이며, 기획자이자 큐레이터, 갤러리 설립자이자 멘토이다. 그의 모든 활동에는 공통된 질문이 흐르고 있다. 바로 어떻게 신선한 관점을 유지할 수 있을까 하는 것이다. 공개된 인터뷰에서 그는 경험을 연구를 지속하고, 실험하고, 새로운 표현 방식을 찾아낼 기회로 제시한다.
 
+[우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.
+
+## 인정과 직업적 여정
+
+발리호자예프는 2020년 슈흐라트 메달과 2018년 우즈베키스탄 예술아카데미 금메달을 비롯한 여러 상을 받았습니다. 아카이브 사진에는 시상 순간과 우즈베키스탄의 문화·사회 인사들과 만나는 장면이 남아 있습니다.
+
+[우즈베키스탄 초대 대통령 이슬람 카리모프의 부인 타티야나 카리모바가 이브라힘 발리호자예프에게 우즈베키스탄 공화국 대통령 금메달을 수여하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+우즈베키스탄 초대 대통령 이슬람 카리모프의 부인 [타티야나 카리모바](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)가 이브라힘 발리호자예프에게 우즈베키스탄 공화국 대통령 금메달을 수여하는 모습. 화가의 아카이브.
+
+[우즈베키스탄 예술아카데미 회장 아크말 누르가 이브라힘 발리호자예프에게 아카데미 금메달을 수여하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+우즈베키스탄 예술아카데미 회장 [아크말 누르](<https://art-academy.uz/ru/structure/rahbariyat/1>)가 이브라힘 발리호자예프에게 아카데미 금메달을 수여하는 모습. 화가의 아카이브.
+
 ## 계속 찾아보고, 계속 만들기.
 
 이 전기를 통해 우리는 그의 전시와 전문적인 활동들을 살펴볼 수 있으며, 인터뷰를 통해 그의 작품 세계의 이면을 엿볼 수 있다. 발리호자예프는 노력, 의심, 개념 탐구, 그리고 작품을 겉보기에 단순하게 만드는 어려움에 대해 이야기한다. 이러한 성찰은 우리를 그의 작업실로 이끌어, 축적된 경험이 캔버스 위에 구체적인 결과물로 구현되는 과정을 보여준다.
@@ -335,81 +401,3 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 [마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## 사진으로 읽는 삶: 작업실과 미술계
-
-소장 사진은 전시 목록만으로 전할 수 없는 삶을 보여 준다. 비좁은 작업실, 미완성 캔버스 옆의 이미 완성된 이미지, 그림 앞에서 나누는 대화가 담겨 있다. 흑백 초상 속 젊은 작가는 홀로 작업과 마주하고, 전시 사진에서는 스승과 동료, 관객 사이에 있다. 두 장면 모두 그의 삶에 중요하다. 그림은 개인의 탐구에서 시작되지만 이후의 삶은 미술계와의 교류 속에서 이어진다.
-
-스승 라힘 아흐메도프와의 관계는 이러한 연결을 구체적으로 보여 준다. 1986~1991년 스승의 작업실에서 받은 교육은 전문적 토대가 되었다. 자신의 회화 언어는 자연을 직접 관찰하는 작업, 인물 구도와 색채 연구를 통해 형성되었다. 전시에서 스승과 함께한 사진은 이력에 실제 만남을 더한다. 제자의 작품을 스승 화풍의 단순한 연장으로 볼 수는 없다. 교육은 독립적인 탐구를 뒷받침한다.
-
-[전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.
-
-그의 경력은 우즈베키스탄 미술 기관의 변화와 나란히 이어졌다. 예술아카데미는 1997년 1월 23일 설립되었으며, 같은 해 발리호자예프는 예술가연맹 나망간 지부 회장이 되었다. 이후 아카데미 특별기금을 1999~2005년, 우즈베키스탄 미술기금을 1999~2012년에 이끌었다. 2017년부터의 연맹 회장직, 2023년 아카데미 회원 선임, 갤러리 활동과 국제 프로젝트는 개인의 창작이 다른 작가를 위한 여건 마련과 어떻게 연결되는지 보여 준다. 이는 생애를 문화적 배경 속에 놓는 비교이지, 한 작가가 그 환경의 발전을 결정했다는 뜻은 아니다.
-
-[역사적 배경: 우즈베키스탄 예술아카데미](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-전시에서 사람들과 만나는 발리호자예프. 작가 소장 사진.
-
-[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-작업실의 발리호자예프. 작가 소장 사진.
-
-[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
-
-[야외에서 촬영된 소장 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-야외에서 촬영된 소장 사진. 작가 소장 사진.
-
-[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
-
-[도자기 옆의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-도자기 옆의 발리호자예프. 작가 소장 사진.
-
-[동료들과의 모임을 담은 기록 사진. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-동료들과의 모임을 담은 기록 사진. 작가 소장 사진.
-
-[역사적 건축물 옆에 선 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-역사적 건축물 옆에 선 작가. 작가 소장 사진.
-
-[자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
-
-[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-작업실의 발리호자예프. 작가 소장 사진.
-
-[작업실의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-작업실의 발리호자예프. 작가 소장 사진.
-
-## 작업실에서: 전시 전후의 시간
-
-작업실에서는 회화적 판단의 여러 단계가 보인다. 이젤 위의 캔버스, 움직이는 붓, 그려진 표면 앞에서의 멈춤이 그것이다. 서로 다른 시기의 사진이 일상적인 작업을 연결한다. 표현력은 관찰과 검토, 그림을 바라보는 거리, 한 부분이 전체를 어떻게 바꾸는지에 대한 주의 속에서 형성된다.
-
-[붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-붉은 색면이 있는 그림을 살펴보는 작가. 작가 소장 사진.
-
-## 인정과 작가의 경력
-
-시상 사진은 경력 기록에 실제 인정의 순간을 더한다. 수여하는 몸짓과 동료의 모습은 사진에, 공식 명칭과 연도는 수상 목록에 남는다. 확인된 영예에는 2020년 슈흐라트 메달과 2018년 예술아카데미 금메달이 있다. 이 연도를 사진의 촬영 연도로 사용하지는 않는다. 메달의 겉모습만으로 개별 행사를 특정할 수는 없다.
-
-[이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-이브라김 발리호자예프에게 금메달을 수여하는 장면. 작가 소장 사진.
-
-[시상식의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-시상식의 발리호자예프. 작가 소장 사진.

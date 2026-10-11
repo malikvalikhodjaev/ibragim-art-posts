@@ -41,6 +41,18 @@ Das Gesicht des älteren Mannes ist dem Betrachter sehr nah. Seine dunkle Kopfbe
 
 Die Schultern nehmen einen beträchtlichen Teil der unteren Bildhälfte ein. Die dunkelgrauen und blauen Töne der Kleidung betonen die Figur und lassen das Gesicht im Zentrum stehen. Der Hintergrund ist äußerst schlicht, aber nicht leer: Ein schmaler ockerfarbener Streifen am oberen Rand markiert die Grenze, vor der sich die Silhouette des Kopfschmucks abzeichnet.
 
+## Melis Abzalov im Atelier: von der Begegnung zum Porträt
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) war ein usbekischer Schauspieler und Filmregisseur. Diese Archivfotografien zeigen seine Begegnung mit Valikhodjaev und den Künstler bei der Arbeit an seinem Porträt. Neben den fertigen Gemälden machen sie den Arbeitsprozess sichtbar: die Gegenwart des Modells, den Abstand zur Staffelei und die Aufmerksamkeit für Gesicht und Haltung.
+
+[Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.
+
+[Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.
+
 ## Wie ein Porträt den Blick lenkt
 
 In „Porträt von Dias Rakhmatov“ richtet sich der Blick zunächst auf das großflächige Spiel von Licht und Schatten. Dann wandert er zu den Nuancen im Gesicht: der Kopfdrehung, dem hellen Pinselstrich auf der Stirn, den dunklen Partien um die Augen. Das Werk lässt sich von der Gesamtsilhouette bis hin zu den einzelnen Pinselstrichen betrachten und kehrt schließlich zum Ganzen zurück.

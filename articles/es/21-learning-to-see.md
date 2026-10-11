@@ -41,6 +41,10 @@ Quiere ser artista desde la escuela. Sin embargo, entre aquel deseo infantil y s
 
 En las ciudades soviéticas, el trabajo de los artistas también era necesario fuera de las salas de exposición: recibían encargos de carteles, rótulos y decoración de interiores. De joven, Valikhodjaev realizaba estos trabajos en Namangan y dirigía equipos de artesanos y pintores. Así aprendió a distribuir tareas y llevar un proyecto común hasta su realización.
 
+[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
+
+Encuentro con colegas, fotografía de archivo. Archivo del artista.
+
 Según los recuerdos familiares, antes de ingresar en el instituto ya había ganado lo suficiente para comprar una casa y un automóvil Moskvich. Más tarde acudía a sus clases en su propio coche. Sin embargo, la independencia económica no sustituyó su sueño de infancia: recibir formación artística y convertirse en pintor. Para preparar el ingreso vivió en Taskent con un conocido que era estudiante y lo ayudaba a estudiar. Su familia recuerda la admisión como un paso difícil que exigió una preparación seria.
 
 Tras ser admitido, dejó su anterior actividad de encargos comerciales y se concentró en los estudios. Una ocupación ya consolidada dio paso al deseo de formarse en pintura. La experiencia organizativa permaneció y más adelante le serviría para crear un taller, una galería y proyectos artísticos.
@@ -97,6 +101,28 @@ El joven artista entre sus obras. Archivo del artista.
 
 El joven artista entre sus obras. Archivo del artista.
 
+La relación con el maestro Rahim Ahmedov ilumina esa continuidad. La formación en su taller entre 1986 y 1991 proporcionó a Valikhodjaev una base profesional; su lenguaje se desarrolló mediante el trabajo del natural, las composiciones figurativas y el color. La fotografía con su maestro añade un encuentro humano al relato biográfico. Las obras del alumno no se reducen a una prolongación del estilo del profesor: la formación permite una búsqueda independiente.
+
+[Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
+
+Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.
+
+[Valikhodjaev en un encuentro durante una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
+
+Valikhodjaev en un encuentro durante una exposición. Archivo del artista.
+
+[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
+
+Encuentro con colegas, fotografía de archivo. Archivo del artista.
+
+[Fotografía al aire libre del archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
+
+Fotografía al aire libre del archivo. Archivo del artista.
+
+[Valikhodjaev junto a piezas de cerámica. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
+
+Valikhodjaev junto a piezas de cerámica. Archivo del artista.
+
 ## Los primeros años noventa: distintas vías de exploración
 
 Los cuadros de principios de los años noventa muestran la diversidad de sus primeras búsquedas independientes. En Ángel, la atención se centra en una mujer sentada, su rostro, sus manos y su ropa clara. En Grito, una gran masa oscura y acentos claros muy marcados construyen la imagen. Estas obras reúnen la observación de la persona y la búsqueda de formas sintetizadas y simbólicas. Las escenas del bazar se desarrollarán dentro de esta exploración más amplia.
@@ -151,6 +177,36 @@ En la capital sus responsabilidades alcanzaron una dimensión nacional. Presidi�
 
 Ibragim Valikhodjaev, director del Fondo Especial, 2002. Archivo del artista.
 
+[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
+
+Encuentro con colegas, fotografía de archivo. Archivo del artista.
+
+[El artista junto a un monumento arquitectónico. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
+
+El artista junto a un monumento arquitectónico. Archivo del artista.
+
+Su trayectoria discurre junto a los cambios de las instituciones artísticas uzbekas. La Academia de las Artes se fundó el 23 de enero de 1997; ese año Valikhodjaev asumió la presidencia de la sección de Namangán de la Unión de Artistas. Después dirigió el Fondo Especial de la Academia en 1999–2005 y el Fondo Artístico de Uzbekistán en 1999–2012. La presidencia de la Unión desde 2017, su condición de académico desde 2023, la actividad de galería y los proyectos internacionales conectan la práctica personal con la creación de condiciones de trabajo para otros. Este paralelo sitúa la biografía en un contexto cultural; no atribuye a un solo artista el desarrollo de ese contexto.
+
+[Contexto histórico: Academia de las Artes de Uzbekistán](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+
+## Taskent: pintar junto al trabajo en los fondos artísticos
+
+Las fotografías de archivo muestran lo que no cuenta una lista de exposiciones: el espacio reducido del taller, un lienzo sin terminar junto a una imagen ya resuelta y las conversaciones ante las obras. En los retratos en blanco y negro el joven artista está a solas con su trabajo; en las fotografías de exposiciones aparece con maestros, colegas y visitantes. Ambos ámbitos importan. El cuadro nace de una búsqueda personal y después continúa su vida dentro del entorno artístico.
+
+El taller permite observar varias etapas de una decisión pictórica: el lienzo en el caballete, el movimiento del pincel y una pausa ante la superficie pintada. Las fotografías enlazan el trabajo cotidiano de distintos años. La expresividad se construye mediante la observación y la revisión, a través de la distancia de la mirada y de la atención a cómo un fragmento modifica el conjunto.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
+[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
+
+Valikhodjaev en su taller. Archivo del artista.
+
 ## Una práctica prolífica: cuadros, exposiciones y pintura al aire libre
 
 Las responsabilidades organizativas no interrumpieron su trabajo creativo. Tras concluir su dirección del Fondo Especial en 2005, Valikhodjaev siguió presidiendo el Fondo Artístico hasta 2012, mientras desarrollaba su pintura. En 2008 una exposición individual por su cincuenta cumpleaños reunió más de 200 obras en la Sala Central de Exposiciones de la Academia de Artes de Uzbekistán.
@@ -187,19 +243,13 @@ Trabajo del natural: un patio y edificios rurales. Archivo del artista.
 
 Niños observan al artista trabajando al aire libre. Archivo del artista.
 
-[Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
-
-Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.
-
-[Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
-
-Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.
-
-[Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
-
-Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.
-
 [Vídeo de los preparativos de una exposición: Ibragim Valikhodjaev, presidente de la Unión de Artistas de Uzbekistán](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+
+[Ibragim Valikhodjaev en un encuentro de pintura al aire libre en Turquía. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
+
+Ibragim Valikhodjaev en un encuentro de pintura al aire libre en Turquía. Archivo del artista.
+
+[Melis Abzalov en el estudio: del encuentro al retrato](<https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-un-retrato-la-presencia.html#iv-melis-abzalov>)
 
 ## El color se convierte en objeto de investigación.
 
@@ -288,6 +338,22 @@ En el programa "Ijod formulasi" (La fórmula de la creatividad), la conversació
 
 Es pintor y escultor, organizador y curador, fundador de galerías y mentor. Una pregunta común subyace en todas estas actividades: ¿cómo mantener una perspectiva fresca? En conversaciones publicadas, la experiencia se presenta como una oportunidad para continuar investigando, experimentando y encontrando nuevas soluciones expresivas.
 
+[Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.
+
+## Reconocimiento y trayectoria profesional
+
+La trayectoria de Valikhodjaev ha sido reconocida, entre otros galardones, con la Medalla Shuhrat en 2020 y la Medalla de Oro de la Academia de Artes de Uzbekistán en 2018. Las fotografías de archivo conservan los momentos de entrega y los encuentros con figuras de la vida cultural y pública del país.
+
+[Tatyana Karimova, esposa de Islam Karimov, primer presidente de Uzbekistán, entrega a Ibragim Valikhodjaev la Medalla de Oro del Presidente de la República de Uzbekistán. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
+
+[Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), esposa de Islam Karimov, primer presidente de Uzbekistán, entrega a Ibragim Valikhodjaev la Medalla de Oro del Presidente de la República de Uzbekistán. Archivo del artista.
+
+[Akmal Nur, presidente de la Academia de Artes de Uzbekistán, entrega a Ibragim Valikhodjaev la Medalla de Oro de la Academia. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
+
+[Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), presidente de la Academia de Artes de Uzbekistán, entrega a Ibragim Valikhodjaev la Medalla de Oro de la Academia. Archivo del artista.
+
 ## Sigue mirando, sigue creando
 
 La biografía nos permite seguir la trayectoria de sus exposiciones y encargos profesionales; las entrevistas revelan el funcionamiento interno de su obra. Valikhodjaev habla del esfuerzo, la duda, la búsqueda de un concepto y la dificultad de lograr que una obra parezca sencilla en apariencia. Estas reflexiones nos llevan de vuelta al estudio, donde la experiencia acumulada debe transformarse en una solución concreta sobre el lienzo.
@@ -335,81 +401,3 @@ En septiembre de 2025, Valikhodjaev impartió una clase magistral a estudiantes 
 [Vídeo de la clase magistral · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Crónica de la visita y la clase magistral · Facebook, 8 de octubre de 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
-
-## Una vida en fotografías: el taller y el entorno artístico
-
-Las fotografías de archivo muestran lo que no cuenta una lista de exposiciones: el espacio reducido del taller, un lienzo sin terminar junto a una imagen ya resuelta y las conversaciones ante las obras. En los retratos en blanco y negro el joven artista está a solas con su trabajo; en las fotografías de exposiciones aparece con maestros, colegas y visitantes. Ambos ámbitos importan. El cuadro nace de una búsqueda personal y después continúa su vida dentro del entorno artístico.
-
-La relación con el maestro Rahim Ahmedov ilumina esa continuidad. La formación en su taller entre 1986 y 1991 proporcionó a Valikhodjaev una base profesional; su lenguaje se desarrolló mediante el trabajo del natural, las composiciones figurativas y el color. La fotografía con su maestro añade un encuentro humano al relato biográfico. Las obras del alumno no se reducen a una prolongación del estilo del profesor: la formación permite una búsqueda independiente.
-
-[Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
-
-Valikhodjaev y el maestro Rahim Ahmedov en un encuentro durante una exposición. Archivo del artista.
-
-Su trayectoria discurre junto a los cambios de las instituciones artísticas uzbekas. La Academia de las Artes se fundó el 23 de enero de 1997; ese año Valikhodjaev asumió la presidencia de la sección de Namangán de la Unión de Artistas. Después dirigió el Fondo Especial de la Academia en 1999–2005 y el Fondo Artístico de Uzbekistán en 1999–2012. La presidencia de la Unión desde 2017, su condición de académico desde 2023, la actividad de galería y los proyectos internacionales conectan la práctica personal con la creación de condiciones de trabajo para otros. Este paralelo sitúa la biografía en un contexto cultural; no atribuye a un solo artista el desarrollo de ese contexto.
-
-[Contexto histórico: Academia de las Artes de Uzbekistán](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
-
-[Valikhodjaev en un encuentro durante una exposición. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
-
-Valikhodjaev en un encuentro durante una exposición. Archivo del artista.
-
-[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqhc9KV6o2KIVghz2nb0VuO7j8vK7lvkfTJ5HkhAroa7SuTuNu29ZBL4PXwhEAp5eR9fS4ZAe0JZVLvz01yfuBcTcs90lDbQfwqtdefdIqQlwWaLVFPZMcn_N3qKutKiPhDQNXD8FxD_Xu-N6hmYUlgy6SiGCUhkxIum_lOtJHT-sg-s49PotRMCAxKwS/s1600/clipboard.png>)
-
-Valikhodjaev en su taller. Archivo del artista.
-
-[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooJapc-cvcXcXvxY5xKgApjnKPv9egxs4_dzy3AYph9iZCOURjvhYwJQcyZ_DjrQp6dramV1QZidljE-QqSnw-dNiPpJuMWUFrbO11vIhEjQuYiytBjplcMJGEgyR0mIm4JYUyBTNuQr8oyvGDr-J7KygGRVyICkhzFpHpMaw-BK3cLR1tUugPnmIxSsv/s1600/clipboard.png>)
-
-Encuentro con colegas, fotografía de archivo. Archivo del artista.
-
-[Fotografía al aire libre del archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
-
-Fotografía al aire libre del archivo. Archivo del artista.
-
-[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
-
-Encuentro con colegas, fotografía de archivo. Archivo del artista.
-
-[Valikhodjaev junto a piezas de cerámica. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
-
-Valikhodjaev junto a piezas de cerámica. Archivo del artista.
-
-[Encuentro con colegas, fotografía de archivo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4W0mVmivGCAK2o2NDSEUwGtZ-BKH-QZqnbxlGBroBklVV91I-OzuSjV6CVPpJDC-sFGv4NlQTTB7woR0YhyphenhyphenMBA_bp4gScSioNoHBMfANB1q1M2cPVtMSsKPTS1_vW3M5jvIVA_eSb4ufLTerY1KUVWbhR1U0OqglqDOkBio9yVR4tFZPHGMtS0C5D7COw/s1600/clipboard.png>)
-
-Encuentro con colegas, fotografía de archivo. Archivo del artista.
-
-[El artista junto a un monumento arquitectónico. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJvn8hVOFAoLaFfWA2OgETKEVCDG35om57Hms4mOHWts0WEmwV8shQAbD5q2R35Y8cII1mWfm6-1IYEaFzv8qaF1ZoQ5SOrc0Z16YzRRao_g5opFic95mhr0csiGUVfLMtPQ_Ky8TtoC7RDNRsAqf_LqEFzbCnSM33-GTYsp-F-GYAYHb8OzvWy2CKXqgK/s1600/clipboard.png>)
-
-El artista junto a un monumento arquitectónico. Archivo del artista.
-
-[El joven artista entre sus obras. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2XcKt-_eDaA3DhlfKLyK9P-GZzoudpU4OJrZLzzB-wg8SUVmh6vvc39SZN-NbXQG7R5xN6zvSXi24g6MM4PN-tI_6z4ZJG0YxncfqHV4gYf-bsglMm_A7Lg3g1w0D7ThqjSx7HIEXo5k3-MO7l0RnjO4QQ0QsIMjUttx0MaUgKTexc3cFfTe81QhN-lM/s1600/clipboard.png>)
-
-El joven artista entre sus obras. Archivo del artista.
-
-[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mUzdq8lm6iXmsDAT-fzjv5OfPq8-MYG6M8Yp96ycf1haByD7osXUG4stSfvQKoXjwzDu6-N9mtO5bAAu-fG4nBPmAXVMYnAdAynnnBDA6mWOq7qhDiB47bFPs3Knk5aqGd5hO2LJ1fhyxxePMRF1HBetNHD2lkmn5ivBo7k7l2Mx5Fp0hwl3MaXa2WoV/s1600/clipboard.png>)
-
-Valikhodjaev en su taller. Archivo del artista.
-
-[Valikhodjaev en su taller. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_9ukizRiDFBpCW3WQKOTBsvDOOoNVujFkYFETgdTQHMLERrhrfRExWd_g1rOYgJ-sYksmtX58q61NF1sCnrQy3ZjCdkAyZL-t5UXVxe9p1G4WcYdtu5p4ArMj6FHmGvBX4X-lQKxxbFI40BkmWMPawtsK1WKR24NyRsia2CN23IMJoA_9M6J6iMnZUFM/s1600/clipboard.png>)
-
-Valikhodjaev en su taller. Archivo del artista.
-
-## En el taller, antes y después de la exposición
-
-El taller permite observar varias etapas de una decisión pictórica: el lienzo en el caballete, el movimiento del pincel y una pausa ante la superficie pintada. Las fotografías enlazan el trabajo cotidiano de distintos años. La expresividad se construye mediante la observación y la revisión, a través de la distancia de la mirada y de la atención a cómo un fragmento modifica el conjunto.
-
-[El artista contempla una pintura con un campo cromático rojo. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
-
-El artista contempla una pintura con un campo cromático rojo. Archivo del artista.
-
-## Reconocimiento y trayectoria profesional
-
-Las fotografías de premiaciones añaden momentos vividos a la cronología profesional. Conservan el gesto de entrega y la presencia de colegas; la lista de distinciones recoge nombres y años oficiales. Entre los reconocimientos confirmados están la medalla Shukhrat de 2020 y la medalla de oro de la Academia de las Artes de 2018. Estas fechas no datan las fotografías: la apariencia de una medalla no identifica por sí sola una ceremonia.
-
-[Entrega de una medalla de oro a Ibragim Valikhodjaev. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
-
-Entrega de una medalla de oro a Ibragim Valikhodjaev. Archivo del artista.
-
-[Valikhodjaev en una ceremonia de entrega de premios. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
-
-Valikhodjaev en una ceremonia de entrega de premios. Archivo del artista.

@@ -41,6 +41,18 @@ Yaşlı adamın yüzü izleyiciye yakınlaştırılmış. Koyu renkli başlığ�
 
 Resmin alt yarısının önemli bir bölümünü omuzlar kaplıyor. Giysilerin koyu gri ve mavi tonları figürün ağırlığını desteklerken, yüzü merkezde bırakıyor. Arka plan son derece sade, ancak boş değil: üst kısımdaki dar bir hardal sarısı şerit, başlığın silüetinin ilişkili olduğu sınırı belirliyor.
 
+## Melis Abzalov atölyede: buluşmadan portreye
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>), Özbek oyuncu ve film yönetmeniydi. Bu arşiv fotoğrafları onun Valikhodjaev ile buluşmasını ve sanatçının portre üzerinde çalışmasını gösteriyor. Tamamlanmış resimlerin yanında bu kareler, modelin varlığı, şövaleye olan mesafe, yüze ve duruşa gösterilen dikkat üzerinden çalışma sürecini görünür kılıyor.
+
+[Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.
+
+[Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.
+
 ## Bir portre bakışı nasıl yönlendirir?
 
 "Dias Rakhmatov Portresi"nde bakış, karanlık ve aydınlık arasındaki geniş ölçekli ilişkilerle başlar. Ardından yüzdeki farklılıklara yönelir: başın dönüşü, alındaki açık renkli fırça darbesi, göz çevresindeki koyu alanlar. Eser, genel silüetten tek tek fırça darbelerine ve tekrar bütüne doğru incelenebilir.

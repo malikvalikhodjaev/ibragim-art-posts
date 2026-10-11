@@ -41,6 +41,18 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 画作下半部分很大一部分被人物的肩膀占据。衣着的深灰色和蓝色调衬托出人物的重量感，使面部成为画面的中心。背景极其简洁，却并不空洞：顶部一条狭窄的赭色条纹勾勒出边界，头饰的轮廓与之相呼应。
 
+## 梅利斯·阿布扎洛夫在画室：从相聚到肖像
+
+[梅利斯·阿布扎洛夫](<https://dsmi.uz/ru/melis-abzalov-2/>)是乌兹别克斯坦演员和电影导演。这些档案照片记录了他与瓦利霍贾耶夫在画室相聚，以及画家为他绘制肖像的过程。与完成的画作并置，照片让人看到模特在场、画家与画架之间的距离，以及对面容和姿态的观察。
+
+[伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。
+
+[在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。
+
 ## 肖像画如何引导视线
 
 在《迪亚斯·拉赫马托夫肖像》中，观者的目光首先落在明暗对比的大尺度关系上。随后，目光转向面部细节：头部的转向、额头上明亮的笔触、眼周的暗部。这幅作品可以从整体轮廓入手，细细品味每一笔，最终又回到整体之中。

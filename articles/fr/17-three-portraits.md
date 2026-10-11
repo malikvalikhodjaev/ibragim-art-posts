@@ -41,6 +41,18 @@ Le visage du vieil homme est représenté très près du spectateur. Sa coiffe s
 
 Les épaules occupent une part importante de la moitié inférieure du tableau. Les tons gris foncé et bleus des vêtements soutiennent le poids du personnage, laissant le visage au centre. L'arrière-plan est d'une grande simplicité, mais non vide : une fine bande ocre en haut délimite la silhouette de la coiffe.
 
+## Melis Abzalov à l’atelier : de la rencontre au portrait
+
+[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) était un acteur et réalisateur ouzbek. Ces photographies d’archives montrent sa rencontre avec Valikhodjaev et le peintre travaillant à son portrait. À côté des tableaux achevés, elles donnent à voir le travail en cours : la présence du modèle, la distance au chevalet et l’attention portée au visage et à la posture.
+
+[Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.
+
+[Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.
+
 ## Comment un portrait guide le regard
 
 Dans « Portrait de Dias Rakhmatov », le regard s’attarde d’abord sur les contrastes d’ombre et de lumière. Il se porte ensuite sur les nuances du visage : la rotation de la tête, le léger coup de pinceau sur le front, les cernes autour des yeux. L’œuvre peut être appréhendée de la silhouette générale aux coups de pinceau individuels, avant de revenir à l’ensemble.

@@ -41,6 +41,18 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 肩は絵画の下半分の大部分を占めている。衣服の濃い灰色と青色の色調が人物の重みを支え、顔が画面中央に浮かび上がる。背景は極めて簡素だが、空虚ではない。上部の細い黄土色の帯が境界線を定め、その境界線上に帽子のシルエットが描かれている。
 
+## アトリエのメリス・アブザロフ：出会いから肖像へ
+
+[メリス・アブザロフ](<https://dsmi.uz/ru/melis-abzalov-2/>)はウズベキスタンの俳優・映画監督でした。これらのアーカイブ写真は、ワリホジャエフとの出会いと、画家がその肖像を描く様子を伝えています。完成した絵画とともに見ることで、モデルの存在、イーゼルとの距離、顔や姿勢への観察といった制作の過程が見えてきます。
+
+[アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。
+
+[アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。
+
 ## 肖像画が視線を誘導する方法
 
 「ディアス・ラフマトフの肖像」では、まず明暗の大きな関係性から視線が移り、次に顔の細部、つまり頭の向き、額の明るい筆致、目の周りの暗い部分へと視線が移る。作品は全体のシルエットから個々の筆致へと鑑賞でき、そして再び全体へと回帰する。
