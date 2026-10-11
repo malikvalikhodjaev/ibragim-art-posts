@@ -111,3 +111,9 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ijod, uchrashuvlar va kartinalar hayoti
+
+[«Yangi nigoh»: ko‘rgazma zalidagi abstrakt kompozitsiyalar. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+«Yangi nigoh»: ko‘rgazma zalidagi abstrakt kompozitsiyalar. Rassom arxividan.

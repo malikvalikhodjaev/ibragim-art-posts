@@ -131,6 +131,16 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
 
+## 创作、相遇与画作的生命
+
+[观众欣赏《红马》。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+观众欣赏《红马》。 艺术家档案。
+
+[石榴静物画旁的观众。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+石榴静物画旁的观众。 艺术家档案。
+
 ## RED：在观众面前作画
 
 2017年塔什干RED展览期间绘画示范的两张照片，将色彩讨论带入实际创作。观众靠近画架，观察动作的先后顺序。重要的不只是速度：轮廓、色块的面积和形体间的间隔，都成为可以看见的选择。

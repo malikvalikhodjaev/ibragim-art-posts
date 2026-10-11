@@ -126,3 +126,9 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 제작, 만남, 그리고 그림의 여정
+
+[전시실의 꽃 정물화들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
+
+전시실의 꽃 정물화들. 화가의 아카이브.

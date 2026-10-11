@@ -131,6 +131,16 @@ REDは、赤色への情熱的な探求と結びついている。ヴァリホ�
 
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
+## 制作、出会い、そして絵画の歩み
+
+[《赤い馬》を鑑賞する来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+《赤い馬》を鑑賞する来場者。 画家のアーカイブより。
+
+[ザクロの静物画を前にした来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+ザクロの静物画を前にした来場者。 画家のアーカイブより。
+
 ## RED：観客の前で描く
 
 2017年タシケントのRED展に伴う制作実演の二枚の写真は、色彩の話を実践につなぐ。観客はイーゼルの近くで動作の順序を見守る。重要なのは速さだけではない。輪郭、色面の大きさ、形の間隔が、目に見える判断となる。

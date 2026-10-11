@@ -110,6 +110,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [烏茲別克國家通訊社— 烏茲別克藝術展，北京，2024年1月23日（烏茲別克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
+## 創作、相遇與畫作的生命
+
+[觀眾欣賞色調克制的畫作。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+觀眾欣賞色調克制的畫作。 藝術家檔案。
+
 [伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 關於2018年展覽《從夢想到命運》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)

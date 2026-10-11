@@ -111,3 +111,9 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Making, meeting and the life of paintings
+
+[New View: abstract compositions in the exhibition hall. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+New View: abstract compositions in the exhibition hall. Artist’s archive.

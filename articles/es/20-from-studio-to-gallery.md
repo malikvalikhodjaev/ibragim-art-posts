@@ -121,6 +121,20 @@ Su experiencia como fundador comenzó mucho antes de Gallery House. En 1987 Vali
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
+## Creación, encuentros y vida de los cuadros
+
+[Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev en una reunión de trabajo como presidente de la Unión de Artistas de Uzbekistán. Archivo del artista.
+
+[Ibragim Valikhodjaev y Ali Kılıç. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev y Ali Kılıç. Archivo del artista.
+
+[Encuentro con los participantes de un simposio de escultura. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+Encuentro con los participantes de un simposio de escultura. Archivo del artista.
+
 ## El trabajo de exposición en vídeo
 
 Estos dos vídeos de archivo muestran al artista participando en la preparación y el recorrido de una exposición. Su título, ubicación y fecha de grabación aún no se han determinado.

@@ -119,6 +119,16 @@ Institutga kirishidan oldin Valixo‘jayev Namanganda badiiy buyurtmalarni bajar
 
 [Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
+## Ijod, uchrashuvlar va kartinalar hayoti
+
+[Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.
+
+[Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
+
 ## Tajribani ulashish: Siandagi mahorat darsi
 
 2025-yil sentabrida Valixodjayev Xitoydagi Sian tasviriy san’at akademiyasining rangtasvir yo‘nalishi talabalari uchun mahorat darsi o‘tkazdi. U CASIEning «Bir makon, bir yo‘l — Markaziy Osiyo» dasturi bilan bog‘liq 14–19-sentabrdagi tashrifda rassom va O‘zbekiston Rassomlar uyushmasi raisi sifatida qatnashdi. Bir soat yigirma daqiqada yaratilgan kompozitsiya akademiyaga hadya qilindi. Quyidagi videoyozuvda tasvirning dastlabki chiziqlardan rang dog‘lari o‘rtasidagi munosabatlar va yakuniy kompozitsiyagacha shakllanishini kuzatish mumkin.

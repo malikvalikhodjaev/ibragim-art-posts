@@ -97,13 +97,13 @@ Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
 Le jeune artiste parmi ses œuvres. Archives de l’artiste.
 
-## 1991 : une recherche qui prend plusieurs directions
+## Le début des années 1990 : différentes voies de recherche
 
-Les tableaux de 1991 révèlent la diversité de ses préoccupations à la fin de ses études. Dans L’Ange, l’attention se porte sur une femme assise, son visage, ses mains et son vêtement clair. Dans Le Cri, l’image se construit autour d’une grande masse sombre et d’accents clairs tranchés. Ces œuvres font coexister l’observation de la personne et la recherche d’une forme simplifiée, symbolique. Les scènes de bazar se développeront au sein de cette exploration plus large.
+Ses tableaux du début des années 1990 révèlent la diversité de ses premières recherches indépendantes. Dans L’Ange, l’attention se porte sur une femme assise, son visage, ses mains et son vêtement clair. Dans Le Cri, l’image se construit autour d’une grande masse sombre et d’accents clairs tranchés. Ces œuvres font coexister l’observation de la personne et la recherche d’une forme simplifiée, symbolique. Les scènes de bazar se développeront au sein de cette exploration plus large.
 
-[«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«L’Ange», 1993. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
+«L’Ange», 1993. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
 
 [«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ Les versions du Marché des doppi de 2004 et 2006 poursuivent cette recherche. D
 
 En 1993, Valikhodjaev fonda à Namangan la galerie-salon Tumor, première galerie d’art privée d’Ouzbékistan, qu’il dirigea jusqu’en 1999. Il fut ainsi un pionnier des galeries privées dans le pays : une initiative personnelle créait un lieu de rencontre entre les œuvres et leur public, au-delà du réseau établi des espaces d’exposition publics.
 
-De 1997 à 1999, il présida les sections de Namangan de l’Union des artistes et du Fonds artistique. Prendre soin de sa mère, peindre et organiser la vie artistique de sa ville natale étaient autant de dimensions de cette période. Il quitta ensuite Namangan pour s’installer à Tachkent ; sa mère était alors décédée.
+De 1997 à 1999, il présida les sections de Namangan de l’Union des artistes et du Fonds artistique. Prendre soin de sa mère, peindre et organiser la vie artistique de sa ville natale étaient autant de dimensions de cette période. Il quitta ensuite Namangan pour s’installer à Tachkent ; il avait alors déjà traversé la perte de sa mère.
 
 Dans la capitale, ses responsabilités prirent une dimension nationale. Il présida le Fonds spécial de l’Académie des arts d’Ouzbékistan de 1999 à 2005 et le Fonds artistique de la République d’Ouzbékistan de 1999 à 2012. La photographie d’archives datée de 2002 appartient à sa période au Fonds spécial. Ces fonctions ajoutaient une responsabilité d’organisation à sa carrière de peintre.
 
@@ -180,6 +180,26 @@ Sortie de travail sur le motif : une rue de village et les montagnes. Archives d
 [Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Sur le motif : une cour et des constructions villageoises. Archives de l’artiste.
+
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Des enfants regardent l’artiste travailler en plein air. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Des enfants regardent l’artiste travailler en plein air. Archives de l’artiste.
+
+[Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.
+
+[Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.
+
+[Ibragim Valikhodjaev à une réunion de travail en qualité de président de l’Union des artistes d’Ouzbékistan. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev à une réunion de travail en qualité de président de l’Union des artistes d’Ouzbékistan. Archives de l’artiste.
+
+[Vidéo des préparatifs d’exposition : Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## La couleur devient le sujet de la recherche
 

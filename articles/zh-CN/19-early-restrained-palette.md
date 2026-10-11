@@ -112,17 +112,23 @@ Valikhodjaev Gallery House
 
 ## 早期创作并非只有一种风格
 
-理解克制的色调，也需要将它与同一时期的其他探索并置。1991年的《天使》着眼于坐着的女子、她的脸与双手；同年的《呐喊》则强调深色块面与鲜明的亮色点缀。这些作品拓宽了我们对早期创作的认识，同时保留各自绘画问题的独立性。因此，从巴扎画作到RED与抽象绘画，更适合被理解为好奇心的延续，而非以一种定型风格取代另一种。
+理解克制的色调，也需要将它与同一时期的其他探索并置。1993年的《天使》着眼于坐着的女子、她的脸与双手；1991年的《呐喊》则强调深色块面与鲜明的亮色点缀。这些作品拓宽了我们对早期创作的认识，同时保留各自绘画问题的独立性。因此，从巴扎画作到RED与抽象绘画，更适合被理解为好奇心的延续，而非以一种定型风格取代另一种。
 
-[《天使》, 1991. 100 × 100 厘米. 复制图像来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《天使》, 1993. 100 × 100 厘米. 复制图像来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《天使》, 1991. 100 × 100 厘米. 复制图像来自艺术家档案。
+《天使》, 1993. 100 × 100 厘米. 复制图像来自艺术家档案。
 
 [《呐喊》, 1991. 110 × 100 厘米. 复制图像来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 《呐喊》, 1991. 110 × 100 厘米. 复制图像来自艺术家档案。
 
 [延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
+
+## 创作、相遇与画作的生命
+
+[观众欣赏色调克制的画作。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+观众欣赏色调克制的画作。 艺术家档案。
 
 ## 画室内：展览前后的工作
 

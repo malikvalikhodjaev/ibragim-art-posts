@@ -131,6 +131,16 @@ Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプシ
 
 [続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
+## 制作、出会い、そして絵画の歩み
+
+[多くの人物を描いたバザールの構成を鑑賞する来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKEV_9cvEvrHC3KTFmNW-5yioLUcHhaXG6kDI1tb2-B9m4ff58mU6s65QvUAKxXgj8xNQoiCmzP-AfYBOxman8XGonXRzS8bn5EghZVyAKkTd7nfDn73dpHkaI8udsUkdFN7_I_8CEj7tfTXfbGynBRUXVOFBAMWvDvY-p7PNg9Ye6kOfB_FHEgouELFb/w1200-rj/clipboard.png>)
+
+多くの人物を描いたバザールの構成を鑑賞する来場者。 画家のアーカイブより。
+
+[バザールの場面を見つめる来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiCynJQeKUfHTD2H4hWdiCZ9_E1U-7As-WNSdusWFlNDg32oRvtD6Muwh39hSHBu4zETApoNLzQHlnHaCtP2xmms_jsHhTeSanU-0FwPlx8A3LrqA_cSpSP5hklIXdU0w_7yqe_eTv_m2VHgHeWovLMqm5gtKnxjECeQBajmi-f5Y8R23402IgWbqKnIv/w1200-rj/clipboard.png>)
+
+バザールの場面を見つめる来場者。 画家のアーカイブより。
+
 ## 画家のアーカイブからの作品図版
 
 [«揺りかごの市場», 2002. イブラギム・ヴァリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)

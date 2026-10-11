@@ -127,6 +127,16 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
 
+## Работа, встречи и жизнь картин
+
+[Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.
+
+[Работа над портретом Мелиса Абзалова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Работа над портретом Мелиса Абзалова в мастерской. Архив художника.
+
 ## В мастерской: работа до и после выставки
 
 В мастерской можно увидеть несколько стадий художественного решения: холст на мольберте, движение кисти, остановку перед уже написанной поверхностью. Архивные фотографии связывают повседневную работу разных лет. Они показывают, что выразительность картины складывается из наблюдения и проверки — из расстояния, с которого художник смотрит на полотно, и внимания к тому, как один фрагмент меняет целое.

@@ -126,3 +126,9 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Creación, encuentros y vida de los cuadros
+
+[Bodegones florales en la sala de exposiciones. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
+
+Bodegones florales en la sala de exposiciones. Archivo del artista.

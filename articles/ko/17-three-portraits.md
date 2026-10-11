@@ -107,3 +107,13 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 제작, 만남, 그리고 그림의 여정
+
+[전시된 초상화들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejL6rEDXBKE48hJaXFggIC4l9U-KmeT0JJxA6mqdvbLP-OFaAuJRZjX6n7-REgVfVB1m5sMBQrQ8eEuvuyfvcNxIKCa14MMQg3aHwu8xhXfOTNzgfi20GnEcSiaBEWxhLR2nirqnV4j7-ArFwNp4cfGv8k4brdeP6KVBFEYh4Xj2QzjVVoZJrNWDGmk75/w1200-rj/clipboard.png>)
+
+전시된 초상화들. 화가의 아카이브.
+
+[전시된 두 여성 초상화. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI4c7PoihIHoaVv-0cpHt8lqQyDVqM7PShayi-TkX-1u8MoufsXqGhf9T7sHBKqC0qT0XiwR3pQifXkiokiF3NY-Tme30jcbNxsH1fHbp5AdEpi_ZQOn06Bsc9-PjeEeDpniRfgR5tiYLIF0SLBRr7ywTlV51G8j0o9MDeR4HK6ZAvParJnv7DN-LL-MN/w1200-rj/clipboard.png>)
+
+전시된 두 여성 초상화. 화가의 아카이브.

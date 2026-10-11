@@ -110,6 +110,16 @@ Valikhodjaev Gallery House
 
 [להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
 
+## יצירה, מפגשים וחיי הציורים
+
+[ציורי נוף ממונטנגרו בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrTM2WzKIRkoAN_waU_rLNmcyumc2usFGew6Y-MBpTwPLcnw4QkPv3_LrfxYxtQByUuYhNrJju9Cy1Yy6WAwQ6K2zmCXvuHeONYb4LCB-tku7pw8OmST-ftWaT5w94QOoxTeSKH2ydiBZ3k10D9qOXHnVZXd7-klGd4q68Zpfc7pbIbio7Szfhn5kJ13L/w1200-rj/clipboard.png>)
+
+ציורי נוף ממונטנגרו בתערוכה. ארכיון האמן.
+
+[נופי ים באולם התערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3wR6xRAhJOmvVch5bLMLW-iG_XzMdoKUsIlWxYoHMJQ548uYoMiHDmoBytIREkyV6ZtJGzCsgedEWa4QgaiUg8lDwBuhxmqlNu_oOoqTmjnbZ8smEHzL6qIJoAgVI9psT7u5hLv0Dju036kq93t3VCLrZeEvZwbPfMIWsYCRXjJ2gd9tYNxtPTzr3tzg/w1200-rj/clipboard.png>)
+
+נופי ים באולם התערוכה. ארכיון האמן.
+
 ## תצלומי יצירות מארכיון האמן
 
 [«על שפת הים», 2012. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)

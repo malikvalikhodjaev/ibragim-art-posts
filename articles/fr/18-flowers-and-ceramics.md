@@ -126,3 +126,9 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Natures mortes florales dans la salle d’exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
+
+Natures mortes florales dans la salle d’exposition. Archives de l’artiste.

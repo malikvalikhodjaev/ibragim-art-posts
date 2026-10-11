@@ -121,6 +121,16 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [للمتابعة: حياة الفنان ومسيرته الفنية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>)
 
+## العمل واللقاءات وحياة اللوحات
+
+[إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.
+
+[العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.
+
 ## نقل الخبرة: درس في الرسم في شيآن
 
 في سبتمبر 2025، قدّم فاليخوجاييف درسًا تطبيقيًا لطلاب الرسم في أكاديمية شيآن للفنون الجميلة في الصين. شارك بصفته فنانًا ورئيسًا لاتحاد فناني أوزبكستان في زيارة من 14 إلى 19 سبتمبر، مرتبطة ببرنامج CASIE «الحزام والطريق — آسيا الوسطى». وأُهدي العمل الذي أنجزه في ساعة وعشرين دقيقة إلى الأكاديمية. يتيح فيديو الدرس أدناه متابعة بناء الصورة، من الخطوط الأولى إلى العلاقات بين المساحات اللونية والتكوين المكتمل.

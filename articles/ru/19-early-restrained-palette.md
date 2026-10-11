@@ -110,17 +110,23 @@ Valikhodjaev Gallery House
 
 ## Ранние годы не складываются в единственный стиль
 
-Сдержанную палитру важно рассматривать рядом с другими поисками тех лет. В «Ангеле» 1991 года внимание сосредоточено на сидящей женщине, её лице и руках; в «Крике» того же года большую роль играют тёмная масса и резкие светлые акценты. Эти произведения расширяют ранний ряд, сохраняя самостоятельность каждой задачи. Поэтому движение к базарным полотнам, RED и абстракции точнее видеть как продолжение любопытства художника, а не как отказ от одного окончательно найденного стиля ради другого.
+Сдержанную палитру важно рассматривать рядом с другими поисками тех лет. В «Ангеле» 1993 года внимание сосредоточено на сидящей женщине, её лице и руках; в «Крике» 1991 года большую роль играют тёмная масса и резкие светлые акценты. Эти произведения расширяют ранний ряд, сохраняя самостоятельность каждой задачи. Поэтому движение к базарным полотнам, RED и абстракции точнее видеть как продолжение любопытства художника, а не как отказ от одного окончательно найденного стиля ради другого.
 
-[«Ангел», 1991. 100 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Ангел», 1993. 100 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Ангел», 1991. 100 × 100 см. Репродукция из архива художника.
+«Ангел», 1993. 100 × 100 см. Репродукция из архива художника.
 
 [«Крик», 1991. 110 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «Крик», 1991. 110 × 100 см. Репродукция из архива художника.
 
 [Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
+
+## Работа, встречи и жизнь картин
+
+[Зритель перед картинами сдержанной палитры. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Зритель перед картинами сдержанной палитры. Архив художника.
 
 ## В мастерской: работа до и после выставки
 

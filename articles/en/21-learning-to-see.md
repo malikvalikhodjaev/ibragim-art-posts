@@ -97,13 +97,13 @@ The young artist among his works. Artist’s archive.
 
 The young artist among his works. Artist’s archive.
 
-## 1991: a search taking different directions
+## The early 1990s: different paths of exploration
 
-The paintings of 1991 reveal how varied his concerns already were towards the end of his studies. In Angel, attention rests on a seated woman, her face, hands and pale clothing. In Cry, a large dark mass and sharp light accents shape the image. These works bring observation of the individual alongside a search for simplified, symbolic form. The bazaar paintings would develop within this wider artistic exploration.
+His paintings of the early 1990s reveal the variety of his first independent explorations. In Angel, attention rests on a seated woman, her face, hands and pale clothing. In Cry, a large dark mass and sharp light accents shape the image. These works bring observation of the individual alongside a search for simplified, symbolic form. The bazaar paintings would develop within this wider artistic exploration.
 
-[‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[‘Angel’, 1993. 100 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.
+‘Angel’, 1993. 100 × 100 cm. Reproduction from the artist’s archive.
 
 [‘Cry’, 1991. 110 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ The Duppi Bazaar paintings of 2004 and 2006 continue this exploration. In the fi
 
 In 1993 Valikhodjaev founded the Tumor gallery salon in Namangan, Uzbekistan’s first private art gallery, which he led until 1999. He was a pioneer of private gallery activity in the country: an individual initiative created a place where artworks could meet an audience beyond the established system of state exhibition venues.
 
-In 1997–1999 he chaired the Namangan branches of the Union of Artists and the Art Fund. Caring for his mother, making paintings and organising the artistic life of his hometown were distinct parts of this period. Later he moved from Namangan to Tashkent; his mother had died by then.
+In 1997–1999 he chaired the Namangan branches of the Union of Artists and the Art Fund. Caring for his mother, making paintings and organising the artistic life of his hometown were distinct parts of this period. Later he moved from Namangan to Tashkent; by then he had already experienced the loss of his mother.
 
 In the capital his responsibilities expanded to a national level. He chaired the Special Fund of the Academy of Arts of Uzbekistan in 1999–2005 and the Art Fund of the Republic of Uzbekistan in 1999–2012. The archive photograph dated 2002 belongs to his period at the Special Fund. These positions added organisational responsibility to the painter’s career.
 
@@ -180,6 +180,26 @@ Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist
 [On a plein-air visit: a courtyard and village buildings. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 On a plein-air visit: a courtyard and village buildings. Artist’s archive.
+
+## Making, meeting and the life of paintings
+
+[Children watch the artist at work outdoors. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Children watch the artist at work outdoors. Artist’s archive.
+
+[Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.
+
+[Working on a portrait of Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Working on a portrait of Melis Abzalov in the studio. Artist’s archive.
+
+[Ibragim Valikhodjaev at a working meeting as chairman of the Union of Artists of Uzbekistan. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev at a working meeting as chairman of the Union of Artists of Uzbekistan. Artist’s archive.
+
+[Exhibition preparation video: Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Colour becomes the subject of research
 

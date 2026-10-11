@@ -111,3 +111,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 創作、相遇與畫作的生命
+
+[《新視野》：展廳中的抽象構圖。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+《新視野》：展廳中的抽象構圖。 藝術家檔案。

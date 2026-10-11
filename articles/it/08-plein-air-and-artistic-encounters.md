@@ -114,6 +114,16 @@ Il viaggio in Montenegro del 2012 offre un esempio concreto del ritmo di lavoro 
 
 [Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [Ventuno giorni in Montenegro: i paesaggi costieri di Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)
 
+## Creazione, incontri e vita dei dipinti
+
+[Bambini osservano l’artista al lavoro all’aperto. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Bambini osservano l’artista al lavoro all’aperto. Archivio dell’artista.
+
+[Disegno dal vero durante una sessione en plein air. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+Disegno dal vero durante una sessione en plein air. Archivio dell’artista.
+
 ## Riproduzioni dall’archivio dell’artista
 
 [«Villaggio di Miraki. Strada», 2013. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

@@ -114,6 +114,16 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [在黑山的二十一天：佩拉斯特的海岸风景](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)
 
+## 创作、相遇与画作的生命
+
+[孩子们围观艺术家的户外创作。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+孩子们围观艺术家的户外创作。 艺术家档案。
+
+[户外写生时的素描。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+户外写生时的素描。 艺术家档案。
+
 ## 艺术家档案中的作品图版
 
 [«米拉基村：道路», 2013. 伊布拉吉姆·瓦利霍贾耶夫。图版来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

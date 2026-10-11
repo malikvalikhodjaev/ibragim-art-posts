@@ -97,13 +97,13 @@ edition_date: "2026-10-11"
 
 자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
-## 1991년: 여러 방향으로 펼쳐지는 탐구
+## 1990년대 초: 다양한 탐구의 방향
 
-1991년 작품들은 학업을 마무리하던 때부터 그의 회화적 관심이 얼마나 다양했는지 보여준다. 《천사》는 앉아 있는 여성의 얼굴과 손, 밝은 옷에 시선을 모은다. 《외침》에서는 커다란 어두운 덩어리와 선명한 밝은 부분이 화면을 구성한다. 구체적인 인물의 관찰과 형태를 단순화해 상징으로 만드는 탐색이 나란히 이루어진다. 시장을 그린 작품들도 이러한 폭넓은 탐구 안에서 발전하게 된다.
+1990년대 초의 작품들은 독립적인 화가로서 시작한 탐구가 얼마나 다양했는지 보여 준다. 《천사》는 앉아 있는 여성의 얼굴과 손, 밝은 옷에 시선을 모은다. 《외침》에서는 커다란 어두운 덩어리와 선명한 밝은 부분이 화면을 구성한다. 구체적인 인물의 관찰과 형태를 단순화해 상징으로 만드는 탐색이 나란히 이루어진다. 시장을 그린 작품들도 이러한 폭넓은 탐구 안에서 발전하게 된다.
 
-[《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《천사》, 1993. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
+《천사》, 1993. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
 
 [《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ edition_date: "2026-10-11"
 
 1993년 발리호자예프는 나망간에 우즈베키스탄 최초의 민간 미술갤러리인 투모르를 설립하고 1999년까지 운영했다. 그는 이 나라 민간 갤러리 활동의 선구자가 되었다. 개인의 시도가 기존 국영 전시장 체계 밖에서 작품과 관람객이 만날 수 있는 공간을 만든 것이다.
 
-1997~1999년에는 미술가연맹과 미술기금의 나망간 지부를 이끌었다. 어머니를 돌보고, 그림을 그리고, 고향의 미술 활동을 조직하는 일은 이 시기의 서로 다른 측면이었다. 이후 나망간에서 타슈켄트로 옮겼으며, 그때는 어머니가 이미 세상을 떠난 뒤였다.
+1997~1999년에는 미술가연맹과 미술기금의 나망간 지부를 이끌었다. 어머니를 돌보고, 그림을 그리고, 고향의 미술 활동을 조직하는 일은 이 시기의 서로 다른 측면이었다. 이후 나망간에서 타슈켄트로 옮겼으며, 그때는 이미 어머니를 잃은 슬픔을 겪은 뒤였다.
 
 수도에서는 책임의 범위가 전국으로 넓어졌다. 1999~2005년 우즈베키스탄 미술아카데미 특별기금을, 1999~2012년 우즈베키스탄 공화국 미술기금을 이끌었다. 2002년 기록 사진은 특별기금을 맡던 시기의 모습이다. 이 직책들은 화가의 경력에 조직 운영의 책임을 더했다.
 
@@ -180,6 +180,26 @@ edition_date: "2026-10-11"
 [야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 야외 작업 여행: 마당과 마을 건물. 작가 소장 사진.
+
+## 제작, 만남, 그리고 그림의 여정
+
+[야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.
+
+[작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.
+
+[작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.
+
+[우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.
+
+[전시 준비 영상: 우즈베키스탄 예술가연맹 회장으로 활동하는 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## 색채가 연구의 주제가 되다
 

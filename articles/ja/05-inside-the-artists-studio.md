@@ -119,6 +119,16 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 
 [続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
+## 制作、出会い、そして絵画の歩み
+
+[アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。
+
+[アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。
+
 ## 経験を伝える――西安での絵画マスタークラス
 
 2025年9月、ヴァリホジャエフは中国の西安美術学院で絵画を学ぶ学生たちにマスタークラスを行った。CASIEの「一帯一路――中央アジア」プログラムに関連する9月14日から19日までの訪問に、画家およびウズベキスタン芸術家連盟会長として参加した。1時間20分で制作した作品は同学院に寄贈された。下のマスタークラスの映像では、最初の線から色面の関係、そして完成した構図へと画面が形づくられる過程を見ることができる。

@@ -119,6 +119,16 @@ Avant d’entrer à l’institut, Valikhodjaev réalisait des commandes artistiq
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.
+
+[Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.
+
 ## Transmettre une expérience : une masterclass à Xi’an
 
 En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en peinture de l’Académie des beaux-arts de Xi’an, en Chine. Il participait, en tant qu’artiste et président de l’Union des artistes d’Ouzbékistan, à une visite du 14 au 19 septembre liée au programme CASIE « Une ceinture, une route — Asie centrale ». La composition, réalisée en une heure et vingt minutes, a été offerte à l’Académie. La vidéo de la masterclass ci-dessous permet de suivre la construction de l’image, des premières lignes aux rapports entre les plages de couleur et à la composition achevée.

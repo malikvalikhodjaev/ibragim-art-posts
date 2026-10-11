@@ -108,6 +108,16 @@ Selon les souvenirs familiaux, l’artiste est revenu du Monténégro en 2012 av
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Paysages du Monténégro exposés. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrTM2WzKIRkoAN_waU_rLNmcyumc2usFGew6Y-MBpTwPLcnw4QkPv3_LrfxYxtQByUuYhNrJju9Cy1Yy6WAwQ6K2zmCXvuHeONYb4LCB-tku7pw8OmST-ftWaT5w94QOoxTeSKH2ydiBZ3k10D9qOXHnVZXd7-klGd4q68Zpfc7pbIbio7Szfhn5kJ13L/w1200-rj/clipboard.png>)
+
+Paysages du Monténégro exposés. Archives de l’artiste.
+
+[Paysages marins dans la salle d’exposition. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3wR6xRAhJOmvVch5bLMLW-iG_XzMdoKUsIlWxYoHMJQ548uYoMiHDmoBytIREkyV6ZtJGzCsgedEWa4QgaiUg8lDwBuhxmqlNu_oOoqTmjnbZ8smEHzL6qIJoAgVI9psT7u5hLv0Dju036kq93t3VCLrZeEvZwbPfMIWsYCRXjJ2gd9tYNxtPTzr3tzg/w1200-rj/clipboard.png>)
+
+Paysages marins dans la salle d’exposition. Archives de l’artiste.
+
 ## Reproductions issues des archives de l’artiste
 
 [«Au bord de la mer», 2012. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)

@@ -126,3 +126,9 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ijod, uchrashuvlar va kartinalar hayoti
+
+[Ko‘rgazma zalidagi gulli natyurmortlar. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
+
+Ko‘rgazma zalidagi gulli natyurmortlar. Rassom arxividan.

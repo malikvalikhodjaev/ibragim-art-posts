@@ -97,13 +97,13 @@ Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
 Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
-## 1991: izlanishning turli yo‘nalishlari
+## 1990-yillar boshi: izlanishning turli yo‘nalishlari
 
-1991-yilgi asarlar rassom o‘qishni tugatayotgan davrdayoq turli tasviriy vazifalar ustida ishlaganini ko‘rsatadi. «Farishta»da e’tibor o‘tirgan ayolga, uning yuzi, qo‘llari va och tusli kiyimiga qaratilgan. «Qichqiriq»da esa obraz katta to‘q rangli massa va keskin yorug‘ aksentlar orqali quriladi. Bu kartinalarda insonni kuzatish umumlashtirilgan, ramziy shakl izlash bilan yonma-yon keladi. Bozor mavzusi ana shu kengroq ijodiy izlanish doirasida rivojlanadi.
+1990-yillar boshidagi asarlar uning dastlabki mustaqil izlanishlari xilma-xilligini ko‘rsatadi. «Farishta»da e’tibor o‘tirgan ayolga, uning yuzi, qo‘llari va och tusli kiyimiga qaratilgan. «Qichqiriq»da esa obraz katta to‘q rangli massa va keskin yorug‘ aksentlar orqali quriladi. Bu kartinalarda insonni kuzatish umumlashtirilgan, ramziy shakl izlash bilan yonma-yon keladi. Bozor mavzusi ana shu kengroq ijodiy izlanish doirasida rivojlanadi.
 
-[«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Farishta», 1993. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
+«Farishta», 1993. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
 
 [«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi
 
 1993-yilda Valixo‘jayev Namanganda O‘zbekistondagi birinchi xususiy badiiy galereya — «Tumor» galereya-saloniga asos soldi. Uni 1999-yilgacha boshqardi. Shu tariqa mamlakatda xususiy galereya faoliyatini boshlab bergan ijodkorlardan biriga aylandi: shaxsiy tashabbus davlat ko‘rgazma maydonlaridan tashqarida asar va tomoshabin uchrashadigan makon yaratdi.
 
-1997–1999-yillarda Rassomlar uyushmasi va Badiiy fondning Namangan bo‘limlariga rahbarlik qildi. Onasiga g‘amxo‘rlik qilish, o‘z rangtasviri va ona shahrining badiiy hayotini tashkil etish shu davrning turli tomonlari edi. Keyinchalik Namangandan Toshkentga ko‘chdi; o‘sha paytda onasi hayotdan ko‘z yumgan edi.
+1997–1999-yillarda Rassomlar uyushmasi va Badiiy fondning Namangan bo‘limlariga rahbarlik qildi. Onasiga g‘amxo‘rlik qilish, o‘z rangtasviri va ona shahrining badiiy hayotini tashkil etish shu davrning turli tomonlari edi. Keyinchalik Namangandan Toshkentga ko‘chdi; bu vaqtga kelib, u onasidan ayrilish qayg‘usini boshdan kechirgan edi.
 
 Poytaxtda uning vazifalari respublika miqyosiga chiqdi. 1999–2005-yillarda O‘zbekiston Badiiy akademiyasining Maxsus fondini, 1999–2012-yillarda esa O‘zbekiston Respublikasi Badiiy fondini boshqardi. 2002-yilgi arxiv surati Maxsus fondga rahbarlik qilgan davriga tegishli. Bu lavozimlar rangtasvirchi faoliyatiga tashkiliy mas’uliyatni ham qo‘shdi.
 
@@ -180,6 +180,26 @@ Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.
 [Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.
+
+## Ijod, uchrashuvlar va kartinalar hayoti
+
+[Bolalar rassomning plenerdagi ishini kuzatmoqda. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Bolalar rassomning plenerdagi ishini kuzatmoqda. Rassom arxividan.
+
+[Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.
+
+[Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
+
+[Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida ish uchrashuvida. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida ish uchrashuvida. Rassom arxividan.
+
+[Ko‘rgazmaga tayyorgarlik videoyozuvi: Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Rang tadqiqot mavzusiga aylanadi
 

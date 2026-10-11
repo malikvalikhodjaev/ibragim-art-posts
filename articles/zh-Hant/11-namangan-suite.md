@@ -131,6 +131,16 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
+## 創作、相遇與畫作的生命
+
+[觀眾欣賞多人物巴扎構圖。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKEV_9cvEvrHC3KTFmNW-5yioLUcHhaXG6kDI1tb2-B9m4ff58mU6s65QvUAKxXgj8xNQoiCmzP-AfYBOxman8XGonXRzS8bn5EghZVyAKkTd7nfDn73dpHkaI8udsUkdFN7_I_8CEj7tfTXfbGynBRUXVOFBAMWvDvY-p7PNg9Ye6kOfB_FHEgouELFb/w1200-rj/clipboard.png>)
+
+觀眾欣賞多人物巴扎構圖。 藝術家檔案。
+
+[觀眾細看一幅巴扎場景畫。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiCynJQeKUfHTD2H4hWdiCZ9_E1U-7As-WNSdusWFlNDg32oRvtD6Muwh39hSHBu4zETApoNLzQHlnHaCtP2xmms_jsHhTeSanU-0FwPlx8A3LrqA_cSpSP5hklIXdU0w_7yqe_eTv_m2VHgHeWovLMqm5gtKnxjECeQBajmi-f5Y8R23402IgWbqKnIv/w1200-rj/clipboard.png>)
+
+觀眾細看一幅巴扎場景畫。 藝術家檔案。
+
 ## 藝術家檔案中的作品圖版
 
 [«搖籃市場», 2002. 伊布拉吉姆·瓦利霍賈耶夫。圖版來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)

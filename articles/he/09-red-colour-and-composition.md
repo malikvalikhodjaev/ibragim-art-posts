@@ -133,6 +133,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 חומר עריכה מValikhodjaev Gallery House. מקורות התמונה מצוינים בכיתובים.
 
+## יצירה, מפגשים וחיי הציורים
+
+[מבקרת מול סוסים אדומים. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+מבקרת מול סוסים אדומים. ארכיון האמן.
+
+[מבקרים לצד ציור טבע דומם עם רימונים. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+מבקרים לצד ציור טבע דומם עם רימונים. ארכיון האמן.
+
 ## RED: לצייר מול קהל
 
 שני תצלומים של ההדגמה שליוותה את RED בטשקנט ב־2017 מעבירים את הדיון בצבע אל העבודה עצמה. המבקרים ניצבים קרוב לכן ועוקבים אחר רצף הפעולות. לא רק המהירות חשובה: קו המתאר, גודל כתם הצבע והמרווחים בין הצורות נעשים להחלטות שאפשר לראות.

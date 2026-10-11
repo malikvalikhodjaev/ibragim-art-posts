@@ -112,17 +112,23 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 
 ## Ilk yillarni birgina uslubga jamlab bo‘lmaydi
 
-Vazmin ranglar palitrasini o‘sha yillardagi boshqa izlanishlar bilan yonma-yon ko‘rish muhim. 1991-yilgi «Farishta»da diqqat o‘tirgan ayolning yuzi va qo‘llariga qaratilgan; shu yilgi «Qichqiriq»da esa to‘q rangli massa va keskin yorug‘ aksentlar katta o‘rin tutadi. Bu asarlar har bir tasviriy vazifaning mustaqilligini saqlagan holda ilk ijod haqidagi tasavvurni kengaytiradi. Bozor kartinalari, RED va abstraksiyaga o‘tish bir tayyor uslubni boshqasiga almashtirishdan ko‘ra, rassom qiziqishining davom etishi sifatida tushunarliroq.
+Vazmin ranglar palitrasini o‘sha yillardagi boshqa izlanishlar bilan yonma-yon ko‘rish muhim. 1993-yilgi «Farishta»da diqqat o‘tirgan ayolning yuzi va qo‘llariga qaratilgan; 1991-yilgi «Qichqiriq»da esa to‘q rangli massa va keskin yorug‘ aksentlar katta o‘rin tutadi. Bu asarlar har bir tasviriy vazifaning mustaqilligini saqlagan holda ilk ijod haqidagi tasavvurni kengaytiradi. Bozor kartinalari, RED va abstraksiyaga o‘tish bir tayyor uslubni boshqasiga almashtirishdan ko‘ra, rassom qiziqishining davom etishi sifatida tushunarliroq.
 
-[«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Farishta», 1993. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
+«Farishta», 1993. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
 
 [«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.
 
 [Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
+
+## Ijod, uchrashuvlar va kartinalar hayoti
+
+[Tomoshabin vazmin palitrali kartinalar oldida. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Tomoshabin vazmin palitrali kartinalar oldida. Rassom arxividan.
 
 ## Ustaxonada: ko‘rgazmadan oldin va keyin
 

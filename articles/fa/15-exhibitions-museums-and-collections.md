@@ -112,6 +112,12 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [UzA - نمایشگاه هنر ازبکستان در پکن، 23 ژانویه 2024 (متن ازبکی)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[تماشای تابلوهایی با پالت رنگی آرام. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+تماشای تابلوهایی با پالت رنگی آرام. از آرشیو هنرمند.
+
 [نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)

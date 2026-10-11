@@ -108,6 +108,16 @@ Según los recuerdos familiares, el artista regresó de Montenegro en 2012 con 4
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
+## Creación, encuentros y vida de los cuadros
+
+[Paisajes de Montenegro expuestos. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrTM2WzKIRkoAN_waU_rLNmcyumc2usFGew6Y-MBpTwPLcnw4QkPv3_LrfxYxtQByUuYhNrJju9Cy1Yy6WAwQ6K2zmCXvuHeONYb4LCB-tku7pw8OmST-ftWaT5w94QOoxTeSKH2ydiBZ3k10D9qOXHnVZXd7-klGd4q68Zpfc7pbIbio7Szfhn5kJ13L/w1200-rj/clipboard.png>)
+
+Paisajes de Montenegro expuestos. Archivo del artista.
+
+[Paisajes marinos en la sala de exposiciones. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3wR6xRAhJOmvVch5bLMLW-iG_XzMdoKUsIlWxYoHMJQ548uYoMiHDmoBytIREkyV6ZtJGzCsgedEWa4QgaiUg8lDwBuhxmqlNu_oOoqTmjnbZ8smEHzL6qIJoAgVI9psT7u5hLv0Dju036kq93t3VCLrZeEvZwbPfMIWsYCRXjJ2gd9tYNxtPTzr3tzg/w1200-rj/clipboard.png>)
+
+Paisajes marinos en la sala de exposiciones. Archivo del artista.
+
 ## Reproducciones del archivo del artista
 
 [«A orillas del mar», 2012. Ibragim Valikhodjaev. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)

@@ -121,6 +121,20 @@ Kuruculuk deneyimi Gallery House’dan çok önce başladı. Valikhodjaev 1987�
 
 [Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
+## Üretim, karşılaşmalar ve resimlerin yaşamı
+
+[Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.
+
+[Ibragim Valikhodjaev ve Ali Kılıç. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev ve Ali Kılıç. Sanatçının arşivi.
+
+[Heykel sempozyumunun katılımcılarıyla buluşma. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+Heykel sempozyumunun katılımcılarıyla buluşma. Sanatçının arşivi.
+
 ## Sergi çalışmalarından video kayıtları
 
 Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesine katılımını gösteriyor. Serginin adı, yeri ve çekim tarihi henüz belirlenmemiştir.

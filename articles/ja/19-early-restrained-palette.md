@@ -112,17 +112,23 @@ Valikhodjaev Gallery House
 
 ## 初期の制作を一つの様式にまとめない
 
-抑えた色調は、同じ時期の別の探究と並べて見ることが大切である。1991年の《天使》では、座る女性の顔と手に注意が向けられる。同年の《叫び》では、暗い塊と鋭い明色のアクセントが大きな役割を果たす。これらは、それぞれの絵画的な課題の独立性を保ちながら、初期制作への視野を広げる。バザールの絵画、RED、抽象への歩みは、完成した一つの様式を別の様式に取り替えることよりも、好奇心の持続として捉えるほうが適切だろう。
+抑えた色調は、同じ時期の別の探究と並べて見ることが大切である。1993年の《天使》では、座る女性の顔と手に注意が向けられる。1991年の《叫び》では、暗い塊と鋭い明色のアクセントが大きな役割を果たす。これらは、それぞれの絵画的な課題の独立性を保ちながら、初期制作への視野を広げる。バザールの絵画、RED、抽象への歩みは、完成した一つの様式を別の様式に取り替えることよりも、好奇心の持続として捉えるほうが適切だろう。
 
-[《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《天使》, 1993. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。
+《天使》, 1993. 100 × 100 cm. 図版は画家のアーカイブより。
 
 [《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。
 
 [続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
+
+## 制作、出会い、そして絵画の歩み
+
+[抑えた色調の絵画を鑑賞する来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+抑えた色調の絵画を鑑賞する来場者。 画家のアーカイブより。
 
 ## アトリエで：展覧会の前と後
 

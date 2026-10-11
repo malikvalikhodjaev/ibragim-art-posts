@@ -107,3 +107,13 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Работа, встречи и жизнь картин
+
+[Портреты в экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejL6rEDXBKE48hJaXFggIC4l9U-KmeT0JJxA6mqdvbLP-OFaAuJRZjX6n7-REgVfVB1m5sMBQrQ8eEuvuyfvcNxIKCa14MMQg3aHwu8xhXfOTNzgfi20GnEcSiaBEWxhLR2nirqnV4j7-ArFwNp4cfGv8k4brdeP6KVBFEYh4Xj2QzjVVoZJrNWDGmk75/w1200-rj/clipboard.png>)
+
+Портреты в экспозиции. Архив художника.
+
+[Два женских портрета в экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI4c7PoihIHoaVv-0cpHt8lqQyDVqM7PShayi-TkX-1u8MoufsXqGhf9T7sHBKqC0qT0XiwR3pQifXkiokiF3NY-Tme30jcbNxsH1fHbp5AdEpi_ZQOn06Bsc9-PjeEeDpniRfgR5tiYLIF0SLBRr7ywTlV51G8j0o9MDeR4HK6ZAvParJnv7DN-LL-MN/w1200-rj/clipboard.png>)
+
+Два женских портрета в экспозиции. Архив художника.

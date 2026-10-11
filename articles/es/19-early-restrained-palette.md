@@ -112,17 +112,23 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 
 ## Los primeros años no se reducen a un solo estilo
 
-Conviene mirar la paleta contenida junto a otras exploraciones de aquellos años. En Ángel, de 1991, la atención recae en una mujer sentada, su rostro y sus manos; en Grito, del mismo año, destacan una masa oscura y acentos claros tajantes. Estas obras amplían la visión de sus inicios, preservando la singularidad de cada problema pictórico. El camino hacia los lienzos del bazar, RED y la abstracción se entiende mejor como una curiosidad que continúa que como el intercambio de un estilo definitivo por otro.
+Conviene mirar la paleta contenida junto a otras exploraciones de aquellos años. En Ángel, de 1993, la atención recae en una mujer sentada, su rostro y sus manos; en Grito, de 1991, destacan una masa oscura y acentos claros tajantes. Estas obras amplían la visión de sus inicios, preservando la singularidad de cada problema pictórico. El camino hacia los lienzos del bazar, RED y la abstracción se entiende mejor como una curiosidad que continúa que como el intercambio de un estilo definitivo por otro.
 
-[«Ángel», 1991. 100 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Ángel», 1993. 100 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Ángel», 1991. 100 × 100 cm. Reproducción del archivo del artista.
+«Ángel», 1993. 100 × 100 cm. Reproducción del archivo del artista.
 
 [«Grito», 1991. 110 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «Grito», 1991. 110 × 100 cm. Reproducción del archivo del artista.
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
+
+## Creación, encuentros y vida de los cuadros
+
+[Un visitante ante cuadros de paleta contenida. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Un visitante ante cuadros de paleta contenida. Archivo del artista.
 
 ## En el taller, antes y después de la exposición
 

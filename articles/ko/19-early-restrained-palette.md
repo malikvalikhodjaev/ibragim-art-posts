@@ -112,17 +112,23 @@ Valikhodjaev Gallery House
 
 ## 초기 작업을 하나의 양식으로 묶지 않기
 
-절제된 팔레트는 같은 시기의 다른 탐구와 나란히 살펴보는 것이 좋다. 1991년의 《천사》에서는 앉아 있는 여성의 얼굴과 손에 시선이 모인다. 같은 해의 《외침》에서는 어두운 덩어리와 날카로운 밝은 강조가 큰 역할을 한다. 이 작품들은 각각의 회화적 문제를 독립적으로 유지하면서 초기 작업에 대한 시야를 넓힌다. 따라서 바자르 그림, RED, 추상으로 향하는 길은 완성된 한 양식을 다른 것으로 바꾸는 일보다 호기심이 지속되는 과정으로 이해하는 편이 적절하다.
+절제된 팔레트는 같은 시기의 다른 탐구와 나란히 살펴보는 것이 좋다. 1993년의 《천사》에서는 앉아 있는 여성의 얼굴과 손에 시선이 모인다. 1991년의 《외침》에서는 어두운 덩어리와 날카로운 밝은 강조가 큰 역할을 한다. 이 작품들은 각각의 회화적 문제를 독립적으로 유지하면서 초기 작업에 대한 시야를 넓힌다. 따라서 바자르 그림, RED, 추상으로 향하는 길은 완성된 한 양식을 다른 것으로 바꾸는 일보다 호기심이 지속되는 과정으로 이해하는 편이 적절하다.
 
-[《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《천사》, 1993. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
+《천사》, 1993. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
 
 [《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.
 
 [이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+## 제작, 만남, 그리고 그림의 여정
+
+[절제된 팔레트의 그림을 감상하는 관람객. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+절제된 팔레트의 그림을 감상하는 관람객. 화가의 아카이브.
 
 ## 작업실에서: 전시 전후의 시간
 

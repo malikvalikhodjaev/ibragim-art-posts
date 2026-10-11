@@ -131,6 +131,16 @@ RED 系列與藝術家對紅色本身的熱情探索緊密相連。瓦利霍賈�
 
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
+## 創作、相遇與畫作的生命
+
+[觀眾欣賞《紅馬》。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+觀眾欣賞《紅馬》。 藝術家檔案。
+
+[石榴靜物畫旁的觀眾。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+石榴靜物畫旁的觀眾。 藝術家檔案。
+
 ## RED：在觀眾面前作畫
 
 2017年塔什干RED展覽期間繪畫示範的兩張照片，將色彩討論帶入實際創作。觀眾靠近畫架，觀察動作的先後順序。重要的不只是速度：輪廓、色塊的面積和形體間的間隔，都成為可以看見的選擇。

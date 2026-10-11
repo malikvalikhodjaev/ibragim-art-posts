@@ -99,13 +99,13 @@ edition_date: "2026-10-11"
 
 الفنان الشاب بين أعماله. أرشيف الفنان.
 
-## 1991: بحث يتجه في مسارات متعددة
+## بدايات التسعينيات: مسارات مختلفة للبحث الفني
 
-تكشف أعمال عام 1991 عن تنوع المسائل التشكيلية التي شغلته حتى في أواخر دراسته. في «الملاك» يتجه النظر إلى امرأة جالسة، إلى وجهها ويديها وملابسها الفاتحة. أما «الصرخة» فتُبنى صورتها من كتلة داكنة كبيرة ولمسات فاتحة حادة. يتجاور في هذين العملين تأمل الإنسان والبحث عن شكل مختزل ورمزي. وستتطور لوحات البازار ضمن هذا الاستكشاف الفني الأوسع.
+تكشف لوحاته في مطلع التسعينيات عن تنوع تجاربه المستقلة الأولى. في «الملاك» يتجه النظر إلى امرأة جالسة، إلى وجهها ويديها وملابسها الفاتحة. أما «الصرخة» فتُبنى صورتها من كتلة داكنة كبيرة ولمسات فاتحة حادة. يتجاور في هذين العملين تأمل الإنسان والبحث عن شكل مختزل ورمزي. وستتطور لوحات البازار ضمن هذا الاستكشاف الفني الأوسع.
 
-[«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«الملاك», 1993. 100 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.
+«الملاك», 1993. 100 × 100 سم. صورة للعمل من أرشيف الفنان.
 
 [«الصرخة», 1991. 110 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -143,7 +143,7 @@ edition_date: "2026-10-11"
 
 في عام 1993، أسس فاليخودجاييف في نامانغان غاليري تومور، أول معرض فني خاص في أوزبكستان، وأداره حتى عام 1999. وكان بذلك رائدًا من رواد المعارض الفنية الخاصة في البلاد؛ إذ أنشأت المبادرة الفردية مكانًا للقاء الأعمال بالجمهور خارج منظومة قاعات العرض الحكومية المعتادة.
 
-بين 1997 و1999، ترأس فرعي اتحاد الفنانين وصندوق الفنون في نامانغان. وكانت رعاية والدته والرسم وتنظيم الحياة الفنية في مدينته جوانب مختلفة من تلك المرحلة. انتقل لاحقًا من نامانغان إلى طشقند، وكانت والدته قد توفيت بحلول ذلك الوقت.
+بين 1997 و1999، ترأس فرعي اتحاد الفنانين وصندوق الفنون في نامانغان. وكانت رعاية والدته والرسم وتنظيم الحياة الفنية في مدينته جوانب مختلفة من تلك المرحلة. انتقل لاحقًا من نامانغان إلى طشقند، وكان قد مرّ آنذاك بتجربة فقدان والدته.
 
 في العاصمة، اتسعت مسؤولياته إلى المستوى الوطني. ترأس الصندوق الخاص لأكاديمية الفنون في أوزبكستان بين 1999 و2005، وصندوق الفنون لجمهورية أوزبكستان بين 1999 و2012. وتعود الصورة الأرشيفية المؤرخة بعام 2002 إلى فترة قيادته للصندوق الخاص. أضافت هذه المناصب مسؤولية تنظيمية إلى مسيرته رسامًا.
 
@@ -182,6 +182,26 @@ edition_date: "2026-10-11"
 [خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 خلال رحلة للرسم من الطبيعة: فناء ومبانٍ قروية. أرشيف الفنان.
+
+## العمل واللقاءات وحياة اللوحات
+
+[أطفال يتابعون الفنان أثناء عمله في الهواء الطلق. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+أطفال يتابعون الفنان أثناء عمله في الهواء الطلق. من أرشيف الفنان.
+
+[إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.
+
+[العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.
+
+[إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+إبراهيم فاليخوجاييف في اجتماع عمل بصفته رئيس اتحاد الفنانين في أوزبكستان. من أرشيف الفنان.
+
+[فيديو التحضير للمعرض: إبراهيم فاليخوجاييف بصفته رئيس اتحاد الفنانين في أوزبكستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## يصبح اللون موضوعًا للبحث
 

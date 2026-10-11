@@ -97,13 +97,13 @@ edition_date: "2026-10-11"
 
 Молодой художник среди своих произведений. Архив художника.
 
-## 1991: разные направления поиска
+## Начало 1990-х: разные направления поиска
 
-Работы 1991 года позволяют увидеть, насколько разными были его живописные задачи уже на исходе учёбы. В «Ангеле» внимание сосредоточено на сидящей женщине, её лице, руках и светлой одежде. В «Крике» образ строится через большую тёмную массу и резкие светлые акценты. Эти картины показывают соседство наблюдения за человеком и поиска обобщённой, символической формы. Базарная тема будет развиваться внутри этого более широкого творческого движения.
+Произведения начала 1990-х показывают разнообразие его первых самостоятельных поисков. В «Ангеле» внимание сосредоточено на сидящей женщине, её лице, руках и светлой одежде. В «Крике» образ строится через большую тёмную массу и резкие светлые акценты. Эти картины показывают соседство наблюдения за человеком и поиска обобщённой, символической формы. Базарная тема будет развиваться внутри этого более широкого творческого движения.
 
-[«Ангел», 1991. 100 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Ангел», 1993. 100 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Ангел», 1991. 100 × 100 см. Репродукция из архива художника.
+«Ангел», 1993. 100 × 100 см. Репродукция из архива художника.
 
 [«Крик», 1991. 110 × 100 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ edition_date: "2026-10-11"
 
 В 1993 году Валиходжаев основал в Намангане галерею-салон «Тумор» — первую частную художественную галерею Узбекистана. Он руководил ею до 1999 года. Это делает его одним из первопроходцев частной галерейной деятельности в стране: собственная инициатива создала место, где произведения могли встречаться со зрителем вне привычной системы государственных выставочных площадок.
 
-В 1997–1999 годах он возглавлял Наманганские отделения Союза художников и Художественного фонда. Забота о матери, собственная живопись и организация художественной жизни родного города составляли разные стороны этого периода. Позднее он переехал из Намангана в Ташкент; матери к тому времени уже не было в живых.
+В 1997–1999 годах он возглавлял Наманганские отделения Союза художников и Художественного фонда. Забота о матери, собственная живопись и организация художественной жизни родного города составляли разные стороны этого периода. Позднее он переехал из Намангана в Ташкент; к тому времени он уже пережил утрату матери.
 
 В столице работа приобрела республиканский масштаб. В 1999–2005 годах Валиходжаев возглавлял Специальный фонд Академии художеств Узбекистана, а в 1999–2012 годах — Художественный фонд Республики Узбекистан. Архивный кадр 2002 года относится к периоду руководства Специальным фондом. Эти должности дополняли биографию живописца организационной ответственностью.
 
@@ -180,6 +180,26 @@ edition_date: "2026-10-11"
 [На пленэре: двор и сельские постройки. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 На пленэре: двор и сельские постройки. Архив художника.
+
+## Работа, встречи и жизнь картин
+
+[Дети наблюдают за работой художника на пленэре. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Дети наблюдают за работой художника на пленэре. Архив художника.
+
+[Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.
+
+[Работа над портретом Мелиса Абзалова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Работа над портретом Мелиса Абзалова в мастерской. Архив художника.
+
+[Ибрагим Валиходжаев на рабочей встрече как председатель Союза художников Узбекистана. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ибрагим Валиходжаев на рабочей встрече как председатель Союза художников Узбекистана. Архив художника.
+
+[Видеозапись подготовки выставки: Ибрагим Валиходжаев как председатель Союза художников Узбекистана](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Цвет становится предметом исследования
 

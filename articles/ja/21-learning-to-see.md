@@ -97,13 +97,13 @@ edition_date: "2026-10-11"
 
 自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
-## 1991年：さまざまな方向へ広がる探求
+## 1990年代初頭：さまざまな探究の方向
 
-1991年の作品は、学業の終わりに近づいた時点で、すでに多様な絵画上の課題に取り組んでいたことを示している。《天使》では、座る女性の顔、手、明るい衣服に視線が向かう。《叫び》では、大きな暗い塊と鋭い明色のアクセントが画面を組み立てる。具体的な人物の観察と、形を要約し象徴へと変える試みが共存している。バザールの絵画も、この幅広い探求のなかで発展していく。
+1990年代初めの作品は、独立した画家としての初期の探究がすでに多様であったことを示している。《天使》では、座る女性の顔、手、明るい衣服に視線が向かう。《叫び》では、大きな暗い塊と鋭い明色のアクセントが画面を組み立てる。具体的な人物の観察と、形を要約し象徴へと変える試みが共存している。バザールの絵画も、この幅広い探求のなかで発展していく。
 
-[《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《天使》, 1993. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。
+《天使》, 1993. 100 × 100 cm. 図版は画家のアーカイブより。
 
 [《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ edition_date: "2026-10-11"
 
 1993年、ヴァリホジャエフはナマンガンに、ウズベキスタン初の民間美術ギャラリーであるトゥモルを設立し、1999年まで運営した。国内の民間ギャラリー活動の先駆者となったのである。個人の取り組みが、従来の国営展示施設とは別に、作品と観客が出会う場所を生んだ。
 
-1997年から1999年まで、美術家連盟と美術基金のナマンガン支部を率いた。母の世話、自身の絵画制作、故郷の美術活動の運営は、この時期の異なる側面だった。その後ナマンガンからタシケントへ移ったが、その頃には母はすでに亡くなっていた。
+1997年から1999年まで、美術家連盟と美術基金のナマンガン支部を率いた。母の世話、自身の絵画制作、故郷の美術活動の運営は、この時期の異なる側面だった。その後ナマンガンからタシケントへ移ったが、その頃にはすでに、母を失う悲しみを経験していた。
 
 首都では責任の範囲が全国に広がった。1999年から2005年までウズベキスタン美術アカデミーの特別基金を、1999年から2012年までウズベキスタン共和国の美術基金を率いた。2002年のアーカイブ写真は特別基金を率いていた時期のものである。これらの職務は、画家の歩みに組織運営の責任を加えた。
 
@@ -180,6 +180,26 @@ edition_date: "2026-10-11"
 [戸外制作の旅：中庭と村の建物。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 戸外制作の旅：中庭と村の建物。 画家のアーカイブより。
+
+## 制作、出会い、そして絵画の歩み
+
+[野外で制作する画家を見守る子どもたち。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+野外で制作する画家を見守る子どもたち。 画家のアーカイブより。
+
+[アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。
+
+[アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。
+
+[ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。
+
+[展覧会準備の映像：ウズベキスタン芸術家連盟会長として活動するイブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## 色が研究対象となる
 

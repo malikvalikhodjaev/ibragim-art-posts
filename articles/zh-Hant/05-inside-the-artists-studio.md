@@ -119,6 +119,16 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
+## 創作、相遇與畫作的生命
+
+[伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。
+
+[在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。
+
 ## 傳授經驗：西安繪畫大師課
 
 2025年9月，瓦利霍賈耶夫在中國西安美術學院為繪畫專業學生開設大師課。他以藝術家及烏茲別克斯坦藝術家聯盟主席的身分，參加了9月14日至19日與CASIE「一帶一路—中亞」計畫有關的訪問。課堂上以一小時二十分鐘完成的作品贈予了學院。下方的大師課影片記錄了畫面的形成過程：從最初的線條，到色塊之間的關係，直至完整構圖。

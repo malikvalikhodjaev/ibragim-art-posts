@@ -110,6 +110,12 @@ Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에
 
 [UzA — 2024년 1월 23일 베이징에서 열린 우즈베키스탄 미술 전시회(우즈베크어 원문)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
+## 제작, 만남, 그리고 그림의 여정
+
+[절제된 팔레트의 그림을 감상하는 관람객. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+절제된 팔레트의 그림을 감상하는 관람객. 화가의 아카이브.
+
 [이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. 2018년 전시 《꿈에서 운명으로》에 관하여](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. [2018년 전시 《꿈에서 운명으로》에 관하여](<https://art-blog.uz/archives/30280>)

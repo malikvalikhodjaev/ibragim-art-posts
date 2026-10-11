@@ -114,17 +114,23 @@ Valikhodjaev Gallery House
 
 ## השנים המוקדמות אינן מסתכמות בסגנון אחד
 
-כדאי להתבונן בפלטה המאופקת לצד חיפושים אחרים מאותן שנים. במלאך מ־1991 תשומת הלב מופנית לאישה יושבת, לפניה ולידיה; בצעקה מאותה שנה יש תפקיד מרכזי למסה כהה ולהדגשות בהירות חדות. היצירות מרחיבות את תמונת ההתחלה, תוך שמירה על ייחודה של כל שאלה ציורית. לכן המעבר לציורי הבזאר, ל־RED ולהפשטה מובן יותר כהמשך הסקרנות מאשר כהחלפת סגנון סופי אחד באחר.
+כדאי להתבונן בפלטה המאופקת לצד חיפושים אחרים מאותן שנים. במלאך מ־1993 תשומת הלב מופנית לאישה יושבת, לפניה ולידיה; בזעקה משנת 1991 יש תפקיד מרכזי למסה כהה ולהדגשות בהירות חדות. היצירות מרחיבות את תמונת ההתחלה, תוך שמירה על ייחודה של כל שאלה ציורית. לכן המעבר לציורי הבזאר, ל־RED ולהפשטה מובן יותר כהמשך הסקרנות מאשר כהחלפת סגנון סופי אחד באחר.
 
-[״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[״מלאך״, 1993. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.
+״מלאך״, 1993. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.
 
 [״זעקה״, 1991. 110 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 ״זעקה״, 1991. 110 × 100 ס״מ. תצלום היצירה מארכיון האמן.
 
 [להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
+
+## יצירה, מפגשים וחיי הציורים
+
+[מבקר מול ציורים בעלי פלטה מאופקת. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+מבקר מול ציורים בעלי פלטה מאופקת. ארכיון האמן.
 
 ## בסטודיו, לפני התערוכה ואחריה
 

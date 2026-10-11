@@ -114,5 +114,11 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## יצירה, מפגשים וחיי הציורים
+
+[New View: קומפוזיציות מופשטות באולם התערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+New View: קומפוזיציות מופשטות באולם התערוכה. ארכיון האמן.
+
 
 </div>

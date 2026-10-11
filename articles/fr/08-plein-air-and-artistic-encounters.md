@@ -114,6 +114,16 @@ Le voyage au Monténégro de 2012 donne un exemple concret du rythme de travail 
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)
 
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Des enfants regardent l’artiste travailler en plein air. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Des enfants regardent l’artiste travailler en plein air. Archives de l’artiste.
+
+[Dessin sur le motif, en plein air. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+Dessin sur le motif, en plein air. Archives de l’artiste.
+
 ## Reproductions issues des archives de l’artiste
 
 [«Village de Miraki. Route», 2013. Ibragim Valikhodjaev. Reproduction issue des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

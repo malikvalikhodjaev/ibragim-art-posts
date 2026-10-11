@@ -133,6 +133,16 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [ادامهٔ مطلب: زندگی و مسیر هنری هنرمند](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[تماشاگران در برابر ترکیب‌بندی چندپیکره‌ای از بازار. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKEV_9cvEvrHC3KTFmNW-5yioLUcHhaXG6kDI1tb2-B9m4ff58mU6s65QvUAKxXgj8xNQoiCmzP-AfYBOxman8XGonXRzS8bn5EghZVyAKkTd7nfDn73dpHkaI8udsUkdFN7_I_8CEj7tfTXfbGynBRUXVOFBAMWvDvY-p7PNg9Ye6kOfB_FHEgouELFb/w1200-rj/clipboard.png>)
+
+تماشاگران در برابر ترکیب‌بندی چندپیکره‌ای از بازار. از آرشیو هنرمند.
+
+[بازدیدکنندگان صحنه‌ای از بازار را تماشا می‌کنند. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiCynJQeKUfHTD2H4hWdiCZ9_E1U-7As-WNSdusWFlNDg32oRvtD6Muwh39hSHBu4zETApoNLzQHlnHaCtP2xmms_jsHhTeSanU-0FwPlx8A3LrqA_cSpSP5hklIXdU0w_7yqe_eTv_m2VHgHeWovLMqm5gtKnxjECeQBajmi-f5Y8R23402IgWbqKnIv/w1200-rj/clipboard.png>)
+
+بازدیدکنندگان صحنه‌ای از بازار را تماشا می‌کنند. از آرشیو هنرمند.
+
 ## تصاویر آثار از آرشیو هنرمند
 
 [«بازار گهواره», 2002. ابراهیم ولی‌خواجه‌اف. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)

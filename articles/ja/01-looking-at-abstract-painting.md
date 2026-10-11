@@ -111,3 +111,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 制作、出会い、そして絵画の歩み
+
+[New View：展示室に並ぶ抽象的な構成。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+New View：展示室に並ぶ抽象的な構成。 画家のアーカイブより。

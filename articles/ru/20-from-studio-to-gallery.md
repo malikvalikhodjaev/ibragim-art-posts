@@ -131,6 +131,20 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
 
+## Работа, встречи и жизнь картин
+
+[Ибрагим Валиходжаев на рабочей встрече как председатель Союза художников Узбекистана. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ибрагим Валиходжаев на рабочей встрече как председатель Союза художников Узбекистана. Архив художника.
+
+[Ибрагим Валиходжаев и Али Кылыч. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+Ибрагим Валиходжаев и Али Кылыч. Архив художника.
+
+[Встреча с участниками скульптурного симпозиума. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+Встреча с участниками скульптурного симпозиума. Архив художника.
+
 ## Картина и пространство выставки
 
 Фотографии экспозиции показывают ещё одну сторону жизни картины — встречу со зрителем. Пустые участки стены, расстояния между полотнами и возможность отойти меняют условия восприятия. Общий вид зала помогает увидеть масштаб, а кадр с посетителями — привычку рассматривать работу вблизи и возвращаться к ней издалека.

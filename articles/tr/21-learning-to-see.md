@@ -97,13 +97,13 @@ Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
-## 1991: farklı yönlere açılan arayış
+## 1990’ların başı: farklı arayışlar
 
-1991 tarihli resimler, öğreniminin sonuna yaklaşırken bile ne kadar farklı resimsel sorunlarla ilgilendiğini gösterir. Melek’te dikkat, oturan bir kadının yüzüne, ellerine ve açık renk giysisine yönelir. Çığlık’ta ise büyük koyu bir kütle ve keskin açık renk vurgular imgeyi kurar. Bu eserlerde insanı gözlemlemek, yalınlaştırılmış ve simgesel biçim arayışıyla yan yana gelir. Pazar resimleri bu daha geniş sanatsal araştırmanın içinde gelişecektir.
+1990’ların başındaki resimleri, ilk bağımsız arayışlarının çeşitliliğini ortaya koyar. Melek’te dikkat, oturan bir kadının yüzüne, ellerine ve açık renk giysisine yönelir. Çığlık’ta ise büyük koyu bir kütle ve keskin açık renk vurgular imgeyi kurar. Bu eserlerde insanı gözlemlemek, yalınlaştırılmış ve simgesel biçim arayışıyla yan yana gelir. Pazar resimleri bu daha geniş sanatsal araştırmanın içinde gelişecektir.
 
-[“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[“Melek”, 1993. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+“Melek”, 1993. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
 
 [“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve
 
 Valikhodjaev 1993’te Namangan’da Özbekistan’ın ilk özel sanat galerisi olan Tumor galeri-salonunu kurdu ve 1999’a kadar yönetti. Ülkedeki özel galericiliğin öncülerinden biri oldu: kişisel bir girişim, eserlerin devlet sergi mekânlarının yerleşik sistemi dışında izleyiciyle buluşabileceği bir alan yarattı.
 
-1997–1999’da Sanatçılar Birliği’nin ve Sanat Fonu’nun Namangan şubelerine başkanlık etti. Annesine bakmak, resim yapmak ve doğduğu şehrin sanat yaşamını örgütlemek bu dönemin farklı yönleriydi. Daha sonra Namangan’dan Taşkent’e taşındı; annesi o zamana kadar hayatını kaybetmişti.
+1997–1999’da Sanatçılar Birliği’nin ve Sanat Fonu’nun Namangan şubelerine başkanlık etti. Annesine bakmak, resim yapmak ve doğduğu şehrin sanat yaşamını örgütlemek bu dönemin farklı yönleriydi. Daha sonra Namangan’dan Taşkent’e taşındı; o zamana gelindiğinde annesinin kaybını yaşamıştı.
 
 Başkentte sorumlulukları ülke çapına yayıldı. 1999–2005’te Özbekistan Sanat Akademisi Özel Fonu’na, 1999–2012’de Özbekistan Cumhuriyeti Sanat Fonu’na başkanlık etti. 2002 tarihli arşiv fotoğrafı, Özel Fon’u yönettiği döneme aittir. Bu görevler ressamlık kariyerine organizasyon sorumluluğunu da ekledi.
 
@@ -180,6 +180,26 @@ Doğadan çalışma gezisi: köy sokağı ve dağ manzarası. Sanatçının arş
 [Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.
+
+## Üretim, karşılaşmalar ve resimlerin yaşamı
+
+[Çocuklar açık havada çalışan sanatçıyı izliyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Çocuklar açık havada çalışan sanatçıyı izliyor. Sanatçının arşivi.
+
+[Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.
+
+[Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.
+
+[Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev, Özbekistan Sanatçılar Birliği Başkanı olarak bir çalışma toplantısında. Sanatçının arşivi.
+
+[Sergi hazırlığının video kaydı: Özbekistan Sanatçılar Birliği Başkanı olarak Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Renk, araştırma konusu haline geliyor.
 

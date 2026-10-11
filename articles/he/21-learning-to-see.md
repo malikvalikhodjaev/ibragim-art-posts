@@ -99,13 +99,13 @@ edition_date: "2026-10-11"
 
 האמן הצעיר בין יצירותיו. ארכיון האמן.
 
-## 1991: חיפוש הנפתח לכיוונים שונים
+## תחילת שנות התשעים: כיוונים שונים של חיפוש אמנותי
 
-הציורים משנת 1991 מראים עד כמה מגוונות היו שאלותיו הציוריות כבר לקראת סוף לימודיו. ב״מלאך״ המבט מתמקד באישה יושבת, בפניה, בידיה ובבגדיה הבהירים. ב״זעקה״ הדימוי נבנה באמצעות גוש כהה גדול והדגשים בהירים וחדים. ההתבוננות באדם ניצבת לצד חיפוש אחר צורה מצומצמת וסמלית. ציורי הבזאר יתפתחו בתוך חקירה אמנותית רחבה זו.
+הציורים מראשית שנות התשעים מגלים את המגוון בחיפושיו העצמאיים הראשונים. ב״מלאך״ המבט מתמקד באישה יושבת, בפניה, בידיה ובבגדיה הבהירים. ב״זעקה״ הדימוי נבנה באמצעות גוש כהה גדול והדגשים בהירים וחדים. ההתבוננות באדם ניצבת לצד חיפוש אחר צורה מצומצמת וסמלית. ציורי הבזאר יתפתחו בתוך חקירה אמנותית רחבה זו.
 
-[״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[״מלאך״, 1993. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.
+״מלאך״, 1993. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.
 
 [״זעקה״, 1991. 110 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -143,7 +143,7 @@ edition_date: "2026-10-11"
 
 ב־1993 הקים וליחודג'אייב בנמנגן את גלריית טומור, גלריית האמנות הפרטית הראשונה באוזבקיסטן, וניהל אותה עד 1999. בכך היה לחלוץ בתחום הגלריות הפרטיות במדינה: יוזמה אישית יצרה מקום למפגש בין יצירות לקהל מחוץ למערכת המקובלת של חללי התצוגה הממלכתיים.
 
-בשנים 1997–1999 עמד בראש סניפי נמנגן של איגוד האמנים ושל קרן האמנות. הדאגה לאמו, הציור וארגון חיי האמנות בעיר הולדתו היו היבטים שונים של התקופה. בהמשך עבר מנמנגן לטשקנט; אמו כבר לא הייתה בחיים באותה עת.
+בשנים 1997–1999 עמד בראש סניפי נמנגן של איגוד האמנים ושל קרן האמנות. הדאגה לאמו, הציור וארגון חיי האמנות בעיר הולדתו היו היבטים שונים של התקופה. בהמשך עבר מנמנגן לטשקנט; באותה עת כבר התמודד עם אובדן אמו.
 
 בבירה התרחבו תחומי אחריותו לרמה הארצית. בשנים 1999–2005 עמד בראש הקרן המיוחדת של האקדמיה לאמנויות של אוזבקיסטן, ובשנים 1999–2012 בראש קרן האמנות של הרפובליקה. התצלום הארכיוני משנת 2002 שייך לתקופת ניהול הקרן המיוחדת. התפקידים הוסיפו אחריות ארגונית לקריירה שלו כצייר.
 
@@ -182,6 +182,26 @@ edition_date: "2026-10-11"
 [במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 במסע לציור מן הטבע: חצר ומבנים כפריים. ארכיון האמן.
+
+## יצירה, מפגשים וחיי הציורים
+
+[ילדים צופים באמן בעבודתו בחוץ. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+ילדים צופים באמן בעבודתו בחוץ. ארכיון האמן.
+
+[איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.
+
+[עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.
+
+[איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+איברגים וליחודג'אייב בישיבת עבודה כיו״ר איגוד האמנים של אוזבקיסטן. ארכיון האמן.
+
+[תיעוד וידאו של ההכנות לתערוכה: איברגים וליחודג'אייב כיו״ר איגוד האמנים של אוזבקיסטן](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## צבע הופך לנושא המחקר
 

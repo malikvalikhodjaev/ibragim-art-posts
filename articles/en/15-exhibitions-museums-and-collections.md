@@ -110,6 +110,12 @@ Editorial material from Valikhodjaev Gallery House. Sources for illustrations ar
 
 [UzA — Uzbekistan Art Exhibition in Beijing, January 23, 2024 (Uzbek text)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
+## Making, meeting and the life of paintings
+
+[A viewer before paintings with a restrained palette. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+A viewer before paintings with a restrained palette. Artist’s archive.
+
 [Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. About the exhibition From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)

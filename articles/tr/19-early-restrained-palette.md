@@ -112,17 +112,23 @@ San'at'ta 2012 yılında yayınlanan bir profilde, Valikhodjaev'in erken dönem 
 
 ## İlk yılları tek bir üsluba indirgememek
 
-Sınırlı paleti o yıllardaki başka arayışlarla birlikte düşünmek gerekir. 1991 tarihli Melek’te dikkat oturan bir kadının yüzüne ve ellerine yönelir; aynı yıl yaptığı Çığlık’ta ise koyu bir kütle ve keskin açık renk vurgular öne çıkar. Bu eserler, her resimsel sorunun bağımsızlığını koruyarak erken dönem tablosunu genişletir. Pazar resimlerine, RED’e ve soyutlamaya yönelişi, kesinleşmiş bir üslubu diğeriyle değiştirmekten çok sanatçının süren merakı üzerinden okumak daha yerindedir.
+Sınırlı paleti o yıllardaki başka arayışlarla birlikte düşünmek gerekir. 1993 tarihli Melek’te dikkat oturan bir kadının yüzüne ve ellerine yönelir; 1991 tarihli Çığlık’ta ise koyu bir kütle ve keskin açık renk vurgular öne çıkar. Bu eserler, her resimsel sorunun bağımsızlığını koruyarak erken dönem tablosunu genişletir. Pazar resimlerine, RED’e ve soyutlamaya yönelişi, kesinleşmiş bir üslubu diğeriyle değiştirmekten çok sanatçının süren merakı üzerinden okumak daha yerindedir.
 
-[“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[“Melek”, 1993. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+“Melek”, 1993. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
 
 [“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 “Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.
 
 [Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
+
+## Üretim, karşılaşmalar ve resimlerin yaşamı
+
+[Sınırlı bir paletle yapılmış resimleri inceleyen bir izleyici. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Sınırlı bir paletle yapılmış resimleri inceleyen bir izleyici. Sanatçının arşivi.
 
 ## Atölyede, sergiden önce ve sonra
 

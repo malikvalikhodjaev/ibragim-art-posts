@@ -121,6 +121,20 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
 
+## 创作、相遇与画作的生命
+
+[伊布拉吉姆·瓦利霍贾耶夫以乌兹别克斯坦艺术家联盟主席身份出席工作会议。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫以乌兹别克斯坦艺术家联盟主席身份出席工作会议。 艺术家档案。
+
+[伊布拉吉姆·瓦利霍贾耶夫与阿里·克勒奇。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫与阿里·克勒奇。 艺术家档案。
+
+[与雕塑创作交流活动的参与者会面。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+与雕塑创作交流活动的参与者会面。 艺术家档案。
+
 ## 展览工作视频
 
 这两段档案视频呈现艺术家参与展览筹备及巡视展厅的情景。展览名称、地点和拍摄日期目前尚未确定。

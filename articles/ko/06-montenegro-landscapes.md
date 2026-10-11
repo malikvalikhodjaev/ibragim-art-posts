@@ -108,6 +108,16 @@ Valikhodjaev Gallery House
 
 [이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
+## 제작, 만남, 그리고 그림의 여정
+
+[전시된 몬테네그로 풍경화. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrTM2WzKIRkoAN_waU_rLNmcyumc2usFGew6Y-MBpTwPLcnw4QkPv3_LrfxYxtQByUuYhNrJju9Cy1Yy6WAwQ6K2zmCXvuHeONYb4LCB-tku7pw8OmST-ftWaT5w94QOoxTeSKH2ydiBZ3k10D9qOXHnVZXd7-klGd4q68Zpfc7pbIbio7Szfhn5kJ13L/w1200-rj/clipboard.png>)
+
+전시된 몬테네그로 풍경화. 화가의 아카이브.
+
+[전시실의 바다 풍경화. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3wR6xRAhJOmvVch5bLMLW-iG_XzMdoKUsIlWxYoHMJQ548uYoMiHDmoBytIREkyV6ZtJGzCsgedEWa4QgaiUg8lDwBuhxmqlNu_oOoqTmjnbZ8smEHzL6qIJoAgVI9psT7u5hLv0Dju036kq93t3VCLrZeEvZwbPfMIWsYCRXjJ2gd9tYNxtPTzr3tzg/w1200-rj/clipboard.png>)
+
+전시실의 바다 풍경화. 화가의 아카이브.
+
 ## 작가 소장 자료에서 선별한 작품 이미지
 
 [«바닷가에서», 2012. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7QPzAtB1zKp6PwFs76uWI8xGtZ5oyLR_juSm_zMqRhsf5hlGD9CdOpFPtwNRyhXjRPUmxN7nFrGd9Tkj350XZDq4ys5PK7qKNIOQz2jk10qxkgrgAC25-jQKdyiXcUQJ1WYONER6qR7d3QTChqjKWOallu5ZeGsnBePCy19LB_i-lyRk1SMl4TwMaNCd_/s1600/clipboard.png>)

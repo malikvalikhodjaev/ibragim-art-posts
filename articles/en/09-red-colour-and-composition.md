@@ -131,6 +131,16 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
+## Making, meeting and the life of paintings
+
+[A visitor looking at Red Horses. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+A visitor looking at Red Horses. Artist’s archive.
+
+[Visitors beside a pomegranate still life. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+Visitors beside a pomegranate still life. Artist’s archive.
+
 ## RED: painting before an audience
 
 Two photographs of the masterclass accompanying RED in Tashkent in 2017 bring the discussion of colour into practice. Visitors gather close to the easel and follow the sequence of actions. Speed is only one part of the demonstration: the silhouette, the extent of a colour patch and the intervals between forms become visible decisions.

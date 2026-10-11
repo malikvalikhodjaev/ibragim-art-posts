@@ -121,6 +121,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
 
+## יצירה, מפגשים וחיי הציורים
+
+[איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.
+
+[עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.
+
 ## להעביר ניסיון: כיתת אמן בשיאן
 
 בספטמבר 2025 הנחה וליחודז'אייב כיתת אמן לסטודנטים לציור באקדמיה לאמנויות יפות בשיאן, סין. הוא השתתף כאמן וכיו״ר איגוד האמנים של אוזבקיסטן בביקור שנערך ב־14–19 בספטמבר, במסגרת הקשורה לתוכנית CASIE ‘חגורה אחת, דרך אחת — מרכז אסיה’. היצירה, שהושלמה בשעה ועשרים דקות, נתרמה לאקדמיה. סרטון כיתת האמן שלהלן מאפשר לעקוב אחר התפתחות התמונה, מן הקווים הראשונים אל היחסים בין משטחי הצבע והקומפוזיציה המוגמרת.

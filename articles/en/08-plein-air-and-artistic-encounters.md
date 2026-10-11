@@ -114,6 +114,16 @@ The 2012 Montenegro trip offers a concrete example of Valikhodjaev’s working p
 
 [Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)
 
+## Making, meeting and the life of paintings
+
+[Children watch the artist at work outdoors. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Children watch the artist at work outdoors. Artist’s archive.
+
+[Drawing from life on a plein-air visit. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+Drawing from life on a plein-air visit. Artist’s archive.
+
 ## Reproductions from the artist’s archive
 
 [«Miraki Village. Road», 2013. Ibragim Valikhodjaev. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

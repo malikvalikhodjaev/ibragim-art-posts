@@ -97,13 +97,13 @@ Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
 Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
-## 1991: eine Suche in verschiedene Richtungen
+## Die frühen 1990er-Jahre: unterschiedliche Wege der künstlerischen Suche
 
-Die Gemälde von 1991 zeigen, wie vielfältig seine malerischen Fragestellungen schon gegen Ende des Studiums waren. In Engel gilt die Aufmerksamkeit einer sitzenden Frau, ihrem Gesicht, ihren Händen und ihrer hellen Kleidung. In Schrei entsteht das Bild aus einer großen dunklen Masse und scharf gesetzten hellen Akzenten. Die Beobachtung des einzelnen Menschen steht hier neben der Suche nach vereinfachter, symbolischer Form. Innerhalb dieser breiteren künstlerischen Erkundung werden sich auch die Basarbilder entwickeln.
+Seine Gemälde aus den frühen 1990er-Jahren zeigen die Vielfalt seiner ersten eigenständigen Erkundungen. In Engel gilt die Aufmerksamkeit einer sitzenden Frau, ihrem Gesicht, ihren Händen und ihrer hellen Kleidung. In Schrei entsteht das Bild aus einer großen dunklen Masse und scharf gesetzten hellen Akzenten. Die Beobachtung des einzelnen Menschen steht hier neben der Suche nach vereinfachter, symbolischer Form. Innerhalb dieser breiteren künstlerischen Erkundung werden sich auch die Basarbilder entwickeln.
 
-[„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[„Engel“, 1993. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+„Engel“, 1993. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
 
 [„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ Die Fassungen des Duppi-Basars von 2004 und 2006 führen diese Suche fort. Im er
 
 1993 gründete Valikhodjaev in Namangan den Galerie-Salon Tumor, die erste private Kunstgalerie Usbekistans, und leitete ihn bis 1999. Damit war er ein Pionier des privaten Galeriewesens im Land: Eine persönliche Initiative schuf einen Ort, an dem Werke außerhalb des etablierten staatlichen Ausstellungsbetriebs einem Publikum begegnen konnten.
 
-Von 1997 bis 1999 leitete er die Namanganer Zweigstellen des Künstlerverbands und des Kunstfonds. Die Sorge für seine Mutter, die eigene Malerei und die Organisation des Kunstlebens seiner Heimatstadt waren verschiedene Seiten dieser Zeit. Später zog er von Namangan nach Taschkent; seine Mutter war zu diesem Zeitpunkt bereits verstorben.
+Von 1997 bis 1999 leitete er die Namanganer Zweigstellen des Künstlerverbands und des Kunstfonds. Die Sorge für seine Mutter, die eigene Malerei und die Organisation des Kunstlebens seiner Heimatstadt waren verschiedene Seiten dieser Zeit. Später zog er von Namangan nach Taschkent; zu diesem Zeitpunkt hatte er bereits den Verlust seiner Mutter erlebt.
 
 In der Hauptstadt erhielten seine Aufgaben landesweite Bedeutung. Von 1999 bis 2005 leitete er den Sonderfonds der Kunstakademie Usbekistans, von 1999 bis 2012 den Kunstfonds der Republik Usbekistan. Das Archivfoto von 2002 gehört in die Zeit seiner Leitung des Sonderfonds. Diese Ämter ergänzten die Laufbahn des Malers um organisatorische Verantwortung.
 
@@ -180,6 +180,26 @@ Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv d
 [Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.
+
+## Arbeit, Begegnungen und das Leben der Bilder
+
+[Kinder beobachten den Künstler bei der Arbeit im Freien. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Kinder beobachten den Künstler bei der Arbeit im Freien. Archiv des Künstlers.
+
+[Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.
+
+[Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.
+
+[Ibragim Valikhodjaev bei einer Arbeitssitzung als Vorsitzender des Künstlerverbands Usbekistans. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev bei einer Arbeitssitzung als Vorsitzender des Künstlerverbands Usbekistans. Archiv des Künstlers.
+
+[Video zur Ausstellungsvorbereitung: Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Farbe wird zum Gegenstand der Forschung
 

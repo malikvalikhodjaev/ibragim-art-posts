@@ -114,17 +114,23 @@ Valikhodjaev Gallery House
 
 ## سال‌های نخست به یک سبک محدود نمی‌شوند
 
-پالت آرام را باید در کنار جست‌وجوهای دیگر آن سال‌ها دید. در «فرشته» سال ۱۹۹۱ توجه بر زن نشسته، چهره و دست‌های او متمرکز است؛ در «فریاد» همان سال، توده‌ای تیره و تأکیدهای روشن و تند نقش مهمی دارند. این آثار تصویر ما از سال‌های نخست را گسترده‌تر می‌کنند و استقلال هر مسئلهٔ نقاشانه را حفظ می‌کنند. بنابراین حرکت به سوی تابلوهای بازار، RED و انتزاع را بهتر است تداوم کنجکاوی بدانیم، نه جایگزینی یک سبک قطعی با سبکی دیگر.
+پالت آرام را باید در کنار جست‌وجوهای دیگر آن سال‌ها دید. در «فرشته» سال ۱۹۹۳ توجه بر زن نشسته، چهره و دست‌های او متمرکز است؛ در «فریاد» سال ۱۹۹۱، توده‌ای تیره و تأکیدهای روشن و تند نقش مهمی دارند. این آثار تصویر ما از سال‌های نخست را گسترده‌تر می‌کنند و استقلال هر مسئلهٔ نقاشانه را حفظ می‌کنند. بنابراین حرکت به سوی تابلوهای بازار، RED و انتزاع را بهتر است تداوم کنجکاوی بدانیم، نه جایگزینی یک سبک قطعی با سبکی دیگر.
 
-[«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«فرشته», 1993. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+«فرشته», 1993. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 
 [«فریاد», 1991. 110 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «فریاد», 1991. 110 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 
 [ادامهٔ مطلب: زندگی و مسیر هنری هنرمند](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
+
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[تماشای تابلوهایی با پالت رنگی آرام. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+تماشای تابلوهایی با پالت رنگی آرام. از آرشیو هنرمند.
 
 ## در آتلیه، پیش و پس از نمایشگاه
 

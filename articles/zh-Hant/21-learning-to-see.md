@@ -97,13 +97,13 @@ edition_date: "2026-10-11"
 
 年輕時的藝術家與自己的作品。 藝術家檔案。
 
-## 1991年：向不同方向展開的探索
+## 1990年代初：不同方向的探索
 
-1991年的作品顯示，在學業接近尾聲時，他關注的繪畫問題已經十分多樣。《天使》將視線引向一位坐著的女子、她的面容、雙手和淺色衣服；《吶喊》則以大塊深色形體與鮮明的淺色點綴構成畫面。對具體人物的觀察，與對概括性、象徵性形態的探索在這裡並存。巴扎題材將在這一更廣闊的藝術探索中發展。
+20世紀90年代初的作品，展現出他最初獨立探索的多樣性。《天使》將視線引向一位坐著的女子、她的面容、雙手和淺色衣服；《吶喊》則以大塊深色形體與鮮明的淺色點綴構成畫面。對具體人物的觀察，與對概括性、象徵性形態的探索在這裡並存。巴扎題材將在這一更廣闊的藝術探索中發展。
 
-[《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[《天使》, 1993. 100 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。
+《天使》, 1993. 100 × 100 公分. 複製圖像來自藝術家檔案。
 
 [《吶喊》, 1991. 110 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ edition_date: "2026-10-11"
 
 1993年，瓦利霍賈耶夫在納曼干創辦圖莫爾畫廊沙龍，這是烏茲別克第一家私人藝術畫廊，他負責經營至1999年。這使他成為該國私人畫廊事業的先行者：個人發起的空間，讓作品能夠在傳統國營展覽場所之外與觀眾相遇。
 
-1997至1999年，他擔任藝術家聯盟及藝術基金納曼干分部的負責人。照顧母親、創作繪畫以及組織家鄉的藝術生活，是這一時期的不同側面。後來他從納曼干遷居塔什干，彼時母親已經去世。
+1997至1999年，他擔任藝術家聯盟及藝術基金納曼干分部的負責人。照顧母親、創作繪畫以及組織家鄉的藝術生活，是這一時期的不同側面。後來他從納曼干遷居塔什干，那時，他已歷經失去母親的悲痛。
 
 在首都，他的職責擴展至全國層面。他於1999至2005年領導烏茲別克藝術科學院特別基金，於1999至2012年領導烏茲別克共和國藝術基金。標註2002年的檔案照片屬於他負責特別基金的時期。這些職務為畫家的職業生涯增添了組織工作的責任。
 
@@ -180,6 +180,26 @@ edition_date: "2026-10-11"
 [戶外寫生途中：院落與鄉村建築。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 戶外寫生途中：院落與鄉村建築。 藝術家檔案。
+
+## 創作、相遇與畫作的生命
+
+[孩子們圍觀藝術家的戶外創作。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+孩子們圍觀藝術家的戶外創作。 藝術家檔案。
+
+[伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫與演員梅利斯·阿布扎洛夫在畫室。 藝術家檔案。
+
+[在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+在畫室創作梅利斯·阿布扎洛夫的肖像。 藝術家檔案。
+
+[伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫以烏茲別克藝術家聯盟主席身分出席工作會議。 藝術家檔案。
+
+[展覽籌備錄影：以烏茲別克藝術家聯盟主席身分參與工作的伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## 色彩成為研究對象
 

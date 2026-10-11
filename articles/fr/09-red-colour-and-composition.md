@@ -131,6 +131,16 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
 
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Une visiteuse devant Chevaux rouges. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+Une visiteuse devant Chevaux rouges. Archives de l’artiste.
+
+[Des visiteurs auprès d’une nature morte aux grenades. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+Des visiteurs auprès d’une nature morte aux grenades. Archives de l’artiste.
+
 ## RED : peindre devant le public
 
 Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 donnent une dimension pratique à la réflexion sur la couleur. Le public se tient près du chevalet et suit les gestes. La rapidité ne suffit pas à expliquer le travail : silhouette, étendue d’une plage colorée et intervalles entre les formes deviennent des décisions visibles.

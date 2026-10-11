@@ -131,6 +131,16 @@ Il bazar attirò Valikhodjaev negli ultimi anni di studio e divenne il tema del 
 
 [Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
+## Creazione, incontri e vita dei dipinti
+
+[Visitatori davanti a una composizione del bazar con molte figure. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKEV_9cvEvrHC3KTFmNW-5yioLUcHhaXG6kDI1tb2-B9m4ff58mU6s65QvUAKxXgj8xNQoiCmzP-AfYBOxman8XGonXRzS8bn5EghZVyAKkTd7nfDn73dpHkaI8udsUkdFN7_I_8CEj7tfTXfbGynBRUXVOFBAMWvDvY-p7PNg9Ye6kOfB_FHEgouELFb/w1200-rj/clipboard.png>)
+
+Visitatori davanti a una composizione del bazar con molte figure. Archivio dell’artista.
+
+[Visitatori osservano una scena del bazar. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiCynJQeKUfHTD2H4hWdiCZ9_E1U-7As-WNSdusWFlNDg32oRvtD6Muwh39hSHBu4zETApoNLzQHlnHaCtP2xmms_jsHhTeSanU-0FwPlx8A3LrqA_cSpSP5hklIXdU0w_7yqe_eTv_m2VHgHeWovLMqm5gtKnxjECeQBajmi-f5Y8R23402IgWbqKnIv/w1200-rj/clipboard.png>)
+
+Visitatori osservano una scena del bazar. Archivio dell’artista.
+
 ## Riproduzioni dall’archivio dell’artista
 
 [«Mercato delle culle», 2002. Ibragim Valikhodjaev. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)

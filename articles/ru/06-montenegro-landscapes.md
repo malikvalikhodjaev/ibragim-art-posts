@@ -115,3 +115,13 @@ Valikhodjaev Gallery House
 По семейным воспоминаниям, из поездки в Черногорию в 2012 году художник привёз 42 картины, созданные за 21 день. Затем последовала выставка «21 день в Монтенегро» в Ташкенте, с 28 июня по 13 июля 2012 года. Этот эпизод делает ощутимой его продуктивность: работа продолжалась ежедневно, а смена мотивов давала новые задачи. Показанные здесь виды Пераста помогают увидеть содержание этой интенсивной практики — разные способы соединить воду, архитектуру и даль в цельную композицию.
 
 [Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
+
+## Работа, встречи и жизнь картин
+
+[Пейзажи Черногории в экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIrTM2WzKIRkoAN_waU_rLNmcyumc2usFGew6Y-MBpTwPLcnw4QkPv3_LrfxYxtQByUuYhNrJju9Cy1Yy6WAwQ6K2zmCXvuHeONYb4LCB-tku7pw8OmST-ftWaT5w94QOoxTeSKH2ydiBZ3k10D9qOXHnVZXd7-klGd4q68Zpfc7pbIbio7Szfhn5kJ13L/w1200-rj/clipboard.png>)
+
+Пейзажи Черногории в экспозиции. Архив художника.
+
+[Морские пейзажи в выставочном зале. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3wR6xRAhJOmvVch5bLMLW-iG_XzMdoKUsIlWxYoHMJQ548uYoMiHDmoBytIREkyV6ZtJGzCsgedEWa4QgaiUg8lDwBuhxmqlNu_oOoqTmjnbZ8smEHzL6qIJoAgVI9psT7u5hLv0Dju036kq93t3VCLrZeEvZwbPfMIWsYCRXjJ2gd9tYNxtPTzr3tzg/w1200-rj/clipboard.png>)
+
+Морские пейзажи в выставочном зале. Архив художника.

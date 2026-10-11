@@ -97,13 +97,13 @@ Il giovane artista fra le sue opere. Archivio dell’artista.
 
 Il giovane artista fra le sue opere. Archivio dell’artista.
 
-## 1991: una ricerca che si apre in più direzioni
+## I primi anni Novanta: diverse strade di ricerca
 
-I dipinti del 1991 rivelano quanto fossero già diversi i suoi interessi verso la fine degli studi. Nell’Angelo l’attenzione si concentra su una donna seduta, sul volto, sulle mani e sull’abito chiaro. Nel Grido l’immagine prende forma attraverso una grande massa scura e netti accenti luminosi. Queste opere affiancano l’osservazione della persona alla ricerca di una forma sintetica e simbolica. I dipinti del bazar si svilupperanno all’interno di questa esplorazione più ampia.
+I dipinti dei primi anni Novanta rivelano la varietà delle sue prime ricerche indipendenti. Nell’Angelo l’attenzione si concentra su una donna seduta, sul volto, sulle mani e sull’abito chiaro. Nel Grido l’immagine prende forma attraverso una grande massa scura e netti accenti luminosi. Queste opere affiancano l’osservazione della persona alla ricerca di una forma sintetica e simbolica. I dipinti del bazar si svilupperanno all’interno di questa esplorazione più ampia.
 
-[«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Angelo», 1993. 100 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.
+«Angelo», 1993. 100 × 100 cm. Riproduzione dall’archivio dell’artista.
 
 [«Grido», 1991. 110 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -141,7 +141,7 @@ Le versioni del Mercato dei doppi del 2004 e del 2006 proseguono questa ricerca.
 
 Nel 1993 Valikhodjaev fondò a Namangan la galleria-salone Tumor, prima galleria d’arte privata dell’Uzbekistan, che diresse fino al 1999. Fu un pioniere dell’attività delle gallerie private nel paese: un’iniziativa personale creava uno spazio d’incontro tra opere e pubblico al di fuori del sistema consolidato delle sedi espositive statali.
 
-Dal 1997 al 1999 presiedette le sezioni di Namangan dell’Unione degli artisti e del Fondo artistico. La cura della madre, la pittura e l’organizzazione della vita artistica della città natale furono aspetti diversi di quel periodo. In seguito si trasferì da Namangan a Tashkent; sua madre era già morta.
+Dal 1997 al 1999 presiedette le sezioni di Namangan dell’Unione degli artisti e del Fondo artistico. La cura della madre, la pittura e l’organizzazione della vita artistica della città natale furono aspetti diversi di quel periodo. In seguito si trasferì da Namangan a Tashkent; aveva già vissuto la perdita della madre.
 
 Nella capitale le sue responsabilità assunsero una dimensione nazionale. Presiedette il Fondo speciale dell’Accademia delle arti dell’Uzbekistan dal 1999 al 2005 e il Fondo artistico della Repubblica dell’Uzbekistan dal 1999 al 2012. La fotografia d’archivio del 2002 appartiene al periodo del Fondo speciale. Questi incarichi aggiungevano responsabilità organizzative alla carriera del pittore.
 
@@ -180,6 +180,26 @@ Uscita di lavoro dal vero: una strada di villaggio e le montagne. Archivio dell�
 [Lavoro dal vero: un cortile e costruzioni rurali. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 Lavoro dal vero: un cortile e costruzioni rurali. Archivio dell’artista.
+
+## Creazione, incontri e vita dei dipinti
+
+[Bambini osservano l’artista al lavoro all’aperto. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Bambini osservano l’artista al lavoro all’aperto. Archivio dell’artista.
+
+[Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.
+
+[Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.
+
+[Ibragim Valikhodjaev a un incontro di lavoro come presidente dell’Unione degli artisti dell’Uzbekistan. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev a un incontro di lavoro come presidente dell’Unione degli artisti dell’Uzbekistan. Archivio dell’artista.
+
+[Video dei preparativi di una mostra: Ibragim Valikhodjaev, presidente dell’Unione degli artisti dell’Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## Il colore diventa oggetto di ricerca
 

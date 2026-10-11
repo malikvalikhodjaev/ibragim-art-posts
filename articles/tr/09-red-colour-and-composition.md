@@ -131,6 +131,16 @@ Eserleri incelerken, genel görünümden detaylara geçmek faydalıdır: önce a
 
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
+## Üretim, karşılaşmalar ve resimlerin yaşamı
+
+[Kırmızı Atlar’ı inceleyen bir ziyaretçi. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+Kırmızı Atlar’ı inceleyen bir ziyaretçi. Sanatçının arşivi.
+
+[Narlı natürmortun önünde ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+Narlı natürmortun önünde ziyaretçiler. Sanatçının arşivi.
+
 ## RED: izleyicilerin önünde resim yapmak
 
 2017’de Taşkent’te RED sergisine eşlik eden uygulamalı çalışmanın iki fotoğrafı, renk üzerine düşünceyi pratiğe taşır. İzleyiciler şövaleye yaklaşarak hareketlerin sırasını takip eder. Yalnızca hız önemli değildir: siluet, renk lekesinin kapladığı alan ve biçimler arasındaki aralıklar görünür kararlara dönüşür.

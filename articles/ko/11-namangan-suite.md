@@ -131,6 +131,16 @@ Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에
 
 [이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
+## 제작, 만남, 그리고 그림의 여정
+
+[여러 인물을 담은 바자르 구성을 감상하는 관람객들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPKEV_9cvEvrHC3KTFmNW-5yioLUcHhaXG6kDI1tb2-B9m4ff58mU6s65QvUAKxXgj8xNQoiCmzP-AfYBOxman8XGonXRzS8bn5EghZVyAKkTd7nfDn73dpHkaI8udsUkdFN7_I_8CEj7tfTXfbGynBRUXVOFBAMWvDvY-p7PNg9Ye6kOfB_FHEgouELFb/w1200-rj/clipboard.png>)
+
+여러 인물을 담은 바자르 구성을 감상하는 관람객들. 화가의 아카이브.
+
+[바자르 장면을 바라보는 관람객들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPiCynJQeKUfHTD2H4hWdiCZ9_E1U-7As-WNSdusWFlNDg32oRvtD6Muwh39hSHBu4zETApoNLzQHlnHaCtP2xmms_jsHhTeSanU-0FwPlx8A3LrqA_cSpSP5hklIXdU0w_7yqe_eTv_m2VHgHeWovLMqm5gtKnxjECeQBajmi-f5Y8R23402IgWbqKnIv/w1200-rj/clipboard.png>)
+
+바자르 장면을 바라보는 관람객들. 화가의 아카이브.
+
 ## 작가 소장 자료에서 선별한 작품 이미지
 
 [«요람 시장», 2002. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NiDwi17JEs2v3nbfoji0cf6bESOabYH138nJJiLh65OzY8kBOuXxuiCltvkaVnNtWvO1GKX05tLb3Ca3Jv9Khbt-D-OQVlzDwO8h6Cy_Ejzudoq42cS1c11RJ-Zx4zMFkn-H_CTlzFBCj1Sk8GR-DnvVc1nM8C6ZeuI9RUl9RmRbDXQr5juCQ9LQvG30/s1600/clipboard.png>)

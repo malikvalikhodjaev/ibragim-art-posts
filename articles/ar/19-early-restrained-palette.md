@@ -114,17 +114,23 @@ edition_date: "2026-10-11"
 
 ## البدايات لا تختزل في أسلوب واحد
 
-ينبغي النظر إلى الألوان المتحفظة بجوار التجارب الأخرى في تلك السنوات. في «الملاك» عام 1991 يتجه الانتباه إلى امرأة جالسة ووجهها ويديها؛ وفي «الصرخة» من العام نفسه تؤدي كتلة داكنة ولمسات فاتحة حادة دورًا كبيرًا. توسع هذه الأعمال صورة البدايات، مع الحفاظ على استقلال كل مسألة تشكيلية. لذلك تبدو الحركة نحو لوحات البازار وRED والتجريد استمرارًا للفضول، أكثر من كونها استبدال أسلوب نهائي بآخر.
+ينبغي النظر إلى الألوان المتحفظة بجوار التجارب الأخرى في تلك السنوات. في «الملاك» عام 1993 يتجه الانتباه إلى امرأة جالسة ووجهها ويديها؛ وفي «الصرخة» المؤرخة عام 1991 تؤدي كتلة داكنة ولمسات فاتحة حادة دورًا كبيرًا. توسع هذه الأعمال صورة البدايات، مع الحفاظ على استقلال كل مسألة تشكيلية. لذلك تبدو الحركة نحو لوحات البازار وRED والتجريد استمرارًا للفضول، أكثر من كونها استبدال أسلوب نهائي بآخر.
 
-[«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«الملاك», 1993. 100 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.
+«الملاك», 1993. 100 × 100 سم. صورة للعمل من أرشيف الفنان.
 
 [«الصرخة», 1991. 110 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «الصرخة», 1991. 110 × 100 سم. صورة للعمل من أرشيف الفنان.
 
 [للمتابعة: حياة الفنان ومسيرته الفنية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>)
+
+## العمل واللقاءات وحياة اللوحات
+
+[زائر يتأمل لوحات ذات ألوان متحفظة. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+زائر يتأمل لوحات ذات ألوان متحفظة. من أرشيف الفنان.
 
 ## داخل المرسم: قبل المعرض وبعده
 

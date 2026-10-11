@@ -114,6 +114,16 @@ El viaje a Montenegro de 2012 ofrece un ejemplo concreto del ritmo de trabajo de
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Veintiún días en Montenegro: los paisajes costeros de Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)
 
+## Creación, encuentros y vida de los cuadros
+
+[Niños observan al artista trabajando al aire libre. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+Niños observan al artista trabajando al aire libre. Archivo del artista.
+
+[Dibujo del natural durante una sesión al aire libre. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+Dibujo del natural durante una sesión al aire libre. Archivo del artista.
+
 ## Reproducciones del archivo del artista
 
 [«Aldea de Miraki. Camino», 2013. Ibragim Valikhodjaev. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

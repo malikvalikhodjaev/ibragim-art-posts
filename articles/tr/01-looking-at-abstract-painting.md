@@ -111,3 +111,9 @@ Bu okuma, "burada ne tasvir ediliyor?" şeklindeki bilindik soruyu değiştiriyo
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Üretim, karşılaşmalar ve resimlerin yaşamı
+
+[New View: sergi salonunda soyut kompozisyonlar. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR6aSrlrjG_NyuEtWyzWFtfivnNzafG8_2TdWdS2RAqYl8vGqK3ajGLsCqC6VLvSffbh8qHmL_2UpVx3d6B1ujQLFcXdN16ctN48nZymjgXifQ2KQAFCmZIZ4xf7OJ_0_1Whgys_C-1L9YmTdyT7Lf0uswMdmMC6RnzuymNrTdfxCXWnITm7ponG9thhvG/w1200-rj/clipboard.png>)
+
+New View: sergi salonunda soyut kompozisyonlar. Sanatçının arşivi.

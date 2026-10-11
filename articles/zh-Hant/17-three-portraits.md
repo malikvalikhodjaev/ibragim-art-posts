@@ -107,3 +107,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 創作、相遇與畫作的生命
+
+[展覽中的肖像畫。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejL6rEDXBKE48hJaXFggIC4l9U-KmeT0JJxA6mqdvbLP-OFaAuJRZjX6n7-REgVfVB1m5sMBQrQ8eEuvuyfvcNxIKCa14MMQg3aHwu8xhXfOTNzgfi20GnEcSiaBEWxhLR2nirqnV4j7-ArFwNp4cfGv8k4brdeP6KVBFEYh4Xj2QzjVVoZJrNWDGmk75/w1200-rj/clipboard.png>)
+
+展覽中的肖像畫。 藝術家檔案。
+
+[展覽中的兩幅女性肖像。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI4c7PoihIHoaVv-0cpHt8lqQyDVqM7PShayi-TkX-1u8MoufsXqGhf9T7sHBKqC0qT0XiwR3pQifXkiokiF3NY-Tme30jcbNxsH1fHbp5AdEpi_ZQOn06Bsc9-PjeEeDpniRfgR5tiYLIF0SLBRr7ywTlV51G8j0o9MDeR4HK6ZAvParJnv7DN-LL-MN/w1200-rj/clipboard.png>)
+
+展覽中的兩幅女性肖像。 藝術家檔案。

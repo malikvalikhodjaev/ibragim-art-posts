@@ -121,6 +121,20 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
+## 制作、出会い、そして絵画の歩み
+
+[ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+ウズベキスタン芸術家連盟会長として会議に出席するイブラギム・ヴァリホジャエフ。 画家のアーカイブより。
+
+[イブラギム・ヴァリホジャエフとアリ・クルチ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+イブラギム・ヴァリホジャエフとアリ・クルチ。 画家のアーカイブより。
+
+[彫刻シンポジウムの参加者との交流。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+彫刻シンポジウムの参加者との交流。 画家のアーカイブより。
+
 ## 展覧会の仕事を映像で見る
 
 この2本の記録映像には、画家が展示の準備と見学に参加する様子が収められている。展覧会名、場所、撮影日は現時点では不明。

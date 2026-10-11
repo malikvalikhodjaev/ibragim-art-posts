@@ -121,6 +121,20 @@ Son expérience de fondateur commence bien avant Gallery House. En 1987, Valikho
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Ibragim Valikhodjaev à une réunion de travail en qualité de président de l’Union des artistes d’Ouzbékistan. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev à une réunion de travail en qualité de président de l’Union des artistes d’Ouzbékistan. Archives de l’artiste.
+
+[Ibragim Valikhodjaev et Ali Kılıç. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+Ibragim Valikhodjaev et Ali Kılıç. Archives de l’artiste.
+
+[Rencontre avec les participants d’un symposium de sculpture. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+Rencontre avec les participants d’un symposium de sculpture. Archives de l’artiste.
+
 ## Le travail d’exposition en vidéo
 
 Ces deux vidéos d’archives montrent la participation de l’artiste à la préparation et à la visite d’une exposition. Son titre, son lieu et la date du tournage restent à préciser.

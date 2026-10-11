@@ -114,6 +114,16 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 
 [이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>) · [몬테네그로의 21일 — 발리호자예프가 그린 해안 도시](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html>)
 
+## 제작, 만남, 그리고 그림의 여정
+
+[야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.
+
+[야외에서 관찰하며 그리는 소묘. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+야외에서 관찰하며 그리는 소묘. 화가의 아카이브.
+
 ## 작가 소장 자료에서 선별한 작품 이미지
 
 [«미라키 마을의 길», 2013. 이브라김 발리호자예프. 작가 소장 자료의 작품 이미지.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

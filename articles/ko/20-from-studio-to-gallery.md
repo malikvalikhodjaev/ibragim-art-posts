@@ -121,6 +121,20 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 [이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
+## 제작, 만남, 그리고 그림의 여정
+
+[우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+우즈베키스탄 예술가연맹 회장으로 업무 회의에 참석한 이브라김 발리호자예프. 화가의 아카이브.
+
+[이브라김 발리호자예프와 알리 클르츠. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQv0AGrgloTOFvEar23J072EM7sTS6UAjANOEXH31aeVEviMBStaxwlfX0Cms6W9zMWjnG1TjqgdCSpEDakUP_GBqk-BawqNEvNInn2bKHqXhMHJ8pO4K_5D7ZK9XKgLXVJ0w_hyphenhyphengdUMJuChlwXM0hhZsN3WfyyT0kd4fA3LMJxvFDRbXpn7oJsy5fFXV/w1200-rj/clipboard.png>)
+
+이브라김 발리호자예프와 알리 클르츠. 화가의 아카이브.
+
+[조각 심포지엄 참가자들과의 만남. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC1tPbxOoeD_3m7WnAClNrJU2TqGSWz4IwhMGw9vDp6pmMyVFXNCJLe2gDfU6AOOGvq7Nub-PvVdzjHDfMEvkZhIY_CZbMIsK90KijX7lQ5kkNggjQFY3t9FmmBDnsWkaPyGMw8ntB11b9PJrGKpuXZKRB0i90GBLOH1Pu6kOXDrCi0ckq84KIptB2GVM/w1200-rj/clipboard.png>)
+
+조각 심포지엄 참가자들과의 만남. 화가의 아카이브.
+
 ## 영상으로 보는 전시 활동
 
 이 두 기록 영상은 작가가 전시 준비와 관람에 참여하는 모습을 보여 준다. 전시명, 장소와 촬영 날짜는 아직 확인되지 않았다.

@@ -99,13 +99,13 @@ edition_date: "2026-10-11"
 
 هنرمند جوان در میان آثارش. آرشیو هنرمند.
 
-## ۱۹۹۱: جست‌وجویی در مسیرهای گوناگون
+## اوایل دههٔ ۱۹۹۰: مسیرهای گوناگون جست‌وجوی هنری
 
-آثار سال ۱۹۹۱ نشان می‌دهند که حتی در پایان دوران تحصیل، دغدغه‌های نقاشانهٔ او تا چه اندازه متنوع بوده‌اند. در «فرشته»، نگاه بر زنی نشسته، چهره، دست‌ها و لباس روشن او متمرکز می‌شود. در «فریاد»، توده‌ای بزرگ و تیره و تأکیدهای روشن و تند تصویر را می‌سازند. مشاهدهٔ انسان در کنار جست‌وجوی فرمی ساده‌شده و نمادین قرار می‌گیرد. نقاشی‌های بازار نیز در دل این کاوش هنری گسترده‌تر رشد خواهند کرد.
+آثار او در اوایل دههٔ ۱۹۹۰، تنوع نخستین جست‌وجوهای مستقلش را نشان می‌دهند. در «فرشته»، نگاه بر زنی نشسته، چهره، دست‌ها و لباس روشن او متمرکز می‌شود. در «فریاد»، توده‌ای بزرگ و تیره و تأکیدهای روشن و تند تصویر را می‌سازند. مشاهدهٔ انسان در کنار جست‌وجوی فرمی ساده‌شده و نمادین قرار می‌گیرد. نقاشی‌های بازار نیز در دل این کاوش هنری گسترده‌تر رشد خواهند کرد.
 
-[«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«فرشته», 1993. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+«فرشته», 1993. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 
 [«فریاد», 1991. 110 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
@@ -143,7 +143,7 @@ edition_date: "2026-10-11"
 
 ولی‌خوجایف در سال ۱۹۹۳ گالری‌ـ‌سالن تومور را در نمنگان تأسیس کرد؛ نخستین گالری هنری خصوصی ازبکستان که تا ۱۹۹۹ اداره‌اش می‌کرد. او از پیشگامان گالری‌داری خصوصی در کشور بود: ابتکاری شخصی فضایی برای دیدار آثار و مخاطبان، بیرون از شبکهٔ معمول نمایشگاه‌های دولتی، ایجاد کرد.
 
-در سال‌های ۱۹۹۷ تا ۱۹۹۹ ریاست شعبه‌های نمنگانِ اتحادیهٔ هنرمندان و صندوق هنر را بر عهده داشت. مراقبت از مادر، نقاشی و سازمان‌دهی زندگی هنری زادگاهش جنبه‌های مختلف این دوره بودند. بعدها از نمنگان به تاشکند رفت؛ مادرش تا آن زمان درگذشته بود.
+در سال‌های ۱۹۹۷ تا ۱۹۹۹ ریاست شعبه‌های نمنگانِ اتحادیهٔ هنرمندان و صندوق هنر را بر عهده داشت. مراقبت از مادر، نقاشی و سازمان‌دهی زندگی هنری زادگاهش جنبه‌های مختلف این دوره بودند. بعدها از نمنگان به تاشکند رفت؛ تا آن زمان، سوگ از دست دادن مادر را تجربه کرده بود.
 
 در پایتخت، مسئولیت‌هایش ابعاد ملی پیدا کرد. در سال‌های ۱۹۹۹ تا ۲۰۰۵ رئیس صندوق ویژهٔ آکادمی هنرهای ازبکستان و در سال‌های ۱۹۹۹ تا ۲۰۱۲ رئیس صندوق هنر جمهوری ازبکستان بود. عکس آرشیویِ سال ۲۰۰۲ متعلق به دورهٔ مدیریت صندوق ویژه است. این سمت‌ها مسئولیت سازمان‌دهی را به کارنامهٔ نقاش افزودند.
 
@@ -182,6 +182,26 @@ edition_date: "2026-10-11"
 [در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZ30F3ZN3W-4Dr_HAJblAzYwWK6Q1UHUcmikTgpHQSSmT78ea980G5UrgzBieCDwN_7WtLpW-uWfLZELLY0waEpD5ENI_fN8de8lYozXcDWvXP1jl88PMWxiyrTCXFk0Z9EAWTT2ypTfLNz4PyME90wfSmwl828XDrtOThvjwskvxzPVbta97gVzkOaxy/s1600/clipboard.png>)
 
 در سفر برای نقاشی از طبیعت: حیاط و بناهای روستایی. آرشیو هنرمند.
+
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[کودکان کار هنرمند را در فضای باز تماشا می‌کنند. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+کودکان کار هنرمند را در فضای باز تماشا می‌کنند. از آرشیو هنرمند.
+
+[ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+
+ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+
+[کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+
+کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+
+[ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
+
+ابراهیم ولی‌خوجایف در جلسهٔ کاری، در مقام رئیس اتحادیهٔ هنرمندان ازبکستان. از آرشیو هنرمند.
+
+[ویدئوی آماده‌سازی نمایشگاه: ابراهیم ولی‌خوجایف در مقام رئیس اتحادیهٔ هنرمندان ازبکستان](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
 ## رنگ موضوع تحقیق می‌شود
 

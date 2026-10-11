@@ -116,6 +116,16 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [עשרים ואחד ימים במונטנגרו: נופי החוף של וליכודג'ייב](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_427.html>)
 
+## יצירה, מפגשים וחיי הציורים
+
+[ילדים צופים באמן בעבודתו בחוץ. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+ילדים צופים באמן בעבודתו בחוץ. ארכיון האמן.
+
+[רישום מהתבוננות בעבודה בחוץ. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+רישום מהתבוננות בעבודה בחוץ. ארכיון האמן.
+
 ## תצלומי יצירות מארכיון האמן
 
 [«הכפר מיראקי: הדרך», 2013. איברגים וליחודז'אייב. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

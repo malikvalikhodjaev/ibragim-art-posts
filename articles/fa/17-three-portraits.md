@@ -110,5 +110,15 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[پرتره‌ها در نمایشگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejL6rEDXBKE48hJaXFggIC4l9U-KmeT0JJxA6mqdvbLP-OFaAuJRZjX6n7-REgVfVB1m5sMBQrQ8eEuvuyfvcNxIKCa14MMQg3aHwu8xhXfOTNzgfi20GnEcSiaBEWxhLR2nirqnV4j7-ArFwNp4cfGv8k4brdeP6KVBFEYh4Xj2QzjVVoZJrNWDGmk75/w1200-rj/clipboard.png>)
+
+پرتره‌ها در نمایشگاه. از آرشیو هنرمند.
+
+[دو پرترهٔ زنان در نمایشگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI4c7PoihIHoaVv-0cpHt8lqQyDVqM7PShayi-TkX-1u8MoufsXqGhf9T7sHBKqC0qT0XiwR3pQifXkiokiF3NY-Tme30jcbNxsH1fHbp5AdEpi_ZQOn06Bsc9-PjeEeDpniRfgR5tiYLIF0SLBRr7ywTlV51G8j0o9MDeR4HK6ZAvParJnv7DN-LL-MN/w1200-rj/clipboard.png>)
+
+دو پرترهٔ زنان در نمایشگاه. از آرشیو هنرمند.
+
 
 </div>

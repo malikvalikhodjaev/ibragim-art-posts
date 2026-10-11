@@ -131,6 +131,16 @@ RED는 붉은색에 대한 열정적인 탐구와 관련이 있다. 발리호자
 
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
+## 제작, 만남, 그리고 그림의 여정
+
+[《붉은 말》을 감상하는 관람객. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+《붉은 말》을 감상하는 관람객. 화가의 아카이브.
+
+[석류 정물화 앞의 관람객들. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+석류 정물화 앞의 관람객들. 화가의 아카이브.
+
 ## RED: 관객 앞에서 그리기
 
 2017년 타슈켄트 RED 전시에 동반된 시연 사진 두 장은 색채에 대한 이야기를 실제 작업으로 옮긴다. 관객은 이젤 가까이에서 동작의 순서를 지켜본다. 중요한 것은 속도만이 아니다. 윤곽, 색면의 크기, 형태 사이의 간격이 눈에 보이는 선택이 된다.

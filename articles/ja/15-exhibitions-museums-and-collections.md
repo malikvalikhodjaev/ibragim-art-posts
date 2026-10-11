@@ -110,6 +110,12 @@ Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプシ
 
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
+## 制作、出会い、そして絵画の歩み
+
+[抑えた色調の絵画を鑑賞する来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+抑えた色調の絵画を鑑賞する来場者。 画家のアーカイブより。
+
 [イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 2018年の展覧会「夢から運命へ」について](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
 イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)

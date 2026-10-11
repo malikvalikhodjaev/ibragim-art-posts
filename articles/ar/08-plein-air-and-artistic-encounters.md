@@ -116,6 +116,16 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [للمتابعة: حياة الفنان ومسيرته الفنية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [واحد وعشرون يومًا في الجبل الأسود: لوحات الساحل عند فاليخودجاييف](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_955.html>)
 
+## العمل واللقاءات وحياة اللوحات
+
+[أطفال يتابعون الفنان أثناء عمله في الهواء الطلق. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNr0teeaIT6y2RcCwWJx4llBNYh2RbEeygRvXIu2bc4Q2OQpE0dIDX_pDfOuXit_8Qt_o3FlmQmJ6reBIb39tqAtZqAhJldp-DcknziIUPdpwz-TPww-NlAAZzU-l2OvA3FzDc6B8A0A9iqxSW8Fo6yJVIf-9REadSwtEtA2aP5Tfg0SurFTjsgPHkcQR9/w1200-rj/clipboard.png>)
+
+أطفال يتابعون الفنان أثناء عمله في الهواء الطلق. من أرشيف الفنان.
+
+[الرسم عن الطبيعة في الهواء الطلق. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXmhDD34rdBhpiGpjB_SDuC3GrCvY0YjNBFgg06q8UiykNTAgSjYSKjkY4JAFG0p3Xgtvklh1tjxTTKbMXGeimy5W6lhDgVrZdYbzFYz68mWd8DGq3LaQobf_8jVjTb48l7kaM4uEA-lQVUEQNkNuTL6oelnsLNIqwOdVjMVf6SrHW_9aSK7Bjf9yvs0Gs/w1200-rj/clipboard.png>)
+
+الرسم عن الطبيعة في الهواء الطلق. من أرشيف الفنان.
+
 ## صور الأعمال من أرشيف الفنان
 
 [«قرية ميراكي: الطريق», 2013. إبراهيم فاليخوجاييف. صورة العمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsnz4poUW4qW0DGC-8ziVbTs-KwW4MZQZ45fP5Z_vDQABQEpiIjjzNe5i0NJ6NF8V9WYTBBupE9YBrRqmGfelsBpD0gkHr-glu51-L-wj4aPdHRG2uMqKzqpYOrJ1opSMK9n3trlE6bc2Rc82i0RtVLBGDTiFoheWqNWvg0aSglzqO0rEj67YxikDjocq/s1600/clipboard.png>)

@@ -112,17 +112,23 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 
 ## Die frühen Jahre ergeben keinen einheitlichen Stil
 
-Die zurückhaltende Palette sollte neben anderen Erkundungen jener Jahre betrachtet werden. In Engel von 1991 richtet sich die Aufmerksamkeit auf eine sitzende Frau, ihr Gesicht und ihre Hände; in Schrei aus demselben Jahr spielen eine dunkle Masse und scharfe helle Akzente eine wesentliche Rolle. Diese Werke erweitern den Blick auf die Anfänge und bewahren die Eigenständigkeit jeder bildnerischen Aufgabe. Der Weg zu den Basargemälden, RED und der Abstraktion lässt sich daher eher als fortgesetzte Neugier verstehen denn als Austausch eines endgültig gefundenen Stils gegen einen anderen.
+Die zurückhaltende Palette sollte neben anderen Erkundungen jener Jahre betrachtet werden. In Engel von 1993 richtet sich die Aufmerksamkeit auf eine sitzende Frau, ihr Gesicht und ihre Hände; in Schrei von 1991 spielen eine dunkle Masse und scharfe helle Akzente eine wesentliche Rolle. Diese Werke erweitern den Blick auf die Anfänge und bewahren die Eigenständigkeit jeder bildnerischen Aufgabe. Der Weg zu den Basargemälden, RED und der Abstraktion lässt sich daher eher als fortgesetzte Neugier verstehen denn als Austausch eines endgültig gefundenen Stils gegen einen anderen.
 
-[„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[„Engel“, 1993. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+„Engel“, 1993. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
 
 [„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 „Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
 
 [Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
+
+## Arbeit, Begegnungen und das Leben der Bilder
+
+[Ein Besucher vor Gemälden mit zurückhaltender Palette. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Ein Besucher vor Gemälden mit zurückhaltender Palette. Archiv des Künstlers.
 
 ## Im Atelier, vor und nach der Ausstellung
 

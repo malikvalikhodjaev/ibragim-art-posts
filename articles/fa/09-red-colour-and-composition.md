@@ -133,6 +133,16 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 مطالب مربوط به سرمقاله از Valikhodjaev Gallery House. منابع تصاویر در توضیحات ذکر شده است.
 
+## خلق اثر، دیدارها و زندگی تابلوها
+
+[بازدیدکننده‌ای در برابر «اسب‌های سرخ». از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+بازدیدکننده‌ای در برابر «اسب‌های سرخ». از آرشیو هنرمند.
+
+[بازدیدکنندگان کنار طبیعت بی‌جان با انارها. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+بازدیدکنندگان کنار طبیعت بی‌جان با انارها. از آرشیو هنرمند.
+
 ## RED: نقاشی در برابر تماشاگران
 
 دو عکس از کلاس عملی همراه نمایشگاه RED در تاشکند در 2017 میلادی، بحث رنگ را به عمل نزدیک می‌کنند. تماشاگران کنار سه‌پایه توالی حرکت‌ها را دنبال می‌کنند. فقط سرعت اهمیت ندارد؛ خطوط پیرامونی، وسعت لکهٔ رنگ و فاصلهٔ میان شکل‌ها به تصمیم‌های قابل دیدن تبدیل می‌شوند.

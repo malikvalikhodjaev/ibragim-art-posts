@@ -112,17 +112,23 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 
 ## Gli inizi non si risolvono in un unico stile
 
-La tavolozza contenuta va osservata accanto alle altre ricerche di quegli anni. Nell’Angelo del 1991 l’attenzione si concentra su una donna seduta, sul suo volto e sulle mani; nel Grido dello stesso anno hanno grande rilievo una massa scura e accenti chiari netti. Queste opere ampliano il quadro degli inizi, preservando l’autonomia di ogni problema pittorico. Il passaggio alle tele del bazar, a RED e all’astrazione si comprende quindi come prosecuzione della curiosità, più che come sostituzione di uno stile definitivo con un altro.
+La tavolozza contenuta va osservata accanto alle altre ricerche di quegli anni. Nell’Angelo del 1993 l’attenzione si concentra su una donna seduta, sul suo volto e sulle mani; nel Grido del 1991 hanno grande rilievo una massa scura e accenti chiari netti. Queste opere ampliano il quadro degli inizi, preservando l’autonomia di ogni problema pittorico. Il passaggio alle tele del bazar, a RED e all’astrazione si comprende quindi come prosecuzione della curiosità, più che come sostituzione di uno stile definitivo con un altro.
 
-[«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«Angelo», 1993. 100 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«Angelo», 1991. 100 × 100 cm. Riproduzione dall’archivio dell’artista.
+«Angelo», 1993. 100 × 100 cm. Riproduzione dall’archivio dell’artista.
 
 [«Grido», 1991. 110 × 100 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «Grido», 1991. 110 × 100 cm. Riproduzione dall’archivio dell’artista.
 
 [Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
+
+## Creazione, incontri e vita dei dipinti
+
+[Un visitatore davanti a dipinti dalla tavolozza contenuta. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Un visitatore davanti a dipinti dalla tavolozza contenuta. Archivio dell’artista.
 
 ## Nello studio, prima e dopo la mostra
 

@@ -129,5 +129,11 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## العمل واللقاءات وحياة اللوحات
+
+[لوحات طبيعة صامتة بالأزهار في قاعة العرض. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
+
+لوحات طبيعة صامتة بالأزهار في قاعة العرض. من أرشيف الفنان.
+
 
 </div>

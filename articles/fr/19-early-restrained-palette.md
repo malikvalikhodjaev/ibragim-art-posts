@@ -112,17 +112,23 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 
 ## Les premières années ne se résument pas à un seul style
 
-La palette retenue mérite d’être regardée à côté des autres recherches de ces années. Dans L’Ange de 1991, l’attention se porte sur une femme assise, son visage et ses mains ; dans Le Cri, peint la même année, une masse sombre et des accents clairs tranchés jouent un rôle majeur. Ces œuvres élargissent le regard sur les débuts, tout en préservant la singularité de chaque question picturale. L’évolution vers les scènes de bazar, RED et l’abstraction se comprend ainsi comme la poursuite de sa curiosité plutôt que comme l’échange d’un style définitif contre un autre.
+La palette retenue mérite d’être regardée à côté des autres recherches de ces années. Dans L’Ange de 1993, l’attention se porte sur une femme assise, son visage et ses mains ; dans Le Cri, peint en 1991, une masse sombre et des accents clairs tranchés jouent un rôle majeur. Ces œuvres élargissent le regard sur les débuts, tout en préservant la singularité de chaque question picturale. L’évolution vers les scènes de bazar, RED et l’abstraction se comprend ainsi comme la poursuite de sa curiosité plutôt que comme l’échange d’un style définitif contre un autre.
 
-[«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+[«L’Ange», 1993. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 
-«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
+«L’Ange», 1993. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
 
 [«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
 
 «Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
+
+## Créer, se rencontrer et faire vivre les tableaux
+
+[Un visiteur devant des tableaux à la palette retenue. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRhHkP312gMzXEjXkoQFpgXnWlrEseXx_eUkm2HjYZfKsHHXM1KkKlkj8b5ptc_fEMwKUp4IpxxLRRTOON6o0DWJtwxSvFDuzl-mfVlf55H8hu6BwhUAWXlMKjx8inX-KuNVSNp9Iwy_z-WiZR2N7IenPX1kHFvz5bHdcFoi9Q_rDaA-1dWRgIXKi4szCq/w1200-rj/clipboard.png>)
+
+Un visiteur devant des tableaux à la palette retenue. Archives de l’artiste.
 
 ## Dans l’atelier, avant et après l’exposition
 

@@ -131,6 +131,16 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini sono indicate nelle didascalie.
 
+## Creazione, incontri e vita dei dipinti
+
+[Una visitatrice davanti a Cavalli rossi. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM6IIq_sVx7dHmWVmpkzPlPdDNOSyblhrsGXewLAdcaVn7UTNLbhD6MUgR1qKeUDjPBIRBCysLKUY4wn3VWF5Uapv3KXTQrYKIu3xouI4aw4BqyKZZNH9KCu_fO3M50j2FKCtxaUZTu6ffeeA-vdFcJB_-56EsQixV8nIn6l01Gf4jMUBwerZMJaye9DVm/w1200-rj/clipboard.png>)
+
+Una visitatrice davanti a Cavalli rossi. Archivio dell’artista.
+
+[Visitatori accanto a una natura morta con melograni. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPzqPFMpfw0VYihfgSrBKp27B-puoF1I62JjRfGATDF04kcDMSVKdN0NqR_LGXwsH0CrueHWqTuWKTNDhwUymWcx-EZhXKNZ08Z23KsGUfrzA63ClTwpfsJLUJ0nXI3GR43P6cwRZa5ly4XDCP1ZSgfVFX24u0qq8EJU1Zk1edTHFVf5qH9LLhxBgu9X8w/w1200-rj/clipboard.png>)
+
+Visitatori accanto a una natura morta con melograni. Archivio dell’artista.
+
 ## RED: dipingere davanti al pubblico
 
 Due fotografie della masterclass che accompagnava RED a Tashkent nel 2017 portano il discorso sul colore nella pratica. I visitatori si raccolgono vicino al cavalletto e seguono la successione dei gesti. Non conta soltanto la rapidità: il profilo, l’estensione di una macchia cromatica e gli intervalli fra le forme diventano scelte visibili.
