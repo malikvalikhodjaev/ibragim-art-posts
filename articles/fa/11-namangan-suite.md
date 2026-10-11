@@ -4,7 +4,7 @@ language: "fa"
 theme: 11
 description: "آدم‌ها، عرقچین‌ها و روسری‌های سفید در «سوئیت نامانگان»؛ حرکت زندگی روزمره در یک ترکیب‌بندی گسترده."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_25.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «سوئیت نامانگان»: زندگی درون یک نقاشی بزرگ
@@ -118,6 +118,20 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 مطالب مربوط به ویراستاری از Valikhodjaev Gallery House. منابع تصاویر در زیرنویس‌ها ذکر شده است.
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## از موضوع پایان تحصیل تا زبانی شناختنی
+
+بازار در سال‌های پایانی تحصیل توجه والیخوجایف را جلب کرد و موضوع اثر پایان تحصیلش شد. این علاقه از مشاهدهٔ واقع‌گرایانه آغاز شد و بعدها به بوم‌های بزرگ با پیکره‌های متعدد گسترش یافت. تابلوهای «بازار دوپّی» در سال‌های ۲۰۰۲ و ۲۰۰۴ تحول موضوع را نشان می‌دهند: گروه‌های فشرده، لباس‌های روشن تکرارشونده و نقش‌های ریز کالاها ساختاری مستقل در نقاشی می‌سازند. بازار به یکی از نشانه‌های شناختنی او بدل می‌شود، در حالی که کنجکاوی همچنان او را به موضوع‌های دیگر، انتزاع و مجسمه‌سازی می‌برد.
+
+[«بازار دوپّی — کلاه‌های سنتی», 2002. 100 × 120 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+«بازار دوپّی — کلاه‌های سنتی», 2002. 100 × 120 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+[«بازار دوپّی», 2004. 100 × 90 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«بازار دوپّی», 2004. 100 × 90 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+[ادامهٔ مطلب: زندگی و مسیر هنری هنرمند](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
 ## تصاویر آثار از آرشیو هنرمند
 

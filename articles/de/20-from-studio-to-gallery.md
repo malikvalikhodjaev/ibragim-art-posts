@@ -4,7 +4,7 @@ language: "de"
 theme: 20
 description: "Valikhodjaev als Künstler, Organisator und Galeriegründer: Wie Atelier, Ausstellungsraum und Begegnungen mit dem Publikum zusammenwirken."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Vom Atelier zur Galerie: Valikhodjaev schafft Räume für die Kunst
@@ -115,6 +115,12 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## Tumor: der Beginn einer privaten Galeriegeschichte
+
+Seine Erfahrung als Gründer begann lange vor Gallery House. 1987 richtete Valikhodjaev eine private Kunstwerkstatt ein; 1993 eröffnete er in Namangan die Galerie Tumor, die er bis 1999 leitete. Die aktuelle biografische Chronik bezeichnet Tumor als erste private Kunstgalerie Usbekistans. Diese Station macht seine Pionierarbeit bei der Schaffung eines Ortes für Kunst sichtbar. Die späteren Galerieaktivitäten in Taschkent gehören zu einer längeren Geschichte: Ein Künstler schafft Werke und zugleich die Bedingungen für ihre Begegnung mit dem Publikum.
+
+[Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
+
 ## Ausstellungsarbeit im Video
 
 Die beiden Archivvideos zeigen den Künstler bei der Vorbereitung und Besichtigung einer Ausstellung. Titel, Ort und Aufnahmedatum sind noch nicht geklärt.
@@ -131,13 +137,13 @@ Die beiden Archivvideos zeigen den Künstler bei der Vorbereitung und Besichtigu
 
 Ausstellungsfotos zeigen die Begegnung des Bildes mit seinen Betrachtern. Freie Wandflächen, Abstände zwischen Werken und Raum zum Zurücktreten verändern das Sehen. Die Gesamtansicht vermittelt den Maßstab; Besucher verdeutlichen den Wechsel zwischen Nahsicht und Betrachtung aus der Ferne.
 
-[Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. Zur Ausstellung From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.
+Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
-[Blick in die Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. Zur Ausstellung From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Blick in die Ausstellung. Archiv des Künstlers.
+Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 [Valikhodjaev und sein Lehrer Rahim Ahmedov bei einer Begegnung in einer Ausstellung. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

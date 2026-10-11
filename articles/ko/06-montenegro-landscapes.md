@@ -4,7 +4,7 @@ language: "ko"
 theme: 6
 description: "2012년 페라스트의 항구와 야자수 풍경. 물, 돌집, 하늘을 통해 읽는 발리호자예프의 몬테네그로 작품."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 몬테네그로의 21일 — 발리호자예프가 그린 해안 도시
@@ -101,6 +101,12 @@ Valikhodjaev Gallery House
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 스물하루, 마흔두 점의 그림
+
+가족의 회상에 따르면, 화가는 2012년 몬테네그로에서 21일 동안 그린 그림 42점을 가지고 돌아왔다. 이어 2012년 6월 28일부터 7월 13일까지 타슈켄트에서 《몬테네그로에서의 21일》 전시가 열렸다. 이 일화는 그의 왕성한 제작 활동을 구체적으로 보여 준다. 날마다 작업했고 달라지는 풍경은 새로운 회화적 문제를 던졌다. 여기 실린 페라스트 풍경은 물과 건축, 먼 경치를 하나의 구도로 묶는 여러 방식을 통해 그 집중적인 작업의 내용을 드러낸다.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
 ## 작가 소장 자료에서 선별한 작품 이미지
 

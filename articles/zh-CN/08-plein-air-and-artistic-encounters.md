@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 8
 description: "土耳其、乌兹别克斯坦、阿塞拜疆与黑山的户外写生：参与创作、观察光线与专业交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 面对实景作画：户外写生与艺术交流
@@ -107,6 +107,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材来自瓦利霍贾耶夫画廊。图片来源已在图注中注明。
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 持续观察带来的创作丰沛
+
+2012年的黑山之行提供了一个具体例子：据家人回忆，瓦利霍贾耶夫在21天里完成了42幅画。他以画家身份参与这次户外写生活动。数量体现工作的密集程度，风景画本身则展现不同的处理方式。快速作画需要抓住景物的关键，并维持色彩与空间的关系。关于这些作品及其后来在塔什干的展览，可以继续阅读黑山专题文章。
+
+[延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [在黑山的二十一天：佩拉斯特的海岸风景](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)
 
 ## 艺术家档案中的作品图版
 

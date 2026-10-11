@@ -4,7 +4,7 @@ language: "en"
 theme: 5
 description: "From Master Rahim Ahmedov’s studio to teaching his own students: looking, composing and developing a painting with Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Inside the Artist’s Studio: Looking, Learning and Making with Ibragim Valikhodjaev
@@ -112,6 +112,12 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## A workshop history that begins before teaching
+
+Before entering the institute, Valikhodjaev carried out artistic commissions in Namangan and led teams of craftspeople. In 1987 he established his first private art workshop. These milestones, recorded in his biographical chronology, bring independent work and organisation into the story of his education. His later sessions with students reveal another stage of that professional path: a personal search becomes an open process that others can observe and discuss.
+
+[Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
 ## Passing on experience: a masterclass in Xi’an
 

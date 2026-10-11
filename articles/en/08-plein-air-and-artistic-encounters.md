@@ -4,7 +4,7 @@ language: "en"
 theme: 8
 description: "Painting outdoors in Turkey, Montenegro, Samarkand and Shabran: Valikhodjaev’s plein-air participation and curatorial work in Andijan."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Making Room for Painting: Plein Air and Artistic Encounters
@@ -107,6 +107,12 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Image sources are indicated in the captions.
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Productivity as sustained observation
+
+The 2012 Montenegro trip offers a concrete example of Valikhodjaev’s working pace: family recollections record 42 paintings in 21 days. His role at the plein-air gathering was that of a participating painter. The number conveys the intensity of the work; the landscapes reveal the variety of its solutions. Working quickly requires identifying a motif’s essentials and holding colour and space together. The Montenegro article explores these paintings further, following their journey to an exhibition in Tashkent.
+
+[Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)
 
 ## Reproductions from the artist’s archive
 

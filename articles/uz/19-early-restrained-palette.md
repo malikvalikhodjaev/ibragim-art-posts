@@ -4,7 +4,7 @@ language: "uz"
 theme: 19
 description: "«Ibodat», «Ko‘zalar», «Nigoh» va «Muqaddas toshlar»: ilk asarlardagi vazmin kolorit va nozik tonal munosabatlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Vazmin palitradagi sokinlik: ilk oq-kulrang asarlar
@@ -109,6 +109,20 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ilk yillarni birgina uslubga jamlab bo‘lmaydi
+
+Vazmin ranglar palitrasini o‘sha yillardagi boshqa izlanishlar bilan yonma-yon ko‘rish muhim. 1991-yilgi «Farishta»da diqqat o‘tirgan ayolning yuzi va qo‘llariga qaratilgan; shu yilgi «Qichqiriq»da esa to‘q rangli massa va keskin yorug‘ aksentlar katta o‘rin tutadi. Bu asarlar har bir tasviriy vazifaning mustaqilligini saqlagan holda ilk ijod haqidagi tasavvurni kengaytiradi. Bozor kartinalari, RED va abstraksiyaga o‘tish bir tayyor uslubni boshqasiga almashtirishdan ko‘ra, rassom qiziqishining davom etishi sifatida tushunarliroq.
+
+[«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«Farishta», 1991. 100 × 100 sm. Rassom arxividan olingan reproduksiya.
+
+[«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Qichqiriq», 1991. 110 × 100 sm. Rassom arxividan olingan reproduksiya.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
 ## Ustaxonada: ko‘rgazmadan oldin va keyin
 

@@ -4,7 +4,7 @@ language: "es"
 theme: 8
 description: "Valikhodjaev y la pintura del natural: participación en encuentros al aire libre y experiencia curatorial en Andiján."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Dar espacio a la pintura: trabajo al aire libre y encuentros artísticos
@@ -107,6 +107,12 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las imágenes se indican en los pies de foto.
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## La productividad como observación sostenida
+
+El viaje a Montenegro de 2012 ofrece un ejemplo concreto del ritmo de trabajo de Valikhodjaev: los recuerdos familiares hablan de 42 cuadros en 21 días. Participó en el encuentro de pintura al aire libre como pintor. La cifra comunica la intensidad del trabajo; los paisajes muestran la variedad de las soluciones. Pintar con rapidez exige elegir lo esencial del motivo y mantener las relaciones de color y espacio. El artículo sobre Montenegro profundiza en estas obras y en su posterior exposición en Taskent.
+
+[Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Veintiún días en Montenegro: los paisajes costeros de Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)
 
 ## Reproducciones del archivo del artista
 

@@ -4,7 +4,7 @@ language: "tr"
 theme: 15
 description: "Valikhodjaev’in eserleri Harbin’de Yu Shun Art Museum’da, İstanbul’da Maltepe koleksiyonunda ve Moskova’da özel bir koleksiyonda."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sergiden-sonra-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Sergiden sonra: Valikhodjaev’in eserleri müzelerde ve koleksiyonlarda
@@ -110,14 +110,14 @@ Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsellerin kaynaklar
 
 [UzA - Pekin'deki Özbekistan Sanat Sergisi, 23 Ocak 2024 (Özbekçe metin)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[Ibragim Valikhodjaev’in eserlerinin sergilendiği salonun genel görünümü. Sanatçının arşivi; serginin adı ve tarihi doğrulanmamıştır.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev’in eserlerinin sergilendiği salonun genel görünümü. Sanatçının arşivi; serginin adı ve tarihi doğrulanmamıştır.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
 
 ## Resim ve sergi mekânı
 
 Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar alanları, eserlerin arasındaki uzaklık ve geriye çekilebilme olanağı algıyı değiştirir. Genel görünüm ölçeği anlatır; ziyaretçilerin bulunduğu kare, yakından incelemeyle uzaktan bakış arasındaki geçişi gösterir.
 
-[Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)

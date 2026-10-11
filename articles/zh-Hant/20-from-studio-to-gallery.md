@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 20
 description: "畫家、策展人、教師與畫廊創辦人：瓦利霍賈耶夫如何把個人探索帶入公共藝術交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 從工作室到畫廊：藝術家如何創造相遇的空間
@@ -115,6 +115,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## Tumor：私人畫廊歷程的開端
+
+他的創辦者經歷遠早於Gallery House。1987年，瓦利霍賈耶夫創辦私人藝術作坊；1993年，他在納曼干開設Tumor畫廊，並經營至1999年。現行生平年表將Tumor記為烏茲別克第一家私人藝術畫廊。這個節點呈現了他為藝術創造空間的先行實踐。後來在塔什干的畫廊活動屬於更長的歷程：藝術家既創作作品，也為作品與觀眾的相遇建立條件。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
+
 ## 展覽工作影片
 
 這兩段檔案影片呈現藝術家參與展覽籌備及巡視展廳的情景。展覽名稱、地點和拍攝日期目前尚未確定。
@@ -131,13 +137,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 展覽照片展示了作品與觀眾相遇的另一面。牆面的留白、畫作之間的距離，以及向後退步的空間，都會改變觀看條件。全景表現作品的尺度，觀眾入鏡的照片則呈現近看與遠觀之間的切換。
 
-[觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 關於2018年展覽《從夢想到命運》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
+伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
 
-[展覽陳列全景。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 關於2018年展覽《從夢想到命運》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-展覽陳列全景。 藝術家檔案。
+伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
 
 [瓦利霍賈耶夫與恩師拉希姆・艾哈邁多夫在展覽交流活動中。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

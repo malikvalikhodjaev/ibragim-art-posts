@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 6
 description: "蒙特內哥羅2012年戶外寫生系列：比較《佩拉斯特港》與棕櫚樹風景中的海水、建築和空間。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_351.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 在蒙特內哥羅的二十一天：佩拉斯特的海岸風景
@@ -101,6 +101,12 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 二十一天，四十二幅畫
+
+據家人回憶，藝術家2012年從蒙特內哥羅返回時，帶回了在21天裡創作的42幅畫。隨後，《蒙特內哥羅二十一天》展覽於2012年6月28日至7月13日在塔什干舉行。這段經歷使他的創作效率變得具體可感：每天持續作畫，變化的景物又帶來新的繪畫問題。這裡的佩拉斯特風景呈現了密集創作的內容——如何以不同方式將水面、建築與遠景組織成完整的構圖。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
 ## 藝術家檔案中的作品圖版
 

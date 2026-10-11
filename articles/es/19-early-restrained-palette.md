@@ -4,7 +4,7 @@ language: "es"
 theme: 19
 description: "Oración, Jarras, Mirada y Piedras sagradas: tonos, contornos y matices en la paleta contenida de las primeras obras de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Una paleta contenida: las primeras pinturas de Valikhodjaev
@@ -109,6 +109,20 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Los primeros años no se reducen a un solo estilo
+
+Conviene mirar la paleta contenida junto a otras exploraciones de aquellos años. En Ángel, de 1991, la atención recae en una mujer sentada, su rostro y sus manos; en Grito, del mismo año, destacan una masa oscura y acentos claros tajantes. Estas obras amplían la visión de sus inicios, preservando la singularidad de cada problema pictórico. El camino hacia los lienzos del bazar, RED y la abstracción se entiende mejor como una curiosidad que continúa que como el intercambio de un estilo definitivo por otro.
+
+[«Ángel», 1991. 100 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«Ángel», 1991. 100 × 100 cm. Reproducción del archivo del artista.
+
+[«Grito», 1991. 110 × 100 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Grito», 1991. 110 × 100 cm. Reproducción del archivo del artista.
+
+[Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
 ## En el taller, antes y después de la exposición
 

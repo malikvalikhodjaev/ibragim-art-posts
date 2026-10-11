@@ -4,7 +4,7 @@ language: "de"
 theme: 8
 description: "Pleinair-Malerei und Austausch: Valikhodjaev als Teilnehmer in Montenegro und Aserbaidschan sowie seine bestätigten kuratorischen Aufgaben."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Raum für Malerei: Pleinair und künstlerische Begegnungen
@@ -107,6 +107,12 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in den Bildunterschriften angegeben.
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Produktivität durch anhaltende Beobachtung
+
+Die Montenegro-Reise von 2012 bietet ein konkretes Beispiel für Valikhodjaevs Arbeitstempo: Die Familie erinnert sich an 42 Gemälde in 21 Tagen. An dem Freilufttreffen nahm er als Maler teil. Die Zahl vermittelt die Intensität der Arbeit; die Landschaften zeigen die Vielfalt der Lösungen. Schnelles Malen verlangt, das Wesentliche eines Motivs auszuwählen und die Beziehungen von Farbe und Raum zusammenzuhalten. Der Montenegro-Artikel untersucht diese Werke näher und verfolgt ihren Weg zur Ausstellung in Taschkent.
+
+[Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [Einundzwanzig Tage in Montenegro: Valikhodjaevs Küstenlandschaften](<https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html>)
 
 ## Reproduktionen aus dem Archiv des Künstlers
 

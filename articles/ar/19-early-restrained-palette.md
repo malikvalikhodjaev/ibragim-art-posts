@@ -4,7 +4,7 @@ language: "ar"
 theme: 19
 description: "«صلاة» و«أباريق» و«نظرة»: الفروق اللونية الدقيقة والتكوين في لوحات فاليخودجاييف المبكرة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_048.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # هدوء الألوان القليلة: لوحات مبكرة بالأبيض والرمادي
@@ -111,6 +111,20 @@ edition_date: "2026-10-10"
 [انستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [غاليري هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## البدايات لا تختزل في أسلوب واحد
+
+ينبغي النظر إلى الألوان المتحفظة بجوار التجارب الأخرى في تلك السنوات. في «الملاك» عام 1991 يتجه الانتباه إلى امرأة جالسة ووجهها ويديها؛ وفي «الصرخة» من العام نفسه تؤدي كتلة داكنة ولمسات فاتحة حادة دورًا كبيرًا. توسع هذه الأعمال صورة البدايات، مع الحفاظ على استقلال كل مسألة تشكيلية. لذلك تبدو الحركة نحو لوحات البازار وRED والتجريد استمرارًا للفضول، أكثر من كونها استبدال أسلوب نهائي بآخر.
+
+[«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«الملاك», 1991. 100 × 100 سم. صورة للعمل من أرشيف الفنان.
+
+[«الصرخة», 1991. 110 × 100 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«الصرخة», 1991. 110 × 100 سم. صورة للعمل من أرشيف الفنان.
+
+[للمتابعة: حياة الفنان ومسيرته الفنية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>)
 
 ## داخل المرسم: قبل المعرض وبعده
 

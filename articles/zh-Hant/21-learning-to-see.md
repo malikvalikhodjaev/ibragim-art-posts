@@ -25,6 +25,8 @@ edition_date: "2026-10-11"
 
 伊布拉吉姆·瓦利霍賈耶夫於1958年11月28日出生在納曼干。 在展廳、國際旅行和巨幅畫作之前，是納曼干。伊布拉吉姆・瓦利霍賈耶夫在這裡與三位姊姊一同長大。父親是一名工匠，此前曾在市徵兵辦公室工作；母親照料家務與孩子。作為家中最小的兒子，即使後來以繪畫為業，故鄉的家仍在他的生活中佔有重要位置。
 
+他的父親也寫詩。成年後，伊布拉吉姆將父親的詩作結集出版，保存了這部分家族記憶。這個細節使我們對他成長的家庭有了更豐富的認識：工藝與詩歌都是父親生活的一部分。
+
 他在求學時就想成為畫家。不過，從童年的願望到進入高等藝術院校，中間還有多年獨立工作的經歷。後來創作的市集場景、肖像和鄉村生活畫作，呈現他對日常經驗的關注：人們、他們的勞作，以及周遭的環境。在這裡，畫家的個人歷程與故鄉及家庭的歷史相遇。
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
 
-[觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 關於2018年展覽《從夢想到命運》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-觀眾欣賞瓦利霍賈耶夫的作品。 藝術家檔案。
+伊布拉吉姆・瓦利霍賈耶夫個展，烏茲別克共和國國家銀行美術館，烏茲別克，塔什干，2018年。藝術家檔案。 [關於2018年展覽《從夢想到命運》](<https://art-blog.uz/archives/30280>)
 
 ## 現有的藝術語言仍可繼續探索
 

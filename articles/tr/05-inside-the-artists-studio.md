@@ -4,7 +4,7 @@ language: "tr"
 theme: 5
 description: "Üstat Rahim Ahmedov’un atölyesinden öğrencilerle çalışmaya: gözlem, kompozisyon ve resim deneyiminin aktarılması."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Atölyede görmek, öğrenmek ve resim yapmak
@@ -112,6 +112,12 @@ Stüdyo turu, tamamlanmış resimlerin algılanışını zenginleştiriyor. Renk
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Öğretmenlikten önce başlayan atölye deneyimi
+
+Valikhodjaev, enstitüye girmeden önce Namangan’da sanatsal siparişler üzerinde çalışıyor ve ustalardan oluşan ekipleri yönetiyordu. 1987’de ilk özel sanat atölyesini kurdu. Biyografik kronolojide yer alan bu dönüm noktaları, eğitim öyküsüne bağımsız çalışma ve organizasyon deneyimini ekler. Öğrencilerle yaptığı sonraki çalışmalar aynı mesleki yolun başka bir aşamasını gösterir: kişisel arayış, başkalarının izleyip tartışabildiği açık bir sürece dönüşür.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
 ## Deneyimi paylaşmak: Xi’an’da resim atölyesi
 

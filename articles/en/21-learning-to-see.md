@@ -25,6 +25,8 @@ The young artist among his works. Artist’s archive.
 
 Ibragim Valikhodjaev was born in Namangan on 28 November 1958. Before the exhibition halls, international journeys and large canvases came Namangan, where Ibragim Valikhodjaev grew up with three older sisters. His father was a craftsman who had previously worked at the city’s military enlistment office. His mother was a homemaker. For the youngest son, the family home remained an important part of life after painting became his profession.
 
+His father also wrote poetry. As an adult, Ibragim published a collection of his father’s poems, preserving this part of the family’s heritage. The detail adds another dimension to the home in which the future artist grew up: craftsmanship and poetry both belonged to his father’s life.
+
 He wanted to be an artist while still at school. Yet years of independent work separated that childhood ambition from his entry into higher education. His later market scenes, portraits and paintings of rural life reveal the importance of everyday experience: people, their occupations and their surroundings. Here the artist’s story meets the history of his home city and family.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ Installation photographs reveal another part of a painting’s life: its encount
 
 Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
-[Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. About the exhibition From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.
+Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 ## The language found leaves room for change
 

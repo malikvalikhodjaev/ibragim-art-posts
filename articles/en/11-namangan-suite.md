@@ -4,7 +4,7 @@ language: "en"
 theme: 11
 description: "Inside Namangan Suite: people, everyday gestures, white headscarves and vivid clothing in Valikhodjaev’s panoramic bazaar painting."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Namangan Suite: Life Inside a Large Painting
@@ -116,6 +116,20 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 Editorial material from Valikhodjaev Gallery House. Sources for illustrations are indicated in the captions.
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## From a diploma subject to a recognisable signature
+
+The bazaar attracted Valikhodjaev during the final years of his studies and became the subject of his diploma work. Beginning in realist observation, that interest later expanded into large multi-figure canvases. Duppi Bazaar of 2002 and the painting of 2004 show the theme already developing: crowded figures, recurring pale garments and the small patterns of merchandise form an independent pictorial structure. The bazaar would become one of his recognisable signatures, while curiosity continued to lead him towards other subjects, abstraction and sculpture.
+
+[‘Duppi Bazaar — the skullcap market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+‘Duppi Bazaar — the skullcap market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.
+
+[‘Duppi Bazaar’, 2004. 100 × 90 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+‘Duppi Bazaar’, 2004. 100 × 90 cm. Reproduction from the artist’s archive.
+
+[Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
 ## Reproductions from the artist’s archive
 

@@ -27,6 +27,8 @@ edition_date: "2026-10-11"
 
 ابراهیم ولی‌خوجایف در ۲۸ نوامبر ۱۹۵۸ در نمنگان به دنیا آمد. پیش از سالن‌های نمایشگاه، سفرهای خارجی و بوم‌های بزرگ، نمنگان بود. ابراهیم ولی‌خواجه‌یف در این شهر با سه خواهر بزرگ‌ترش رشد کرد. پدرش پیشه‌ور بود و پیش‌تر در ادارهٔ نظام‌وظیفهٔ شهر کار کرده بود. مادرش به خانه و خانواده رسیدگی می‌کرد. برای کوچک‌ترین پسر خانواده، خانهٔ پدری پس از آنکه نقاشی به حرفه‌اش تبدیل شد نیز جایگاه مهمی در زندگی داشت.
 
+پدرش شعر هم می‌سرود. ابراهیم در بزرگسالی مجموعه‌ای از شعرهای پدر را منتشر کرد و این بخش از میراث خانوادگی را حفظ کرد. این نکته تصویر خانه‌ای را که هنرمند آینده در آن بزرگ شد کامل‌تر می‌کند: پیشه‌وری و شعر هر دو بخشی از زندگی پدرش بودند.
+
 او از دوران مدرسه می‌خواست هنرمند شود. اما میان آرزوی کودکی و ورود به آموزش عالی، سال‌هایی از کار مستقل قرار داشت. صحنه‌های بازار، پرتره‌ها و نقاشی‌های زندگی روستاییِ سال‌های بعد، توجه او را به زندگی روزمره نشان می‌دهند: آدم‌ها، کارهایشان و محیط پیرامونشان. در اینجا مسیر نقاش با تاریخ زادگاه و خانواده‌اش پیوند می‌خورد.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -213,9 +215,9 @@ edition_date: "2026-10-11"
 
 نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
-[بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
 ## زبان یافت‌شده، جایی برای تغییر باقی می‌گذارد
 

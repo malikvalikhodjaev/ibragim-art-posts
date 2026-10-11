@@ -4,7 +4,7 @@ language: "ru"
 theme: 11
 description: "«Наманганская сюита» Ибрагима Валиходжаева: как люди, бытовые жесты, белые платки и яркая одежда складываются в живописную панораму."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_678.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «Наманганская сюита»: жизнь внутри большой картины
@@ -124,3 +124,17 @@ Valikhodjaev Gallery House · 6 октября 2026
 [«Дуппи базар», 2006. Ибрагим Валиходжаев. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLK8fQ68SXUqkegjhEhI9vWpkWvE_ka3H7nGWphkfN1u6NsDywV0NVM3phDhuzwKOFzaF7VaFpT7vQ73n1D_X46DYez-3HPS-fJPUDpNMYac_MUCajylKRJ1XpvqoObZCb2th7QtrMY7zZdW3NnIQWzHWNyUCAzY8tSAltEcKjYjEtDQLfz68q55Z5tFNv/s1600/clipboard.png>)
 
 «Дуппи базар», 2006. Ибрагим Валиходжаев. Репродукция из архива художника.
+
+## От дипломной темы к узнаваемому почерку
+
+Базар привлёк Валиходжаева ещё в последние годы учёбы и стал темой дипломной работы. Начавшись с реалистического наблюдения, этот интерес позднее развернулся в большие многофигурные полотна. «Дуппи бозор» 2002 года и «Дуппи базар» 2004 года показывают уже развитие темы: плотность человеческой группы, повторение светлых одежд и мелкий рисунок товаров образуют самостоятельный живописный строй. Базар станет одной из узнаваемых черт художника, однако любопытство продолжит вести его к другим сюжетам, абстракции и скульптуре.
+
+[«Дуппи бозор — базар тюбетеек», 2002. 100 × 120 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+«Дуппи бозор — базар тюбетеек», 2002. 100 × 120 см. Репродукция из архива художника.
+
+[«Дуппи базар», 2004. 100 × 90 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Дуппи базар», 2004. 100 × 90 см. Репродукция из архива художника.
+
+[Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)

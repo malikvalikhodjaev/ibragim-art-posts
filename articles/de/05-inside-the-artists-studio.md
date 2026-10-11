@@ -4,7 +4,7 @@ language: "de"
 theme: 5
 description: "Vom Atelier des Meisters Rahim Ahmedov zur eigenen Bildsprache: Valikhodjaevs Ausbildung, Beobachtung und Arbeit mit Studierenden."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Im Atelier: sehen, malen und lernen mit Ibragim Valikhodjaev
@@ -112,6 +112,12 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in den Bildunterschriften angegeben.
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Werkstatterfahrung vor der Lehrtätigkeit
+
+Vor seinem Eintritt ins Institut führte Valikhodjaev in Namangan künstlerische Aufträge aus und leitete Teams von Handwerkern. 1987 gründete er seine erste private Kunstwerkstatt. Diese biografischen Stationen ergänzen seine Ausbildungsgeschichte um selbstständige Arbeit und Organisationserfahrung. Die späteren Unterrichtseinheiten zeigen eine weitere Etappe desselben beruflichen Weges: Die persönliche Suche wird zu einem offenen Prozess, den andere beobachten und besprechen können.
+
+[Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
 ## Erfahrung weitergeben: ein Meisterkurs in Xi’an
 

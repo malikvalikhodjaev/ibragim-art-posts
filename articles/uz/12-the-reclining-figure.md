@@ -105,6 +105,6 @@ Arxiv suratlari kartinalarning ko‘rgazma zalidagi haqiqiy ko‘lamini his qili
 
 Ibrohim Valixo‘jayev ko‘rgazmada yalang‘och qomat tasvirlangan kartina yonida. Shaxsiy arxivdan.
 
-[Tomoshabinlar Valixo‘jayevning yalang‘och qomat tasvirlangan kartinalari oldida. Shaxsiy arxivdan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. 2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-Tomoshabinlar Valixo‘jayevning yalang‘och qomat tasvirlangan kartinalari oldida. Shaxsiy arxivdan.
+Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)

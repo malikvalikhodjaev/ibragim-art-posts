@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 11
 description: "《納曼干組曲》中的市集生活：人物姿態、白色頭巾、刺繡小帽與橫幅構圖。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_7.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 《納曼干組曲》：一幅全景畫中的日常生活
@@ -116,6 +116,20 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文內容來自瓦利霍賈耶夫畫廊。插圖來源已在圖說中註明。
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 從畢業創作主題到鮮明的個人語言
+
+在求學的最後幾年，巴扎便吸引了瓦利霍賈耶夫，並成為他的畢業創作主題。這份興趣始於寫實觀察，後來發展為大型群像畫作。2002年和2004年的《朵皮帽巴扎》已呈現主題的演變：密集的人群、反覆出現的淺色衣著與商品的細小紋樣，構成獨立的繪畫秩序。巴扎將成為他鮮明的個人標識之一，而好奇心仍會帶領他走向其他題材、抽象繪畫與雕塑。
+
+[《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。
+
+[《多普帽市》, 2004. 100 × 90 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《多普帽市》, 2004. 100 × 90 公分. 複製圖像來自藝術家檔案。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
 ## 藝術家檔案中的作品圖版
 

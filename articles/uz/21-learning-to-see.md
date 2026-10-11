@@ -25,6 +25,8 @@ Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
 Ibrohim Valixo‘jayev 1958-yil 28-noyabrda Namanganda tug‘ilgan. Ko‘rgazma zallari, xorijiy safarlar va katta hajmdagi kartinalardan avval Namangan bor edi. Ibrohim Valixodjayev shu shaharda uch nafar opasi bilan ulg‘aygan. Otasi hunarmand bo‘lgan, undan oldin esa shahar harbiy komissariatida ishlagan. Onasi uy-ro‘zg‘or va farzandlar tarbiyasi bilan shug‘ullangan. Kenja o‘g‘il uchun ota-ona xonadoni rangtasvir kasbiga aylangandan keyin ham muhim o‘rin tutgan.
 
+Otasi she’r ham yozgan. Ibrohim ulg‘ayganidan keyin otasining she’rlarini to‘plam holida nashr ettirib, oilaviy merosning bu qismini saqlab qolgan. Bu tafsilot bo‘lajak rassom ulg‘aygan uy haqidagi hikoyani boyitadi: otasining hayotida hunarmandchilik bilan she’riyat yonma-yon bo‘lgan.
+
 U maktab davridayoq rassom bo‘lishni istagan. Biroq bolalikdagi qiziqish bilan institutga kirish orasida mustaqil mehnat yillari bor. Keyinchalik yaratgan bozor manzaralari, portretlari va qishloq hayotiga oid kartinalari kundalik turmushga e’tiborini ko‘rsatadi: odamlar, ularning mashg‘ulotlari va yashash muhiti muhim. Shu yerda rassomning yo‘li tug‘ilgan shahri va oilasi tarixi bilan tutashadi.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ Ekspozitsiya suratlari asarning tomoshabin bilan uchrashuvini ko‘rsatadi. Devo
 
 Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)
 
-[Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. 2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.
+Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)
 
 ## Topilgan til o‘zgarish uchun joy qoldiradi
 

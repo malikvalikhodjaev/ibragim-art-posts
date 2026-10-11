@@ -4,7 +4,7 @@ language: "tr"
 theme: 19
 description: "Dua, Sürahiler ve Bakış: Valikhodjaev’in erken dönem resimlerinde açık tonlar, ölçülü renk ve ince yüzey farklılıkları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Ölçülü bir paletin gücü: Valikhodjaev’in erken dönem resimleri
@@ -109,6 +109,20 @@ San'at'ta 2012 yılında yayınlanan bir profilde, Valikhodjaev'in erken dönem 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## İlk yılları tek bir üsluba indirgememek
+
+Sınırlı paleti o yıllardaki başka arayışlarla birlikte düşünmek gerekir. 1991 tarihli Melek’te dikkat oturan bir kadının yüzüne ve ellerine yönelir; aynı yıl yaptığı Çığlık’ta ise koyu bir kütle ve keskin açık renk vurgular öne çıkar. Bu eserler, her resimsel sorunun bağımsızlığını koruyarak erken dönem tablosunu genişletir. Pazar resimlerine, RED’e ve soyutlamaya yönelişi, kesinleşmiş bir üslubu diğeriyle değiştirmekten çok sanatçının süren merakı üzerinden okumak daha yerindedir.
+
+[“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+“Melek”, 1991. 100 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+
+[“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+“Çığlık”, 1991. 110 × 100 cm. Sanatçının arşivinden röprodüksiyon.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
 ## Atölyede, sergiden önce ve sonra
 

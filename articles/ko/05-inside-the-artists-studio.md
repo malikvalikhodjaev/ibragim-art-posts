@@ -4,7 +4,7 @@ language: "ko"
 theme: 5
 description: "거장 라힘 아흐메도프의 작업실에서 자신의 교육 활동까지. 관찰, 구도, 제작 과정을 통해 보는 발리호자예프의 회화."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 작업실 안으로 — 보고, 배우고, 그리는 일
@@ -112,6 +112,12 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 가르치기 전부터 시작된 작업실 경험
+
+미술 교육기관에 입학하기 전, 발리호자예프는 나망간에서 예술 관련 주문 작업을 맡고 장인들로 구성된 팀을 이끌었다. 1987년에는 자신의 첫 민간 미술 공방을 설립했다. 생애 연표에 기록된 이 단계들은 교육의 역사에 독립적인 작업과 조직 운영의 경험을 더한다. 훗날 학생들과 함께하는 수업은 같은 직업적 여정의 또 다른 단계를 보여 준다. 개인의 탐구가 다른 이들이 관찰하고 토론할 수 있는 열린 과정으로 바뀌는 것이다.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
 ## 경험을 전하다: 시안에서 열린 회화 마스터클래스
 

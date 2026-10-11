@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 19
 description: "《祈禱》《水罐》《凝視》與《聖石》：早期克制色調中的形體、邊界與緩慢觀看。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_738.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 克制用色中的寧靜：早期白灰色調作品
@@ -109,6 +109,20 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 早期創作並非只有一種風格
+
+理解克制的色調，也需要將它與同一時期的其他探索並置。1991年的《天使》著眼於坐著的女子、她的臉與雙手；同年的《吶喊》則強調深色塊面與鮮明的亮色點綴。這些作品拓寬了我們對早期創作的認識，同時保留各自繪畫問題的獨立性。因此，從巴扎畫作到RED與抽象繪畫，更適合被理解為好奇心的延續，而非以一種定型風格取代另一種。
+
+[《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《天使》, 1991. 100 × 100 公分. 複製圖像來自藝術家檔案。
+
+[《吶喊》, 1991. 110 × 100 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《吶喊》, 1991. 110 × 100 公分. 複製圖像來自藝術家檔案。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
 ## 畫室內：展覽前後的工作
 

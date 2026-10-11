@@ -4,7 +4,7 @@ language: "tr"
 theme: 6
 description: "Karadağ 2012: Perast’ın tekneleri, rıhtımı ve palmiyeleri. Valikhodjaev’in iki manzarasında renk ve mekânın kuruluşu."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Karadağ’da yirmi bir gün: Valikhodjaev’in kıyı manzaraları
@@ -101,6 +101,12 @@ Perast'ın iki reprodüksiyonu bu karşılaştırma için görsel bir temel olu�
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Yirmi bir gün, kırk iki resim
+
+Ailesinin anılarına göre sanatçı, 2012’de Karadağ’dan 21 günde yaptığı 42 resimle döndü. Ardından 28 Haziran–13 Temmuz 2012 tarihleri arasında Taşkent’te Montenegro’da 21 Gün sergisi düzenlendi. Bu olay üretkenliğini somutlaştırır: her gün çalışıyor, değişen motiflerle yeni resimsel sorunlar keşfediyordu. Buradaki Perast manzaraları, bu yoğun çalışmanın içeriğini; suyu, mimariyi ve uzaklığı tutarlı bir kompozisyonda birleştirmenin farklı yollarını görünür kılar.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
 ## Sanatçının arşivinden eser görselleri
 

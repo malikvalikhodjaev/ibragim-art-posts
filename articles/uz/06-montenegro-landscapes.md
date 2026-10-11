@@ -4,7 +4,7 @@ language: "uz"
 theme: 6
 description: "Perastning ikki manzarasi, 2012: qayiq, sohil, palma va tog‘lar Valixo‘jayevning Chernogoriya turkumida."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Chernogoriyada yigirma bir kun: Perastning sohil manzaralari
@@ -101,6 +101,12 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Yigirma bir kun — qirq ikki kartina
+
+Oila xotiralariga ko‘ra, rassom 2012-yilda Chernogoriyadan 21 kunda ishlangan 42 kartina bilan qaytgan. So‘ng Toshkentda 2012-yil 28-iyundan 13-iyulgacha «Montenegroda 21 kun» ko‘rgazmasi o‘tkazilgan. Bu voqea uning sermahsulligini aniq ko‘rsatadi: u har kuni ishlagan, turli manzaralar esa yangi tasviriy vazifalar bergan. Bu yerda keltirilgan Perast manzaralari ana shu jadal mehnat mazmunini — suv, me’morchilik va uzoq planni yaxlit kompozitsiyaga birlashtirishning turli yo‘llarini ochib beradi.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
 ## Rassom arxividagi asarlar reproduksiyalari
 

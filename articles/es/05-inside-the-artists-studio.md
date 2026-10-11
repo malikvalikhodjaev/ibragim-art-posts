@@ -4,7 +4,7 @@ language: "es"
 theme: 5
 description: "Del taller del maestro Rahim Ahmedov a las clases con alumnos: observar, componer y transmitir la experiencia pictórica."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # En el taller: mirar, pintar y aprender con Ibragim Valikhodjaev
@@ -112,6 +112,12 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las imágenes se indican en los pies de foto.
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Una experiencia de taller anterior a la enseñanza
+
+Antes de ingresar en el instituto, Valikhodjaev realizaba encargos artísticos en Namangán y dirigía equipos de artesanos. En 1987 creó su primer taller de arte privado. Estos hitos de su cronología biográfica suman a la historia de su formación una experiencia de trabajo independiente y de organización. Las posteriores sesiones con alumnos revelan otra etapa de ese mismo recorrido profesional: la búsqueda personal se convierte en un proceso abierto que otros pueden observar y comentar.
+
+[Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
 ## Compartir la experiencia: una clase magistral en Xi’an
 

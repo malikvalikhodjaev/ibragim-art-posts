@@ -4,7 +4,7 @@ language: "it"
 theme: 5
 description: "Dall’atelier di Rahim Ahmedov al lavoro con gli allievi: osservare, comporre e imparare a dipingere con Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Nello studio: osservare, dipingere e imparare con Ibragim Valikhodjaev
@@ -112,6 +112,12 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini sono indicate nelle didascalie.
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## L’esperienza della bottega precede l’insegnamento
+
+Prima di entrare all’istituto, Valikhodjaev eseguiva commissioni artistiche a Namangan e dirigeva squadre di artigiani. Nel 1987 fondò il suo primo laboratorio d’arte privato. Queste tappe della cronologia biografica aggiungono alla storia della formazione un’esperienza di lavoro indipendente e di organizzazione. Le successive sessioni con gli allievi mostrano un’altra fase dello stesso percorso professionale: la ricerca personale diventa un processo aperto, che altri possono osservare e discutere.
+
+[Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
 ## Trasmettere l’esperienza: una masterclass a Xi’an
 

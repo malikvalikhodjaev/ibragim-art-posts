@@ -4,7 +4,7 @@ language: "fr"
 theme: 8
 description: "Peindre en plein air au Monténégro, en Turquie, à Samarcande et à Chabran : rencontres et expériences de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Faire place à la peinture : plein air et rencontres artistiques
@@ -107,6 +107,12 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## La productivité dans la continuité de l’observation
+
+Le voyage au Monténégro de 2012 donne un exemple concret du rythme de travail de Valikhodjaev : les souvenirs familiaux font état de 42 tableaux en 21 jours. Il participait à cette rencontre de plein air en tant que peintre. Le nombre traduit l’intensité du travail ; les paysages montrent la diversité des solutions. Peindre rapidement demande de choisir l’essentiel du motif et de maintenir les rapports de couleur et d’espace. L’article consacré au Monténégro prolonge cette découverte jusqu’à l’exposition des œuvres à Tachkent.
+
+[Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)
 
 ## Reproductions issues des archives de l’artiste
 

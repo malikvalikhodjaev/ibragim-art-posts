@@ -105,6 +105,6 @@ Valikhodjaev Gallery House
 
 伊布拉吉姆·瓦利霍贾耶夫在展览中站于一幅人体画旁。艺术家档案。
 
-[观众欣赏瓦利霍贾耶夫的人体绘画。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 关于2018年展览《从梦想到命运》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-观众欣赏瓦利霍贾耶夫的人体绘画。艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 [关于2018年展览《从梦想到命运》](<https://art-blog.uz/archives/30280>)

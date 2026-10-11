@@ -4,7 +4,7 @@ language: "ar"
 theme: 15
 description: "أعمال فاليخودجاييف في متحف يو شون بهاربين وبلدية مالتيبي بإسطنبول ومجموعة خاصة في موسكو."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_37.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # بعد المعرض: أعمال إبراهيم فاليخودجاييف في المتاحف والمجموعات
@@ -112,17 +112,17 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [وكالة الأنباء الأوزبكية – معرض الفن الأوزبكي في بكين، 23 يناير 2024 (النص الأوزبكي)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[منظر عام لقاعة تعرض أعمال إبراهيم فاليخوجاييف. أرشيف الفنان؛ اسم المعرض وتاريخه غير مؤكدين.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. عن معرض «من الحلم إلى المصير»، 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-منظر عام لقاعة تعرض أعمال إبراهيم فاليخوجاييف. أرشيف الفنان؛ اسم المعرض وتاريخه غير مؤكدين.
+معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. [عن معرض «من الحلم إلى المصير»، 2018](<https://art-blog.uz/archives/30280>)
 
 ## اللوحة وفضاء العرض
 
 تُظهر صور العرض لقاء اللوحة بالجمهور. تؤثر المساحات الخالية على الجدران والفواصل بين الأعمال وإمكانية التراجع إلى الخلف في المشاهدة. يوضح المشهد العام المقياس، بينما تكشف صورة الزوار الانتقال بين التأمل القريب والنظر من بعيد.
 
-[زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. عن معرض «من الحلم إلى المصير»، 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.
+معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. [عن معرض «من الحلم إلى المصير»، 2018](<https://art-blog.uz/archives/30280>)
 
 
 </div>

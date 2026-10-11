@@ -4,7 +4,7 @@ language: "ko"
 theme: 20
 description: "화가와 교육자, 큐레이터와 갤러리 설립자. 발리호자예프가 작품과 관객의 만남을 만드는 방식."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_505.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 작업실에서 갤러리까지 — 예술의 자리를 만드는 일
@@ -115,6 +115,12 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## 투모르: 민간 갤러리의 역사가 시작되다
+
+설립자로서의 경험은 Gallery House보다 훨씬 앞서 시작됐다. 발리호자예프는 1987년 민간 미술 공방을 세웠고, 1993년 나망간에서 투모르 갤러리를 열어 1999년까지 운영했다. 현재의 생애 연표는 투모르를 우즈베키스탄 최초의 민간 미술 갤러리로 기록한다. 이 단계는 예술을 위한 장소를 만드는 그의 선구적인 활동을 보여 준다. 이후 타슈켄트의 갤러리 활동은 작품을 만들고 작품과 관객이 만날 조건을 마련하는 예술가의 더 긴 여정에 속한다.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
 ## 영상으로 보는 전시 활동
 
 이 두 기록 영상은 작가가 전시 준비와 관람에 참여하는 모습을 보여 준다. 전시명, 장소와 촬영 날짜는 아직 확인되지 않았다.
@@ -131,13 +137,13 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 전시 사진은 그림과 관객의 만남을 보여 준다. 비어 있는 벽면, 작품 사이의 간격, 뒤로 물러설 공간이 감상 조건을 바꾼다. 전경은 규모를 전하고 관람객이 담긴 사진은 가까이 보다가 멀리서 다시 바라보는 움직임을 전한다.
 
-[발리호자예프의 그림을 보는 관람객. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. 2018년 전시 《꿈에서 운명으로》에 관하여](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-발리호자예프의 그림을 보는 관람객. 작가 소장 사진.
+이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. [2018년 전시 《꿈에서 운명으로》에 관하여](<https://art-blog.uz/archives/30280>)
 
-[전시장 전경. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. 2018년 전시 《꿈에서 운명으로》에 관하여](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-전시장 전경. 작가 소장 사진.
+이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. [2018년 전시 《꿈에서 운명으로》에 관하여](<https://art-blog.uz/archives/30280>)
 
 [전시에서 만난 발리호자예프와 스승 라힘 아흐메도프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

@@ -4,7 +4,7 @@ language: "uz"
 theme: 8
 description: "Valixo‘jayevning plenerlardagi ishtiroki: o‘zgaruvchan yorug‘lik, naturadan rangtasvir va Andijon festivalidagi kuratorlik."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Naturadan ishlash: plener va ijodiy uchrashuvlar
@@ -107,6 +107,12 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Sermahsullik — davomli kuzatish natijasi
+
+2012-yilgi Chernogoriya safari Valixo‘jayevning ish sur’atiga aniq misol bo‘la oladi: oila xotiralarida 21 kunda 42 kartina ishlangani qayd etilgan. Plenerda u rangtasvirchi sifatida qatnashgan. Bu son mehnatning jadalligini, manzaralarning o‘zi esa topilgan yechimlar xilma-xilligini ko‘rsatadi. Tez ishlash uchun motivdagi asosiy jihatlarni tanlash, rang va makon munosabatlarini saqlash kerak. Safar kartinalari va ularning Toshkentdagi ko‘rgazmasi haqida Chernogoriyaga bag‘ishlangan maqolada batafsil o‘qish mumkin.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Chernogoriyada yigirma bir kun: Perastning sohil manzaralari](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)
 
 ## Rassom arxividagi asarlar reproduksiyalari
 

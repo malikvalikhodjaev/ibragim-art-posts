@@ -4,7 +4,7 @@ language: "es"
 theme: 6
 description: "El muelle y las palmeras de Perast: color, arquitectura y espacio en los paisajes de Montenegro de Valikhodjaev, 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Veintiún días en Montenegro: los paisajes costeros de Valikhodjaev
@@ -101,6 +101,12 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Casa de la Galería](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Veintiún días, cuarenta y dos cuadros
+
+Según los recuerdos familiares, el artista regresó de Montenegro en 2012 con 42 cuadros pintados en 21 días. Después se celebró la exposición Veintiún días en Montenegro en Taskent, del 28 de junio al 13 de julio de 2012. El episodio hace tangible su productividad: trabajaba cada día y los cambios de motivo planteaban nuevos retos pictóricos. Las vistas de Perast aquí reproducidas muestran el contenido de esa práctica intensa: distintas maneras de reunir agua, arquitectura y lejanía en una composición coherente.
+
+[Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
 ## Reproducciones del archivo del artista
 

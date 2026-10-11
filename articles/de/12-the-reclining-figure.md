@@ -105,6 +105,6 @@ Die Archivfotografien machen die Größe der Figurenbilder im Ausstellungsraum e
 
 Ibragim Valikhodjaev neben einem Aktgemälde in einer Ausstellung. Archiv des Künstlers.
 
-[Besucher betrachten Valikhodjaevs Aktgemälde. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. Zur Ausstellung From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-Besucher betrachten Valikhodjaevs Aktgemälde. Archiv des Künstlers.
+Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)

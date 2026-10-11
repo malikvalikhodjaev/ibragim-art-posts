@@ -25,6 +25,8 @@ Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
 Ibragim Valikhodjaev wurde am 28. November 1958 in Namangan geboren. Vor den Ausstellungssälen, den Auslandsreisen und den großen Leinwänden steht Namangan. Hier wächst Ibragim Valikhodjaev mit drei älteren Schwestern auf. Sein Vater ist Handwerker und hatte zuvor beim städtischen Wehramt gearbeitet. Seine Mutter kümmert sich um Haushalt und Familie. Für den jüngsten Sohn bleibt das Elternhaus wichtig, auch nachdem die Malerei zu seinem Beruf geworden ist.
 
+Sein Vater schrieb auch Gedichte. Als Erwachsener veröffentlichte Ibragim eine Sammlung dieser Gedichte und bewahrte damit einen Teil des familiären Erbes. Das Detail erweitert den Blick auf das Elternhaus des späteren Künstlers: Handwerk und Dichtung gehörten beide zum Leben seines Vaters.
+
 Schon in der Schule will er Künstler werden. Doch zwischen diesem Kindheitswunsch und dem Beginn des Studiums liegen Jahre selbstständiger Arbeit. Seine späteren Marktszenen, Porträts und Bilder des ländlichen Lebens zeigen seine Aufmerksamkeit für den Alltag: für Menschen, ihre Tätigkeiten und ihre Umgebung. Hier verbindet sich die Geschichte des Malers mit der seiner Heimatstadt und Familie.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ Ausstellungsfotos zeigen die Begegnung des Bildes mit seinen Betrachtern. Freie 
 
 Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
-[Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. Zur Ausstellung From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Besucher vor Gemälden von Valikhodjaev. Archiv des Künstlers.
+Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nationalbank der Republik Usbekistan, Usbekistan, Taschkent, 2018. Archiv des Künstlers. [Zur Ausstellung From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 ## Die eigene Bildsprache lässt Raum für Veränderungen
 

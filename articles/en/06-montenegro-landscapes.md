@@ -4,7 +4,7 @@ language: "en"
 theme: 6
 description: "Boats, palms, pale stone and deep blue: a close look at two Perast paintings from Valikhodjaev’s Montenegro series of 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings
@@ -101,6 +101,12 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Twenty-one days, forty-two paintings
+
+According to family recollections, the artist returned from Montenegro in 2012 with 42 paintings made in 21 days. The exhibition 21 Days in Montenegro followed in Tashkent, from 28 June to 13 July 2012. This episode makes his productivity tangible: painting continued daily, while changing motifs brought new challenges. The views of Perast shown here reveal what that intensive practice involved — different ways of bringing water, architecture and distance into a coherent composition.
+
+[Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
 ## Reproductions from the artist’s archive
 

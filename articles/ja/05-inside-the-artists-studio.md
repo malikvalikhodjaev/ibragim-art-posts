@@ -4,7 +4,7 @@ language: "ja"
 theme: 5
 description: "巨匠ラヒム・アフメドフのアトリエから自身の指導へ。ヴァリホジャエフの観察、構図、制作過程に触れる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # アトリエの内側へ――見ること、学ぶこと、描くこと
@@ -112,6 +112,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 教える前から始まっていた工房の経験
+
+学院に入る前、ヴァリホジャエフはナマンガンで美術に関わる受注制作を行い、職人のチームを率いていた。1987年には、自身の最初の私設美術工房を開いた。生涯の年表に記されたこれらの節目は、教育の歩みに独立した仕事と運営の経験を加える。後年の学生との制作は、同じ職業人生の別の段階を示している。個人の探究が、他者にも観察し、話し合える開かれた過程になるのである。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
 ## 経験を伝える――西安での絵画マスタークラス
 

@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 6
 description: "黑山2012年户外写生系列：比较《佩拉斯特港》与棕榈树风景中的海水、建筑和空间。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 在黑山的二十一天：佩拉斯特的海岸风景
@@ -101,6 +101,12 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 二十一天，四十二幅画
+
+据家人回忆，艺术家2012年从黑山返回时，带回了在21天里创作的42幅画。随后，《黑山二十一天》展览于2012年6月28日至7月13日在塔什干举行。这段经历使他的创作效率变得具体可感：每天持续作画，变化的景物又带来新的绘画问题。这里的佩拉斯特风景呈现了密集创作的内容——如何以不同方式将水面、建筑与远景组织成完整的构图。
+
+[延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
 
 ## 艺术家档案中的作品图版
 

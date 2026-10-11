@@ -13,6 +13,8 @@ edition_date: "2026-10-11"
 
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 
+His father was a craftsman who also wrote poetry. As an adult, Ibragim published a collection of his father’s poems, preserving this part of the family’s heritage. This detail is drawn from family recollections.
+
 Born in 1958, he explores contemporary life, memory and Uzbek culture through a wide range of genres and series: Namangan bazaar scenes and everyday life; RED; early monochrome and restrained-palette paintings; nude figure studies, portraits and still lifes; village landscapes and plein air paintings of Uzbekistan, including Miraki; Montenegro landscapes; monumental abstraction; and metal sculpture, including floating works. His continuing research into colour, form, rhythm and composition connects these different directions. His colour ranges from clearly defined, contrasting planes to subtle transitions between warm and cool tones.
 
 He combines studio practice with the organisation and curation of exhibitions and international sculpture symposia. He has organised and curated eight symposia in Turkey and Uzbekistan and participated in plein air projects in both countries. His international work and creative visits also include China, Azerbaijan, Cyprus, Georgia and Kazakhstan.
@@ -339,13 +341,13 @@ The artist looking at a painting with a red colour field. Artist’s archive.
 
 Installation photographs reveal another part of a painting’s life: its encounter with viewers. Empty wall space, the intervals between pictures and room to step back alter the conditions of looking. The wider view establishes scale; the photograph with visitors shows the habit of approaching a work and returning to it from a distance.
 
-[Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. About the exhibition From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Visitors looking at paintings by Ibragim Valikhodjaev. Artist’s archive.
+Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
-[A view of the exhibition installation. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. About the exhibition From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-A view of the exhibition installation. Artist’s archive.
+Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank of the Republic of Uzbekistan, Uzbekistan, Tashkent, 2018. Artist’s archive. [About the exhibition From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 ## Recognition and a professional life
 

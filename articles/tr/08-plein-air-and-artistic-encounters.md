@@ -4,7 +4,7 @@ language: "tr"
 theme: 8
 description: "Karadağ, Türkiye, Özbekistan ve Azerbaycan’da açık hava resmi; Valikhodjaev’in katılımcı ve küratör olarak farklı rolleri."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Resme yer açmak: açık hava çalışmaları ve sanatsal buluşmalar
@@ -107,6 +107,12 @@ Türkiye, Semerkant ve Şabran'daki açık hava resim seansları ve Andican'daki
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Kesintisiz gözlemin getirdiği üretkenlik
+
+2012 Karadağ gezisi, Valikhodjaev’in çalışma temposuna somut bir örnektir: ailesinin anılarında 21 günde 42 resim yaptığı belirtilir. Açık hava buluşmasına ressam olarak katılmıştı. Sayı, çalışmanın yoğunluğunu; manzaralar ise bulunan çözümlerin çeşitliliğini gösterir. Hızlı çalışmak, motifin temel özelliklerini seçmeyi, renk ve mekân ilişkilerini korumayı gerektirir. Bu resimler ve Taşkent’teki sergileri, Karadağ’a ayrılan yazıda daha ayrıntılı ele alınır.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [Karadağ’da yirmi bir gün: Valikhodjaev’in kıyı manzaraları](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)
 
 ## Sanatçının arşivinden eser görselleri
 

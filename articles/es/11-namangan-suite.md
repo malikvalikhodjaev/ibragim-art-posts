@@ -4,7 +4,7 @@ language: "es"
 theme: 11
 description: "Suite de Namangan de cerca: gestos, pañuelos blancos, gorros bordados y grupos de figuras en una panorámica del bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «Suite de Namangan»: la vida dentro de un gran lienzo
@@ -116,6 +116,20 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 Material editorial de la Valikhodjaev Gallery House. Las fuentes de las ilustraciones se indican en los pies de foto.
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Del trabajo de diploma a un lenguaje reconocible
+
+El bazar atrajo a Valikhodjaev durante los últimos años de sus estudios y se convirtió en el tema de su trabajo de diploma. Nacido de la observación realista, ese interés se amplió después en grandes lienzos con numerosas figuras. Los cuadros del Bazar de los doppi de 2002 y 2004 muestran ya la evolución del tema: grupos densos, prendas claras que se repiten y pequeños dibujos de las mercancías forman una estructura pictórica autónoma. El bazar llegaría a ser una de sus señas reconocibles, mientras la curiosidad lo seguía llevando hacia otros temas, la abstracción y la escultura.
+
+[«El mercado de doppi — gorros tradicionales», 2002. 100 × 120 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+«El mercado de doppi — gorros tradicionales», 2002. 100 × 120 cm. Reproducción del archivo del artista.
+
+[«El mercado de doppi», 2004. 100 × 90 cm. Reproducción del archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«El mercado de doppi», 2004. 100 × 90 cm. Reproducción del archivo del artista.
+
+[Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
 ## Reproducciones del archivo del artista
 

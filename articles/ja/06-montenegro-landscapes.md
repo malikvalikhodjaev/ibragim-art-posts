@@ -4,7 +4,7 @@ language: "ja"
 theme: 6
 description: "2012年のペラストの港とヤシの風景。水、石造りの町、空を通して見るヴァリホジャエフのモンテネグロ作品。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # モンテネグロの21日間――ヴァリホジャエフが描く海辺の町
@@ -101,6 +101,12 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 二十一日間、四十二点の絵画
+
+家族の回想によれば、画家は2012年、21日間で制作した42点の絵画を携えてモンテネグロから帰国した。その後、2012年6月28日から7月13日まで、タシケントで《モンテネグロでの21日間》展が開かれた。この出来事は、多作ぶりを具体的に伝える。日々制作を続け、変わる風景が新しい絵画上の課題をもたらした。ここに掲載したペラストの風景は、水面、建築、遠景を一つの構図に結びつける、その密度の高い実践を示している。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
 ## 画家のアーカイブからの作品図版
 

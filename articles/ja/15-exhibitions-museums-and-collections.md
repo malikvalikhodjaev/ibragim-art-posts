@@ -4,7 +4,7 @@ language: "ja"
 theme: 15
 description: "ハルビンの美術館、イスタンブールの自治体コレクション、モスクワの個人所蔵。展覧会と収蔵の違いを読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_49.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 展覧会のその先へ――美術館とコレクションにある作品
@@ -110,14 +110,14 @@ Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプシ
 
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[イブラギム・ヴァリホジャエフの作品が並ぶ展示室の全景。画家のアーカイブより。展覧会名と撮影日は未確認。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 2018年の展覧会「夢から運命へ」について](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-イブラギム・ヴァリホジャエフの作品が並ぶ展示室の全景。画家のアーカイブより。展覧会名と撮影日は未確認。
+イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)
 
 ## 絵画と展示空間
 
 展示写真は作品と観客の出会いを示す。壁の余白、作品同士の間隔、後ろへ下がる空間が鑑賞条件を変える。全景は大きさを伝え、来場者を写した写真は近くで見た後に離れて眺める動きを伝える。
 
-[ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 2018年の展覧会「夢から運命へ」について](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。
+イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)

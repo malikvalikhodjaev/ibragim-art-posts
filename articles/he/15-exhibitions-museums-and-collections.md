@@ -4,7 +4,7 @@ language: "he"
 theme: 15
 description: "יצירות וליכודג'ייב בחרבין, איסטנבול ובאוסף פרטי במוסקבה; תערוכות ומפגש עם קהל מחוץ לאוזבקיסטן."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_05.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # מעבר לגבולות: יצירות וליכודג'ייב במוזיאונים ובאוספים
@@ -112,17 +112,17 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [UzA - תערוכת אמנות אוזבקיסטן בבייג'ינג, 23 בינואר 2024 (טקסט אוזבקי)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[מבט כללי על אולם שבו מוצגות יצירות של איברגים וליחודז'אייב. ארכיון האמן; שם התערוכה ותאריכה לא אושרו.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. על התערוכה From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-מבט כללי על אולם שבו מוצגות יצירות של איברגים וליחודז'אייב. ארכיון האמן; שם התערוכה ותאריכה לא אושרו.
+תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. [על התערוכה From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 ## הציור בחלל התערוכה
 
 תצלומי התצוגה מראים את המפגש של הציור עם הצופים. שטחי הקיר הריקים, המרווחים בין היצירות והאפשרות לסגת לאחור משנים את תנאי ההתבוננות. המראה הכללי מבהיר קנה מידה, ותצלום המבקרים מראה את התנועה בין מבט מקרוב למבט מרחוק.
 
-[מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. על התערוכה From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.
+תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. [על התערוכה From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 
 </div>

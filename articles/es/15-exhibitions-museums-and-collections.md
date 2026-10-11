@@ -4,7 +4,7 @@ language: "es"
 theme: 15
 description: "Las obras de Valikhodjaev en museos y colecciones: Harbin, Estambul y Moscú. La historia de una exposición y la de una colección."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/despues-de-la-exposicion-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Después de la exposición: Ibragim Valikhodjaev en museos y colecciones
@@ -110,14 +110,14 @@ Material editorial de la Valikhodjaev Gallery House. Las fuentes de las ilustrac
 
 [UzA — Exposición de arte de Uzbekistán en Beijing, 23 de enero de 2024 (texto en uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. Sobre la exposición From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Vista general de una sala con obras de Ibragim Valikhodjaev. Archivo del artista; título y fecha de la exposición no confirmados.
+Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. [Sobre la exposición From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 ## El cuadro en el espacio expositivo
 
 Las fotografías del montaje muestran el encuentro del cuadro con el público. La pared vacía, la separación entre obras y el espacio para retroceder modifican la percepción. La vista general establece la escala; la presencia de visitantes muestra cómo se pasa de mirar de cerca a contemplar desde lejos.
 
-[Visitantes ante las pinturas de Valikhodjaev. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. Sobre la exposición From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Visitantes ante las pinturas de Valikhodjaev. Archivo del artista.
+Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. [Sobre la exposición From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)

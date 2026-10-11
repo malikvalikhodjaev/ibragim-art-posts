@@ -105,6 +105,6 @@ Las fotografías de archivo devuelven a las pinturas de figuras su escala en la 
 
 Ibragim Valikhodjaev junto a una pintura de desnudo en una exposición. Archivo del artista.
 
-[Visitantes ante las pinturas de desnudo de Valikhodjaev. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. Sobre la exposición From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-Visitantes ante las pinturas de desnudo de Valikhodjaev. Archivo del artista.
+Exposición individual de Ibragim Valikhodjaev, Galería de Bellas Artes del Banco Nacional de la República de Uzbekistán, Uzbekistán, Taskent, 2018. Archivo del artista. [Sobre la exposición From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)

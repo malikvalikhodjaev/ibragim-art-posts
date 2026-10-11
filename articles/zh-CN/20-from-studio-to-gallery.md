@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 20
 description: "画家、策展人、教师与画廊创始人：瓦利霍贾耶夫如何把个人探索带入公共艺术交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_40.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 从工作室到画廊：艺术家如何创造相遇的空间
@@ -115,6 +115,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## Tumor：私人画廊历程的开端
+
+他的创办者经历远早于Gallery House。1987年，瓦利霍贾耶夫创办私人艺术作坊；1993年，他在纳曼干开设Tumor画廊，并经营至1999年。现行生平年表将Tumor记为乌兹别克斯坦第一家私人艺术画廊。这一节点呈现了他为艺术创造空间的先行实践。后来在塔什干的画廊活动属于更长的历程：艺术家既创作作品，也为作品与观众的相遇建立条件。
+
+[延伸阅读：艺术家的生平与创作历程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
+
 ## 展览工作视频
 
 这两段档案视频呈现艺术家参与展览筹备及巡视展厅的情景。展览名称、地点和拍摄日期目前尚未确定。
@@ -131,13 +137,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 展览照片展示了作品与观众相遇的另一面。墙面的留白、画作之间的距离，以及向后退步的空间，都会改变观看条件。全景表现作品的尺度，观众入镜的照片则呈现近看与远观之间的切换。
 
-[观众观看瓦利霍贾耶夫的作品。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 关于2018年展览《从梦想到命运》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-观众观看瓦利霍贾耶夫的作品。 艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 [关于2018年展览《从梦想到命运》](<https://art-blog.uz/archives/30280>)
 
-[展览陈列全景。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 关于2018年展览《从梦想到命运》](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-展览陈列全景。 艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫个展，乌兹别克斯坦共和国国家银行美术馆，乌兹别克斯坦，塔什干，2018年。艺术家档案。 [关于2018年展览《从梦想到命运》](<https://art-blog.uz/archives/30280>)
 
 [瓦利霍贾耶夫与恩师拉希姆·艾哈迈多夫在展览交流活动中。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

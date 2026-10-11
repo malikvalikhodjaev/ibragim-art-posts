@@ -4,7 +4,7 @@ language: "he"
 theme: 20
 description: "צייר, מורה, אוצר ומייסד גלריה: כיצד עבודתו של וליכודג'ייב מקשרת בין הסטודיו, התערוכה והקהל."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_66.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # מהסטודיו לגלריה: וליכודג'ייב יוצר מקום לאמנות
@@ -117,6 +117,12 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## טומור: ראשיתה של גלריה פרטית
+
+ניסיונו כמייסד החל זמן רב לפני Gallery House. ב־1987 הקים וליכודג׳ייב סדנת אמנות פרטית; ב־1993 פתח בנמנגן את גלריית טומור, שניהל עד 1999. הכרונולוגיה הביוגרפית העדכנית מציינת שטומור הייתה גלריית האמנות הפרטית הראשונה באוזבקיסטן. תחנה זו מגלה את עבודתו החלוצית ביצירת מקום לאמנות. פעילותו המאוחרת בטשקנט שייכת לסיפור ארוך יותר של אמן היוצר עבודות ואת התנאים למפגש בינן ובין הקהל.
+
+[להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
+
 ## עבודת התערוכה בסרטונים
 
 שני סרטוני הארכיון מציגים את השתתפות האמן בהכנת תערוכה ובסיור בה. שם התערוכה, מקומה ותאריך הצילום עדיין אינם ידועים.
@@ -133,13 +139,13 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 תצלומי התצוגה מראים את המפגש של הציור עם הצופים. שטחי הקיר הריקים, המרווחים בין היצירות והאפשרות לסגת לאחור משנים את תנאי ההתבוננות. המראה הכללי מבהיר קנה מידה, ותצלום המבקרים מראה את התנועה בין מבט מקרוב למבט מרחוק.
 
-[מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. על התערוכה From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-מבקרים מתבוננים בציוריו של וליחודז'אייב. ארכיון האמן.
+תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. [על התערוכה From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
-[מראה כללי של התצוגה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. על התערוכה From Dream to Destiny, 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-מראה כללי של התצוגה. ארכיון האמן.
+תערוכת יחיד של איברגים וליחודז׳אייב, הגלריה לאמנויות יפות של הבנק הלאומי של רפובליקת אוזבקיסטן, אוזבקיסטן, טשקנט, 2018. ארכיון האמן. [על התערוכה From Dream to Destiny, 2018](<https://art-blog.uz/archives/30280>)
 
 [וליחודז'אייב ומורו רחים אחמדוב במפגש בתערוכה. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

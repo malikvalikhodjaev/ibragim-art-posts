@@ -4,7 +4,7 @@ language: "ja"
 theme: 19
 description: "「祈り」「壺」「まなざし」「聖なる石」。抑制された色彩と微妙な明暗が形を生む初期作品を読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 抑えた色彩の静けさ――白と灰色の初期作品
@@ -109,6 +109,20 @@ Valikhodjaev Gallery House
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 初期の制作を一つの様式にまとめない
+
+抑えた色調は、同じ時期の別の探究と並べて見ることが大切である。1991年の《天使》では、座る女性の顔と手に注意が向けられる。同年の《叫び》では、暗い塊と鋭い明色のアクセントが大きな役割を果たす。これらは、それぞれの絵画的な課題の独立性を保ちながら、初期制作への視野を広げる。バザールの絵画、RED、抽象への歩みは、完成した一つの様式を別の様式に取り替えることよりも、好奇心の持続として捉えるほうが適切だろう。
+
+[《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《天使》, 1991. 100 × 100 cm. 図版は画家のアーカイブより。
+
+[《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《叫び》, 1991. 110 × 100 cm. 図版は画家のアーカイブより。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
 ## アトリエで：展覧会の前と後
 

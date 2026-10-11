@@ -4,7 +4,7 @@ language: "fr"
 theme: 19
 description: "Prière, Cruches, Regard et Pierres sacrées : nuances de tons et formes expressives dans les premières peintures."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Le silence d’une palette retenue : les premières œuvres en blanc et gris
@@ -109,6 +109,20 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Les premières années ne se résument pas à un seul style
+
+La palette retenue mérite d’être regardée à côté des autres recherches de ces années. Dans L’Ange de 1991, l’attention se porte sur une femme assise, son visage et ses mains ; dans Le Cri, peint la même année, une masse sombre et des accents clairs tranchés jouent un rôle majeur. Ces œuvres élargissent le regard sur les débuts, tout en préservant la singularité de chaque question picturale. L’évolution vers les scènes de bazar, RED et l’abstraction se comprend ainsi comme la poursuite de sa curiosité plutôt que comme l’échange d’un style définitif contre un autre.
+
+[«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«L’Ange», 1991. 100 × 100 cm. Reproduction provenant des archives de l’artiste.
+
+[«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«Le Cri», 1991. 110 × 100 cm. Reproduction provenant des archives de l’artiste.
+
+[Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
 ## Dans l’atelier, avant et après l’exposition
 

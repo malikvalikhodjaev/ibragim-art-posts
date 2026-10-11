@@ -4,7 +4,7 @@ language: "ja"
 theme: 20
 description: "画家、教師、キュレーター、ギャラリー創設者。ヴァリホジャエフが作品と観客の出会いをつくる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_12.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # アトリエからギャラリーへ――芸術の居場所をつくる
@@ -115,6 +115,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## トゥモル：私設ギャラリーの歩みの始まり
+
+創設者としての経験は、Gallery Houseよりはるか以前に始まっていた。ヴァリホジャエフは1987年に私設美術工房を設立し、1993年にはナマンガンでギャラリー・トゥモルを開き、1999年まで運営した。現在の生涯年表は、トゥモルをウズベキスタン初の私設美術ギャラリーと位置づけている。この節目は、芸術のための場所をつくる先駆的な実践を伝える。後のタシケントでの活動は、作品とともに、作品が観客と出会う条件をつくる芸術家の長い歩みの一部である。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
+
 ## 展覧会の仕事を映像で見る
 
 この2本の記録映像には、画家が展示の準備と見学に参加する様子が収められている。展覧会名、場所、撮影日は現時点では不明。
@@ -131,13 +137,13 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 展示写真は作品と観客の出会いを示す。壁の余白、作品同士の間隔、後ろへ下がる空間が鑑賞条件を変える。全景は大きさを伝え、来場者を写した写真は近くで見た後に離れて眺める動きを伝える。
 
-[ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 2018年の展覧会「夢から運命へ」について](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-ヴァリホジャエフの作品を見る来場者。 画家のアーカイブより。
+イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)
 
-[展示会場の全景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 2018年の展覧会「夢から運命へ」について](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-展示会場の全景。 画家のアーカイブより。
+イブラギム・ヴァリホジャエフの個展、ウズベキスタン共和国国立銀行美術ギャラリー、ウズベキスタン、タシケント、2018年。画家のアーカイブより。 [2018年の展覧会「夢から運命へ」について](<https://art-blog.uz/archives/30280>)
 
 [展覧会でのヴァリホジャエフと師ラヒム・アフメドフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

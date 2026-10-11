@@ -4,7 +4,7 @@ language: "fr"
 theme: 6
 description: "Barques, palmiers et pierre claire : deux paysages de Perast dans la série monténégrine de Valikhodjaev, réalisée en 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev
@@ -101,6 +101,12 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Vingt et un jours, quarante-deux tableaux
+
+Selon les souvenirs familiaux, l’artiste est revenu du Monténégro en 2012 avec 42 tableaux peints en 21 jours. L’exposition Vingt et un jours au Monténégro a ensuite eu lieu à Tachkent, du 28 juin au 13 juillet 2012. Cet épisode rend sa productivité tangible : le travail se poursuivait chaque jour, tandis que les changements de motif apportaient de nouvelles questions picturales. Les vues de Perast présentées ici révèlent le contenu de cette pratique intense : différentes façons de réunir eau, architecture et lointain dans une composition cohérente.
+
+[Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
 ## Reproductions issues des archives de l’artiste
 

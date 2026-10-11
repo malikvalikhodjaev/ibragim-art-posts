@@ -4,7 +4,7 @@ language: "he"
 theme: 19
 description: "«תפילה», «כדים», «מבט» ו«אבנים קדושות»: גוונים עדינים, מרווחים ומתח בציוריו המוקדמים של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_803.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # פלטה מצומצמת, מתח רב: בציוריו המוקדמים של וליכודג'ייב
@@ -111,6 +111,20 @@ Valikhodjaev Gallery House
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [בית הגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## השנים המוקדמות אינן מסתכמות בסגנון אחד
+
+כדאי להתבונן בפלטה המאופקת לצד חיפושים אחרים מאותן שנים. במלאך מ־1991 תשומת הלב מופנית לאישה יושבת, לפניה ולידיה; בצעקה מאותה שנה יש תפקיד מרכזי למסה כהה ולהדגשות בהירות חדות. היצירות מרחיבות את תמונת ההתחלה, תוך שמירה על ייחודה של כל שאלה ציורית. לכן המעבר לציורי הבזאר, ל־RED ולהפשטה מובן יותר כהמשך הסקרנות מאשר כהחלפת סגנון סופי אחד באחר.
+
+[״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+״מלאך״, 1991. 100 × 100 ס״מ. תצלום היצירה מארכיון האמן.
+
+[״זעקה״, 1991. 110 × 100 ס״מ. תצלום היצירה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+״זעקה״, 1991. 110 × 100 ס״מ. תצלום היצירה מארכיון האמן.
+
+[להמשך הקריאה: חייו ודרכו האמנותית של האמן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
 
 ## בסטודיו, לפני התערוכה ואחריה
 

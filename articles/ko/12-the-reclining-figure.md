@@ -105,6 +105,6 @@ Valikhodjaev Gallery House
 
 전시에서 누드화 곁에 선 이브라김 발리호자예프. 화가의 소장 자료.
 
-[발리호자예프의 누드화를 감상하는 관람객. 화가의 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. 2018년 전시 《꿈에서 운명으로》에 관하여](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-발리호자예프의 누드화를 감상하는 관람객. 화가의 소장 자료.
+이브라김 발리호자예프 개인전, 우즈베키스탄 공화국 국립은행 미술갤러리, 우즈베키스탄, 타슈켄트, 2018년. 화가의 아카이브. [2018년 전시 《꿈에서 운명으로》에 관하여](<https://art-blog.uz/archives/30280>)

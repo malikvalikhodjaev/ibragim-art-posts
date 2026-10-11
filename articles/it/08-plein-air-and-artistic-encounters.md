@@ -4,7 +4,7 @@ language: "it"
 theme: 8
 description: "Pittura en plein air in Montenegro, Turchia, Uzbekistan e Azerbaigian: incontri e pratica curatoriale di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Fare spazio alla pittura: plein air e incontri artistici
@@ -107,6 +107,12 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini sono indicate nelle didascalie.
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## La produttività come osservazione continua
+
+Il viaggio in Montenegro del 2012 offre un esempio concreto del ritmo di lavoro di Valikhodjaev: i ricordi familiari riferiscono di 42 dipinti in 21 giorni. Partecipava all’incontro di pittura en plein air come pittore. Il numero comunica l’intensità del lavoro; i paesaggi mostrano la varietà delle soluzioni. Dipingere rapidamente richiede di scegliere gli elementi essenziali del motivo e mantenere i rapporti di colore e spazio. L’articolo sul Montenegro approfondisce queste opere e il loro successivo approdo alla mostra di Tashkent.
+
+[Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [Ventuno giorni in Montenegro: i paesaggi costieri di Valikhodjaev](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)
 
 ## Riproduzioni dall’archivio dell’artista
 

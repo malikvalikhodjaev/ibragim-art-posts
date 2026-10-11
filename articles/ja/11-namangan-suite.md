@@ -4,7 +4,7 @@ language: "ja"
 theme: 11
 description: "「ナマンガン組曲」に描かれた人々、手の動き、白い頭布、ドッピ帽。市場の日常が絵画の構成へと変わる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_67.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 「ナマンガン組曲」――大きな絵画の中に息づく日常
@@ -116,6 +116,20 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプションに記載されている。
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 卒業制作の主題から、識別できる画風へ
+
+バザールは学生時代の最後の数年間にヴァリホジャエフを惹きつけ、卒業制作の主題となった。写実的な観察から始まった関心は、後に多くの人物を配した大画面へと広がる。2002年と2004年の《ドッピのバザール》は、主題の展開を示している。密集した人々、繰り返される明るい衣服、商品の細かな模様が、独自の絵画的な秩序を生む。バザールは彼の特徴の一つになるが、好奇心は別の主題や抽象、彫刻へと彼を導き続ける。
+
+[《ドゥッピの市場 — 伝統的な帽子の市場》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+《ドゥッピの市場 — 伝統的な帽子の市場》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。
+
+[《ドゥッピの市場》, 2004. 100 × 90 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《ドゥッピの市場》, 2004. 100 × 90 cm. 図版は画家のアーカイブより。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
 ## 画家のアーカイブからの作品図版
 

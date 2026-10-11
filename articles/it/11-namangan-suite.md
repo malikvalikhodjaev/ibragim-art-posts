@@ -4,7 +4,7 @@ language: "it"
 theme: 11
 description: "Dentro la Suite di Namangan: gesti quotidiani, foulard bianchi e copricapi ricamati nella grande scena di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «Suite di Namangan»: la vita dentro una grande tela
@@ -116,6 +116,20 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle illustrazioni sono indicate nelle didascalie.
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Dal tema di diploma a una cifra riconoscibile
+
+Il bazar attirò Valikhodjaev negli ultimi anni di studio e divenne il tema del suo lavoro di diploma. Nato dall’osservazione realistica, questo interesse si sviluppò poi in grandi tele con numerose figure. I dipinti del Bazar dei doppi del 2002 e 2004 mostrano già l’evoluzione del tema: gruppi fitti, ricorrenze di abiti chiari e piccoli motivi delle merci formano una struttura pittorica autonoma. Il bazar diverrà una delle sue cifre riconoscibili, mentre la curiosità continuerà a condurlo verso altri soggetti, l’astrazione e la scultura.
+
+[«Il mercato dei doppi — copricapi tradizionali», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+«Il mercato dei doppi — copricapi tradizionali», 2002. 100 × 120 cm. Riproduzione dall’archivio dell’artista.
+
+[«Il mercato dei doppi», 2004. 100 × 90 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Il mercato dei doppi», 2004. 100 × 90 cm. Riproduzione dall’archivio dell’artista.
+
+[Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
 ## Riproduzioni dall’archivio dell’artista
 

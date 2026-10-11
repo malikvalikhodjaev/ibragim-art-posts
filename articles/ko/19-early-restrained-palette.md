@@ -4,7 +4,7 @@ language: "ko"
 theme: 19
 description: "「기도」「항아리들」「시선」「성스러운 돌들」. 절제된 색채와 미묘한 명암으로 형태를 만드는 초기 작품들."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_06.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 절제된 색채의 고요 — 흰색과 회색의 초기 작품들
@@ -109,6 +109,20 @@ Valikhodjaev Gallery House
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 초기 작업을 하나의 양식으로 묶지 않기
+
+절제된 팔레트는 같은 시기의 다른 탐구와 나란히 살펴보는 것이 좋다. 1991년의 《천사》에서는 앉아 있는 여성의 얼굴과 손에 시선이 모인다. 같은 해의 《외침》에서는 어두운 덩어리와 날카로운 밝은 강조가 큰 역할을 한다. 이 작품들은 각각의 회화적 문제를 독립적으로 유지하면서 초기 작업에 대한 시야를 넓힌다. 따라서 바자르 그림, RED, 추상으로 향하는 길은 완성된 한 양식을 다른 것으로 바꾸는 일보다 호기심이 지속되는 과정으로 이해하는 편이 적절하다.
+
+[《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+《천사》, 1991. 100 × 100 cm. 화가의 아카이브에서 가져온 도판.
+
+[《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+《외침》, 1991. 110 × 100 cm. 화가의 아카이브에서 가져온 도판.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
 ## 작업실에서: 전시 전후의 시간
 

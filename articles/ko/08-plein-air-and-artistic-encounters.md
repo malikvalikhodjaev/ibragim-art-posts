@@ -4,7 +4,7 @@ language: "ko"
 theme: 8
 description: "터키, 우즈베키스탄, 몬테네그로, 아제르바이잔의 야외 제작. 변화하는 빛과 예술가들의 교류를 살펴본다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_13.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 그림을 위한 자리 — 야외 제작과 예술가들의 만남
@@ -107,6 +107,12 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에 표시되어 있다.
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 꾸준한 관찰에서 나오는 풍부한 작업
+
+2012년 몬테네그로 방문은 발리호자예프의 작업 속도를 보여 주는 구체적인 사례다. 가족은 그가 21일 동안 그림 42점을 그렸다고 회상한다. 그는 이 야외 제작 모임에 화가로 참여했다. 작품 수는 작업의 밀도를, 풍경화는 해결 방식의 다양성을 전한다. 빠르게 그리려면 풍경의 핵심을 골라 색과 공간의 관계를 유지해야 한다. 이 그림들과 이후 타슈켄트 전시는 몬테네그로를 다룬 글에서 더 자세히 살펴볼 수 있다.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>) · [몬테네그로의 21일 — 발리호자예프가 그린 해안 도시](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html>)
 
 ## 작가 소장 자료에서 선별한 작품 이미지
 

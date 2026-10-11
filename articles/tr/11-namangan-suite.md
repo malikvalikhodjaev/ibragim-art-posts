@@ -4,7 +4,7 @@ language: "tr"
 theme: 11
 description: "Namangan Süiti’nde çarşı hayatı: insan grupları, el hareketleri, işlemeli takkeler, beyaz başörtüleri ve canlı renkler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «Namangan Süiti»: büyük bir tablonun içindeki hayat
@@ -116,6 +116,20 @@ Oksana Kadysheva, 2012'de San'at'ta yazdığı bir yazıda, sanatçının çarş
 Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsellerin kaynakları alt yazılarda belirtilmiştir.
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Diploma konusundan tanınan bir sanat diline
+
+Pazar, öğreniminin son yıllarında Valikhodjaev’in ilgisini çekmiş ve diploma çalışmasının konusu olmuştu. Gerçekçi gözlemle başlayan bu ilgi, daha sonra çok figürlü büyük tuvallere açıldı. 2002 ve 2004 tarihli Duppi Pazarı resimleri konunun gelişmiş aşamasını gösterir: sıkışık figürler, yinelenen açık renk giysiler ve malların küçük desenleri bağımsız bir resimsel yapı oluşturur. Pazar, sanatçının tanınan özelliklerinden biri olurken merakı onu başka konulara, soyutlamaya ve heykele götürmeyi sürdürdü.
+
+[“Duppi Pazarı — geleneksel takke pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+“Duppi Pazarı — geleneksel takke pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.
+
+[“Duppi Pazarı”, 2004. 100 × 90 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+“Duppi Pazarı”, 2004. 100 × 90 cm. Sanatçının arşivinden röprodüksiyon.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
 ## Sanatçının arşivinden eser görselleri
 

@@ -4,7 +4,7 @@ language: "fa"
 theme: 20
 description: "نقاش، مدرس، نمایشگاه‌گردان و مؤسس گالری: چگونه اثر از آتلیه به گفتگویی با مخاطب می‌رسد."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_90.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # از آتلیه تا گالری: چگونه ولی‌خوجایف فضایی برای هنر می‌سازد
@@ -117,6 +117,12 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## تومور: آغاز یک تجربهٔ گالری خصوصی
+
+تجربهٔ او در تأسیس فضاهای هنری بسیار پیش‌تر از Gallery House آغاز شد. والیخوجایف در سال ۱۹۸۷ کارگاه هنری خصوصی ساخت و در سال ۱۹۹۳ گالری تومور را در نمنگان افتتاح کرد که تا ۱۹۹۹ مدیریتش را بر عهده داشت. زندگی‌نامهٔ زمانیِ کنونی، تومور را نخستین گالری هنری خصوصی ازبکستان معرفی می‌کند. این مرحله نقش پیشگام او در ایجاد مکانی برای هنر را نشان می‌دهد. فعالیت‌های بعدی در تاشکند بخشی از مسیر طولانی‌تر هنرمندی است که هم اثر می‌آفریند و هم زمینهٔ دیدار اثر با مخاطب را فراهم می‌کند.
+
+[ادامهٔ مطلب: زندگی و مسیر هنری هنرمند](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
+
 ## فعالیت نمایشگاهی در ویدیو
 
 این دو ویدیوی آرشیوی، مشارکت هنرمند در آماده‌سازی و بازدید از یک نمایشگاه را نشان می‌دهند. نام نمایشگاه، محل و تاریخ فیلم‌برداری هنوز مشخص نشده است.
@@ -133,13 +139,13 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 عکس‌های چیدمان، دیدار تابلو با تماشاگر را نشان می‌دهند. بخش‌های خالی دیوار، فاصلهٔ آثار و امکان عقب رفتن، شرایط دیدن را تغییر می‌دهند. نمای کلی مقیاس را روشن می‌کند و عکس بازدیدکنندگان حرکت میان نگاه نزدیک و دور را نشان می‌دهد.
 
-[بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
-[نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-نمای کلی چیدمان نمایشگاه. آرشیو هنرمند.
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
 [ولی‌خواجه‌اف و استادش رحیم احمدوف در دیداری در نمایشگاه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

@@ -4,7 +4,7 @@ language: "ko"
 theme: 11
 description: "「나망간 모음곡」 속 인물과 손짓, 머릿수건과 도피 모자. 시장의 일상이 하나의 회화로 구성되는 방식."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_219.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 「나망간 모음곡」 — 큰 그림 안에 살아 있는 일상
@@ -116,6 +116,20 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 Valikhodjaev Gallery House의 편집 자료이다. 도판의 출처는 캡션에 표시되어 있다.
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 졸업 작품의 주제에서 알아볼 수 있는 화풍으로
+
+바자르는 학업의 마지막 몇 년 동안 발리호자예프의 관심을 끌었고 졸업 작품의 주제가 됐다. 사실적인 관찰에서 시작한 관심은 훗날 여러 인물을 담은 대형 화면으로 펼쳐졌다. 2002년과 2004년의 《도피 바자르》는 이 주제의 발전을 보여 준다. 밀집한 인물들, 반복되는 밝은 옷, 상품의 작은 무늬가 독자적인 회화적 질서를 만든다. 바자르는 그의 특징 가운데 하나가 되지만, 호기심은 계속해서 다른 소재와 추상, 조각으로 그를 이끈다.
+
+[《도피 시장 — 전통 모자 시장》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+《도피 시장 — 전통 모자 시장》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.
+
+[《도피 시장》, 2004. 100 × 90 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+《도피 시장》, 2004. 100 × 90 cm. 화가의 아카이브에서 가져온 도판.
+
+[이어 읽기: 예술가의 삶과 창작 여정](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
 ## 작가 소장 자료에서 선별한 작품 이미지
 

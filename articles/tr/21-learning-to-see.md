@@ -25,6 +25,8 @@ Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
 İbragim Valikhodjaev, 28 Kasım 1958’de Namangan’da doğdu. Sergi salonlarından, uluslararası yolculuklardan ve büyük tuvallerden önce Namangan vardı. Ibragim Valikhodjaev burada üç ablasıyla büyüdü. Babası zanaatkârdı; daha önce şehrin askerlik şubesinde çalışmıştı. Annesi ev ve aileyle ilgileniyordu. Ailenin en küçük oğlu için doğduğu ev, resim mesleği olduktan sonra da hayatındaki önemini korudu.
 
+Babası şiir de yazardı. İbragim, yetişkinlik yıllarında babasının şiirlerini bir kitapta yayımlayarak aile mirasının bu bölümünü korudu. Bu ayrıntı, geleceğin sanatçısının büyüdüğü evi daha yakından tanımamızı sağlar: babasının yaşamında zanaat ile şiir yan yana yer alıyordu.
+
 Daha okuldayken ressam olmak istiyordu. Ancak bu çocukluk isteğiyle yükseköğrenime başlaması arasında kendi başına çalıştığı yıllar bulunur. Daha sonra yaptığı pazar sahneleri, portreler ve kırsal yaşam resimleri gündelik hayata verdiği önemi gösterir: insanlar, uğraşları ve çevreleri. Sanatçının hikâyesi burada doğduğu şehrin ve ailesinin tarihiyle buluşur.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar al
 
 Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
 
-[Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
 
 ## Bulunan dil, değişime açık bir alan bırakıyor.
 

@@ -27,6 +27,8 @@ edition_date: "2026-10-11"
 
 وُلد إبراهيم فاليخودجاييف في نامانغان في 28 نوفمبر 1958. قبل قاعات المعارض والرحلات الدولية واللوحات الكبيرة، كانت نمنغان. هناك نشأ إبراهيم فاليخوجاييف مع ثلاث أخوات أكبر منه. كان والده حرفيًا، وقد عمل من قبل في مكتب التجنيد بالمدينة. وكانت والدته تتولى شؤون البيت والأسرة. وبالنسبة إلى الابن الأصغر، ظل بيت العائلة جزءًا مهمًا من حياته حتى بعدما أصبح الرسم مهنته.
 
+كان والده يكتب الشعر أيضًا. وفي مرحلة لاحقة من حياته، نشر إبراهيم مجموعة من قصائد والده، محافظًا على هذا الجانب من إرث الأسرة. تضيف هذه المعلومة بُعدًا آخر إلى صورة البيت الذي نشأ فيه الفنان: فقد اجتمعت الحرفة والشعر في حياة أبيه.
+
 أراد أن يكون فنانًا منذ سنوات المدرسة. لكن سنوات من العمل المستقل فصلت بين رغبة الطفولة والالتحاق بالتعليم العالي. وتظهر مشاهد الأسواق والبورتريهات ولوحات الحياة الريفية التي رسمها لاحقًا اهتمامه بالحياة اليومية: الناس وأعمالهم وبيئتهم. هنا تتقاطع سيرة الرسام مع تاريخ مدينته وأسرته.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -213,9 +215,9 @@ edition_date: "2026-10-11"
 
 معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. [عن معرض «من الحلم إلى المصير»، 2018](<https://art-blog.uz/archives/30280>)
 
-[زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. عن معرض «من الحلم إلى المصير»، 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-زوار يتأملون لوحات فاليخوجاييف. أرشيف الفنان.
+معرض فردي لإبراهيم فاليخوجاييف، معرض الفنون الجميلة التابع للبنك الوطني لجمهورية أوزبكستان، أوزبكستان، طشقند، 2018. أرشيف الفنان. [عن معرض «من الحلم إلى المصير»، 2018](<https://art-blog.uz/archives/30280>)
 
 ## اللغة المستخدمة تترك مجالاً للتغيير
 

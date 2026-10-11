@@ -25,6 +25,8 @@ edition_date: "2026-10-11"
 
 Ибрагим Валиходжаев родился 28 ноября 1958 года в Намангане. До выставочных залов, международных поездок и больших полотен был Наманган — город, где Ибрагим Валиходжаев рос с тремя старшими сёстрами. Его отец был ремесленником, а прежде работал в городском военкомате. Мать занималась домом и семьёй. Для младшего сына родной дом остался важной частью жизни и после того, как живопись стала профессией.
 
+Отец также писал стихи. Уже во взрослом возрасте Ибрагим издал сборник его стихотворений, сохранив эту часть семейного наследия. Эта подробность дополняет рассказ о доме, в котором будущий художник вырос: ремесло и поэзия были частью жизни его отца.
+
 Стать художником он хотел ещё в школе. Однако между детским увлечением и поступлением в институт лежали годы самостоятельной работы. Позднейшие базарные сцены, портреты и картины сельской жизни показывают, насколько значим для его искусства мир повседневности: люди, их занятия и окружающая среда. Здесь рассказ о художнике соприкасается с историей родного города и семьи.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
@@ -211,9 +213,9 @@ edition_date: "2026-10-11"
 
 Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)
 
-[Посетители у картин Ибрагима Валиходжаева. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. О выставке «От мечты к судьбе», 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Посетители у картин Ибрагима Валиходжаева. Архив художника.
+Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)
 
 ## Найденный язык оставляет место переменам
 

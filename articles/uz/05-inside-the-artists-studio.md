@@ -4,7 +4,7 @@ language: "uz"
 theme: 5
 description: "Rahim Ahmedov ustaxonasidan shogirdlar bilan mashg‘ulotlargacha: kuzatish, kompozitsiya va professional tajribani yetkazish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Rassom ustaxonasida: kuzatish, ta’lim va tajriba
@@ -112,6 +112,12 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ustaxona tajribasi dars berishdan oldin boshlangan
+
+Institutga kirishidan oldin Valixo‘jayev Namanganda badiiy buyurtmalarni bajargan va ustalar brigadalariga rahbarlik qilgan. 1987-yilda u o‘zining birinchi xususiy badiiy sex-ustaxonasini tashkil etgan. Biografik xronikadagi bu bosqichlar ta’lim tarixiga mustaqil ish va tashkilotchilik tajribasini qo‘shadi. Keyinchalik o‘quvchilar bilan mashg‘ulotlar shu kasbiy yo‘lning boshqa bosqichini ko‘rsatadi: shaxsiy izlanish boshqalar kuzatishi va muhokama qilishi mumkin bo‘lgan ochiq jarayonga aylanadi.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
 ## Tajribani ulashish: Siandagi mahorat darsi
 

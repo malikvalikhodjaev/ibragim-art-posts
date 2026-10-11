@@ -4,7 +4,7 @@ language: "fa"
 theme: 15
 description: "آثار ولی‌خوجایف در موزهٔ یو شون هاربین، مجموعهٔ شهرداری مالتپه در استانبول و مجموعه‌ای خصوصی در مسکو."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_57.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # پس از نمایشگاه: آثار ابراهیم ولی‌خوجایف در موزه‌ها و مجموعه‌ها
@@ -112,17 +112,17 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [UzA - نمایشگاه هنر ازبکستان در پکن، 23 ژانویه 2024 (متن ازبکی)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
 
-[نمای کلی تالاری با آثار ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند؛ نام و تاریخ نمایشگاه تأیید نشده است.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-نمای کلی تالاری با آثار ابراهیم ولی‌خواجه‌اف. آرشیو هنرمند؛ نام و تاریخ نمایشگاه تأیید نشده است.
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
 ## تابلو و فضای نمایشگاه
 
 عکس‌های چیدمان، دیدار تابلو با تماشاگر را نشان می‌دهند. بخش‌های خالی دیوار، فاصلهٔ آثار و امکان عقب رفتن، شرایط دیدن را تغییر می‌دهند. نمای کلی مقیاس را روشن می‌کند و عکس بازدیدکنندگان حرکت میان نگاه نزدیک و دور را نشان می‌دهد.
 
-[بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-بازدیدکنندگان در برابر نقاشی‌های ولی‌خواجه‌اف. آرشیو هنرمند.
+نمایشگاه انفرادی ابراهیم ولی‌خواجه‌یف، گالری هنرهای زیبای بانک ملی جمهوری ازبکستان، ازبکستان، تاشکند، ۲۰۱۸. آرشیو هنرمند. [دربارهٔ نمایشگاه «از رؤیا تا سرنوشت»، ۲۰۱۸](<https://art-blog.uz/archives/30280>)
 
 
 </div>

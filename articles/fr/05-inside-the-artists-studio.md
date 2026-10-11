@@ -4,7 +4,7 @@ language: "fr"
 theme: 5
 description: "De l’atelier de Rahim Ahmedov à ses propres élèves : observer, composer et apprendre à peindre avec Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Dans l’atelier : observer, peindre et apprendre avec Ibragim Valikhodjaev
@@ -112,6 +112,12 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 Contenu éditorial de la Valikhodjaev Gallery House. Les sources des images sont indiquées dans les légendes.
 
 [Oksana Kadysheva – « L’atmosphère des couleurs de l’arc-en-ciel dans la suite d’Ibragim Valikhodjaev », San’at, n° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## L’expérience de l’atelier précède l’enseignement
+
+Avant d’entrer à l’institut, Valikhodjaev réalisait des commandes artistiques à Namangan et dirigeait des équipes d’artisans. En 1987, il a créé son premier atelier d’art privé. Ces étapes de sa chronologie biographique ajoutent à l’histoire de sa formation une expérience du travail indépendant et de l’organisation. Ses séances ultérieures avec les élèves révèlent un autre moment du même parcours professionnel : la recherche personnelle devient un processus ouvert, que d’autres peuvent observer et discuter.
+
+[Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
 ## Transmettre une expérience : une masterclass à Xi’an
 

@@ -105,6 +105,6 @@ Valikhodjaev Gallery House
 
 Ибрагим Валиходжаев рядом с картиной в жанре ню на выставке. Из личного архива художника.
 
-[Зрители у картин Валиходжаева в жанре ню. Из личного архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. О выставке «От мечты к судьбе», 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-Зрители у картин Валиходжаева в жанре ню. Из личного архива художника.
+Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)

@@ -4,7 +4,7 @@ language: "de"
 theme: 6
 description: "Montenegro 2012: Boote, Palmen und Uferpromenaden in Valikhodjaevs Pleinair-Malerei. Zwei Landschaften aus Perast im genauen Blick."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Einundzwanzig Tage in Montenegro: Valikhodjaevs Küstenlandschaften
@@ -101,6 +101,12 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Einundzwanzig Tage, zweiundvierzig Gemälde
+
+Nach Erinnerungen der Familie kehrte der Künstler 2012 aus Montenegro mit 42 Gemälden zurück, die in 21 Tagen entstanden waren. Darauf folgte in Taschkent vom 28. Juni bis zum 13. Juli 2012 die Ausstellung Einundzwanzig Tage in Montenegro. Diese Episode macht seine Produktivität greifbar: Er malte täglich, während wechselnde Motive neue bildnerische Aufgaben stellten. Die hier gezeigten Ansichten von Perast verdeutlichen den Inhalt dieser intensiven Praxis — unterschiedliche Wege, Wasser, Architektur und Ferne zu einer stimmigen Komposition zu verbinden.
+
+[Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
 ## Reproduktionen aus dem Archiv des Künstlers
 

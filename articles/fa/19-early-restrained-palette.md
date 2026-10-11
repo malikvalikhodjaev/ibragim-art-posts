@@ -4,7 +4,7 @@ language: "fa"
 theme: 19
 description: "«دعا»، «کوزه‌ها» و «نگاه»: تفاوت‌های ظریف تُن و رنگ در نقاشی‌های آغازین ابراهیم ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_502.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # سکوت رنگ‌های محدود: نقاشی‌های آغازین با سفید و خاکستری
@@ -111,6 +111,20 @@ Valikhodjaev Gallery House
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [گالری هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## سال‌های نخست به یک سبک محدود نمی‌شوند
+
+پالت آرام را باید در کنار جست‌وجوهای دیگر آن سال‌ها دید. در «فرشته» سال ۱۹۹۱ توجه بر زن نشسته، چهره و دست‌های او متمرکز است؛ در «فریاد» همان سال، توده‌ای تیره و تأکیدهای روشن و تند نقش مهمی دارند. این آثار تصویر ما از سال‌های نخست را گسترده‌تر می‌کنند و استقلال هر مسئلهٔ نقاشانه را حفظ می‌کنند. بنابراین حرکت به سوی تابلوهای بازار، RED و انتزاع را بهتر است تداوم کنجکاوی بدانیم، نه جایگزینی یک سبک قطعی با سبکی دیگر.
+
+[«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+«فرشته», 1991. 100 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+[«فریاد», 1991. 110 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+«فریاد», 1991. 110 × 100 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
+
+[ادامهٔ مطلب: زندگی و مسیر هنری هنرمند](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
 ## در آتلیه، پیش و پس از نمایشگاه
 

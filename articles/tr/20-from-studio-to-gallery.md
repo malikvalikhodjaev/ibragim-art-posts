@@ -4,7 +4,7 @@ language: "tr"
 theme: 20
 description: "Valikhodjaev’in ressam, küratör, organizatör ve galeri kurucusu olarak çalışmaları: atölyeden izleyiciyle buluşmaya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Atölyeden galeriye: sanat için alan yaratmak
@@ -115,6 +115,12 @@ Arşivdeki galeri fotoğrafında, resimler arasındaki boşluklar bu ilişkileri
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## Tumor: özel galeri tarihinin başlangıcı
+
+Kuruculuk deneyimi Gallery House’dan çok önce başladı. Valikhodjaev 1987’de özel bir sanat atölyesi kurdu; 1993’te Namangan’da Tumor galeri-salonunu açtı ve 1999’a kadar yönetti. Güncel biyografik kronolojiye göre Tumor, Özbekistan’ın ilk özel sanat galerisiydi. Bu dönüm noktası, sanat için bir mekân yaratmadaki öncü çalışmasını gösterir. Taşkent’teki sonraki galeri faaliyetleri, eser üreten ve bunların izleyiciyle buluşmasını sağlayan sanatçının daha uzun hikâyesinin parçasıdır.
+
+[Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
+
 ## Sergi çalışmalarından video kayıtları
 
 Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesine katılımını gösteriyor. Serginin adı, yeri ve çekim tarihi henüz belirlenmemiştir.
@@ -131,13 +137,13 @@ Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesi
 
 Sergi fotoğrafları, resmin izleyiciyle buluşmasını gösterir. Boş duvar alanları, eserlerin arasındaki uzaklık ve geriye çekilebilme olanağı algıyı değiştirir. Genel görünüm ölçeği anlatır; ziyaretçilerin bulunduğu kare, yakından incelemeyle uzaktan bakış arasındaki geçişi gösterir.
 
-[Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Valikhodjaev’in resimlerini inceleyen ziyaretçiler. Sanatçının arşivi.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
 
-[Serginin genel görünümü. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Serginin genel görünümü. Sanatçının arşivi.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)
 
 [Valikhodjaev ve ustası Rahim Ahmedov bir sergi buluşmasında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

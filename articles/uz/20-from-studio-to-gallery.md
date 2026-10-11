@@ -4,7 +4,7 @@ language: "uz"
 theme: 20
 description: "Valixo‘jayevning rassom, ustoz, kurator va galereya asoschisi sifatidagi faoliyati: asardan tomoshabin bilan uchrashuvgacha."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Ustaxonadan galereyagacha: ijodkor uchrashuv makonini yaratadi
@@ -115,6 +115,12 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+## «Tumor»: xususiy galereya tarixining boshlanishi
+
+Valixo‘jayevning asoschi sifatidagi tajribasi Gallery House’dan ancha oldin boshlangan. 1987-yilda u xususiy badiiy sex-ustaxona tashkil etgan, 1993-yilda esa Namanganda «Tumor» galereya-salonini ochib, 1999-yilgacha unga rahbarlik qilgan. Amaldagi biografik xronikaga ko‘ra, «Tumor» O‘zbekistondagi birinchi xususiy san’at galereyasi bo‘lgan. Bu bosqich uning san’at uchun makon yaratishdagi kashshof tajribasini ko‘rsatadi. Toshkentdagi keyingi galereya faoliyati asar yaratadigan va uning tomoshabin bilan uchrashuviga sharoit hozirlaydigan rassomning uzoqroq tarixiga kiradi.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
+
 ## Ko‘rgazma faoliyati videoyozuvlarda
 
 Ikki arxiv videoyozuvi rassomning ko‘rgazmani tayyorlash va ko‘zdan kechirishdagi ishtirokini ko‘rsatadi. Ko‘rgazma nomi, joyi va videoyozuv sanasi hozircha aniqlanmagan.
@@ -131,13 +137,13 @@ Ikki arxiv videoyozuvi rassomning ko‘rgazmani tayyorlash va ko‘zdan kechiris
 
 Ekspozitsiya suratlari asarning tomoshabin bilan uchrashuvini ko‘rsatadi. Devorning bo‘sh joylari, kartinalar oralig‘i va orqaga chekinib qarash imkoniyati idrokni o‘zgartiradi. Zalning umumiy ko‘rinishi ko‘lamni ochadi; tashrifchilar tushgan kadr esa yaqindan kuzatish va uzoqdan qarash o‘rtasidagi almashinuvni ko‘rsatadi.
 
-[Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. 2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Valixodjayev asarlarini tomosha qilayotgan tashrifchilar. Rassom arxivi.
+Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)
 
-[Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. 2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Ko‘rgazma ekspozitsiyasining umumiy ko‘rinishi. Rassom arxivi.
+Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milliy bankining Tasviriy san’at galereyasi, O‘zbekiston, Toshkent, 2018-yil. Rassom arxivi. [2018-yilgi «Orzudan taqdirga» ko‘rgazmasi haqida](<https://art-blog.uz/archives/30280>)
 
 [Valixodjayev va ustozi Rahim Ahmedov ko‘rgazmadagi uchrashuvda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 8
 description: "土耳其、烏茲別克、亞塞拜然與蒙特內哥羅的戶外寫生：參與創作、觀察光線與專業交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_81.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 面對實景作畫：戶外寫生與藝術交流
@@ -107,6 +107,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 持續觀察帶來的創作豐沛
+
+2012年的蒙特內哥羅之行提供了具體例子：據家人回憶，瓦利霍賈耶夫在21天裡完成了42幅畫。他以畫家身分參與這次戶外寫生活動。數量體現工作的密集程度，風景畫本身則展現不同的處理方式。快速作畫需要掌握景物的關鍵，並維持色彩與空間的關係。關於這些作品及其後來在塔什干的展覽，可以繼續閱讀蒙特內哥羅專題文章。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [在蒙特內哥羅的二十一天：佩拉斯特的海岸風景](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_351.html>)
 
 ## 藝術家檔案中的作品圖版
 

@@ -4,7 +4,7 @@ language: "ru"
 theme: 20
 description: "Ибрагим Валиходжаев: художник и основатель Valikhodjaev Gallery House, куратор и организатор международных проектов. От мастерской к зрителю."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_216.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # От мастерской к галерее: как Валиходжаев создаёт пространство для искусства
@@ -125,17 +125,23 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Осмотр экспозиции — Ибрагим Валиходжаев как председатель Союза художников Узбекистана](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
+## «Тумор»: начало частной галерейной истории
+
+Опыт основателя появился значительно раньше Gallery House. В 1987 году Валиходжаев организовал частную художественную цех-мастерскую, а в 1993 году открыл в Намангане галерею-салон «Тумор», которой руководил до 1999 года. По актуальной биографической хронике «Тумор» была первой частной художественной галереей Узбекистана. Эта веха позволяет увидеть в его работе пионерский опыт создания места для искусства. Позднейшая галерейная деятельность в Ташкенте продолжает более длинную историю художника, который создаёт произведения и условия для их встречи со зрителем.
+
+[Продолжить: жизнь и творческий путь художника](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
+
 ## Картина и пространство выставки
 
 Фотографии экспозиции показывают ещё одну сторону жизни картины — встречу со зрителем. Пустые участки стены, расстояния между полотнами и возможность отойти меняют условия восприятия. Общий вид зала помогает увидеть масштаб, а кадр с посетителями — привычку рассматривать работу вблизи и возвращаться к ней издалека.
 
-[Посетители у картин Ибрагима Валиходжаева. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
+[Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. О выставке «От мечты к судьбе», 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s1600/clipboard.png>)
 
-Посетители у картин Ибрагима Валиходжаева. Архив художника.
+Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)
 
-[Общий вид выставочной экспозиции. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
+[Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. О выставке «От мечты к судьбе», 2018](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBJBXoDUSOyQLRSCMxALtkoOFpqpvr_KpN0Z3UD1Vgy-l8_55daso98MPLNp5pf7igOgpXVc1Emtx4oYhwfONoFmJiT3O3lB3q_OwBL8xhckfkqmRaEFwGLLDZ1VMODyJ_9dBDRcWrTnLvZ1Wsa-DSd_2DUwAIlp6S2gA1Qa7aDlnf4OwCul-vrGhkDvy/s1600/clipboard.png>)
 
-Общий вид выставочной экспозиции. Архив художника.
+Персональная выставка Ибрагима Валиходжаева, Галерея изобразительного искусства Национального банка Республики Узбекистан, Узбекистан, Ташкент, 2018. Архив художника. [О выставке «От мечты к судьбе», 2018](<https://art-blog.uz/archives/30280>)
 
 [Ибрагим Валиходжаев и Мастер Рахим Ахмедов на выставочной встрече. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAO-V5my9rcBsGE56w7Ul7qzqMyQcubR9UTUjJKWjGiXNQ2Eec_MR2Ik1Uvl-Y8RU9dg91nExZdhuC70c4lW-uoGHx1b-RPg2m1gdvuRB86vFxfQtnFBCpL74mqrXf1sBIi3WPc-HIi3rp7RwA_43Ui-bRlUbErCKPNQyDAAzJQt6T31pkaTs3vXUhxSWN/s1600/clipboard.png>)
 

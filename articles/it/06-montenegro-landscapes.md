@@ -4,7 +4,7 @@ language: "it"
 theme: 6
 description: "Barche, palme e pietra chiara: due paesaggi di Perast nella serie montenegrina di Valikhodjaev del 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Ventuno giorni in Montenegro: i paesaggi costieri di Valikhodjaev
@@ -101,6 +101,12 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Ventuno giorni, quarantadue dipinti
+
+Secondo i ricordi familiari, l’artista tornò dal Montenegro nel 2012 con 42 dipinti realizzati in 21 giorni. Seguì la mostra Ventuno giorni in Montenegro a Tashkent, dal 28 giugno al 13 luglio 2012. L’episodio rende concreta la sua produttività: lavorava ogni giorno e il mutare dei motivi gli poneva nuove questioni pittoriche. Le vedute di Perast qui presentate rivelano il contenuto di questa pratica intensa: modi diversi di unire acqua, architettura e lontananza in una composizione coerente.
+
+[Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
 ## Riproduzioni dall’archivio dell’artista
 

@@ -4,7 +4,7 @@ language: "ja"
 theme: 8
 description: "トルコ、ウズベキスタン、モンテネグロ、アゼルバイジャンでの戸外制作。変わる光と、芸術家同士の交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_743.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 絵画のための場所――戸外制作と芸術家の出会い
@@ -107,6 +107,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 Valikhodjaev Gallery House提供の編集資料。画像出典はキャプションに記載されている。
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 観察を続けることが生む制作の豊かさ
+
+2012年のモンテネグロ滞在は、ヴァリホジャエフの制作のペースを具体的に示す。家族は、21日間で42点の絵画を描いたと回想している。彼はこの野外制作の集いに画家として参加した。点数は仕事の密度を、風景画は解決の多様さを伝える。速く描くには、風景の要点を選び、色と空間の関係を保つ必要がある。作品とその後のタシケントでの展示については、モンテネグロの記事で詳しく取り上げている。
+
+[続けて読む：芸術家の人生と制作の歩み](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [モンテネグロの21日間――ヴァリホジャエフが描く海辺の町](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html>)
 
 ## 画家のアーカイブからの作品図版
 

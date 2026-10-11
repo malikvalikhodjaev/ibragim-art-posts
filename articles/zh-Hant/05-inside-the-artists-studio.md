@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 5
 description: "從拉希姆·艾哈邁多夫大師工作室到指導學生：繪畫中的觀察、構圖與專業經驗的傳遞。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # 走進畫家工作室：觀察、教學與經驗的傳遞
@@ -112,6 +112,12 @@ Valikhodjaev Gallery House · 2026年10月6日
 本文素材來自瓦利霍賈耶夫畫廊。圖片來源已在圖說中註明。
 
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 早於教學的工作室經驗
+
+進入學院之前，瓦利霍賈耶夫已在納曼干承接藝術製作委託，並帶領工匠團隊。1987年，他創辦了自己的第一間私人藝術作坊。生平年表中的這些節點，讓求學經歷之外的獨立工作與組織經驗也進入視野。後來與學生一起創作的場景，則呈現了同一專業歷程的另一階段：個人探索成為他人能夠觀察、交流的開放過程。
+
+[延伸閱讀：藝術家的生平與創作歷程](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
 ## 傳授經驗：西安繪畫大師課
 

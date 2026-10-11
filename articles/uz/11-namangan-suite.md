@@ -4,7 +4,7 @@ language: "uz"
 theme: 11
 description: "«Namangan syuitasi»da bozor hayoti: qo‘l harakatlari, do‘ppilar, oq ro‘mollar va ko‘p figurali kompozitsiya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # «Namangan syuitasi»: katta kartina ichidagi kundalik hayot
@@ -116,6 +116,20 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning manbalari izohlarda ko‘rsatilgan.
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Diplom mavzusidan taniqli dastxatga
+
+Bozor Valixo‘jayevni o‘qishining so‘nggi yillaridayoq qiziqtirgan va diplom ishining mavzusiga aylangan. Realistik kuzatishdan boshlangan bu qiziqish keyinchalik katta, ko‘p figurali kartinalarda rivojlangan. 2002 va 2004-yilgi «Do‘ppi bozori» asarlari mavzuning keyingi bosqichini ko‘rsatadi: zich joylashgan figuralar, takrorlanuvchi och rangli kiyimlar va mollarning mayda naqshlari mustaqil rangtasvir tuzilishini hosil qiladi. Bozor rassomning taniqli belgilaridan biriga aylanadi, izlanuvchanlik esa uni boshqa mavzular, abstraksiya va haykaltaroshlikka yetaklaydi.
+
+[«Do‘ppi bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
+
+«Do‘ppi bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.
+
+[«Do‘ppi bozori», 2004. 100 × 90 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdMuCiD_hp_vxFDyDpiBaF3J4IqAO3AfXr9a3rHvGT-4kmY6X2jIHLkne4DtA298cdl7EFFYjavToc2ZYnkFFI__41t-hLLE_PQAXOukmIivNjc9H31Lh7BEUNT5fLbwXTOwIaZLics-rnseIKScYJ26jU9jygKdThBzSUQaDlqL5MfFPPt2Pjng-1sgD/w1200-rj/clipboard.png>)
+
+«Do‘ppi bozori», 2004. 100 × 90 sm. Rassom arxividan olingan reproduksiya.
+
+[Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
 ## Rassom arxividagi asarlar reproduksiyalari
 

@@ -4,7 +4,7 @@ language: "en"
 theme: 19
 description: "Prayer, Jugs, Gaze and Holy Stones: restrained colour, tonal nuances and the expressive forms of Valikhodjaev’s early paintings."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # The quiet of a restricted palette: early paintings in white and grey
@@ -109,6 +109,20 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## The early years do not resolve into a single style
+
+The restrained palette is best considered alongside other explorations of those years. In Angel of 1991, attention rests on a seated woman, her face and hands; in Cry, painted that same year, a dark mass and sharp light accents play a major role. These works broaden the early picture while retaining the individuality of each pictorial problem. His movement towards bazaar canvases, RED and abstraction is therefore better understood as continuing curiosity than as exchanging one definitive style for another.
+
+[‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+‘Angel’, 1991. 100 × 100 cm. Reproduction from the artist’s archive.
+
+[‘Cry’, 1991. 110 × 100 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+‘Cry’, 1991. 110 × 100 cm. Reproduction from the artist’s archive.
+
+[Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
 ## Inside the studio: before and after the exhibition
 

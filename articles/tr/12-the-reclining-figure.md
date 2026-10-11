@@ -105,6 +105,6 @@ Arşiv fotoğrafları, figür resimlerini sergideki gerçek ölçekleriyle görm
 
 Ibragim Valikhodjaev, sergide bir nü tablosunun yanında. Sanatçının arşivi.
 
-[Valikhodjaev’in nü tablolarını inceleyen ziyaretçiler. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
+[Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. 2018 tarihli From Dream to Destiny sergisi hakkında](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzfM2YxzX98yuI-MfiaYLbUCjXKTEQKUaXKg4TpfGc3qUzgY8GAs8S7YSH2KoQz0R-1fBMJeiVZ1SkHf0QRV5SeIqY8zoig13sWuFDhOojVX42fzzQBcxEmyjYESgMWkKGhRCzdJAdrCTo801Xex3SOeJJ-Q_cpkE9tED3GnbxvE0-YW4Wekje-R1q_97e/s0/clipboard.png>)
 
-Valikhodjaev’in nü tablolarını inceleyen ziyaretçiler. Sanatçının arşivi.
+Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Bankası Güzel Sanatlar Galerisi, Özbekistan, Taşkent, 2018. Sanatçının arşivi. [2018 tarihli From Dream to Destiny sergisi hakkında](<https://art-blog.uz/archives/30280>)

@@ -4,7 +4,7 @@ language: "de"
 theme: 19
 description: "Gebet, Krüge und Blick: Valikhodjaevs frühe Gemälde zeigen die expressive Kraft einer hellen, zurückhaltenden Farbpalette."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-11"
 ---
 
 # Eine zurückhaltende Palette: Valikhodjaevs frühe Gemälde
@@ -109,6 +109,20 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Die frühen Jahre ergeben keinen einheitlichen Stil
+
+Die zurückhaltende Palette sollte neben anderen Erkundungen jener Jahre betrachtet werden. In Engel von 1991 richtet sich die Aufmerksamkeit auf eine sitzende Frau, ihr Gesicht und ihre Hände; in Schrei aus demselben Jahr spielen eine dunkle Masse und scharfe helle Akzente eine wesentliche Rolle. Diese Werke erweitern den Blick auf die Anfänge und bewahren die Eigenständigkeit jeder bildnerischen Aufgabe. Der Weg zu den Basargemälden, RED und der Abstraktion lässt sich daher eher als fortgesetzte Neugier verstehen denn als Austausch eines endgültig gefundenen Stils gegen einen anderen.
+
+[„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
+
+„Engel“, 1991. 100 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+
+[„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOnn9p4gN8Ze99sRGVQi6gi_01MvP-PTdjEgudZ_LS7MVaLIR1kiqh3xosmC7M5pud-XeJMZmmo2f_vMRjC5jvl39vaFFPs5J-iQ6yux0N06KGTxJxn0MIoGdAUenVYydlv8rcGG3J7ppzMrPtcIzLNrUYYUXjtTN4x51WRbU6GNcFpaSlFRo6JU7sIQNd/w1200-rj/clipboard.png>)
+
+„Schrei“, 1991. 110 × 100 cm. Reproduktion aus dem Archiv des Künstlers.
+
+[Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
 ## Im Atelier, vor und nach der Ausstellung
 
