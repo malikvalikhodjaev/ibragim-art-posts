@@ -57,7 +57,11 @@ Kabul edildikten sonra önceki ticari sipariş işlerini bırakarak eğitimine y
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
-Enstitüye girmeden önce on yıl dekorasyon ressamı olarak çalıştı. Söyleşide bu mesleğin o dönemde ne kadar yaygın olduğunu anlatır: kurumların kendi ressamlarına ihtiyacı vardı ve süsleme işleri elle yapılıyordu. Siparişler gelir sağlarken bunların yanında başka bir çalışma da sürüyordu: açık havada etütler ve modelden portreler. Rahim Ahmedov’la henüz tanışmamıştı, ancak sanat dergilerinde eserlerini inceliyor, özellikle portrelerine hayranlık duyuyordu. Enstitüde, resimlerini uzun zamandır kendine yakın bulduğu sanatçının atölyesini seçti.
+Valikhodjaev enstitüye girmeden önce on yıl dekorasyon ressamı olarak çalıştı. HD Magazine söyleşisinde o dönemde kurumların kendi ressamlarının bulunduğunu anlatır: resimler ve yazılar kurumların gündelik yaşamında gerekliydi. Aile anılarına göre Namangan’da afişler, tabelalar ve iç mekân düzenlemeleri yapıyor, ustalardan oluşan ekiplere başkanlık ediyordu. Bu siparişler el emeği gerektiriyordu: çizmek, yazmak, süslemek, işi kararlaştırmak ve tamamlamak. Genç İbragim için bu, resim diplomasından çok önce edinilmiş bir meslek ve gelir kaynağıydı.
+
+Ancak dekorasyon işleri bütün uğraşlarını kapsamıyordu. Açık havada etütler yapıyor, doğrudan modeline bakarak portreler resmediyordu. Anlatısında bir çayhane de yer alır: elinde bir kâse tutan insanın tasviri aklında kalmıştır. Sıradan şehir ortamında karşılaştığı bu görüntüler, kendisinin de ressam olma isteğini uyandırıyordu. Resme giden yol, okulun yanı sıra gündelik yerlerden, insanları gözlemlemekten ve boyayla kendi denemelerinden geçiyordu.
+
+Bu çevrenin bir başka parçası, o yıllarda yayımlanan ve sanatçıların eserlerine yer veren sanat dergileriydi. Genç İbragim röprodüksiyonları inceliyor, Rahim Ahmedov’un resimlerini izliyor, özellikle portrelerini hatırlıyordu. Ustayla henüz tanışmamıştı; ilk karşılaşma dergi sayfalarında gerçekleşmişti. Bu görüntüler bir resme tekrar dönme, dikkatle bakma ve neyi öğrenmek istediğini anlama imkânı veriyordu. Enstitüde Ahmedov’un atölyesini seçmesi, onun resmine daha önce gelişmiş ilgisinin devamıydı.
 
 [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
@@ -188,6 +192,10 @@ Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve
 Valikhodjaev 1993’te Namangan’da bağımsız Özbekistan’ın ilk özel sanat galerisi olan Tumor galeri-salonunu kurdu ve 1999’a kadar yönetti. Ülkedeki özel galericiliğin öncülerinden biri oldu: kişisel bir girişim, eserlerin devlet sergi mekânlarının yerleşik sistemi dışında izleyiciyle buluşabileceği bir alan yarattı. Aileye göre, galerinin öncü kurucusu olarak üstlendiği rol bir ansiklopedide de yer aldı.
 
 Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. HD Magazine söyleşisinde sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
+
+Söyleşinin yapıldığı dönemde sanatçıların çalışma koşullarını da ele alır. Tek bir resmin yüksek fiyatı, açıklamasına göre, düzenli gelir anlamına gelmez: satışlar arasında uzun zaman geçebilir, sanatçı ise çalışmayı sürdürür. Bazı meslektaşlarının eskiden ders vermek yerine kendi sanatıyla yaşamayı tercih ettiğini hatırlar; daha sonra düzensiz satışlar bu seçimi zorlaştırmıştır. Ücreti kararlaştırılmış bir siparişle, gelecekteki alıcısı henüz bilinmeden yapılan bağımsız bir resim arasındaki fark burada önem kazanır.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
 
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
@@ -393,6 +401,10 @@ Onun yolculuğu eserlerinde devam ediyor: pazar yerindeki insanlar, kırmızın�
 [Yukarıdaki video kaydı · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
 Bugün Ibragim Valikhodjaev’in çoğu resim olmak üzere 600’den fazla eseri biliniyor. Erken döneminin ölçülü paleti, Namangan pazarı, portreler, natürmortlar, nü, açık hava manzaraları, RED ve soyutlama farklı dönem ve arayışları oluşturur. Sanatçı renk, biçim ve kompozisyonun yeni olanaklarını araştırmayı sürdürüyor.
+
+Söyleşinin sonuna doğru somut bir kaygıya döner: sanatçı öldüğünde resimlerle dolu atölyesine ne olur? Valikhodjaev, yılların emeğini taşıyan eserlerin mirasçılar tarafından istenmediği örnekler anlatır. Gelecek kuşakların bu eserlere ulaşabilmesi için onları toplamak, envanterlerini çıkarmak ve saklanacak bir yer sağlamak gerektiğini söyler. Bu soru kendi arşivini de ilgilendirir. Başkanlık ve galeri kuruculuğu rollerinin arkasında eserlerin geleceğine yönelik bir ilgi vardır: nerede kalacakları, onları kimin koruyacağı ve sanatçıdan sonra nasıl erişilebilir olacakları.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 ## Bu kompozisyon farklı yılları birbirine bağlıyor.
 

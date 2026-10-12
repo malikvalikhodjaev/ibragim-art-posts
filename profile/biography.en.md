@@ -38,7 +38,11 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 ## Education and gallery founding
 
-Before entering the institute, he spent ten years as a decorative artist. In the interview, he explains how familiar that occupation once was: organisations needed their own artists, and decorative work was done by hand. Commissions provided an income, while another practice developed alongside them—outdoor studies and portraits from life. He had not yet met Rahim Ahmedov, but studied his work in art magazines and particularly admired his portraits. At the institute, he chose the studio of an artist whose paintings had long mattered to him.
+Before entering the institute, Valikhodjaev spent ten years as a decorative artist. In the HD Magazine interview, he explains that organisations then had artists of their own: images and lettering were needed in an institution’s everyday life. Family recollections describe his Namangan work as posters, signs and interior decoration, with teams of craftspeople under his direction. Such commissions involved manual work—drawing, lettering, decorating, agreeing the work and bringing it to completion. For the young Ibragim, this was an established occupation and a source of income long before his painting diploma.
+
+Decorative commissions did not occupy all his attention. He went outdoors to paint studies and made portraits from life, looking directly at the sitter. His account also recalls a teahouse: an image of a person holding a bowl stayed in his memory. Pictures encountered in an ordinary urban setting helped awaken his wish to become an artist himself. His route into painting passed through everyday places, observation of people and his own experiments with paint, as well as through formal study.
+
+Another part of that environment was the art magazines published in those years, which reproduced artists’ work. The young Ibragim examined the reproductions, followed Rahim Ahmedov’s paintings and particularly remembered his portraits. He did not yet know the master personally: the first encounter took place on magazine pages. Those images offered a way to return to a painting, study it and recognise what he wanted to learn. Choosing Ahmedov’s studio at the institute therefore continued an interest in his painting that had already developed.
 
 In the HD Magazine conversation, he retraces this path through specific memories. He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
 
@@ -55,6 +59,14 @@ Family recollections describe the choice of his graduation project as another si
 **1993–1999:** Founder, «Tumor» Gallery Salon, Uzbekistan, Namangan; the first private art gallery in independent Uzbekistan. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
 
 He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+
+He also discusses the conditions of artistic work at the time of the interview. A high price for an individual painting, he explains, does not in itself mean a stable income: long intervals can separate sales, while an artist keeps working. He recalls that some colleagues once preferred to live from their own art rather than teaching; later, irregular sales made that choice harder. The distinction matters between a commission with agreed payment and an independent painting made before its future buyer is known.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+
+Towards the end of the conversation, he returns to a concrete concern: what happens to a studio full of paintings after its artist dies? Valikhodjaev describes cases in which heirs did not want works representing years of labour. He proposes bringing such works together, making inventories and providing storage so that future generations can consult them. The question concerns his own archive too. Behind his roles as chairman and gallery founder lies care for the works’ future—where they will remain, who will preserve them and how they will be accessible after their maker.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 

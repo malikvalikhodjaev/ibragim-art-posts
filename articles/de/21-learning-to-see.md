@@ -57,7 +57,11 @@ Nach der Aufnahme stellte er seine bisherige Tätigkeit mit kommerziellen Auftr�
 
 Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
-Vor dem Studium arbeitete er zehn Jahre als Dekorationsmaler. Im Interview erinnert er daran, wie verbreitet dieser Beruf war: Organisationen brauchten eigene Künstler, und die Gestaltungsarbeiten wurden von Hand ausgeführt. Aufträge sicherten sein Einkommen; daneben entwickelte sich eine andere Praxis: Studien im Freien und Porträts nach dem lebenden Modell. Rahim Ahmedov kannte er noch nicht persönlich, betrachtete aber seine Werke in Kunstzeitschriften und bewunderte besonders die Porträts. Am Institut wählte er das Atelier eines Malers, dessen Bilder ihm schon lange nahestanden.
+Vor dem Studium arbeitete Valikhodjaev zehn Jahre als Dekorationsmaler. Im Interview mit HD Magazine erklärt er, dass Organisationen damals eigene Künstler hatten: Bilder und Beschriftungen wurden im Alltag der Einrichtungen gebraucht. Familienerinnerungen beschreiben seine Arbeit in Namangan — Plakate, Schilder und Innenraumgestaltung — sowie die von ihm geleiteten Handwerkerteams. Solche Aufträge waren Handarbeit: zeichnen, Buchstaben malen, gestalten, die Arbeit abstimmen und fertigstellen. Für den jungen Ibragim war dies bereits ein erlernter Beruf und eine Einnahmequelle, lange vor seinem Malereidiplom.
+
+Die Gestaltung erschöpfte seine Tätigkeit jedoch nicht. Er malte Studien im Freien und Porträts nach dem lebenden Modell, das er unmittelbar betrachtete. In seiner Erzählung erscheint auch ein Teehaus: Das Bild eines Menschen mit einer Schale in der Hand blieb ihm im Gedächtnis. Solche Bilder im gewöhnlichen städtischen Umfeld weckten seinen Wunsch, selbst Maler zu werden. Der Weg führte auch durch alltägliche Orte, das Beobachten von Menschen und eigene Versuche mit Farbe.
+
+Ein weiterer Teil dieses Umfelds waren die damals erscheinenden Kunstzeitschriften, die Werke von Künstlern reproduzierten. Der junge Ibragim betrachtete die Abbildungen, verfolgte Rahim Ahmedovs Malerei und erinnerte sich besonders an dessen Porträts. Persönlich kannte er den Meister noch nicht: Die erste Begegnung fand auf Zeitschriftenseiten statt. Die Bilder ermöglichten es, zu einem Gemälde zurückzukehren, es aufmerksam zu betrachten und zu erkennen, was er lernen wollte. Die Wahl von Ahmedovs Atelier am Institut setzte somit ein bereits gewachsenes Interesse an dessen Malerei fort.
 
 [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
@@ -188,6 +192,10 @@ Die Fassungen des Duppi-Basars von 2004 und 2006 führen diese Suche fort. Im er
 1993 gründete Valikhodjaev in Namangan den Galerie-Salon Tumor, die erste private Kunstgalerie im unabhängigen Usbekistan, und leitete ihn bis 1999. Damit war er ein Pionier des privaten Galeriewesens im Land: Eine persönliche Initiative schuf einen Ort, an dem Werke außerhalb des etablierten staatlichen Ausstellungsbetriebs einem Publikum begegnen konnten. Nach Angaben der Familie wurde seine Pionierrolle als Gründer auch in einer Enzyklopädie festgehalten.
 
 Von seiner Galerie erzählt er über das Sammeln. Auf Ausstellungen entdeckte er gute Arbeiten von Kollegen und wollte, wenn es seine Mittel erlaubten, ein oder zwei Werke erwerben. So entstand eine Sammlung von Gemälden, Keramik und angewandter Kunst. Die Galerie bot ihm die Möglichkeit, Werke auszuwählen und zu bewahren, mit ihnen zu leben und sie anderen zu zeigen. Im Gespräch mit HD Magazine unterscheidet er diese Bindung an die Kunst vom bloßen Weiterverkauf von Bildern.
+
+Er spricht auch über die Bedingungen künstlerischer Arbeit zum Zeitpunkt des Interviews. Der hohe Preis eines einzelnen Bildes bedeutet, wie er erklärt, noch kein sicheres Einkommen: Zwischen Verkäufen kann viel Zeit vergehen, während der Künstler weiterarbeitet. Er erinnert daran, dass manche Kollegen früher lieber von ihrer eigenen Kunst als vom Unterrichten lebten; später erschwerten unregelmäßige Verkäufe diese Entscheidung. Entscheidend ist der Unterschied zwischen einem Auftrag mit vereinbarter Bezahlung und einem selbständigen Gemälde, dessen künftiger Käufer noch unbekannt ist.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
 
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
@@ -393,6 +401,10 @@ Seine Reise setzt sich in seinen Werken fort: in den Menschen auf dem Marktplatz
 [Videoaufzeichnung oben · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
 Heute sind mehr als 600 Werke von Ibragim Valikhodjaev bekannt, überwiegend Gemälde. Sie umfassen unterschiedliche Phasen und Ansätze: die zurückhaltende Palette der frühen Jahre, den Basar von Namangan, Porträts, Stillleben, Akte, Freilichtlandschaften, RED und Abstraktion. Seine Arbeit setzt sich in neuen Fragen nach Farbe, Form und Komposition fort.
+
+Gegen Ende des Gesprächs kehrt er zu einer konkreten Sorge zurück: Was geschieht mit einem Atelier voller Bilder, wenn der Künstler stirbt? Valikhodjaev nennt Fälle, in denen Erben Werke nicht behalten wollten, die jahrelange Arbeit verkörperten. Er schlägt vor, solche Werke zusammenzutragen, zu inventarisieren und ihnen einen Aufbewahrungsort zu sichern, damit spätere Generationen darauf zugreifen können. Die Frage betrifft auch sein eigenes Archiv. Hinter seinen Rollen als Vorsitzender und Galeriegründer steht die Sorge um die Zukunft der Werke: wo sie bleiben, wer sie bewahrt und wie sie nach dem Tod ihres Urhebers zugänglich sein werden.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 ## Die Komposition verbindet verschiedene Jahre
 

@@ -121,6 +121,14 @@ Kuruculuk deneyimi Gallery House’dan çok önce başladı. Valikhodjaev 1987�
 
 Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. HD Magazine söyleşisinde sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
 
+Söyleşinin yapıldığı dönemde sanatçıların çalışma koşullarını da ele alır. Tek bir resmin yüksek fiyatı, açıklamasına göre, düzenli gelir anlamına gelmez: satışlar arasında uzun zaman geçebilir, sanatçı ise çalışmayı sürdürür. Bazı meslektaşlarının eskiden ders vermek yerine kendi sanatıyla yaşamayı tercih ettiğini hatırlar; daha sonra düzensiz satışlar bu seçimi zorlaştırmıştır. Ücreti kararlaştırılmış bir siparişle, gelecekteki alıcısı henüz bilinmeden yapılan bağımsız bir resim arasındaki fark burada önem kazanır.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+
+Söyleşinin sonuna doğru somut bir kaygıya döner: sanatçı öldüğünde resimlerle dolu atölyesine ne olur? Valikhodjaev, yılların emeğini taşıyan eserlerin mirasçılar tarafından istenmediği örnekler anlatır. Gelecek kuşakların bu eserlere ulaşabilmesi için onları toplamak, envanterlerini çıkarmak ve saklanacak bir yer sağlamak gerektiğini söyler. Bu soru kendi arşivini de ilgilendirir. Başkanlık ve galeri kuruculuğu rollerinin arkasında eserlerin geleceğine yönelik bir ilgi vardır: nerede kalacakları, onları kimin koruyacağı ve sanatçıdan sonra nasıl erişilebilir olacakları.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)

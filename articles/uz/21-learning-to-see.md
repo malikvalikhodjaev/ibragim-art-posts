@@ -57,7 +57,11 @@ O‘qishga kirgach, avvalgi tijoriy buyurtmalar bilan ishlashni to‘xtatib, ta�
 
 Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
-Institutga kirishdan oldin u o‘n yil rassom-bezatuvchi bo‘lib ishlagan. Suhbatda bu kasb o‘sha davrda qanchalik odatiy bo‘lganini tushuntiradi: tashkilotlarning o‘z rassomlari bo‘lgan, bezatish ishlari qo‘lda bajarilgan. Buyurtmalar daromad bergan, ammo ular bilan yonma-yon boshqa ijodiy mashg‘ulot ham davom etgan — ochiq havodagi etyudlar va naturadan ishlangan portretlar. Rahim Ahmedovni hali shaxsan tanimasdi, lekin san’at jurnallaridagi asarlarini kuzatib, ayniqsa portretlariga havas qilardi. Institutda asarlari avvaldan ko‘ngliga yaqin bo‘lgan rassomning ustaxonasini tanlagan.
+Institutga kirishdan oldin Valixodjayev o‘n yil rassom-bezatuvchi bo‘lib ishlagan. HD Magazine suhbatida o‘sha davrda tashkilotlarning o‘z rassomlari bo‘lganini tushuntiradi: tasvir va yozuvlar muassasaning kundalik hayotida kerak bo‘lgan. Oilaviy xotiralarga ko‘ra, uning Namangandagi ishlari plakatlar, peshlavhalar va xonalarni bezatishni qamrab olgan; u ustalar brigadalariga rahbarlik qilgan. Bunday buyurtma qo‘l mehnatini talab etgan — chizish, yozish, bezash, ishni kelishish va tayyor natijaga yetkazish. Yosh Ibrohim uchun bu rangtasvir diplomi olinishidan ancha oldin egallangan kasb va daromad manbai edi.
+
+Biroq bezatish ishlari uning barcha mashg‘ulotlarini tashkil etmagan. Ochiq havoda etyudlar ishlagan, odamning o‘ziga qarab naturadan portretlar yaratgan. Hikoyada choyxona ham tilga olinadi: Ibrohim u yerda qo‘lida kosa tutgan odam tasvirini ko‘rganini eslaydi. Oddiy shahar muhitida uchragan bunday tasvirlar unda o‘zi ham rassom bo‘lish istagini uyg‘otgan. Rangtasvirga yo‘l kundalik joylar, odamlarni kuzatish va bo‘yoq bilan mustaqil tajribalar orqali ham o‘tgan.
+
+Bu muhitning yana bir qismi — o‘sha yillarda chiqib, rassomlarning asarlarini e’lon qilgan san’at jurnallari edi. Yosh Ibrohim reproduksiyalarni ko‘rib, Rahim Ahmedov ijodini kuzatgan, ayniqsa portretlarini eslab qolgan. Ustozni hali shaxsan tanimasdi: dastlabki tanishuv jurnal sahifalarida bo‘lgan. Bu tasvirlar kartinaga qayta murojaat qilish, sinchiklab qarash va o‘zi nimani o‘rganishni istayotganini anglash imkonini bergan. Shuning uchun institutda Ahmedov ustaxonasini tanlash uning rangtasviriga avvaldan shakllangan qiziqishning davomi edi.
 
 [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
@@ -188,6 +192,10 @@ Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi
 1993-yilda Valixo‘jayev Namanganda mustaqil O‘zbekistondagi birinchi xususiy badiiy galereya — «Tumor» galereya-saloniga asos soldi. Uni 1999-yilgacha boshqardi. Shu tariqa mamlakatda xususiy galereya faoliyatini boshlab bergan ijodkorlardan biriga aylandi: shaxsiy tashabbus davlat ko‘rgazma maydonlaridan tashqarida asar va tomoshabin uchrashadigan makon yaratdi. Oila ma’lumotlariga ko‘ra, uning ilk asoschi sifatidagi o‘rni ensiklopediyada ham qayd etilgan.
 
 O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. HD Magazine suhbatida u san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
+
+U suhbat bo‘lib o‘tgan davrdagi ijodiy mehnat sharoitini ham muhokama qiladi. Bitta kartinaning qimmatligi o‘z-o‘zidan barqaror daromad degani emasligini tushuntiradi: sotuvlar orasida ko‘p vaqt o‘tishi mumkin, rassom esa ishlashda davom etadi. Ilgari ayrim hamkasblar dars berishdan ko‘ra o‘z ijodi bilan yashashni afzal ko‘rganini eslaydi; keyinchalik sotuvlarning muntazam bo‘lmasligi bunday tanlovni qiyinlashtirgan. Haqi oldindan ko‘zda tutilgan buyurtma bilan kelajak xaridori hali noma’lum bo‘lgan mustaqil kartina o‘rtasidagi farq shu yerda muhim.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
 
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
@@ -393,6 +401,10 @@ Uning ijodiy yo‘li asarlarida davom etadi: bozor odamlarida, qizil rangning o�
 [Yuqoridagi video · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
 Bugungi kunda Ibrohim Valixodjayevning 600 dan ortiq asari ma’lum; ularning asosiy qismini rangtasvir tashkil etadi. Ular ilk vazmin palitra, Namangan bozori, portret, natyurmort, yalang‘och natura, plener manzaralari, RED va abstraksiya kabi turli davr va yo‘nalishlarni qamrab oladi. Rassom rang, shakl va kompozitsiyaning yangi imkoniyatlarini izlashda davom etmoqda.
+
+Suhbat oxirida u aniq bir tashvishga qaytadi: rassom hayotdan ko‘z yumgach, kartinalarga to‘la ustaxona bilan nima bo‘ladi? Valixodjayev ko‘p yillik mehnat mahsuli bo‘lgan asarlar merosxo‘rlarga kerak bo‘lmay qolgan holatlarni aytadi. U bunday ishlarni to‘plash, ro‘yxatga olish va saqlash joyini ta’minlashni taklif qiladi, toki kelajak avlodlar ularga murojaat qila olsin. Bu masala o‘z arxiviga ham tegishli. Rais va galereya asoschisi sifatidagi faoliyat ortida asarlarning kelajagiga g‘amxo‘rlik turadi — ular qayerda qoladi, kim asraydi va muallifdan keyin qanday foydalanish mumkin bo‘ladi.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 ## Kompozitsiya turli davrlarni bog‘laydi
 

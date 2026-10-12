@@ -57,7 +57,11 @@ Una volta ammesso, interruppe la precedente attività di commissioni commerciali
 
 Il giovane artista fra le sue opere. Archivio dell’artista.
 
-Prima di entrare all’istituto lavorò per dieci anni come pittore decoratore. Nell’intervista ricorda quanto fosse comune quel mestiere: le organizzazioni avevano bisogno di propri artisti e le decorazioni si eseguivano a mano. Le commissioni gli procuravano un reddito, mentre accanto a esse si sviluppava un’altra pratica: studi all’aperto e ritratti dal vero. Non conosceva ancora personalmente Rahim Ahmedov, ma ne osservava le opere nelle riviste d’arte, ammirandone soprattutto i ritratti. All’istituto scelse l’atelier di un pittore che sentiva vicino da tempo.
+Prima di entrare all’istituto, Valikhodjaev lavorò dieci anni come pittore decoratore. Nell’intervista a HD Magazine spiega che allora le organizzazioni avevano propri artisti: immagini e scritte servivano nella vita quotidiana degli enti. I ricordi familiari descrivono il suo lavoro a Namangan — manifesti, insegne e decorazioni d’interni — e le squadre di artigiani che dirigeva. Quelle commissioni richiedevano lavoro manuale: disegnare, dipingere scritte, decorare, concordare il lavoro e completarlo. Per il giovane Ibragim era già un mestiere acquisito e una fonte di reddito, molto prima del diploma di pittura.
+
+La decorazione, però, non esauriva le sue attività. Dipingeva studi all’aperto e ritratti dal vero, osservando direttamente la persona. Nel racconto compare anche una casa da tè: gli rimase impressa l’immagine di una figura che teneva una ciotola. Immagini incontrate nel normale ambiente urbano risvegliavano il desiderio di diventare lui stesso pittore. Il percorso passava anche dai luoghi quotidiani, dall’osservazione delle persone e dai suoi esperimenti con il colore.
+
+Un’altra parte di quell’ambiente erano le riviste d’arte pubblicate in quegli anni, che riproducevano le opere degli artisti. Il giovane Ibragim esaminava le riproduzioni, seguiva i dipinti di Rahim Ahmedov e ricordava soprattutto i suoi ritratti. Non conosceva ancora personalmente il maestro: il primo incontro avvenne sulle pagine delle riviste. Quelle immagini permettevano di tornare a un quadro, osservarlo con attenzione e capire che cosa desiderasse imparare. La scelta dell’atelier di Ahmedov all’istituto proseguiva quindi un interesse già maturato per la sua pittura.
 
 [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
@@ -188,6 +192,10 @@ Le versioni del Mercato dei doppi del 2004 e del 2006 proseguono questa ricerca.
 Nel 1993 Valikhodjaev fondò a Namangan la galleria-salone Tumor, la prima galleria d’arte privata dell’Uzbekistan indipendente, che diresse fino al 1999. Fu un pioniere dell’attività delle gallerie private nel paese: un’iniziativa personale creava uno spazio d’incontro tra opere e pubblico al di fuori del sistema consolidato delle sedi espositive statali. Secondo la famiglia, il suo ruolo di fondatore pionieristico è stato ricordato anche in un’enciclopedia.
 
 Racconta la propria galleria attraverso la storia del collezionismo. Alle mostre notava le opere migliori dei colleghi e desiderava acquistarne una o due quando le risorse lo permettevano. Si formò così una raccolta di dipinti, ceramiche e arti applicate. Per lui la galleria offriva la possibilità di scegliere e conservare opere, vivere con esse e mostrarle ad altri. Nell’intervista a HD Magazine distingue questo legame con l’arte dalla semplice rivendita di quadri.
+
+Discute anche le condizioni del lavoro artistico al momento dell’intervista. Il prezzo elevato di un singolo quadro, spiega, non significa di per sé un reddito stabile: tra una vendita e l’altra può trascorrere molto tempo, mentre il pittore continua a lavorare. Ricorda che alcuni colleghi preferivano un tempo vivere della propria creazione anziché dell’insegnamento; in seguito, l’irregolarità delle vendite rese più difficile quella scelta. Conta qui la differenza tra una commissione con un compenso concordato e un dipinto autonomo realizzato senza conoscere ancora il futuro acquirente.
+
+[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
 
 [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
@@ -393,6 +401,10 @@ Il suo percorso prosegue nelle sue opere: nelle persone che si incontrano nei me
 [Videoregistrazione qui sopra · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
 
 Oggi sono note oltre 600 opere di Ibragim Valikhodjaev, soprattutto dipinti. Comprendono periodi e ricerche differenti: la tavolozza misurata degli esordi, il bazar di Namangan, ritratti, nature morte, nudi, paesaggi en plein air, RED e astrazione. Il suo lavoro continua attraverso nuove domande sul colore, la forma e la composizione.
+
+Verso la fine della conversazione torna a una preoccupazione concreta: che cosa accade a un atelier pieno di dipinti quando il pittore muore? Valikhodjaev racconta casi in cui gli eredi non desideravano opere che rappresentavano anni di lavoro. Propone di riunirle, inventariarle e assicurare loro uno spazio di conservazione, perché le generazioni successive possano consultarle. La domanda riguarda anche il suo archivio. Dietro il ruolo di presidente e fondatore di galleria emerge la cura per il futuro delle opere: dove resteranno, chi le conserverà e come saranno accessibili dopo il loro autore.
+
+[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 ## La composizione collega anni diversi
 
