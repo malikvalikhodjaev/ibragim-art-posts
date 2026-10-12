@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 17
 description: "比较迪亚斯·拉赫马托夫、莉娜与萨沙肖像：面部、服装、留白与绘画空间。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_497.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 面孔、姿态与留白：瓦利霍贾耶夫的三幅肖像
@@ -41,17 +41,17 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 画作下半部分很大一部分被人物的肩膀占据。衣着的深灰色和蓝色调衬托出人物的重量感，使面部成为画面的中心。背景极其简洁，却并不空洞：顶部一条狭窄的赭色条纹勾勒出边界，头饰的轮廓与之相呼应。
 
-## 梅利斯·阿布扎洛夫在画室：从相聚到肖像
+## 迪亚斯·拉赫马托夫在画室：从相见到肖像
 
-[梅利斯·阿布扎洛夫](<https://dsmi.uz/ru/melis-abzalov-2/>)是乌兹别克斯坦演员和电影导演。这些档案照片记录了他与瓦利霍贾耶夫在画室相聚，以及画家为他绘制肖像的过程。与完成的画作并置，照片让人看到模特在场、画家与画架之间的距离，以及对面容和姿态的观察。
+[迪亚斯·拉赫马托夫](<https://uzbekkino.glob.uz/person/109>)是乌兹别克斯坦戏剧及电影演员。这些档案照片记录了他在瓦利霍贾耶夫画室中的身影，以及肖像的创作过程。与完成的画作并置时，照片让观者看到模特在场的状态、他与画架的位置关系，以及画家对面容和姿态的关注。
 
-[伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫与演员迪亚斯·拉赫马托夫在画室中。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫与演员迪亚斯·拉赫马托夫在画室中。艺术家档案。
 
-[在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[在画室中绘制迪亚斯·拉赫马托夫的肖像。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。
+在画室中绘制迪亚斯·拉赫马托夫的肖像。艺术家档案。
 
 ## 肖像画如何引导视线
 
@@ -59,9 +59,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 档案说明文字标明了被画者的姓名、创作年份和作品尺寸，但并未提供肖像的绘制背景。观察到的面部表情不应被直接套用成现成的传记叙事。此处的表现力是通过绘画手法创造的：头部的位置、笔触的性质以及人物与周围环境的关系。
 
-[伊布拉吉姆·瓦利霍贾耶夫，《莉娜肖像》，1987年。根据档案说明，尺寸为70×90厘米。艺术家档案中的作品图像。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫，《莉娜肖像》，1987年。根据档案说明，尺寸为70×90厘米。艺术家档案中的作品图像。 此画创作于他在学院求学期间。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-伊布拉吉姆·瓦利霍贾耶夫，《莉娜肖像》，1987年。根据档案说明，尺寸为70×90厘米。艺术家档案中的作品图像。
+伊布拉吉姆·瓦利霍贾耶夫，《莉娜肖像》，1987年。根据档案说明，尺寸为70×90厘米。艺术家档案中的作品图像。 此画创作于他在学院求学期间。
 
 ## 《莉娜肖像》：窗边的侧脸
 
@@ -119,6 +119,14 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 自画像：画家成为自己的模特
+
+在2006年的自画像中，面容被拉近到观者眼前。一片暖橙色光线与偏冷的灰色和深色区域相接，目光将整个构图凝聚起来。画家把对人物的细致观察转向了自己。
+
+[伊布拉吉姆·瓦利霍贾耶夫，《自画像》，2006年，60 × 40厘米。艺术家档案中的作品复制图。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍贾耶夫，《自画像》，2006年，60 × 40厘米。艺术家档案中的作品复制图。
 
 ## 创作、相遇与画作的生命
 

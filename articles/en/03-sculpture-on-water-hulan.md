@@ -4,7 +4,7 @@ language: "en"
 theme: 3
 description: "Valikhodjaev’s sculptural participation in Hulan, China, in 2024: metal, silhouette, water, reflections and an international river display."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Sculpture on Water: Ibragim Valikhodjaev in Hulan
@@ -36,7 +36,7 @@ In this article
 
 [Floating sculptures on the river, photograph from the artist's archive](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNL9Br5vP4xxVO0ccdKNR3j_cW-SUCUM-1BSILXfzn3zD2fWrgmq9zHeJGkBhrpXVrSmo2nOGPJ5k48DYCMw5jDRHToRShfrC_KdLd9l7jWNckxNUDgaQRuyc0bpWC4W251igz60BylVzBb0EVdfoz838RKRZuRQPm-_hHGaas2uR9V7qVwlUS7z9aaouF/s1600/clipboard.png>)
 
-Floating sculptures on the river. Photo from the artist's archive, "For Great China"; the maker and exact location of the pictured sculptures are not identified in the archival caption. [Watch additional video footage of the project in Hulan](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
+Floating sculptures on the river. Photo from the artist’s archive; the maker and exact location of the pictured sculptures are not identified in the archival caption. [Watch additional video footage of the project in Hulan](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
 
 The sculpture's surroundings are constantly changing. Clouds pass behind its silhouette, a reflection appears below, ripples break up the colour, and the evening light alters the relationship between figure and background. A single object appears in multiple states. Water and shore play a role in the perception of the work as tangibly as distance and the chosen vantage point.
 
@@ -121,6 +121,6 @@ These winter recordings from 2026 show the artist by the waterfront and sculptur
 
 Ibragim Valikhodjaev’s metal sculpture being prepared for installation on water. Artist’s archive; the filming date has not been confirmed.
 
-[Ibragim Valikhodjaev with his own floating sculpture on the frozen river, China, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ibragim Valikhodjaev with his own floating sculpture on the frozen river, China, 25 February 2026. Artist’s archive.
+Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.

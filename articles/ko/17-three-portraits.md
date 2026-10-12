@@ -4,7 +4,7 @@ language: "ko"
 theme: 17
 description: "디아스 라흐마토프, 레나, 사샤. 세 초상화의 얼굴과 자세, 옷, 여백이 전하는 인간의 존재감."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 얼굴과 자세, 공간 — 세 점의 초상화를 읽다
@@ -41,17 +41,17 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 어깨는 그림 하단의 상당 부분을 차지하고 있다. 어두운 회색과 푸른색 계열의 옷은 인물의 무게감을 받쳐주며, 얼굴은 중앙에 자리 잡고 있다. 배경은 매우 단순하지만 비어있지는 않다. 상단의 좁은 황토색 줄무늬는 모자의 실루엣이 놓일 경계를 명확히 구분해 준다.
 
-## 작업실의 멜리스 압잘로프: 만남에서 초상화로
+## 작업실의 디아스 라흐마토프: 만남에서 초상화까지
 
-[멜리스 압잘로프](<https://dsmi.uz/ru/melis-abzalov-2/>)는 우즈베키스탄의 배우이자 영화감독이었습니다. 이 아카이브 사진은 발리호자예프와의 만남, 그리고 화가가 그의 초상화를 그리는 모습을 보여 줍니다. 완성된 그림과 함께 보면 모델의 존재, 이젤까지의 거리, 얼굴과 자세를 살피는 시선 등 제작 과정을 이해할 수 있습니다.
+[디아스 라흐마토프](<https://uzbekkino.glob.uz/person/109>)는 우즈베키스탄의 연극·영화 배우였다. 이 기록 사진들은 그가 발리호자예프의 작업실에 있는 모습과 초상화가 제작되는 과정을 보여 준다. 완성된 그림과 함께 보면 모델의 존재, 이젤 앞에서의 위치, 얼굴과 자세에 기울인 화가의 관심을 살펴볼 수 있다.
 
-[작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[작업실에서 함께한 이브라김 발리호자예프와 배우 디아스 라흐마토프. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.
+작업실에서 함께한 이브라김 발리호자예프와 배우 디아스 라흐마토프. 작가 소장 자료.
 
-[작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[작업실에서 디아스 라흐마토프의 초상화를 그리는 모습. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.
+작업실에서 디아스 라흐마토프의 초상화를 그리는 모습. 작가 소장 자료.
 
 ## 초상화는 어떻게 시선을 이끄는가
 
@@ -59,9 +59,9 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 아카이브 설명에는 모델 이름, 제작 연도, 작품 크기가 있지만 모델을 그린 당시의 구체적인 사정은 기록되어 있지 않다. 관찰된 얼굴 표정을 바탕으로 기성 인물의 전기적 서사를 만들어내서는 안 된다. 여기서 표현력은 회화적 기법, 즉 머리의 위치, 붓놀림의 특징, 그리고 인물과 주변 배경과의 관계를 통해 만들어진다.
 
-[이브라김 발리호자예프. "레나의 초상", 1987년. 아카이브 설명에 따른 크기: 70 × 90cm. 작가 아카이브의 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[이브라김 발리호자예프. "레나의 초상", 1987년. 아카이브 설명에 따른 크기: 70 × 90cm. 작가 아카이브의 도판. 미술대학에 재학하던 시절에 그린 작품이다.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-이브라김 발리호자예프. "레나의 초상", 1987년. 아카이브 설명에 따른 크기: 70 × 90cm. 작가 아카이브의 도판.
+이브라김 발리호자예프. "레나의 초상", 1987년. 아카이브 설명에 따른 크기: 70 × 90cm. 작가 아카이브의 도판. 미술대학에 재학하던 시절에 그린 작품이다.
 
 ## "레나의 초상": 창가에 앉은 옆모습
 
@@ -119,6 +119,14 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [갤러리 하우스](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 자화상: 화가가 자신의 모델이 되다
+
+2006년 자화상에서는 얼굴이 관람자 가까이 다가온다. 따뜻한 주황빛 부분은 차가운 회색과 어두운 영역에 맞닿고, 시선은 화면을 하나로 묶는다. 화가는 사람을 바라보던 세심한 관찰을 자신에게 향한다.
+
+[이브라김 발리호자예프, 《자화상》, 2006년, 60 × 40cm. 작가 소장 자료의 작품 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+이브라김 발리호자예프, 《자화상》, 2006년, 60 × 40cm. 작가 소장 자료의 작품 도판.
 
 ## 제작, 만남, 그리고 그림의 여정
 

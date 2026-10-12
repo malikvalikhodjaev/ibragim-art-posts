@@ -4,7 +4,7 @@ language: "es"
 theme: 20
 description: "Valikhodjaev Gallery House, docencia, curaduría y proyectos internacionales: crear las condiciones para el encuentro con el arte."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/del-taller-la-galeria-valikhodjaev-crea.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Del taller a la galería: Valikhodjaev crea espacios para el arte
@@ -117,7 +117,11 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 
 ## Tumor: el comienzo de una galería privada
 
-Su experiencia como fundador comenzó mucho antes de Gallery House. En 1987 Valikhodjaev creó un taller de arte privado; en 1993 abrió en Namangán la galería-salón Tumor, que dirigió hasta 1999. La cronología biográfica actual la identifica como la primera galería de arte privada de Uzbekistán. Este hito revela su trabajo pionero al crear un lugar para el arte. Su posterior actividad en Taskent forma parte de una historia más larga: la de un artista que realiza obras y crea las condiciones para que se encuentren con el público.
+Su experiencia como fundador comenzó mucho antes de Gallery House. En 1987 Valikhodjaev creó un taller de arte privado; en 1993 abrió en Namangán la galería-salón Tumor, que dirigió hasta 1999. La cronología biográfica actual la identifica como la primera galería de arte privada del Uzbekistán independiente. Este hito revela su trabajo pionero al crear un lugar para el arte. Su posterior actividad en Taskent forma parte de una historia más larga: la de un artista que realiza obras y crea las condiciones para que se encuentren con el público. Según la familia, su papel pionero como fundador también quedó recogido en una enciclopedia.
+
+Habla de su galería a través de la historia de su colección. En las exposiciones encontraba buenas obras de sus colegas y deseaba comprar una o dos cuando sus recursos se lo permitían. Así reunió pinturas, cerámicas y artes aplicadas. Para él, la galería ofrecía la posibilidad de seleccionar y conservar obras, convivir con ellas y mostrarlas a otros. En HD Magazine distingue ese vínculo con el arte de la simple reventa de cuadros.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 

@@ -4,7 +4,7 @@ language: "fa"
 theme: 17
 description: "پرتره‌های دیاس رحمتوف، لنا و ساشا؛ رابطهٔ چهره، حالت بدن، پس‌زمینه و رنگ در سه اثر."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_10.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # چهره، حالت بدن و فضا: سه پرتره از ولی‌خوجایف
@@ -43,17 +43,17 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 شانه‌ها بخش قابل توجهی از نیمه پایینی نقاشی را اشغال کرده‌اند. تُن‌های خاکستری تیره و آبی لباس، وزن پیکره را تحمل می‌کنند و صورت را در مرکز قرار می‌دهند. پس‌زمینه بسیار ساده است، اما خالی نیست: یک نوار باریک اخرایی در بالا، مرزی را مشخص می‌کند که سیلوئت پوشش سر با آن مرتبط است.
 
-## ملیس ابزالوف در کارگاه: از دیدار تا پرتره
+## دیاس رحمتوف در آتلیه: از دیدار تا پرتره
 
-[ملیس ابزالوف](<https://dsmi.uz/ru/melis-abzalov-2/>) بازیگر و کارگردان سینمای ازبکستان بود. این عکس‌های آرشیوی دیدار او با ولی‌خوجایف و کار نقاش بر پرترهٔ او را نشان می‌دهند. در کنار نقاشی‌های کامل‌شده، عکس‌ها فرایند کار را آشکار می‌کنند: حضور مدل، فاصله تا سه‌پایه و توجه به چهره و حالت بدن.
+[دیاس رحمتوف](<https://uzbekkino.glob.uz/person/109>) بازیگر ازبک تئاتر و سینما بود. این عکس‌های آرشیوی حضور او در آتلیهٔ ولی‌خوجایف و روند شکل‌گیری پرتره‌اش را نشان می‌دهند. در کنار نقاشی تمام‌شده، حضور مدل، جای او مقابل سه‌پایه و توجه نقاش به چهره و حالت بدن آشکار می‌شود.
 
-[ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[ابراهیم ولی‌خوجایف و بازیگر دیاس رحمتوف در آتلیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+ابراهیم ولی‌خوجایف و بازیگر دیاس رحمتوف در آتلیه. آرشیو هنرمند.
 
-[کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[کار روی پرترهٔ دیاس رحمتوف در آتلیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+کار روی پرترهٔ دیاس رحمتوف در آتلیه. آرشیو هنرمند.
 
 ## چگونه یک پرتره چشم را هدایت می‌کند
 
@@ -121,6 +121,14 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 [اینستاگرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [یوتیوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [گالری هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [اوکسانا کادیشوا — حال‌وهوای رنگ‌های رنگین‌کمان در سوئیت ابراهیم ولی‌خوجایف، مجلهٔ San’at، شمارهٔ ۳، ۲۰۱۲](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## خودنگاره: نقاش مدل خودش می‌شود
+
+در خودنگارهٔ سال 2006، چهره به بیننده نزدیک شده است. بخش گرمی از نور نارنجی با خاکستری‌های سردتر و نواحی تیره هم‌نشین می‌شود و نگاه، ترکیب‌بندی را یکپارچه نگه می‌دارد. نقاش این بار توجه دقیقش به انسان را به سوی خود برمی‌گرداند.
+
+[ابراهیم ولی‌خوجایف. «خودنگاره»، 2006. 60 × 40 سانتی‌متر. تصویر اثر از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+ابراهیم ولی‌خوجایف. «خودنگاره»، 2006. 60 × 40 سانتی‌متر. تصویر اثر از آرشیو هنرمند.
 
 ## خلق اثر، دیدارها و زندگی تابلوها
 

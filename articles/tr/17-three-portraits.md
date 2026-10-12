@@ -4,7 +4,7 @@ language: "tr"
 theme: 17
 description: "Dias, Lena ve Sasha: Valikhodjaev’in üç portresinde yüz, duruş, giysi ve çevre insan varlığını farklı biçimlerde aktarır."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Yüz, duruş ve mekân: Dias, Lena ve Sasha’nın portreleri
@@ -41,17 +41,17 @@ Yaşlı adamın yüzü izleyiciye yakınlaştırılmış. Koyu renkli başlığ�
 
 Resmin alt yarısının önemli bir bölümünü omuzlar kaplıyor. Giysilerin koyu gri ve mavi tonları figürün ağırlığını desteklerken, yüzü merkezde bırakıyor. Arka plan son derece sade, ancak boş değil: üst kısımdaki dar bir hardal sarısı şerit, başlığın silüetinin ilişkili olduğu sınırı belirliyor.
 
-## Melis Abzalov atölyede: buluşmadan portreye
+## Dias Rakhmatov atölyede: karşılaşmadan portreye
 
-[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>), Özbek oyuncu ve film yönetmeniydi. Bu arşiv fotoğrafları onun Valikhodjaev ile buluşmasını ve sanatçının portre üzerinde çalışmasını gösteriyor. Tamamlanmış resimlerin yanında bu kareler, modelin varlığı, şövaleye olan mesafe, yüze ve duruşa gösterilen dikkat üzerinden çalışma sürecini görünür kılıyor.
+[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>), Özbek tiyatro ve sinema oyuncusuydu. Bu arşiv fotoğrafları onu Valikhodjaev’in atölyesinde ve portresinin yapım sürecinde gösterir. Tamamlanmış resmin yanında modelin varlığı, şövale karşısındaki konumu ve ressamın yüze ve poza gösterdiği dikkat görünür olur.
 
-[Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[İbragim Valikhodjaev ve oyuncu Dias Rakhmatov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.
+İbragim Valikhodjaev ve oyuncu Dias Rakhmatov atölyede. Sanatçının arşivi.
 
-[Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Atölyede Dias Rakhmatov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.
+Atölyede Dias Rakhmatov’un portresi üzerinde çalışırken. Sanatçının arşivi.
 
 ## Bir portre bakışı nasıl yönlendirir?
 
@@ -59,9 +59,9 @@ Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının ar
 
 Arşivdeki açıklamada portresi yapılan kişinin adı, resmin yılı ve ölçüleri belirtilmiş ancak portre çalışmasının yapıldığı oturuma dair detay verilmemiştir. Gözlemlenen yüz ifadesi hazır bir biyografik anlatıya dönüştürülmemelidir. Burada ifade gücü, resimsel araçlarla yaratılır: başın pozisyonu, fırça darbelerinin niteliği ve figürün çevredeki alanla ilişkisi.
 
-[İbrahim Valikhodjaev. "Lena Portresi", 1987. Arşiv açıklamasına göre boyutları: 70 × 90 cm. Sanatçının arşivinden reprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[İbrahim Valikhodjaev. "Lena Portresi", 1987. Arşiv açıklamasına göre boyutları: 70 × 90 cm. Sanatçının arşivinden reprodüksiyon. Enstitüdeki öğrencilik yıllarında yapılmıştır.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-İbrahim Valikhodjaev. "Lena Portresi", 1987. Arşiv açıklamasına göre boyutları: 70 × 90 cm. Sanatçının arşivinden reprodüksiyon.
+İbrahim Valikhodjaev. "Lena Portresi", 1987. Arşiv açıklamasına göre boyutları: 70 × 90 cm. Sanatçının arşivinden reprodüksiyon. Enstitüdeki öğrencilik yıllarında yapılmıştır.
 
 ## "Lena'nın Portresi": pencereden profil görüntüsü
 
@@ -119,6 +119,14 @@ Eserleri karşılaştırırken, ölçekteki bu değişimi gözlemlemek faydalıd
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Otoportre: ressam kendi modeli olur
+
+2006 tarihli otoportrede yüz izleyiciye yaklaştırılır. Işığın sıcak turuncu bölümü, daha soğuk griler ve koyu alanlarla karşılaşır; bakış kompozisyonu bir arada tutar. Ressam, insana gösterdiği dikkati bu kez kendisine yöneltir.
+
+[İbragim Valikhodjaev. Otoportre, 2006. 60 × 40 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+İbragim Valikhodjaev. Otoportre, 2006. 60 × 40 cm. Sanatçının arşivinden röprodüksiyon.
 
 ## Üretim, karşılaşmalar ve resimlerin yaşamı
 

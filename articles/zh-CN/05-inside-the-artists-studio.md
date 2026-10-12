@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 5
 description: "从拉希姆·艾哈迈多夫大师工作室到指导学生：绘画中的观察、构图与专业经验的传递。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # 在画家工作室：观察、教学与经验的传递
@@ -121,15 +121,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 创作、相遇与画作的生命
 
-[伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫与演员迪亚斯·拉赫马托夫在画室中。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-伊布拉吉姆·瓦利霍贾耶夫与演员梅利斯·阿布扎洛夫在画室。 艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫与演员迪亚斯·拉赫马托夫在画室中。艺术家档案。
 
-[在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[在画室中绘制迪亚斯·拉赫马托夫的肖像。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-在画室创作梅利斯·阿布扎洛夫的肖像。 艺术家档案。
+在画室中绘制迪亚斯·拉赫马托夫的肖像。艺术家档案。
 
-## 传授经验：西安绘画大师课
+## 传授经验：在西安为绘画专业学生举办大师课
 
 2025年9月，瓦利霍贾耶夫在中国西安美术学院为绘画专业学生开设大师课。他以艺术家及乌兹别克斯坦艺术家联盟主席的身份，参加了9月14日至19日与CASIE“一带一路—中亚”项目有关的访问。课堂上用一小时二十分钟完成的作品赠予了学院。下方的大师课视频记录了画面的形成过程：从最初的线条，到色块之间的关系，直至完整构图。
 

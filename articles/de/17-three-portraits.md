@@ -4,7 +4,7 @@ language: "de"
 theme: 17
 description: "Dias, Lena und Sasha: Drei Porträts von Valikhodjaev zeigen, wie Haltung, Kleidung und Umgebung über die bloße Ähnlichkeit hinausführen."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Jenseits der Ähnlichkeit: Dias, Lena und Sasha in Valikhodjaevs Porträts
@@ -41,17 +41,17 @@ Das Gesicht des älteren Mannes ist dem Betrachter sehr nah. Seine dunkle Kopfbe
 
 Die Schultern nehmen einen beträchtlichen Teil der unteren Bildhälfte ein. Die dunkelgrauen und blauen Töne der Kleidung betonen die Figur und lassen das Gesicht im Zentrum stehen. Der Hintergrund ist äußerst schlicht, aber nicht leer: Ein schmaler ockerfarbener Streifen am oberen Rand markiert die Grenze, vor der sich die Silhouette des Kopfschmucks abzeichnet.
 
-## Melis Abzalov im Atelier: von der Begegnung zum Porträt
+## Dias Rakhmatov im Atelier: von der Begegnung zum Porträt
 
-[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) war ein usbekischer Schauspieler und Filmregisseur. Diese Archivfotografien zeigen seine Begegnung mit Valikhodjaev und den Künstler bei der Arbeit an seinem Porträt. Neben den fertigen Gemälden machen sie den Arbeitsprozess sichtbar: die Gegenwart des Modells, den Abstand zur Staffelei und die Aufmerksamkeit für Gesicht und Haltung.
+[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) war ein usbekischer Theater- und Filmschauspieler. Die Archivfotografien zeigen ihn in Valikhodjaevs Atelier und dokumentieren die Entstehung seines Porträts. Neben dem fertigen Gemälde machen sie die Anwesenheit des Modells, seine Position vor der Staffelei und die Aufmerksamkeit des Malers für Gesicht und Haltung sichtbar.
 
-[Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev und der Schauspieler Dias Rakhmatov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.
+Ibragim Valikhodjaev und der Schauspieler Dias Rakhmatov im Atelier. Archiv des Künstlers.
 
-[Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Arbeit am Porträt von Dias Rakhmatov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.
+Arbeit am Porträt von Dias Rakhmatov im Atelier. Archiv des Künstlers.
 
 ## Wie ein Porträt den Blick lenkt
 
@@ -59,9 +59,9 @@ In „Porträt von Dias Rakhmatov“ richtet sich der Blick zunächst auf das gr
 
 Die Archivbildunterschrift nennt Name des Dargestellten, Jahr und Maße des Gemäldes, gibt aber keine Auskunft über die Porträtsitzung. Der beobachtete Gesichtsausdruck sollte nicht zu einer vorgefertigten Biografie umgedeutet werden. Ausdruckskraft entsteht hier durch malerische Mittel: die Kopfhaltung, die Art des Pinselstrichs und das Verhältnis der Figur zum umgebenden Bildfeld.
 
-[Ibragim Valikhodjaev. „Porträt von Lena“, 1987. Größe laut Archivangabe: 70 × 90 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. „Porträt von Lena“, 1987. Größe laut Archivangabe: 70 × 90 cm. Reproduktion aus dem Archiv des Künstlers. Während seines Studiums am Institut gemalt.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev. „Porträt von Lena“, 1987. Größe laut Archivangabe: 70 × 90 cm. Reproduktion aus dem Archiv des Künstlers.
+Ibragim Valikhodjaev. „Porträt von Lena“, 1987. Größe laut Archivangabe: 70 × 90 cm. Reproduktion aus dem Archiv des Künstlers. Während seines Studiums am Institut gemalt.
 
 ## "Porträt von Lena": Profil am Fenster
 
@@ -119,6 +119,14 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Selbstporträt: der Maler wird sein eigenes Modell
+
+Im Selbstporträt von 2006 rückt das Gesicht nah an den Betrachter heran. Eine warme orangefarbene Lichtpartie trifft auf kühlere Grautöne und dunkle Flächen; der Blick hält die Komposition zusammen. Der Maler richtet seine Aufmerksamkeit für den Menschen auf sich selbst.
+
+[Ibragim Valikhodjaev. Selbstporträt, 2006. 60 × 40 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Selbstporträt, 2006. 60 × 40 cm. Reproduktion aus dem Archiv des Künstlers.
 
 ## Arbeit, Begegnungen und das Leben der Bilder
 

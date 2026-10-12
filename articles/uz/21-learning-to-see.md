@@ -4,7 +4,7 @@ language: "uz"
 theme: 21
 description: "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li
@@ -28,6 +28,10 @@ Ibrohim Valixo‘jayev 1958-yil 28-noyabrda Namanganda tug‘ilgan. Ko‘rgazma 
 Otasi she’r ham yozgan. Ibrohim ulg‘ayganidan keyin otasining she’rlarini to‘plam holida nashr ettirib, oilaviy merosning bu qismini saqlab qolgan. Bu tafsilot bo‘lajak rassom ulg‘aygan uy haqidagi hikoyani boyitadi: otasining hayotida hunarmandchilik bilan she’riyat yonma-yon bo‘lgan.
 
 U maktab davridayoq rassom bo‘lishni istagan. Biroq bolalikdagi qiziqish bilan institutga kirish orasida mustaqil mehnat yillari bor. Keyinchalik yaratgan bozor manzaralari, portretlari va qishloq hayotiga oid kartinalari kundalik turmushga e’tiborini ko‘rsatadi: odamlar, ularning mashg‘ulotlari va yashash muhiti muhim. Shu yerda rassomning yo‘li tug‘ilgan shahri va oilasi tarixi bilan tutashadi.
+
+HD Magazine suhbatida u bu yo‘lni aniq xotiralar orqali tiklaydi. Birinchi sinfga borishidan oldin rasm chiza boshlagan, maktab yillarida esa Pionerlar uyiga qatnagan. Otasi usta-hunarmand edi; oliy badiiy ta’limga qanday kirishni batafsil tushuntiradigan odam yaqinida bo‘lmagan. Ibrohim Badiiy fondda ishlaydigan mahalliy rassomlarni kuzatib, mustaqil mashq qilgan. Badiiy muhit unga dastlab shu uchrashuvlar va kundalik kuzatishlar orqali ochilgan.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ O‘qishga kirgach, avvalgi tijoriy buyurtmalar bilan ishlashni to‘xtatib, ta�
 
 Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
+Institutga kirishdan oldin u o‘n yil rassom-bezatuvchi bo‘lib ishlagan. Suhbatda bu kasb o‘sha davrda qanchalik odatiy bo‘lganini tushuntiradi: tashkilotlarning o‘z rassomlari bo‘lgan, bezatish ishlari qo‘lda bajarilgan. Buyurtmalar daromad bergan, ammo ular bilan yonma-yon boshqa ijodiy mashg‘ulot ham davom etgan — ochiq havodagi etyudlar va naturadan ishlangan portretlar. Rahim Ahmedovni hali shaxsan tanimasdi, lekin san’at jurnallaridagi asarlarini kuzatib, ayniqsa portretlariga havas qilardi. Institutda asarlari avvaldan ko‘ngliga yaqin bo‘lgan rassomning ustaxonasini tanlagan.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## O‘qituvchi yo‘l ochadi, rassom o‘z tilini izlaydi
 
 1986-yilda Valixo‘jayev Aleksandr Ostrovskiy nomidagi Toshkent davlat teatr va rassomlik san’ati institutining rangtasvir bo‘limiga o‘qishga kirdi. O‘sha yilning noyabrida u 28 yoshga to‘ldi. Ustoz Rahim Ahmedov ustaxonasidagi ta’lim 1991-yilgacha davom etdi: bolalikdagi orzu mustaqil mehnat tajribasidan keyin tanlangan ongli kasbiy yo‘lga aylandi.
@@ -66,6 +74,12 @@ Valixo‘jayev Namanganda tug‘ilgan va professional ta'limni Toshkentda, usta 
 Televizion intervyuda rassom tasvir yaratish ko‘nikmasi bilan ijodkor sifatida shakllanish o‘rtasidagi farq haqida gapiradi. Mashg‘ulotlar imkoniyatlarning keng dunyosini ochadi, ammo unda o‘z yo‘nalishini topish rassomning o‘ziga bog‘liq. Bu sayohatni uning ishi, portretlar, natyurmortlar, peyzajlar va ko‘p figurali janrli kompozitsiyalar orqali kuzatish mumkin.
 
 [Yuqoridagi video · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+«Ijod formulasi»da rassom ishning boshqa bir sur’atini ham eslaydi: talabalikdagi bir oy davomida kartina ko‘ngildagidek chiqmagan. Bir bozor kompozitsiyasini o‘quv ustaxonasida, boshqasini uyida, ish joyi qilib olgan balkonda ishlagan. Xolstga qaytgan, bo‘yoq siqib ishlagan, kechqurun esa natijadan ko‘ngli to‘lmay, bo‘yoqni yana qirib tashlagan. Bu holat bir oycha davom etgan. Bir kuni oilasi bilan televizor ko‘rib o‘tirganida birdan ishlagisi kelgan: balkonga chiqib, o‘z xotirasiga ko‘ra, uyidagi kartinani yarim soatda tugatgan; ertasi kuni ustaxonadagi asarni ham shunday tez yakunlagan. Bu voqea tomoshabin ko‘rmaydigan haftalab izlanish va qoniqmaslik asarning tez bitishi ortida turishi mumkinligini ko‘rsatadi.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Oila xotiralariga ko‘ra, diplom ishi mavzusini tanlashda ham ustozning ishonchi muhim bo‘lgan. Odatda talabalardan akademik qo‘yilmalar talab qilingan; Valixo‘jayevga esa yolg‘iz o‘ziga bozor mavzusidagi mustaqil kompozitsiyani ishlashga ruxsat berilgan. Rahim Ahmedov Ibrohim akademik maktab asoslarini egallab bo‘lgan, endi o‘z ijodiy vazifasini hal qilishi mumkin, deb hisoblagan. Bozor hayotini kuzatish diplom ishiga asos bo‘lib, keyinchalik yirik, ko‘p figurali polotnolarga va rassomning taniladigan dastxatiga aylangan.
 
 [Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ Hamkasblar bilan uchrashuv, arxiv surati. Rassom arxivi.
 
 Ochiq havoda olingan arxiv surati. Rassom arxivi.
 
+[Ibrohim Valixo‘jayev. «Hayot daraxti», 1998. 140 × 150 sm. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+Ibrohim Valixo‘jayev. «Hayot daraxti», 1998. 140 × 150 sm. Rassom arxividan reproduksiya.
+
+Ochiq havoda olingan arxiv fotosurati yonida 1998-yilgi «Hayot daraxti» joylashgan. To‘q fondagi oqish shoxlar tabiat motivini umumlashtirilgan obrazga aylantiradi; vazmin palitra daraxt tanasining egilishlarini va kompozitsiya tuzilishini aniqroq ko‘rishga imkon beradi.
+
 [Valixodjayev sopol buyumlar yonida. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 Valixodjayev sopol buyumlar yonida. Rassom arxivi.
@@ -165,7 +185,11 @@ Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi
 
 ## «Tumor», Namangan va Toshkentga ko‘chish
 
-1993-yilda Valixo‘jayev Namanganda O‘zbekistondagi birinchi xususiy badiiy galereya — «Tumor» galereya-saloniga asos soldi. Uni 1999-yilgacha boshqardi. Shu tariqa mamlakatda xususiy galereya faoliyatini boshlab bergan ijodkorlardan biriga aylandi: shaxsiy tashabbus davlat ko‘rgazma maydonlaridan tashqarida asar va tomoshabin uchrashadigan makon yaratdi.
+1993-yilda Valixo‘jayev Namanganda mustaqil O‘zbekistondagi birinchi xususiy badiiy galereya — «Tumor» galereya-saloniga asos soldi. Uni 1999-yilgacha boshqardi. Shu tariqa mamlakatda xususiy galereya faoliyatini boshlab bergan ijodkorlardan biriga aylandi: shaxsiy tashabbus davlat ko‘rgazma maydonlaridan tashqarida asar va tomoshabin uchrashadigan makon yaratdi. Oila ma’lumotlariga ko‘ra, uning ilk asoschi sifatidagi o‘rni ensiklopediyada ham qayd etilgan.
+
+O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. HD Magazine suhbatida u san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997–1999-yillarda Rassomlar uyushmasi va Badiiy fondning Namangan bo‘limlariga rahbarlik qildi. Onasiga g‘amxo‘rlik qilish, o‘z rangtasviri va ona shahrining badiiy hayotini tashkil etish shu davrning turli tomonlari edi. Keyinchalik Namangandan Toshkentga ko‘chdi; bu vaqtga kelib, u onasidan ayrilish qayg‘usini boshdan kechirgan edi.
 
@@ -249,7 +273,7 @@ Bolalar rassomning plenerdagi ishini kuzatmoqda. Rassom arxividan.
 
 Ibrohim Valixodjayev Turkiyadagi plenerda. Rassom arxivi.
 
-[Melis Abzalov ustaxonada: uchrashuvdan portretgacha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html#iv-melis-abzalov>)
+[Dias Rahmatov ustaxonada: uchrashuvdan portretgacha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html#iv-dias-rakhmatov>)
 
 ## Rang tadqiqot mavzusiga aylanadi
 
@@ -303,6 +327,8 @@ Rassomni doimo qiziqish, izlanuvchanlik va yangilik kashf etish istagi oldinga y
 
 Sayohat bu tadqiqot uchun yangi kontekst yaratadi. 2012-yilda Valixo‘jayev Chernogoriyada bo‘lib o‘tgan plener yig‘ilishida rassom sifatida ishtirok etdi va keyin u yerda o‘zi yaratgan asarlarni Toshkentda namoyish etdi. Uning plener ishlari Turkiya, O‘zbekiston va Ozarbayjonni ham qamrab oladi. Xitoyning Xulan shahrida u haykaltarosh sifatida suzuvchi haykal loyihasi uchun kompozitsiyani metallda ifodalashda ishtirok etdi.
 
+2021-yilda Turkiyaga safar plenerda ishtirok etish va Istanbuldagi Maltepe madaniyat markazida shaxsiy ko‘rgazma o‘tkazishni birlashtirdi. Naturadan ishlash va natijalarni ko‘rgazmada namoyish etish ijodiy jarayonning izchil bosqichlariga aylandi.
+
 2026-yilda Xitoyning Xarbin shahridagi Yu Shun muzeyida bo‘lib o‘tgan "Qor ustidagi quyosh" nomli shaxsiy ko‘rgazma uning keng ko‘lamli rasmlariga yangi o‘lcham bag‘ishladi. Yuqoridagi video zalning miqyosga ta’sirini namoyish etadi: uzoqdan umumiy tuzilishni ko‘rish mumkin, ammo yaqindan ko‘rib chiqilsa, aniq ranglar maydoni tomoshabinning ko‘rish maydonining katta qismini egallaydi. Rassomning asarlari ushbu muzeyda, Turkiyaning Istanbul shahridagi Maltepe munitsipaliteti kolleksiyasida va Rossiyaning Moskva shahridagi shaxsiy kolleksiyada, shuningdek, boshqa davlat va xususiy kolleksiyalarda saqlanadi.
 
 [Yuqoridagi video · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -349,6 +375,10 @@ Valixodjayevning ijodiy faoliyati, jumladan, 2020-yilda «Shuhrat» medali va 20
 [O‘zbekistonning birinchi prezidenti Islom Karimovning turmush o‘rtog‘i Tatyana Karimova Ibrohim Valixodjayevga O‘zbekiston Respublikasi Prezidentining oltin medalini topshirmoqda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png>)
 
 O‘zbekistonning birinchi prezidenti Islom Karimovning turmush o‘rtog‘i [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>) Ibrohim Valixodjayevga O‘zbekiston Respublikasi Prezidentining oltin medalini topshirmoqda. Rassom arxivi.
+
+[Ibrohim Valixo‘jayev. «Yorug‘lik va soyalar». Rassom bu kartina uchun 2018-yilda O‘zbekiston Respublikasi Birinchi Prezidentining oltin medali bilan taqdirlangan. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+Ibrohim Valixo‘jayev. «Yorug‘lik va soyalar». Rassom bu kartina uchun 2018-yilda O‘zbekiston Respublikasi Birinchi Prezidentining oltin medali bilan taqdirlangan. Rassom arxividan reproduksiya.
 
 [O‘zbekiston Badiiy akademiyasi raisi Akmal Nur Ibrohim Valixodjayevga akademiyaning Oltin medalini topshirmoqda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
@@ -401,3 +431,13 @@ Rassom havolalari: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·
 [Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+Xitoydagi ko‘rgazmaga tayyorgarlikni hikoya qilarkan, u avval zal haqida gapiradi. Bu joyni ilgari ko‘rgan; reja va o‘lchamlarni olgach, qaysi asarlarni olib borish va qanday joylashtirishni o‘ylagan. Katta, yorug‘ zal yirik polotnolarni ko‘rsatish imkonini bergan. Keyin badiiy qaror amaliy vazifaga aylangan: xolstlar tagromlardan yechilib, rulon qilingan va yuk samolyotida yuborilgan. Rassom asarlardan oldin yetib kelgan, ularni kutib olgan va ekspozitsiyani tayyorlashda qatnashgan. Teleko‘rsatuvdagi hikoyada ko‘rgazma shu qarorlar ketma-ketligidan — kartina ko‘lamidan tortib uni tashish va zalga joylashtirishgacha bo‘lgan jarayondan shakllanadi.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.
+
+[Xarbindagi ko‘rgazma ochilishining videoyozuvi, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)

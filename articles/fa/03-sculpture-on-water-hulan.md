@@ -4,7 +4,7 @@ language: "fa"
 theme: 3
 description: "ولی‌خوجایف در پروژهٔ مجسمه‌های شناور هولان، چین، ۲۰۲۴: فرم فلزی، آب، بازتاب و مقیاس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # مجسمه روی آب: ابراهیم ولی‌خوجایف در هولان
@@ -123,9 +123,9 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 مجسمه فلزی ابراهیم ولی‌خواجه‌اف در مرحله آماده‌سازی برای نصب روی آب. آرشیو هنرمند؛ تاریخ عکاسی تأیید نشده است.
 
-[ابراهیم ولی‌خوجایف در برابر مجسمهٔ شناور خود بر رودخانهٔ یخ‌زده، چین، ۲۵ فوریهٔ ۲۰۲۶. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[ابراهیم ولی‌خوجایف مقابل مجسمهٔ شناور خودش روی رودخانهٔ یخ‌زده، چین، هاربین، 25 فوریهٔ 2026. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-ابراهیم ولی‌خوجایف در برابر مجسمهٔ شناور خود بر رودخانهٔ یخ‌زده، چین، ۲۵ فوریهٔ ۲۰۲۶. آرشیو هنرمند.
+ابراهیم ولی‌خوجایف مقابل مجسمهٔ شناور خودش روی رودخانهٔ یخ‌زده، چین، هاربین، 25 فوریهٔ 2026. آرشیو هنرمند.
 
 
 </div>

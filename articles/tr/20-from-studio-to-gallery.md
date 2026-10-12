@@ -4,7 +4,7 @@ language: "tr"
 theme: 20
 description: "Valikhodjaev’in ressam, küratör, organizatör ve galeri kurucusu olarak çalışmaları: atölyeden izleyiciyle buluşmaya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Atölyeden galeriye: sanat için alan yaratmak
@@ -117,7 +117,11 @@ Arşivdeki galeri fotoğrafında, resimler arasındaki boşluklar bu ilişkileri
 
 ## Tumor: özel galeri tarihinin başlangıcı
 
-Kuruculuk deneyimi Gallery House’dan çok önce başladı. Valikhodjaev 1987’de özel bir sanat atölyesi kurdu; 1993’te Namangan’da Tumor galeri-salonunu açtı ve 1999’a kadar yönetti. Güncel biyografik kronolojiye göre Tumor, Özbekistan’ın ilk özel sanat galerisiydi. Bu dönüm noktası, sanat için bir mekân yaratmadaki öncü çalışmasını gösterir. Taşkent’teki sonraki galeri faaliyetleri, eser üreten ve bunların izleyiciyle buluşmasını sağlayan sanatçının daha uzun hikâyesinin parçasıdır.
+Kuruculuk deneyimi Gallery House’dan çok önce başladı. Valikhodjaev 1987’de özel bir sanat atölyesi kurdu; 1993’te Namangan’da Tumor galeri-salonunu açtı ve 1999’a kadar yönetti. Güncel biyografik kronolojiye göre Tumor, bağımsız Özbekistan’ın ilk özel sanat galerisiydi. Bu dönüm noktası, sanat için bir mekân yaratmadaki öncü çalışmasını gösterir. Taşkent’teki sonraki galeri faaliyetleri, eser üreten ve bunların izleyiciyle buluşmasını sağlayan sanatçının daha uzun hikâyesinin parçasıdır. Aileye göre, galerinin öncü kurucusu olarak üstlendiği rol bir ansiklopedide de yer aldı.
+
+Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. HD Magazine söyleşisinde sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Devamı: sanatçının yaşamı ve sanat yolculuğu](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 

@@ -4,7 +4,7 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
@@ -28,6 +28,10 @@ edition_date: "2026-10-11"
 父は詩も書いていた。イブラギムは成人後、父の詩を一冊の詩集として出版し、家族の遺産の一部を残した。この事実は、後の画家が育った家の姿をより豊かに伝える。父の暮らしには、手仕事と詩の両方があった。
 
 学校に通う頃から画家になりたいと考えていた。しかし、その幼い願いから専門教育を受けるまでには、自ら働く年月があった。後年の市場の情景、肖像、農村生活の絵画には、人々とその仕事、暮らしの環境への関心が表れている。画家の歩みはここで、故郷と家族の歴史に重なる。
+
+HD Magazineの対談では、具体的な記憶を通してこの道のりを振り返っている。小学校に入る前から絵を描き、在学中はピオネールの家に通った。父は職人で、身近には美術の高等教育へ進む道を詳しく教えてくれる人がいなかった。イブラギムは美術基金に所属する地元の画家の仕事を見て、自分でも練習した。美術の世界との最初の出会いは、そうした交流と日々の観察から生まれた。
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ edition_date: "2026-10-11"
 
 自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
+学院に入る前の10年間は、装飾画家として働いた。対談では、当時この職業が身近なものだったと振り返る。組織には専属の画家が必要で、装飾は手作業で制作されていた。注文仕事が収入を支える一方、野外の習作や人物を前にした肖像画も描いていた。ラヒム・アフメドフとはまだ会っていなかったが、美術雑誌で作品を調べ、とりわけ肖像画に憧れていた。学院では、以前から親しんでいた作品を描く画家の工房を選んだ。
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## 教師は道を切り開き、芸術家は自らの言語を探し求める。
 
 1986年、ヴァリホジャエフはアレクサンドル・オストロフスキー名称タシケント国立演劇・美術学院の絵画部門に入学した。同年11月に28歳を迎えた。ラヒム・アフメドフの工房での教育は1991年まで続いた。独立して働いた経験を経て、子どもの頃の願いは自覚的な職業の選択となっていた。
@@ -66,6 +74,12 @@ edition_date: "2026-10-11"
 テレビインタビューの中で、このアーティストはデッサンとアーティストの成長を区別している。訓練は可能性の広大な世界を開くが、その中で自分自身の方向性を見出すのはアーティスト自身にかかっている。この道のりは、肖像画、静物画、風景画、そして複数の人物が登場する風俗画など、彼の作品を通して辿ることができる。
 
 [上に掲載した映像 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+『Ijod formulasi』では、まったく異なる制作の速度も回想している。学生時代のある一か月、絵がどうしても思うようにまとまらなかった。学院の工房で一枚の市場の構図を描き、もう一枚は仕事場にした自宅のバルコニーで描いていた。キャンバスに向かい、絵具を出して描くが、夕方には出来栄えに満足できず、また絵具を削り取った。それが一か月ほど続いた。ある日、家族とテレビを見ていると突然描きたくなり、バルコニーに出た。彼の記憶では、自宅の絵は三十分で完成し、翌日には工房の絵も同じように短時間で仕上がった。最後に見る人が感じる制作の速さの背後には、何週間もの試行と不満があることを、この話は伝えている。
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+家族の回想によれば、卒業制作の題材にも師の信頼が表れていた。学生には通常、アカデミックな習作が求められたが、ヴァリホジャエフだけは市場を題材に独自の構成を試みることを認められた。ラヒム・アフメドフは、イブラギムがすでに学院での訓練の基礎を身につけ、自らの表現課題に取り組めると考えていた。市場での観察は卒業制作に結実し、のちに多くの人物を描く大画面と、画家を特徴づける絵画言語へと発展した。
 
 [師ラヒム・アフメドフとイブラギム・ヴァリホジャエフ。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ edition_date: "2026-10-11"
 
 屋外で撮影されたアーカイブ写真。 画家のアーカイブより。
 
+[イブラギム・ヴァリホジャエフ《生命の樹》、1998年、140 × 150 cm。画家の資料に収められた作品図版。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+イブラギム・ヴァリホジャエフ《生命の樹》、1998年、140 × 150 cm。画家の資料に収められた作品図版。
+
+屋外で撮られた資料写真の隣に、1998年の《生命の樹》を置く。暗い地に浮かぶ明るい枝は、自然のモチーフを凝縮した像へと変える。抑制された色彩によって、幹の曲線と画面構成が際立つ。
+
 [陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 陶器のそばにいるヴァリホジャエフ。 画家のアーカイブより。
@@ -165,7 +185,11 @@ edition_date: "2026-10-11"
 
 ## トゥモル、ナマンガン、タシケントへの移住
 
-1993年、ヴァリホジャエフはナマンガンに、ウズベキスタン初の民間美術ギャラリーであるトゥモルを設立し、1999年まで運営した。国内の民間ギャラリー活動の先駆者となったのである。個人の取り組みが、従来の国営展示施設とは別に、作品と観客が出会う場所を生んだ。
+1993年、ヴァリホジャエフはナマンガンに、独立後のウズベキスタンで初めての私設アートギャラリーであるトゥモルを設立し、1999年まで運営した。国内の民間ギャラリー活動の先駆者となったのである。個人の取り組みが、従来の国営展示施設とは別に、作品と観客が出会う場所を生んだ。 家族によれば、先駆的な創設者としての役割は百科事典にも記録された。
+
+自身の画廊については、収集の経験から語っている。展覧会で仲間の優れた作品に出会うと、資金が許すときには一、二点を購入したいと思った。絵画、陶芸、工芸からなるコレクションが、そうして育った。画廊は彼にとって、作品を選び、保存し、ともに暮らし、ほかの人に見せる場だった。HD Magazineの対談では、このような美術への愛着と、単に絵を転売することを区別している。
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997年から1999年まで、美術家連盟と美術基金のナマンガン支部を率いた。母の世話、自身の絵画制作、故郷の美術活動の運営は、この時期の異なる側面だった。その後ナマンガンからタシケントへ移ったが、その頃にはすでに、母を失う悲しみを経験していた。
 
@@ -249,7 +273,7 @@ edition_date: "2026-10-11"
 
 トルコでの野外写生会に参加するイブラギム・ワリホジャエフ。画家のアーカイブより。
 
-[アトリエのメリス・アブザロフ：出会いから肖像へ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html#iv-melis-abzalov>)
+[アトリエのディアス・ラフマトフ：出会いから肖像へ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html#iv-dias-rakhmatov>)
 
 ## 色が研究対象となる
 
@@ -303,6 +327,8 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 旅は、この探求に新たな視点を与えてくれる。2012年、ヴァリホジャエフはモンテネグロで開催された野外写生会に画家として参加し、そこで制作した作品をタシュケントで展示した。彼の野外写生活動は、トルコ、ウズベキスタン、アゼルバイジャンにも及ぶ。中国のフーランでは彫刻家として参加し、水上彫刻プロジェクトのために構図を金属で表現した。
 
+2021年のトルコ滞在では、野外制作プログラムへの参加と、イスタンブールのマルテペ文化センターでの個展が並行して行われた。実景を描き、その成果を展示することが、一続きの制作活動を形づくった。
+
 2026年に中国・ハルビンの禹舜美術館で開催された個展「雪上の太陽」は、彼の大型キャンバス作品に新たな次元をもたらした。上の動画は、その空間が与えるインパクトを示している。遠くから見ると全体の構造が分かるが、近づいてよく見ると、はっきりとした色彩の領域が鑑賞者の視界の大部分を占めている。このアーティストの作品は、同美術館のほか、トルコ・イスタンブールのマルテペ市、ロシア・モスクワの個人コレクション、その他多くの公的および私的コレクションに所蔵されている。
 
 [上に掲載した映像 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 ウズベキスタン初代大統領イスラム・カリモフの夫人[タチアナ・カリモワ](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)が、イブラギム・ワリホジャエフにウズベキスタン共和国大統領の金メダルを授与する場面。画家のアーカイブより。
 
+[イブラギム・ヴァリホジャエフ《光と影》。この作品により、画家は2018年にウズベキスタン共和国初代大統領の金メダルを受賞した。画家の資料に収められた作品図版。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+イブラギム・ヴァリホジャエフ《光と影》。この作品により、画家は2018年にウズベキスタン共和国初代大統領の金メダルを受賞した。画家の資料に収められた作品図版。
+
 [ウズベキスタン芸術アカデミー会長アクマル・ヌルが、イブラギム・ワリホジャエフに同アカデミーの金メダルを授与する場面。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 ウズベキスタン芸術アカデミー会長[アクマル・ヌル](<https://art-academy.uz/ru/structure/rahbariyat/1>)が、イブラギム・ワリホジャエフに同アカデミーの金メダルを授与する場面。画家のアーカイブより。
@@ -392,7 +422,17 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 アーティスト関連リンク：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## 経験を伝える――西安での絵画マスタークラス
+中国での展覧会の準備を語るとき、まず展示室の話から始める。以前その場所を見ており、平面図と寸法を受け取ると、何を持参し、どう配置するかを考えた。広く明るい展示室なら、大きな絵を見せられる。美術上の判断は、次に実際の作業になった。キャンバスを木枠から外し、巻いて貨物機で送った。画家は作品より先に到着し、その到着を待ち、展示の準備に加わった。テレビでの語りでは、絵の大きさから輸送、室内の配置まで、判断の積み重ねによって展覧会が形になっていく。
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。
+
+[ハルビンでの展覧会開幕の映像、2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+## 経験を伝える：西安の絵画専攻学生に向けた実技講座
 
 2025年9月、ヴァリホジャエフは中国の西安美術学院で絵画を学ぶ学生たちにマスタークラスを行った。CASIEの「一帯一路――中央アジア」プログラムに関連する9月14日から19日までの訪問に、画家およびウズベキスタン芸術家連盟会長として参加した。1時間20分で制作した作品は同学院に寄贈された。下のマスタークラスの映像では、最初の線から色面の関係、そして完成した構図へと画面が形づくられる過程を見ることができる。
 

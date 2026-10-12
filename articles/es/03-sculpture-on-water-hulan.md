@@ -4,7 +4,7 @@ language: "es"
 theme: 3
 description: "Valikhodjaev en Hulan, China, 2024: su participación como escultor, las formas metálicas, el agua y el reflejo."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Esculturas sobre el río: Ibragim Valikhodjaev en Hulan
@@ -121,6 +121,6 @@ Estas grabaciones del invierno de 2026 muestran al artista junto a la ribera y l
 
 La escultura de metal de Ibragim Valikhodjaev durante su preparación para instalarla sobre el agua. Archivo del artista; fecha de la fotografía no confirmada.
 
-[Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, 25 de febrero de 2026. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, Harbin, 25 de febrero de 2026. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, 25 de febrero de 2026. Archivo del artista.
+Ibragim Valikhodjaev ante su propia escultura flotante sobre el río helado, China, Harbin, 25 de febrero de 2026. Archivo del artista.

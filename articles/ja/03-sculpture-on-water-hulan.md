@@ -4,7 +4,7 @@ language: "ja"
 theme: 3
 description: "中国・フーランの水上彫刻プロジェクト、2024年。彫刻家として参加したヴァリホジャエフの制作と水、光、反射。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 水面に浮かぶ彫刻――イブラギム・ヴァリホジャエフ、フーランにて
@@ -36,7 +36,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [川に浮かぶ彫刻作品（アーティストのアーカイブからの写真）](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNL9Br5vP4xxVO0ccdKNR3j_cW-SUCUM-1BSILXfzn3zD2fWrgmq9zHeJGkBhrpXVrSmo2nOGPJ5k48DYCMw5jDRHToRShfrC_KdLd9l7jWNckxNUDgaQRuyc0bpWC4W251igz60BylVzBb0EVdfoz838RKRZuRQPm-_hHGaas2uR9V7qVwlUS7z9aaouF/s1600/clipboard.png>)
 
-川に浮かぶ彫刻。アーティストのアーカイブ「For Great China」からの写真。アーカイブのキャプションには、彫刻の制作者と正確な設置場所は明記されていない。[フーランでのプロジェクトに関するその他のビデオ映像をご覧ください](<https://www.youtube.com/watch?v=KYalKm2VgSA>)。
+川に浮かぶ彫刻。画家の資料より。資料の説明には、彫刻の制作者と正確な設置場所は明記されていない。 [フーランでのプロジェクトに関するその他のビデオ映像をご覧ください](<https://www.youtube.com/watch?v=KYalKm2VgSA>)。
 
 彫刻を取り巻く環境は絶えず変化する。雲がそのシルエットの背後を流れ、下に水面に映る影が現れ、さざ波が色彩を揺らめかせ、夕暮れの光が彫刻と背景の関係性を変化させる。一つの物体が、幾重にも重なる様相を呈する。水と川岸は、距離や鑑賞者の視点と同様に、作品の認識において重要な役割を果たす。
 
@@ -121,6 +121,6 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 
 水上への設置に向けて準備されるイブラギム・ヴァリホジャエフの金属彫刻。画家のアーカイブより。撮影日は未確認。
 
-[自身の浮遊彫刻を背景にしたイブラギム・ヴァリホジャエフ。凍結した川、中国、2026年2月25日。作家アーカイブ。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-自身の浮遊彫刻を背景にしたイブラギム・ヴァリホジャエフ。凍結した川、中国、2026年2月25日。作家アーカイブ。
+凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。

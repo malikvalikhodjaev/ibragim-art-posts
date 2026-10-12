@@ -4,7 +4,7 @@ language: "ar"
 theme: 3
 description: "فاليخودجاييف نحاتًا في هولان، الصين، عام 2024: المعدن والماء والمقياس في مشروع النحت العائم."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # نحت على الماء: إبراهيم فاليخودجاييف في هولان
@@ -123,9 +123,9 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 منحوتة إبراهيم فاليخوجاييف المعدنية أثناء تجهيزها للتركيب على الماء. أرشيف الفنان؛ تاريخ التصوير غير مؤكد.
 
-[إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، 25 فبراير 2026. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، هاربين، 25 فبراير 2026. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، 25 فبراير 2026. أرشيف الفنان.
+إبراهيم فاليخودجاييف أمام منحوتته العائمة على النهر المتجمد، الصين، هاربين، 25 فبراير 2026. أرشيف الفنان.
 
 
 </div>

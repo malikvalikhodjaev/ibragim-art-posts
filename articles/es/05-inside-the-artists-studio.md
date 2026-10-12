@@ -4,7 +4,7 @@ language: "es"
 theme: 5
 description: "Del taller del maestro Rahim Ahmedov a las clases con alumnos: observar, componer y transmitir la experiencia pictórica."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # En el taller: mirar, pintar y aprender con Ibragim Valikhodjaev
@@ -121,15 +121,15 @@ Antes de ingresar en el instituto, Valikhodjaev realizaba encargos artísticos e
 
 ## Creación, encuentros y vida de los cuadros
 
-[Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev y el actor Dias Rakhmatov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev y el actor Melis Abzalov en el estudio. Archivo del artista.
+Ibragim Valikhodjaev y el actor Dias Rakhmatov en el estudio. Archivo del artista.
 
-[Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Trabajando en el retrato de Dias Rakhmatov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Trabajando en el retrato de Melis Abzalov en el estudio. Archivo del artista.
+Trabajando en el retrato de Dias Rakhmatov en el estudio. Archivo del artista.
 
-## Compartir la experiencia: una clase magistral en Xi’an
+## Transmitir la experiencia: una clase magistral para estudiantes de pintura en Xi’an
 
 En septiembre de 2025, Valikhodjaev impartió una clase magistral a estudiantes de pintura de la Academia de Bellas Artes de Xi’an, en China. Participó como artista y presidente de la Unión de Artistas de Uzbekistán en la visita del 14 al 19 de septiembre, vinculada al programa CASIE ‘Una Franja, una Ruta — Asia Central’. La composición, realizada en una hora y veinte minutos, fue donada a la Academia. El vídeo de la clase magistral que aparece a continuación permite seguir la construcción de la imagen, desde las primeras líneas hasta las relaciones entre las manchas de color y la composición terminada.
 

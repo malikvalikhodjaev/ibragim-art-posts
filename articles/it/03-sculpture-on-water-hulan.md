@@ -4,7 +4,7 @@ language: "it"
 theme: 3
 description: "Valikhodjaev a Hulan, Cina, 2024: la sua partecipazione come scultore, il metallo, l’acqua e il riflesso."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Sculture sul fiume: Ibragim Valikhodjaev a Hulan
@@ -36,7 +36,7 @@ In questo articolo
 
 [Sculture galleggianti sul fiume, fotografia dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNL9Br5vP4xxVO0ccdKNR3j_cW-SUCUM-1BSILXfzn3zD2fWrgmq9zHeJGkBhrpXVrSmo2nOGPJ5k48DYCMw5jDRHToRShfrC_KdLd9l7jWNckxNUDgaQRuyc0bpWC4W251igz60BylVzBb0EVdfoz838RKRZuRQPm-_hHGaas2uR9V7qVwlUS7z9aaouF/s1600/clipboard.png>)
 
-Sculture galleggianti sul fiume. Foto dall'archivio dell'artista, "For Great China"; l'autore e l'esatta ubicazione delle sculture raffigurate non sono indicati nella didascalia dell'archivio. [Guarda ulteriori filmati del progetto su Hulan](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
+Sculture galleggianti sul fiume. Foto dall’archivio dell’artista; l’autore e l’esatta ubicazione delle sculture raffigurate non sono indicati nella didascalia d’archivio. [Guarda ulteriori filmati del progetto su Hulan](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
 
 L'ambiente circostante la scultura è in continua trasformazione. Le nuvole passano dietro la sua silhouette, un riflesso appare al di sotto, le increspature dell'acqua ne spezzano il colore e la luce del tramonto altera il rapporto tra figura e sfondo. Un singolo oggetto appare in molteplici stati. L'acqua e la riva giocano un ruolo nella percezione dell'opera tanto quanto la distanza e il punto di vista scelto.
 
@@ -121,6 +121,6 @@ Questi video girati nell’inverno 2026 mostrano l’artista sul lungofiume e le
 
 La scultura in metallo di Ibragim Valikhodjaev durante la preparazione per l’installazione sull’acqua. Archivio dell’artista; data dello scatto non confermata.
 
-[Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, 25 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, Harbin, 25 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, 25 febbraio 2026. Archivio dell’artista.
+Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, Harbin, 25 febbraio 2026. Archivio dell’artista.

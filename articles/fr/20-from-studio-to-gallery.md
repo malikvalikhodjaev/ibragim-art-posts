@@ -4,7 +4,7 @@ language: "fr"
 theme: 20
 description: "Peintre, enseignant, commissaire et fondateur de galerie : comment Valikhodjaev crée des lieux de rencontre avec l’art."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-latelier-la-galerie-valikhodjaev.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # De l’atelier à la galerie : Valikhodjaev crée des espaces pour l’art
@@ -44,7 +44,7 @@ Dans son atelier, l'artiste explore les liens entre couleur, forme et compositio
 
 Lors de l'exposition, ces choix se transforment en expérience pour le visiteur. La distance, la lumière et la juxtaposition des œuvres évoluent ; les différentes pièces peuvent être comparées. L'espace de la galerie nous permet de suivre la démarche artistique en cours, de passer d'un parcours global à une toile en particulier.
 
-[Ibragim Valikhodjaev, «Suite de Namangan». "Suite de Namangan" : l'un des motifs de l'exploration artistique de Valikhodjaev.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
+[Ibragim Valikhodjaev, «Suite de Namangan». "Suite de Namangan" : l'un des motifs de l'exploration artistique de Valikhodjaev.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
 Ibragim Valikhodjaev, « Suite de Namangan ». « Suite de Namangan » : un des motifs de l’exploration artistique de Valikhodjaev. [Tableau entier](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>) .
 
@@ -117,7 +117,11 @@ Les œuvres d'Ibragim Valikhodjaev sont conservées au musée d'art Yu Shun (Chi
 
 ## Tumor : les débuts d’une histoire de galerie privée
 
-Son expérience de fondateur commence bien avant Gallery House. En 1987, Valikhodjaev crée un atelier d’art privé ; en 1993, il ouvre à Namangan la galerie-salon Tumor, qu’il dirige jusqu’en 1999. La chronologie biographique actuelle la présente comme la première galerie d’art privée d’Ouzbékistan. Cette étape révèle son rôle pionnier dans la création d’un lieu pour l’art. Ses activités ultérieures à Tachkent s’inscrivent dans l’histoire plus longue d’un artiste qui réalise des œuvres et crée les conditions de leur rencontre avec le public.
+Son expérience de fondateur commence bien avant Gallery House. En 1987, Valikhodjaev crée un atelier d’art privé ; en 1993, il ouvre à Namangan la galerie-salon Tumor, qu’il dirige jusqu’en 1999. La chronologie biographique actuelle la présente comme la première galerie d’art privée de l’Ouzbékistan indépendant. Cette étape révèle son rôle pionnier dans la création d’un lieu pour l’art. Ses activités ultérieures à Tachkent s’inscrivent dans l’histoire plus longue d’un artiste qui réalise des œuvres et crée les conditions de leur rencontre avec le public. Selon sa famille, son rôle de fondateur pionnier a également été consigné dans une encyclopédie.
+
+Il raconte sa galerie à travers l’histoire d’une collection. Dans les expositions, il repère de belles œuvres de ses confrères et souhaite en acquérir une ou deux lorsque ses moyens le permettent. Une collection se forme ainsi : peintures, céramiques, arts appliqués. Pour lui, la galerie permet de choisir et de conserver des œuvres, de vivre avec elles et de les montrer à d’autres. Dans l’entretien avec HD Magazine, il distingue cet attachement à l’art de la simple revente de tableaux.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Poursuivre la lecture : la vie et le parcours de l’artiste](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 

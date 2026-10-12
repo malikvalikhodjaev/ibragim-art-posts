@@ -4,7 +4,7 @@ language: "it"
 theme: 20
 description: "Valikhodjaev, artista e fondatore di Gallery House: dalla ricerca pittorica alla curatela, all’insegnamento e al pubblico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dallo-studio-alla-galleria-valikhodjaev.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Dallo studio alla galleria: Valikhodjaev crea spazi per l’arte
@@ -117,7 +117,11 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 
 ## Tumor: gli inizi di una galleria privata
 
-La sua esperienza di fondatore comincia molto prima di Gallery House. Nel 1987 Valikhodjaev creò un laboratorio d’arte privato; nel 1993 aprì a Namangan la galleria-salone Tumor, che diresse fino al 1999. La cronologia biografica attuale la identifica come la prima galleria d’arte privata dell’Uzbekistan. Questa tappa rivela il suo ruolo pionieristico nel creare uno spazio per l’arte. Le successive attività a Tashkent appartengono alla storia più lunga di un artista che realizza opere e crea le condizioni per il loro incontro con il pubblico.
+La sua esperienza di fondatore comincia molto prima di Gallery House. Nel 1987 Valikhodjaev creò un laboratorio d’arte privato; nel 1993 aprì a Namangan la galleria-salone Tumor, che diresse fino al 1999. La cronologia biografica attuale la identifica come la prima galleria d’arte privata dell’Uzbekistan indipendente. Questa tappa rivela il suo ruolo pionieristico nel creare uno spazio per l’arte. Le successive attività a Tashkent appartengono alla storia più lunga di un artista che realizza opere e crea le condizioni per il loro incontro con il pubblico. Secondo la famiglia, il suo ruolo di fondatore pionieristico è stato ricordato anche in un’enciclopedia.
+
+Racconta la propria galleria attraverso la storia del collezionismo. Alle mostre notava le opere migliori dei colleghi e desiderava acquistarne una o due quando le risorse lo permettevano. Si formò così una raccolta di dipinti, ceramiche e arti applicate. Per lui la galleria offriva la possibilità di scegliere e conservare opere, vivere con esse e mostrarle ad altri. Nell’intervista a HD Magazine distingue questo legame con l’arte dalla semplice rivendita di quadri.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Continua a leggere: la vita e il percorso dell’artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 

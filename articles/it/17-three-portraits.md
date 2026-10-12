@@ -4,7 +4,7 @@ language: "it"
 theme: 17
 description: "Dias Rakhmatov, Lena e Sasha: come Valikhodjaev costruisce il ritratto attraverso colore, posa e spazio."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Volto, posa, spazio: tre ritratti di Valikhodjaev
@@ -41,17 +41,17 @@ Il volto dell'anziano è ritratto in primo piano rispetto all'osservatore. Il su
 
 Le spalle occupano una porzione significativa della metà inferiore del dipinto. Le tonalità grigio scuro e blu degli abiti sostengono il peso della figura, lasciando il volto al centro. Lo sfondo è estremamente semplice, ma non vuoto: una stretta striscia ocra nella parte superiore definisce il confine rispetto al quale si staglia la silhouette del copricapo.
 
-## Melis Abzalov nello studio: dall’incontro al ritratto
+## Dias Rakhmatov in studio: dall’incontro al ritratto
 
-[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) era un attore e regista uzbeko. Queste fotografie d’archivio mostrano il suo incontro con Valikhodjaev e l’artista al lavoro sul ritratto. Accanto ai dipinti finiti, documentano il processo: la presenza del modello, la distanza dal cavalletto e l’attenzione al volto e alla posa.
+[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) era un attore uzbeko di teatro e cinema. Queste fotografie d’archivio lo mostrano nello studio di Valikhodjaev e documentano l’elaborazione del suo ritratto. Accanto al dipinto finito, rendono visibili la presenza del modello, la sua posizione davanti al cavalletto e l’attenzione del pittore al volto e alla posa.
 
-[Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev e l’attore Dias Rakhmatov in studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.
+Ibragim Valikhodjaev e l’attore Dias Rakhmatov in studio. Archivio dell’artista.
 
-[Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Al lavoro sul ritratto di Dias Rakhmatov in studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.
+Al lavoro sul ritratto di Dias Rakhmatov in studio. Archivio dell’artista.
 
 ## Come un ritratto guida lo sguardo
 
@@ -59,9 +59,9 @@ Nel "Ritratto di Dias Rakhmatov", lo sguardo inizia con le ampie relazioni tra l
 
 La didascalia d’archivio indica il nome del soggetto, l’anno e le dimensioni del dipinto, ma non fornisce dettagli sulla sessione. L'espressione del viso osservata non deve essere trasformata in una narrazione biografica preconfezionata. L'espressività qui è creata attraverso mezzi pittorici: la posizione della testa, la natura delle pennellate e la relazione della figura con lo sfondo circostante.
 
-[Ibragim Valikhodjaev. "Ritratto di Lena", 1987. Dimensioni secondo la didascalia d'archivio: 70 × 90 cm. Riproduzione dall'archivio dell'artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Ritratto di Lena", 1987. Dimensioni secondo la didascalia d'archivio: 70 × 90 cm. Riproduzione dall'archivio dell'artista. Dipinto durante gli anni di studio all’istituto.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev. "Ritratto di Lena", 1987. Dimensioni secondo la didascalia d'archivio: 70 × 90 cm. Riproduzione dall'archivio dell'artista.
+Ibragim Valikhodjaev. "Ritratto di Lena", 1987. Dimensioni secondo la didascalia d'archivio: 70 × 90 cm. Riproduzione dall'archivio dell'artista. Dipinto durante gli anni di studio all’istituto.
 
 ## "Ritratto di Lena": profilo alla finestra
 
@@ -119,6 +119,14 @@ Le opere di Ibragim Valikhodjaev sono conservate presso il Museo d'Arte Yu Shun 
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Autoritratto: il pittore diventa il proprio modello
+
+Nell’autoritratto del 2006 il volto è avvicinato allo spettatore. Una zona di luce arancione calda incontra grigi più freddi e aree scure; lo sguardo tiene insieme la composizione. Il pittore rivolge a sé stesso la propria attenzione alla figura umana.
+
+[Ibragim Valikhodjaev. Autoritratto, 2006. 60 × 40 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Autoritratto, 2006. 60 × 40 cm. Riproduzione dall’archivio dell’artista.
 
 ## Creazione, incontri e vita dei dipinti
 

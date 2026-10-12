@@ -4,7 +4,7 @@ language: "tr"
 theme: 3
 description: "Hulan 2024: Valikhodjaev’in heykeltıraş olarak katıldığı yüzen heykel projesi; metal, su, ışık ve değişen silüetler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Nehirde yüzen heykeller: İbrahim Valikhodjaev Hulan’da
@@ -121,6 +121,6 @@ Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları al
 
 Ibragim Valikhodjaev’in suya yerleştirilmek üzere hazırlanan metal heykeli. Sanatçının arşivi; çekim tarihi doğrulanmamıştır.
 
-[İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, 25 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, 25 Şubat 2026. Sanatçının arşivi.
+İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.

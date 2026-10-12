@@ -4,7 +4,7 @@ language: "fr"
 theme: 5
 description: "De l’atelier de Rahim Ahmedov à ses propres élèves : observer, composer et apprendre à peindre avec Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Dans l’atelier : observer, peindre et apprendre avec Ibragim Valikhodjaev
@@ -121,15 +121,15 @@ Avant d’entrer à l’institut, Valikhodjaev réalisait des commandes artistiq
 
 ## Créer, se rencontrer et faire vivre les tableaux
 
-[Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev et l’acteur Dias Rakhmatov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev et l’acteur Melis Abzalov dans l’atelier. Archives de l’artiste.
+Ibragim Valikhodjaev et l’acteur Dias Rakhmatov dans l’atelier. Archives de l’artiste.
 
-[Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Travail sur le portrait de Dias Rakhmatov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Travail sur le portrait de Melis Abzalov dans l’atelier. Archives de l’artiste.
+Travail sur le portrait de Dias Rakhmatov dans l’atelier. Archives de l’artiste.
 
-## Transmettre une expérience : une masterclass à Xi’an
+## Transmettre l’expérience : une masterclass pour les étudiants en peinture à Xi’an
 
 En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en peinture de l’Académie des beaux-arts de Xi’an, en Chine. Il participait, en tant qu’artiste et président de l’Union des artistes d’Ouzbékistan, à une visite du 14 au 19 septembre liée au programme CASIE « Une ceinture, une route — Asie centrale ». La composition, réalisée en une heure et vingt minutes, a été offerte à l’Académie. La vidéo de la masterclass ci-dessous permet de suivre la construction de l’image, des premières lignes aux rapports entre les plages de couleur et à la composition achevée.
 
@@ -169,11 +169,11 @@ Deux photographies de la démonstration accompagnant RED à Tachkent en 2017 don
 
 Le compte rendu de l’ambassade d’Ouzbékistan mentionne 31 œuvres et une démonstration pour les visiteurs. Les photographies permettent de comparer le geste, la palette et l’image en cours. L’étude du rouge se précise dans ses rapports avec les tons voisins et dans l’organisation de toute la toile.
 
-[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
+[Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
 Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
 
-[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
+[Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4yYW0MVVdrlBeKJnzz5lwVmOAw9a7GoYV0Lvm-PsD_EtFDRxy2S897jG12HzhKhNOJCXVRddIfipy7rn_2RK9pOXFKzs0fP6jsz63n02p6Y_M-DwYI5zJHt0ClpidIR8xnUbY9ptCXu6cLDSRkJJZ30yY7U9CTp25a_qnWQL6dnhSFkYdUXC5ATVqA0Z/s1600/clipboard.png>)
 
 Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
 

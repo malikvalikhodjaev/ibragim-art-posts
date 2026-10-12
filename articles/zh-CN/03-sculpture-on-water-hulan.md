@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 3
 description: "呼兰2024年漂浮雕塑项目：瓦利霍贾耶夫以雕塑家身份参与，探索金属造型、水面与光线。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 河面上的雕塑：伊布拉吉姆·瓦利霍贾耶夫在呼兰
@@ -121,6 +121,6 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 伊布拉吉姆·瓦利霍贾耶夫的金属雕塑，正在为水上安装做准备。艺术家档案；拍摄日期尚未确认。
 
-[易卜拉欣·瓦利霍贾耶夫与自己创作的漂浮雕塑，冰封的河面，中国，2026年2月25日。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[伊布拉吉姆·瓦利霍贾耶夫站在自己创作的漂浮雕塑前；河面已结冰。中国哈尔滨，2026年2月25日。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-易卜拉欣·瓦利霍贾耶夫与自己创作的漂浮雕塑，冰封的河面，中国，2026年2月25日。艺术家档案。
+伊布拉吉姆·瓦利霍贾耶夫站在自己创作的漂浮雕塑前；河面已结冰。中国哈尔滨，2026年2月25日。艺术家档案。

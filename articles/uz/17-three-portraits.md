@@ -4,7 +4,7 @@ language: "uz"
 theme: 17
 description: "Dias Rahmatov, Lena va Sasha portretlari: yuzning yaqinligi, qomat, kiyim va fonning kompozitsiyadagi o‘rni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Yuz, poza va ochiq makon: Valixo‘jayevning uch portreti
@@ -41,17 +41,17 @@ Keksa odamning yuzi tomoshabinga yaqin tortilgan. Uning to‘q rangli bosh kiyim
 
 Yelkalar rasmning pastki yarmining katta qismini egallaydi. Kiyimning to‘q kulrang va ko‘k tuslari figuraning og‘irligini qo‘llab-quvvatlaydi va yuzni markazda qoldiradi. Orqa fon juda oddiy, ammo bo‘sh emas: yuqori qismidagi tor oxra chizig‘i bosh kiyim silueti bog‘liq bo‘lgan chegarani belgilaydi.
 
-## Melis Abzalov ustaxonada: uchrashuvdan portretgacha
+## Dias Rahmatov ustaxonada: uchrashuvdan portretgacha
 
-[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) — o‘zbek aktyori va kinorejissyori. Arxiv suratlarida uning Valixodjayev bilan uchrashuvi va rassomning portret ustida ishlashi aks etgan. Tayyor kartinalar yonida bu kadrlar ijod jarayonini ham ko‘rsatadi: modelning ishtiroki, molbertgacha bo‘lgan masofa, yuz va gavda holatiga e’tibor.
+[Dias Rahmatov](<https://uzbekkino.glob.uz/person/109>) — o‘zbek teatr va kino aktyori. Arxiv fotosuratlarida u Valixo‘jayevning ustaxonasida va portret ustida ishlash jarayonida aks etgan. Tayyor kartina bilan yonma-yon bu kadrlar modelning ishtirokini, molbert oldidagi holatini hamda rassomning yuz va qomatga e’tiborini ko‘rsatadi.
 
-[Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibrohim Valixo‘jayev va aktyor Dias Rahmatov ustaxonada. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.
+Ibrohim Valixo‘jayev va aktyor Dias Rahmatov ustaxonada. Rassom arxivi.
 
-[Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Ustaxonada Dias Rahmatov portreti ustida ishlash. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
+Ustaxonada Dias Rahmatov portreti ustida ishlash. Rassom arxivi.
 
 ## Portret ko‘zni qanday yo‘naltiradi
 
@@ -59,9 +59,9 @@ Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
 
 Arxiv yozuvida modelning ismi, yili va o‘lchami ko‘rsatilgan, ammo portret yaratish jarayonining tafsilotlari keltirilmagan. Kuzatilgan yuz ifodasi tayyor biografik hikoyaga aylantirilmasligi kerak. Bu yerda ifodalilik rangtasvir vositalari bilan yaratilgan: boshning holati, mo‘yqalam surtmalarining tabiati va figuraning atrofdagi maydon bilan aloqasi.
 
-[Ibrohim Valixo‘jayev. "Lena portreti", 1987. Arxiv yozuviga ko‘ra o‘lchami: 70 × 90 sm. Rassom arxividagi reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[Ibrohim Valixo‘jayev. "Lena portreti", 1987. Arxiv yozuviga ko‘ra o‘lchami: 70 × 90 sm. Rassom arxividagi reproduksiya. Asar institutda tahsil olayotgan talabalik yillarida yaratilgan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-Ibrohim Valixo‘jayev. "Lena portreti", 1987. Arxiv yozuviga ko‘ra o‘lchami: 70 × 90 sm. Rassom arxividagi reproduksiya.
+Ibrohim Valixo‘jayev. "Lena portreti", 1987. Arxiv yozuviga ko‘ra o‘lchami: 70 × 90 sm. Rassom arxividagi reproduksiya. Asar institutda tahsil olayotgan talabalik yillarida yaratilgan.
 
 ## "Lena portreti": deraza yonidagi profil
 
@@ -119,6 +119,14 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Galereya uyi](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Avtoportret: rassomning o‘zi modelga aylanadi
+
+2006-yilgi avtoportretda yuz tomoshabinga yaqinlashtirilgan. Yorug‘likning iliq to‘q sariq bo‘lagi sovuqroq kulrang va to‘q tuslar bilan tutashadi; nigoh kompozitsiyani birlashtiradi. Rassom insonga qaratilgan sinchkov e’tiborini bu safar o‘ziga yo‘naltiradi.
+
+[Ibrohim Valixo‘jayev. «Avtoportret», 2006. 60 × 40 sm. Rassom arxividan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+Ibrohim Valixo‘jayev. «Avtoportret», 2006. 60 × 40 sm. Rassom arxividan reproduksiya.
 
 ## Ijod, uchrashuvlar va kartinalar hayoti
 

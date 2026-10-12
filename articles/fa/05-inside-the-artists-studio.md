@@ -4,7 +4,7 @@ language: "fa"
 theme: 5
 description: "از آتلیهٔ استاد رحیم احمدوف تا کار با هنرجویان؛ مشاهده، ترکیب‌بندی و انتقال تجربه در نقاشی."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_519.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # در آتلیهٔ هنرمند: دیدن، آموختن و نقاشی با ابراهیم ولی‌خوجایف
@@ -123,15 +123,15 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## خلق اثر، دیدارها و زندگی تابلوها
 
-[ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[ابراهیم ولی‌خوجایف و بازیگر دیاس رحمتوف در آتلیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-ابراهیم ولی‌خوجایف و بازیگر ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+ابراهیم ولی‌خوجایف و بازیگر دیاس رحمتوف در آتلیه. آرشیو هنرمند.
 
-[کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[کار روی پرترهٔ دیاس رحمتوف در آتلیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-کار روی پرترهٔ ملیس ابزالوف در کارگاه. از آرشیو هنرمند.
+کار روی پرترهٔ دیاس رحمتوف در آتلیه. آرشیو هنرمند.
 
-## انتقال تجربه: کلاس نقاشی در شی‌آن
+## انتقال تجربه: مسترکلاس برای دانشجویان رشتهٔ نقاشی در شی‌آن
 
 در سپتامبر ۲۰۲۵، ولی‌خواجه‌اف برای دانشجویان نقاشی آکادمی هنرهای زیبای شی‌آن در چین کلاس عملی برگزار کرد. او به‌عنوان هنرمند و رئیس اتحادیه هنرمندان ازبکستان در سفر ۱۴ تا ۱۹ سپتامبر، مرتبط با برنامه CASIE «یک کمربند، یک راه — آسیای مرکزی»، حضور داشت. اثری که در یک ساعت و بیست دقیقه خلق شد، به آکادمی اهدا شد. ویدیوی کلاس در پایین، روند شکل‌گیری تصویر را از نخستین خطوط تا روابط میان سطوح رنگی و ترکیب‌بندی نهایی نشان می‌دهد.
 

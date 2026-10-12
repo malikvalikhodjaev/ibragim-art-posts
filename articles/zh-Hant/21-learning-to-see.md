@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 21
 description: "依據公開訪談與藝術家檔案，回望瓦利霍賈耶夫從納曼干市集到抽象、雕塑與教學的藝術探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # 學會觀看：伊布拉吉姆·瓦利霍賈耶夫的藝術人生
@@ -28,6 +28,10 @@ edition_date: "2026-10-11"
 他的父親也寫詩。成年後，伊布拉吉姆將父親的詩作結集出版，保存了這部分家族記憶。這個細節使我們對他成長的家庭有了更豐富的認識：工藝與詩歌都是父親生活的一部分。
 
 他在求學時就想成為畫家。不過，從童年的願望到進入高等藝術院校，中間還有多年獨立工作的經歷。後來創作的市集場景、肖像和鄉村生活畫作，呈現他對日常經驗的關注：人們、他們的勞作，以及周遭的環境。在這裡，畫家的個人歷程與故鄉及家庭的歷史相遇。
+
+在HD Magazine的訪談中，他透過具體的記憶回顧這段歷程。上小學之前，他已經開始畫畫，求學期間還參加少年宮的活動。父親是手藝人，身邊沒有人能夠詳細說明進入高等藝術院校的途徑。伊布拉吉姆觀察當地藝術基金所屬畫家的工作，並自己練習。他與藝術圈最初的接觸，來自這些相遇和日常觀察。
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ edition_date: "2026-10-11"
 
 年輕時的藝術家與自己的作品。 藝術家檔案。
 
+進入學院之前，他當了十年的裝飾畫師。訪談中，他回憶這個職業在當時十分常見：各單位需要自己的畫師，裝飾工作由手工完成。委託工作帶來收入，另一種繪畫實踐也同時延續著——戶外習作和人物寫生肖像。他還未與拉希姆·艾哈邁多夫見面，卻已在藝術雜誌中研究其作品，尤其欣賞那些肖像。進入學院後，他選擇了這位早已令自己親近的畫家的工作室。
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## 教師開路，藝術家尋找語言
 
 1986年，瓦利霍賈耶夫考入以亞歷山大·奧斯特洛夫斯基命名的塔什干國立戲劇與藝術學院繪畫系。同年11月，他滿28歲。他在拉希姆·艾哈邁多夫的工作室學習，直至1991年。經歷了獨立工作之後，兒時的願望成為經過深思熟慮的職業選擇。
@@ -66,6 +74,12 @@ edition_date: "2026-10-11"
 在一次電視採訪中，這位藝術家區分了繪畫和藝術家自身的發展。訓練開啟了廣闊的可能性世界，但如何在其中找到自己的方向取決於藝術家本人。這一歷程可以從他的作品中追溯，包括肖像畫、靜物畫、風景畫和多人物風俗畫。
 
 [上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+在《Ijod formulasi》中，他還回憶過完全不同的工作節奏：學生時代有一個月，一幅畫始終無法達到理想效果。他在學院工作室畫一幅市集題材的作品，也在家中改作工作空間的陽臺上畫另一幅。他反覆回到畫布前，擠出顏料作畫，到晚上又因不滿意而刮去畫層。這樣的過程持續了約一個月。一天，與家人看電視時，他忽然想要畫畫。走到陽臺後，據他回憶，半小時便完成了家中的畫作；第二天，又同樣迅速地完成了工作室裡的作品。這段經歷說明，觀眾最後看到的迅速完成，背後可能是數週的探索與不滿意。
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+據家人回憶，畢業創作的選題也體現了導師的信任。學生通常需要完成學院式習作，只有瓦利霍賈耶夫獲准以市集為題展開獨立創作。拉希姆·艾哈邁多夫認為，伊布拉吉姆已經掌握學院訓練的基礎，可以探索自己的藝術課題。對市集生活的觀察進入他的畢業作品，後來發展為大型多人物畫，並形成鮮明的個人繪畫語言。
 
 [拉希姆・艾哈邁多夫老師與伊布拉吉姆・瓦利霍賈耶夫。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ edition_date: "2026-10-11"
 
 檔案中的戶外照片。 藝術家檔案。
 
+[伊布拉吉姆·瓦利霍賈耶夫，《生命之樹》，1998年，140 × 150公分。藝術家檔案中的作品複製圖。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫，《生命之樹》，1998年，140 × 150公分。藝術家檔案中的作品複製圖。
+
+戶外檔案照片旁呈現的是1998年的《生命之樹》。深色背景襯托著淺色枝條，將自然母題提煉為凝練的形象；克制的色彩使樹幹的曲折和構圖的組織更加清晰。
+
 [瓦利霍賈耶夫與陶器。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 瓦利霍賈耶夫與陶器。 藝術家檔案。
@@ -165,7 +185,11 @@ edition_date: "2026-10-11"
 
 ## 圖莫爾畫廊、納曼干與遷居塔什干
 
-1993年，瓦利霍賈耶夫在納曼干創辦圖莫爾畫廊沙龍，這是烏茲別克第一家私人藝術畫廊，他負責經營至1999年。這使他成為該國私人畫廊事業的先行者：個人發起的空間，讓作品能夠在傳統國營展覽場所之外與觀眾相遇。
+1993年，瓦利霍賈耶夫在納曼干創辦圖莫爾畫廊沙龍，這是獨立後的烏茲別克第一家私人藝術畫廊，他負責經營至1999年。這使他成為該國私人畫廊事業的先行者：個人發起的空間，讓作品能夠在傳統國營展覽場所之外與觀眾相遇。 據家人介紹，他作為這家畫廊首位創辦者的開拓性貢獻，也被記入一部百科全書。
+
+他透過收藏的經歷講述自己的畫廊。在展覽中發現同行的好作品，經濟條件允許時，他希望購買一兩件。收藏逐漸形成，涵蓋繪畫、陶瓷和工藝美術。對他而言，畫廊使人能夠挑選和保存作品，與作品共同生活，也讓其他人看到它們。在HD Magazine訪談中，他將這種對藝術的感情與單純轉售畫作區分開來。
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997至1999年，他擔任藝術家聯盟及藝術基金納曼干分部的負責人。照顧母親、創作繪畫以及組織家鄉的藝術生活，是這一時期的不同側面。後來他從納曼干遷居塔什干，那時，他已歷經失去母親的悲痛。
 
@@ -249,7 +273,7 @@ edition_date: "2026-10-11"
 
 伊布拉吉姆・瓦利霍賈耶夫參加土耳其的戶外寫生活動。藝術家檔案。
 
-[梅利斯・阿布扎洛夫在畫室：從相聚到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html#iv-melis-abzalov>)
+[迪亞斯·拉赫馬托夫在畫室：從相見到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html#iv-dias-rakhmatov>)
 
 ## 色彩成為研究對象
 
@@ -303,6 +327,8 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 旅行為這種探索提供了新的脈絡。 2012年，瓦利霍賈耶夫以畫家的身份參加了在蒙特內哥羅舉辦的戶外寫生聚會，隨後在塔什干展出了他在那裡創作的作品。他的戶外寫生足跡也遍佈土耳其、烏茲別克和亞塞拜然。在中國呼蘭，他以雕塑家的身份參與其中，將構圖轉化為金屬造型，用於一個漂浮雕塑項目。
 
+2021年的土耳其之行，將寫生計畫與在伊斯坦堡馬爾泰佩文化中心舉辦的個人展覽結合起來。對景作畫與展示創作成果，成為相互銜接的兩個階段。
+
 2026年，在中國哈爾濱禹舜美術館舉辦的個展「雪地之陽」賦予了他的巨幅畫布全新的維度。上方的影片展現了展廳的震撼力：遠觀，整體結構清晰可辨；近距離觀察，一片鮮明的色彩佔據了觀者視野的相當一部分。這位藝術家的作品收藏於禹舜美術館、土耳其伊斯坦堡馬爾特佩市政府、俄羅斯莫斯科的私人收藏以及其他公共和私人機構。
 
 [上方影片· 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 烏茲別克首任總統伊斯蘭・卡里莫夫的夫人[塔季揚娜・卡里莫娃](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)向伊布拉吉姆・瓦利霍賈耶夫頒授烏茲別克共和國總統金質獎章。藝術家檔案。
 
+[伊布拉吉姆·瓦利霍賈耶夫，《光與影》。藝術家於2018年憑此畫獲烏茲別克共和國首任總統金質獎章。藝術家檔案中的作品複製圖。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫，《光與影》。藝術家於2018年憑此畫獲烏茲別克共和國首任總統金質獎章。藝術家檔案中的作品複製圖。
+
 [烏茲別克藝術科學院院長阿克馬爾・努爾向伊布拉吉姆・瓦利霍賈耶夫頒授藝術科學院金質獎章。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 烏茲別克藝術科學院院長[阿克馬爾・努爾](<https://art-academy.uz/ru/structure/rahbariyat/1>)向伊布拉吉姆・瓦利霍賈耶夫頒授藝術科學院金質獎章。藝術家檔案。
@@ -392,7 +422,17 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 藝術家連結：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## 傳授經驗：西安繪畫大師課
+談到中國展覽的籌備時，他先說起展廳。此前他已看過這一空間，收到平面圖和尺寸後，又思考帶哪些作品、如何安排。寬敞明亮的展廳能夠展示大幅畫作。隨後，藝術上的決定成為實際的任務：畫布從內框上取下，捲成捲，透過貨運飛機運送。藝術家先於作品抵達，等待它們到來，並參與布展。在電視訪談中，展覽由這一連串決定逐步形成，從畫作的尺度，到運輸，再到展廳中的位置。
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[伊布拉吉姆·瓦利霍賈耶夫站在自己創作的漂浮雕塑前；河面已結冰。中國哈爾濱，2026年2月25日。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+伊布拉吉姆·瓦利霍賈耶夫站在自己創作的漂浮雕塑前；河面已結冰。中國哈爾濱，2026年2月25日。藝術家檔案。
+
+[哈爾濱展覽開幕影片，2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+## 傳授經驗：在西安為繪畫專業學生舉辦大師課
 
 2025年9月，瓦利霍賈耶夫在中國西安美術學院為繪畫專業學生開設大師課。他以藝術家及烏茲別克斯坦藝術家聯盟主席的身分，參加了9月14日至19日與CASIE「一帶一路—中亞」計畫有關的訪問。課堂上以一小時二十分鐘完成的作品贈予了學院。下方的大師課影片記錄了畫面的形成過程：從最初的線條，到色塊之間的關係，直至完整構圖。
 

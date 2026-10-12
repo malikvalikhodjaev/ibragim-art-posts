@@ -4,7 +4,7 @@ language: "ru"
 theme: 5
 description: "Мастерская Ибрагима Валиходжаева: обучение у Мастера Рахима Ахмедова, работа с учениками и открытые демонстрации живописи."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_697.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # В мастерской Ибрагима Валиходжаева: наблюдение, обучение и живопись
@@ -111,7 +111,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
-## Передавать опыт: мастер-класс в Сиане
+## Передавать опыт: мастер-класс для студентов живописного отделения в Сиане
 
 В сентябре 2025 года Валиходжаев провёл мастер-класс для студентов живописного отделения Сианьской академии изящных искусств в Китае. Он участвовал в визите 14–19 сентября, связанном с программой CASIE «Один пояс, один путь — Центральная Азия», как художник и председатель Союза художников Узбекистана. Созданную за один час двадцать минут композицию передали академии. В видеозаписи мастер-класса ниже можно наблюдать, как постепенно складывается изображение: от первых линий к отношениям цветовых пятен и завершённой композиции.
 
@@ -129,13 +129,13 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 ## Работа, встречи и жизнь картин
 
-[Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ибрагим Валиходжаев и актёр Диас Рахматов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.
+Ибрагим Валиходжаев и актёр Диас Рахматов в мастерской. Архив художника.
 
-[Работа над портретом Мелиса Абзалова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Работа над портретом Диаса Рахматова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Работа над портретом Мелиса Абзалова в мастерской. Архив художника.
+Работа над портретом Диаса Рахматова в мастерской. Архив художника.
 
 ## В мастерской: работа до и после выставки
 

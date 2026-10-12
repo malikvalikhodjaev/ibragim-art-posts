@@ -4,7 +4,7 @@ language: "fr"
 theme: 3
 description: "Valikhodjaev, sculpteur participant à Hulan en Chine en 2024 : métal, silhouette, reflets et sculptures flottantes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Des sculptures sur la rivière : Ibragim Valikhodjaev à Hulan
@@ -117,10 +117,10 @@ Ces vidéos tournées durant l’hiver 2026 montrent l’artiste au bord de la r
 
 ## Dans les archives d’un projet de sculpture en Chine
 
-[La sculpture en métal d’Ibragim Valikhodjaev, en préparation pour son installation sur l’eau. Archives de l’artiste ; date de prise de vue non confirmée.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
+[La sculpture en métal d’Ibragim Valikhodjaev, en préparation pour son installation sur l’eau. Archives de l’artiste ; date de prise de vue non confirmée.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqdnUEr1GYUwCJ1wQEJaQZogXpQCv09ASbzCMo6BkzmtbC3SB2FaeC9Ahx7yEKjU8BgarIMLIqZKgbSWCn9eMWF242S13t1J6pJ4h-ashzEUQIjouu2LzGfby34fKre9Zq_7BupkKR3RFyL_mJxWng6Cja6GpIW4aAKZPKJWzooWbzVKDMe_cZSEcxq8Dj/s1600/clipboard.png>)
 
 La sculpture en métal d’Ibragim Valikhodjaev, en préparation pour son installation sur l’eau. Archives de l’artiste ; date de prise de vue non confirmée.
 
-[Ibragim Valikhodjaev devant sa propre sculpture flottante sur la rivière gelée, Chine, 25 février 2026. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ibragim Valikhodjaev devant sa sculpture flottante sur le fleuve gelé, Chine, Harbin, 25 février 2026. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ibragim Valikhodjaev devant sa propre sculpture flottante sur la rivière gelée, Chine, 25 février 2026. Archives de l’artiste.
+Ibragim Valikhodjaev devant sa sculpture flottante sur le fleuve gelé, Chine, Harbin, 25 février 2026. Archives de l’artiste.

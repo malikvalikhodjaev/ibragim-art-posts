@@ -4,7 +4,7 @@ language: "en"
 theme: 20
 description: "From studio to gallery: Valikhodjaev as painter, teacher, curator and founder, and the encounters created by an exhibition."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # From Studio to Gallery: How Valikhodjaev Makes Space for Art
@@ -117,7 +117,11 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 
 ## Tumor: the beginnings of a private gallery history
 
-His experience as a founder began well before Gallery House. In 1987 Valikhodjaev established a private art workshop; in 1993 he opened the Tumor gallery-salon in Namangan, which he directed until 1999. The current biographical chronology identifies Tumor as Uzbekistan’s first private art gallery. This milestone reveals his pioneering work in creating a place for art. His later gallery activity in Tashkent belongs to a longer history of an artist who makes works and creates the conditions in which they can meet an audience.
+His experience as a founder began well before Gallery House. In 1987 Valikhodjaev established a private art workshop; in 1993 he opened the Tumor gallery-salon in Namangan, which he directed until 1999. The current biographical chronology identifies Tumor as the first private art gallery in independent Uzbekistan. This milestone reveals his pioneering work in creating a place for art. His later gallery activity in Tashkent belongs to a longer history of an artist who makes works and creates the conditions in which they can meet an audience. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
+
+He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 

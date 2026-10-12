@@ -4,7 +4,7 @@ language: "ja"
 theme: 17
 description: "ディアス・ラフマトフ、レナ、サーシャ。三つの肖像画に見る顔、姿勢、衣服、余白の関係。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 顔、姿勢、空間――三つの肖像画を読み解く
@@ -41,17 +41,17 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 肩は絵画の下半分の大部分を占めている。衣服の濃い灰色と青色の色調が人物の重みを支え、顔が画面中央に浮かび上がる。背景は極めて簡素だが、空虚ではない。上部の細い黄土色の帯が境界線を定め、その境界線上に帽子のシルエットが描かれている。
 
-## アトリエのメリス・アブザロフ：出会いから肖像へ
+## アトリエのディアス・ラフマトフ：出会いから肖像へ
 
-[メリス・アブザロフ](<https://dsmi.uz/ru/melis-abzalov-2/>)はウズベキスタンの俳優・映画監督でした。これらのアーカイブ写真は、ワリホジャエフとの出会いと、画家がその肖像を描く様子を伝えています。完成した絵画とともに見ることで、モデルの存在、イーゼルとの距離、顔や姿勢への観察といった制作の過程が見えてきます。
+[ディアス・ラフマトフ](<https://uzbekkino.glob.uz/person/109>)はウズベキスタンの舞台・映画俳優だった。これらの資料写真は、ヴァリホジャエフのアトリエにいる姿と、肖像を制作する過程を伝えている。完成作と並べることで、モデルの存在、イーゼルの前での位置、顔と姿勢に向けられた画家の注意が見えてくる。
 
-[アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[アトリエでのイブラギム・ヴァリホジャエフと俳優ディアス・ラフマトフ。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-アトリエでのイブラギム・ヴァリホジャエフと俳優メリス・アブザロフ。 画家のアーカイブより。
+アトリエでのイブラギム・ヴァリホジャエフと俳優ディアス・ラフマトフ。画家の資料より。
 
-[アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[アトリエでディアス・ラフマトフの肖像を制作する。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-アトリエでメリス・アブザロフの肖像を制作。 画家のアーカイブより。
+アトリエでディアス・ラフマトフの肖像を制作する。画家の資料より。
 
 ## 肖像画が視線を誘導する方法
 
@@ -59,9 +59,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 資料のキャプションにはモデルの名前、年、サイズが記載されているが、制作時のモデルとのセッションの詳細は示されていない。観察された表情を、既成の伝記的物語に仕立て上げるべきではない。ここで表現力は、頭部の位置、筆致の性質、人物と周囲の背景との関係性といった絵画的な手法によって生み出されている。
 
-[イブラギム・ヴァリホジャエフ。「レナの肖像」、1987年。保存資料のキャプションによるとサイズは70×90cm。作家のアーカイブからの複製。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[イブラギム・ヴァリホジャエフ。「レナの肖像」、1987年。保存資料のキャプションによるとサイズは70×90cm。作家のアーカイブからの複製。 学院に在学していた学生時代の作品。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-イブラギム・ヴァリホジャエフ。「レナの肖像」、1987年。保存資料のキャプションによるとサイズは70×90cm。作家のアーカイブからの複製。
+イブラギム・ヴァリホジャエフ。「レナの肖像」、1987年。保存資料のキャプションによるとサイズは70×90cm。作家のアーカイブからの複製。 学院に在学していた学生時代の作品。
 
 ## 「レナの肖像」：窓辺の横顔
 
@@ -119,6 +119,14 @@ Valikhodjaev Gallery House · 2026年10月6日
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·[ギャラリーハウス](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## 自画像：画家が自らのモデルになる
+
+2006年の自画像では、顔が見る者の近くに置かれている。暖かなオレンジ色の光が、より冷たい灰色や暗い領域と接し、まなざしが画面をまとめる。画家は人物への細やかな観察を自分自身に向けている。
+
+[イブラギム・ヴァリホジャエフ《自画像》、2006年、60 × 40 cm。画家の資料に収められた作品図版。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+イブラギム・ヴァリホジャエフ《自画像》、2006年、60 × 40 cm。画家の資料に収められた作品図版。
 
 ## 制作、出会い、そして絵画の歩み
 

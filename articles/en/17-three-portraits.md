@@ -4,7 +4,7 @@ language: "en"
 theme: 17
 description: "Portraits of Dias Rakhmatov, Lena and Sasha: how Valikhodjaev constructs an image through colour, pose and the surrounding space."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Face, Pose and Space: Three Portraits by Valikhodjaev
@@ -41,17 +41,17 @@ The elderly man's face is drawn close to the viewer. His dark headdress almost b
 
 The shoulders occupy a significant portion of the lower half of the painting. The dark grey and blue tones of the clothing support the figure's weight, leaving the face in the centre. The background is extremely simple, but not empty: a narrow ochre stripe at the top defines the boundary against which the silhouette of the headdress is related.
 
-## Melis Abzalov in the studio: from encounter to portrait
+## Dias Rakhmatov in the studio: from encounter to portrait
 
-[Melis Abzalov](<https://dsmi.uz/ru/melis-abzalov-2/>) was an Uzbek actor and film director. These archive photographs show his meeting with Valikhodjaev and the artist at work on his portrait. Alongside the finished paintings, they reveal the process itself: the sitter’s presence, the distance from the easel, and attention to the face and pose.
+[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) was an Uzbek stage and screen actor. These archive photographs show him in Valikhodjaev’s studio and the portrait taking shape. Beside the finished painting, they reveal the sitter’s presence, his position before the easel and the artist’s attention to face and pose.
 
-[Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev and actor Dias Rakhmatov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.
+Ibragim Valikhodjaev and actor Dias Rakhmatov in the studio. Artist’s archive.
 
-[Working on a portrait of Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Working on a portrait of Dias Rakhmatov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Working on a portrait of Melis Abzalov in the studio. Artist’s archive.
+Working on a portrait of Dias Rakhmatov in the studio. Artist’s archive.
 
 ## How a portrait directs the eye
 
@@ -59,9 +59,9 @@ In "Portrait of Dias Rakhmatov," the gaze begins with large-scale relationships 
 
 The archival caption indicates the model's name, year, and size, but does not provide details of the session. The observed facial expression should not be turned into a ready-made biographical narrative. Expressiveness here is created by painterly means: the position of the head, the nature of the brushstrokes, and the relationship of the figure to the surrounding field.
 
-[Ibragim Valikhodjaev. "Portrait of Lena," 1987. Size according to archival caption: 70 × 90 cm. Reproduction from the artist's archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[Ibragim Valikhodjaev. "Portrait of Lena," 1987. Size according to archival caption: 70 × 90 cm. Reproduction from the artist's archive. Painted during his student years at the institute.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev. "Portrait of Lena," 1987. Size according to archival caption: 70 × 90 cm. Reproduction from the artist's archive.
+Ibragim Valikhodjaev. "Portrait of Lena," 1987. Size according to archival caption: 70 × 90 cm. Reproduction from the artist's archive. Painted during his student years at the institute.
 
 ## "Portrait of Lena": profile at the window
 
@@ -119,6 +119,14 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Self-portrait: the painter becomes his own sitter
+
+In the 2006 self-portrait, the face is brought close to the viewer. A warm orange passage of light meets cooler greys and dark areas; the gaze holds the composition together. The painter turns his attention to the human figure towards himself.
+
+[Ibragim Valikhodjaev. Self-portrait, 2006. 60 × 40 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Self-portrait, 2006. 60 × 40 cm. Reproduction from the artist’s archive.
 
 ## Making, meeting and the life of paintings
 

@@ -4,7 +4,7 @@ language: "it"
 theme: 21
 description: "La vita artistica di Valikhodjaev attraverso interviste pubblicate: il bazar, RED, l’astrazione, la scultura e la formazione."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Imparare a vedere: Ibragim Valikhodjaev e una vita nell’arte
@@ -28,6 +28,10 @@ Ibragim Valikhodjaev è nato a Namangan il 28 novembre 1958. Prima delle sale es
 Suo padre scriveva anche poesie. Da adulto, Ibragim ne pubblicò una raccolta, conservando questa parte del patrimonio familiare. Il dettaglio arricchisce il ritratto della casa in cui crebbe il futuro artista: nella vita del padre, artigianato e poesia erano entrambi presenti.
 
 Vuole essere un artista fin dagli anni di scuola. Tuttavia, tra quel desiderio infantile e l’ingresso nell’istruzione superiore trascorrono anni di lavoro autonomo. Le successive scene di mercato, i ritratti e i dipinti della vita rurale mostrano l’importanza del quotidiano: le persone, le loro attività e l’ambiente in cui vivono. Qui il percorso del pittore incontra la storia della città natale e della famiglia.
+
+Nell’intervista a HD Magazine ripercorre questo cammino attraverso ricordi precisi. Cominciò a disegnare prima della scuola elementare e, durante gli anni scolastici, frequentò la Casa dei pionieri. Suo padre era un artigiano; non aveva accanto qualcuno che potesse spiegargli nel dettaglio come accedere agli studi artistici superiori. Ibragim osservava i pittori locali del Fondo artistico e si esercitava da solo. I primi incontri con l’ambiente artistico avvennero attraverso quei contatti e quelle osservazioni quotidiane.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ Una volta ammesso, interruppe la precedente attività di commissioni commerciali
 
 Il giovane artista fra le sue opere. Archivio dell’artista.
 
+Prima di entrare all’istituto lavorò per dieci anni come pittore decoratore. Nell’intervista ricorda quanto fosse comune quel mestiere: le organizzazioni avevano bisogno di propri artisti e le decorazioni si eseguivano a mano. Le commissioni gli procuravano un reddito, mentre accanto a esse si sviluppava un’altra pratica: studi all’aperto e ritratti dal vero. Non conosceva ancora personalmente Rahim Ahmedov, ma ne osservava le opere nelle riviste d’arte, ammirandone soprattutto i ritratti. All’istituto scelse l’atelier di un pittore che sentiva vicino da tempo.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## L'insegnante apre la strada, l'artista cerca il suo linguaggio
 
 Nel 1986 Valikhodjaev entrò nel dipartimento di pittura dell’Istituto statale di teatro e arte di Tashkent intitolato ad Aleksandr Ostrovskij. Nel novembre di quell’anno compì 28 anni. La formazione nello studio del maestro Rahim Ahmedov proseguì fino al 1991: il desiderio d’infanzia era diventato una scelta professionale consapevole, dopo anni di lavoro autonomo.
@@ -66,6 +74,12 @@ Valikhodjaev è nato a Namangan e ha ricevuto la sua formazione professionale a 
 In un'intervista televisiva, l'artista distingue tra l’apprendimento del disegno e la formazione di un artista. La formazione apre un vasto mondo di possibilità, ma trovare la propria strada al suo interno spetta all'artista. Questo percorso può essere ripercorso attraverso le sue opere, dai ritratti alle nature morte, dai paesaggi alle composizioni di genere con più figure.
 
 [Videoregistrazione qui sopra · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 aprile 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+In «Ijod formulasi» ricorda anche un ritmo di lavoro molto diverso: un mese, durante gli studi, in cui un dipinto non riusciva a prendere forma. Lavorava a una composizione di bazar nell’atelier dell’istituto e a un’altra a casa, sul balcone trasformato in spazio di lavoro. Tornava alle tele, spremeva il colore e dipingeva, poi la sera, insoddisfatto, raschiava di nuovo la pittura. Andò avanti per circa un mese. Un giorno, mentre guardava la televisione con la famiglia, sentì improvvisamente il desiderio di dipingere. Uscì sul balcone e, secondo il suo ricordo, concluse il quadro in mezz’ora; il giorno dopo terminò altrettanto rapidamente quello in atelier. Il racconto mostra come settimane di ricerca e insoddisfazione possano precedere la rapidità di esecuzione che vede lo spettatore.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Secondo i ricordi della famiglia, anche la scelta del soggetto per il diploma attestava la fiducia del maestro. Di norma agli studenti erano richiesti studi accademici; soltanto a Valikhodjaev fu consentito di sviluppare una composizione autonoma sul bazar. Rahim Ahmedov riteneva che Ibragim avesse già acquisito le basi della formazione accademica e potesse affrontare una ricerca personale. Le osservazioni del mercato entrarono nel dipinto di diploma, per poi crescere in grandi tele a più figure e in un linguaggio pittorico riconoscibile.
 
 [Il maestro Rahim Ahmedov e Ibragim Valikhodjaev. Archivio personale dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ Incontro con colleghi, fotografia d’archivio. Archivio dell’artista.
 
 Fotografia all’aperto dall’archivio. Archivio dell’artista.
 
+[Ibragim Valikhodjaev. Albero della vita, 1998. 140 × 150 cm. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Albero della vita, 1998. 140 × 150 cm. Riproduzione dall’archivio dell’artista.
+
+Accanto alla fotografia d’archivio scattata all’aperto compare Albero della vita, del 1998. I rami chiari sul fondo scuro trasformano il motivo naturale in un’immagine essenziale; la tavolozza contenuta fa risaltare le curve del tronco e la struttura della composizione.
+
 [Valikhodjaev accanto a vasi in ceramica. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 Valikhodjaev accanto a vasi in ceramica. Archivio dell’artista.
@@ -165,7 +185,11 @@ Le versioni del Mercato dei doppi del 2004 e del 2006 proseguono questa ricerca.
 
 ## Tumor, Namangan e il trasferimento a Tashkent
 
-Nel 1993 Valikhodjaev fondò a Namangan la galleria-salone Tumor, prima galleria d’arte privata dell’Uzbekistan, che diresse fino al 1999. Fu un pioniere dell’attività delle gallerie private nel paese: un’iniziativa personale creava uno spazio d’incontro tra opere e pubblico al di fuori del sistema consolidato delle sedi espositive statali.
+Nel 1993 Valikhodjaev fondò a Namangan la galleria-salone Tumor, la prima galleria d’arte privata dell’Uzbekistan indipendente, che diresse fino al 1999. Fu un pioniere dell’attività delle gallerie private nel paese: un’iniziativa personale creava uno spazio d’incontro tra opere e pubblico al di fuori del sistema consolidato delle sedi espositive statali. Secondo la famiglia, il suo ruolo di fondatore pionieristico è stato ricordato anche in un’enciclopedia.
+
+Racconta la propria galleria attraverso la storia del collezionismo. Alle mostre notava le opere migliori dei colleghi e desiderava acquistarne una o due quando le risorse lo permettevano. Si formò così una raccolta di dipinti, ceramiche e arti applicate. Per lui la galleria offriva la possibilità di scegliere e conservare opere, vivere con esse e mostrarle ad altri. Nell’intervista a HD Magazine distingue questo legame con l’arte dalla semplice rivendita di quadri.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 Dal 1997 al 1999 presiedette le sezioni di Namangan dell’Unione degli artisti e del Fondo artistico. La cura della madre, la pittura e l’organizzazione della vita artistica della città natale furono aspetti diversi di quel periodo. In seguito si trasferì da Namangan a Tashkent; aveva già vissuto la perdita della madre.
 
@@ -249,7 +273,7 @@ Bambini osservano l’artista al lavoro all’aperto. Archivio dell’artista.
 
 Ibragim Valikhodjaev durante un incontro di pittura en plein air in Turchia. Archivio dell’artista.
 
-[Melis Abzalov nello studio: dall’incontro al ritratto](<https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html#iv-melis-abzalov>)
+[Dias Rakhmatov in studio: dall’incontro al ritratto](<https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html#iv-dias-rakhmatov>)
 
 ## Il colore diventa oggetto di ricerca
 
@@ -303,6 +327,8 @@ Inaugurazione della mostra "Nuovo sguardo (New View)", Uzbekistan, Tashkent, 202
 
 Viaggiare offre un nuovo contesto a questa esplorazione. Nel 2012, Valikhodjaev ha partecipato come pittore a un raduno di artisti en plein air in Montenegro, per poi esporre le opere create in quell'occasione a Tashkent. La sua produzione en plein air comprende anche Turchia, Uzbekistan e Azerbaigian. A Hulan, in Cina, ha partecipato come scultore, traducendo una composizione in metallo per un progetto di scultura galleggiante.
 
+Nel 2021 il soggiorno in Turchia ha unito la partecipazione a un programma di pittura en plein air a una mostra personale al Centro culturale di Maltepe, a Istanbul. Dipingere dal vero e presentare i risultati in mostra costituivano due momenti successivi del lavoro.
+
 La mostra personale "Sole sulla neve" al Museo Yu Shun di Harbin, in Cina, nel 2026 ha conferito una nuova dimensione alle sue tele di grandi dimensioni. Il video qui sopra dimostra l'impatto della sala: da lontano, la struttura complessiva è distinguibile, ma a un'osservazione più ravvicinata, un campo di colore ben definito occupa una porzione significativa del campo visivo dello spettatore. Le opere dell'artista sono conservate in questo museo, nella collezione del Comune di Maltepe a Istanbul, in Turchia, e in una collezione privata a Mosca, in Russia, oltre che in altre collezioni pubbliche e private.
 
 [Videoregistrazione qui sopra · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ Il percorso professionale di Valikhodjaev è stato riconosciuto, tra l’altro, 
 
 [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), moglie del primo presidente dell’Uzbekistan, Islam Karimov, consegna a Ibragim Valikhodjaev la medaglia d’oro del presidente della Repubblica dell’Uzbekistan. Archivio dell’artista.
 
+[Ibragim Valikhodjaev. Luce e ombre. Per questo dipinto l’artista ha ricevuto nel 2018 la medaglia d’oro del primo presidente della Repubblica dell’Uzbekistan. Riproduzione dall’archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Luce e ombre. Per questo dipinto l’artista ha ricevuto nel 2018 la medaglia d’oro del primo presidente della Repubblica dell’Uzbekistan. Riproduzione dall’archivio dell’artista.
+
 [Akmal Nur, presidente dell’Accademia delle arti dell’Uzbekistan, consegna a Ibragim Valikhodjaev la medaglia d’oro dell’Accademia. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 [Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), presidente dell’Accademia delle arti dell’Uzbekistan, consegna a Ibragim Valikhodjaev la medaglia d’oro dell’Accademia. Archivio dell’artista.
@@ -392,7 +422,17 @@ Nelle opere d'archivio, questa curiosità assume diverse forme. Le "Brocche" dai
 
 Link dell'artista: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## Trasmettere l’esperienza: una masterclass a Xi’an
+Quando racconta la preparazione della mostra in Cina, comincia dalla sala. L’aveva già vista; ricevuti la pianta e le dimensioni, pensò a quali opere portare e a come disporle. Il grande ambiente luminoso permetteva di esporre tele di ampio formato. La scelta artistica divenne poi un compito pratico: le tele furono tolte dai telai, arrotolate e spedite con un aereo cargo. Il pittore arrivò prima delle opere, le attese e partecipò all’allestimento. Nel racconto televisivo, la mostra nasce da questa successione di decisioni, dal formato del quadro al suo trasporto e alla collocazione nella sala.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, Harbin, 25 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev davanti alla propria scultura galleggiante sul fiume ghiacciato, Cina, Harbin, 25 febbraio 2026. Archivio dell’artista.
+
+[Video dell’apertura della mostra a Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+## Trasmettere l’esperienza: una lezione per gli studenti di pittura a Xi’an
 
 Nel settembre 2025 Valikhodjaev ha tenuto una masterclass per gli studenti di pittura dell’Accademia di belle arti di Xi’an, in Cina. Ha partecipato, come artista e presidente dell’Unione degli artisti dell’Uzbekistan, alla visita del 14–19 settembre legata al programma CASIE ‘Una cintura, una via — Asia centrale’. La composizione, realizzata in un’ora e venti minuti, è stata donata all’Accademia. Il video della masterclass qui sotto permette di seguire la costruzione dell’immagine, dalle prime linee ai rapporti tra le campiture di colore e alla composizione conclusa.
 

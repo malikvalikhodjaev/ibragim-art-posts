@@ -4,7 +4,7 @@ language: "ko"
 theme: 5
 description: "거장 라힘 아흐메도프의 작업실에서 자신의 교육 활동까지. 관찰, 구도, 제작 과정을 통해 보는 발리호자예프의 회화."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # 작업실 안으로 — 보고, 배우고, 그리는 일
@@ -121,15 +121,15 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 
 ## 제작, 만남, 그리고 그림의 여정
 
-[작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[작업실에서 함께한 이브라김 발리호자예프와 배우 디아스 라흐마토프. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-작업실에서 함께한 이브라김 발리호자예프와 배우 멜리스 압잘로프. 화가의 아카이브.
+작업실에서 함께한 이브라김 발리호자예프와 배우 디아스 라흐마토프. 작가 소장 자료.
 
-[작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[작업실에서 디아스 라흐마토프의 초상화를 그리는 모습. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-작업실에서 멜리스 압잘로프의 초상화를 제작하는 모습. 화가의 아카이브.
+작업실에서 디아스 라흐마토프의 초상화를 그리는 모습. 작가 소장 자료.
 
-## 경험을 전하다: 시안에서 열린 회화 마스터클래스
+## 경험을 전하다: 시안의 회화 전공 학생들을 위한 실기 수업
 
 2025년 9월, 발리호자예프는 중국 시안미술학원의 회화 전공 학생들을 위해 마스터클래스를 진행했다. 그는 화가이자 우즈베키스탄 예술가연맹 회장으로서 CASIE의 ‘일대일로 — 중앙아시아’ 프로그램과 관련된 9월 14~19일 방문에 참여했다. 한 시간 이십 분 동안 완성한 작품은 학원에 기증했다. 아래 마스터클래스 영상에서는 첫 선에서 색면 간의 관계를 거쳐 완성된 구도에 이르기까지 화면이 형성되는 과정을 볼 수 있다.
 

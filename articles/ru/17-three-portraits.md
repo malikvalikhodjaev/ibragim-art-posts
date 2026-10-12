@@ -4,7 +4,7 @@ language: "ru"
 theme: 17
 description: "«Портрет Диаса Рахматова», «Портрет Лены» и «Портрет Саши»: как Валиходжаев строит образ человека через цвет, позу и пространство."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_82.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Лицо, поза, пространство: три портрета Валиходжаева
@@ -41,17 +41,17 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 Плечи занимают значительную часть нижней половины картины. Тёмные серые и синие тона одежды удерживают вес фигуры, оставляя лицу главную роль. Фон предельно прост, но не пуст: узкая охристая полоса наверху задаёт границу, с которой соотносится силуэт головного убора.
 
-## Мелис Абзалов в мастерской: от встречи к портрету
+## Диас Рахматов в мастерской: от встречи к портрету
 
-[Мелис Абзалов](<https://dsmi.uz/ru/melis-abzalov-2/>) — узбекский актёр и кинорежиссёр. Архивные фотографии показывают его встречу с Валиходжаевым и работу художника над портретом. Рядом с законченными произведениями эти кадры позволяют увидеть сам процесс: присутствие модели, расстояние до мольберта и внимание к лицу и позе.
+[Диас Рахматов](<https://uzbekkino.glob.uz/person/109>) — узбекский актёр театра и кино. Архивные фотографии показывают его в мастерской Валиходжаева и процесс работы над портретом. Рядом с законченной картиной они позволяют увидеть присутствие модели, положение перед мольбертом и внимание художника к лицу и позе.
 
-[Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ибрагим Валиходжаев и актёр Диас Рахматов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ибрагим Валиходжаев и актёр Мелис Абзалов в мастерской. Архив художника.
+Ибрагим Валиходжаев и актёр Диас Рахматов в мастерской. Архив художника.
 
-[Работа над портретом Мелиса Абзалова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Работа над портретом Диаса Рахматова в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Работа над портретом Мелиса Абзалова в мастерской. Архив художника.
+Работа над портретом Диаса Рахматова в мастерской. Архив художника.
 
 ## Как портрет направляет взгляд
 
@@ -59,9 +59,9 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 Архивная подпись указывает имя модели, год и размер, но не сообщает обстоятельств сеанса. Наблюдаемое выражение лица не стоит превращать в готовую биографическую историю. Выразительность здесь создаётся живописными средствами: расположением головы, характером мазка и соотношением фигуры с окружающим полем.
 
-[Ибрагим Валиходжаев. «Портрет Лены», 1987. Размер по архивной подписи: 70 × 90 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[Ибрагим Валиходжаев. «Портрет Лены», 1987. Размер по архивной подписи: 70 × 90 см. Репродукция из архива художника. Работа написана в студенческие годы, во время учёбы в институте.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-Ибрагим Валиходжаев. «Портрет Лены», 1987. Размер по архивной подписи: 70 × 90 см. Репродукция из архива художника.
+Ибрагим Валиходжаев. «Портрет Лены», 1987. Размер по архивной подписи: 70 × 90 см. Репродукция из архива художника. Работа написана в студенческие годы, во время учёбы в институте.
 
 ## «Портрет Лены»: профиль у окна
 
@@ -119,6 +119,14 @@ Valikhodjaev Gallery House · 6 октября 2026
 [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Gallery House](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [Оксана Кадышева — «Настроение цветов “радуги” в сюите Ибрагима Валиходжаева», San’at, № 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## Автопортрет: художник становится своей моделью
+
+В автопортрете 2006 года лицо приближено к зрителю. Тёплая оранжевая полоса света сопоставлена с прохладными серыми и тёмными участками; взгляд удерживает композицию. Здесь художник обращает ту же внимательность к человеку на самого себя.
+
+[Ибрагим Валиходжаев. «Автопортрет», 2006. 60 × 40 см. Репродукция из архива художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+Ибрагим Валиходжаев. «Автопортрет», 2006. 60 × 40 см. Репродукция из архива художника.
 
 ## Работа, встречи и жизнь картин
 

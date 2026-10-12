@@ -4,7 +4,7 @@ language: "en"
 theme: 21
 description: "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Learning to See: Ibragim Valikhodjaev on a Life in Art
@@ -28,6 +28,10 @@ Ibragim Valikhodjaev was born in Namangan on 28 November 1958. Before the exhibi
 His father also wrote poetry. As an adult, Ibragim published a collection of his father’s poems, preserving this part of the family’s heritage. The detail adds another dimension to the home in which the future artist grew up: craftsmanship and poetry both belonged to his father’s life.
 
 He wanted to be an artist while still at school. Yet years of independent work separated that childhood ambition from his entry into higher education. His later market scenes, portraits and paintings of rural life reveal the importance of everyday experience: people, their occupations and their surroundings. Here the artist’s story meets the history of his home city and family.
+
+In the HD Magazine conversation, he retraces this path through specific memories. He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ On gaining admission, he stopped his previous commercial commission work and con
 
 The young artist among his works. Artist’s archive.
 
+Before entering the institute, he spent ten years as a decorative artist. In the interview, he explains how familiar that occupation once was: organisations needed their own artists, and decorative work was done by hand. Commissions provided an income, while another practice developed alongside them—outdoor studies and portraits from life. He had not yet met Rahim Ahmedov, but studied his work in art magazines and particularly admired his portraits. At the institute, he chose the studio of an artist whose paintings had long mattered to him.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## The teacher opens the way, the artist searches for his language
 
 In 1986 Valikhodjaev entered the painting department of the Alexander Ostrovsky Tashkent State Theatre and Art Institute. He turned 28 that November. His training in Master Rahim Ahmedov’s studio continued until 1991: a childhood aspiration had become a considered professional choice, made after several years of independent work.
@@ -66,6 +74,12 @@ Valikhodjaev was born in Namangan and received his professional training in Tash
 In a television interview, the artist distinguishes between drawing and the development of an artist. Training opens a vast world of possibilities, but finding one's own direction within it is up to the artist. This journey can be traced through his work, through portraits, still lifes, landscapes, and multi-figure genre compositions.
 
 [Video above · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+In ‘Ijod formulasi’, he also recalls a very different pace of work: a month as a student when a painting would not come together. He was working on one bazaar composition in the teaching studio and another at home, where he had made a workspace on the balcony. He returned to the canvases, squeezed out paint and worked, only to scrape it off again in the evening, dissatisfied with the result. This continued for roughly a month. One day, watching television with his family, he suddenly wanted to paint. He went out to the balcony and, as he remembers it, finished the painting at home in half an hour; the next day, he completed the studio painting just as quickly. The story suggests how weeks of searching and dissatisfaction can lie behind a speed of execution that the viewer sees only at the end.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Family recollections describe the choice of his graduation project as another sign of his teacher’s confidence. Students were normally expected to concentrate on academic studies; Valikhodjaev alone was allowed to pursue an independent bazaar composition. Rahim Ahmedov felt that Ibragim had already mastered the academic foundations and could tackle a subject of his own. Observations of the market entered his graduation painting and later grew into large, multi-figure canvases and a recognisable pictorial language.
 
 [Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ An archival gathering with colleagues. Artist’s archive.
 
 An outdoor photograph from the archive. Artist’s archive.
 
+[Ibragim Valikhodjaev. Tree of Life, 1998. 140 × 150 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Tree of Life, 1998. 140 × 150 cm. Reproduction from the artist’s archive.
+
+Beside the outdoor archive photograph is Tree of Life, painted in 1998. Pale branches against a dark ground turn a natural motif into a distilled image; the restrained palette brings the trunk’s curves and the organisation of the composition into focus.
+
 [Ibragim Valikhodjaev beside ceramic vessels. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev beside ceramic vessels. Artist’s archive.
@@ -165,7 +185,11 @@ The Duppi Bazaar paintings of 2004 and 2006 continue this exploration. In the fi
 
 ## Tumor, Namangan and the move to Tashkent
 
-In 1993 Valikhodjaev founded the Tumor gallery salon in Namangan, Uzbekistan’s first private art gallery, which he led until 1999. He was a pioneer of private gallery activity in the country: an individual initiative created a place where artworks could meet an audience beyond the established system of state exhibition venues.
+In 1993 Valikhodjaev founded the Tumor gallery salon in Namangan, the first private art gallery in independent Uzbekistan, which he led until 1999. He was a pioneer of private gallery activity in the country: an individual initiative created a place where artworks could meet an audience beyond the established system of state exhibition venues. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
+
+He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 In 1997–1999 he chaired the Namangan branches of the Union of Artists and the Art Fund. Caring for his mother, making paintings and organising the artistic life of his hometown were distinct parts of this period. Later he moved from Namangan to Tashkent; by then he had already experienced the loss of his mother.
 
@@ -249,7 +273,7 @@ Children watch the artist at work outdoors. Artist’s archive.
 
 Ibragim Valikhodjaev at a plein-air painting event in Turkey. Artist’s archive.
 
-[Melis Abzalov in the studio: from encounter to portrait](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html#iv-melis-abzalov>)
+[Dias Rakhmatov in the studio: from encounter to portrait](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html#iv-dias-rakhmatov>)
 
 ## Colour becomes the subject of research
 
@@ -303,6 +327,8 @@ Opening of the exhibition "New View", Uzbekistan, Tashkent, 2024. Photo publishe
 
 Travelling provides new context for this exploration. In 2012, Valikhodjaev participated as a painter in a plein-air gathering in Montenegro, and then exhibited the works he created there in Tashkent. His plein air work also includes Turkey, Uzbekistan, and Azerbaijan. In Hulan, China, he participated as a sculptor, translating a composition into metal for a floating sculpture project.
 
+In 2021, his visit to Turkey combined participation in a plein-air programme with a solo exhibition at the Maltepe Cultural Centre in Istanbul. Painting from life and exhibiting the results formed successive parts of his practice.
+
 The solo exhibition "Sun on Snow" at the Yu Shun Museum in Harbin, China, in 2026 gave his large-scale canvases a new dimension. The video above demonstrates the impact of the room: from a distance, the overall structure is discernible, but upon closer inspection, a distinct field of colour takes up a significant portion of the viewer's field of vision. The artist's works are held in this museum, in the collection of the Maltepe Municipality in Istanbul, Turkey, and in a private collection in Moscow, Russia, along with other public and private collections.
 
 [Video above · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ Valikhodjaev’s professional life has been recognised with awards including the
 
 [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), wife of Uzbekistan’s first president, Islam Karimov, presents Ibragim Valikhodjaev with the Gold Medal of the President of the Republic of Uzbekistan. Artist’s archive.
 
+[Ibragim Valikhodjaev. Light and Shadows. The artist received the Gold Medal of the First President of the Republic of Uzbekistan for this painting in 2018. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Light and Shadows. The artist received the Gold Medal of the First President of the Republic of Uzbekistan for this painting in 2018. Reproduction from the artist’s archive.
+
 [Akmal Nur, chairman of the Academy of Arts of Uzbekistan, presents Ibragim Valikhodjaev with the Academy’s Gold Medal. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 [Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), chairman of the Academy of Arts of Uzbekistan, presents Ibragim Valikhodjaev with the Academy’s Gold Medal. Artist’s archive.
@@ -392,12 +422,22 @@ In the archival works, this curiosity takes various forms. The pale-toned “Jug
 
 Artist Links: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## Passing on experience: a masterclass in Xi’an
+## Passing on experience: a masterclass for painting students in Xi’an
 
-In September 2025, Valikhodjaev led a painting masterclass for students at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
+In September 2025, Valikhodjaev led a painting masterclass for students of the Painting Department at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+When discussing preparations for his exhibition in China, he begins with the gallery space. He had seen it before; after receiving its plan and dimensions, he considered which works to bring and how to arrange them. The large, bright hall made it possible to show large canvases. The artistic decision then became a practical task: the paintings were taken off their stretchers, rolled and sent by cargo aircraft. He arrived before the works, waited for them and helped prepare the display. In his television account, the exhibition grows from this sequence of decisions—from the scale of a painting to its transport and placement in the hall.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.
+
+[Video of the exhibition opening in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)

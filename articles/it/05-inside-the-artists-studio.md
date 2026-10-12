@@ -4,7 +4,7 @@ language: "it"
 theme: 5
 description: "Dall’atelier di Rahim Ahmedov al lavoro con gli allievi: osservare, comporre e imparare a dipingere con Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Nello studio: osservare, dipingere e imparare con Ibragim Valikhodjaev
@@ -121,15 +121,15 @@ Prima di entrare all’istituto, Valikhodjaev eseguiva commissioni artistiche a 
 
 ## Creazione, incontri e vita dei dipinti
 
-[Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev e l’attore Dias Rakhmatov in studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev e l’attore Melis Abzalov nello studio. Archivio dell’artista.
+Ibragim Valikhodjaev e l’attore Dias Rakhmatov in studio. Archivio dell’artista.
 
-[Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Al lavoro sul ritratto di Dias Rakhmatov in studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Al lavoro sul ritratto di Melis Abzalov nello studio. Archivio dell’artista.
+Al lavoro sul ritratto di Dias Rakhmatov in studio. Archivio dell’artista.
 
-## Trasmettere l’esperienza: una masterclass a Xi’an
+## Trasmettere l’esperienza: una lezione per gli studenti di pittura a Xi’an
 
 Nel settembre 2025 Valikhodjaev ha tenuto una masterclass per gli studenti di pittura dell’Accademia di belle arti di Xi’an, in Cina. Ha partecipato, come artista e presidente dell’Unione degli artisti dell’Uzbekistan, alla visita del 14–19 settembre legata al programma CASIE ‘Una cintura, una via — Asia centrale’. La composizione, realizzata in un’ora e venti minuti, è stata donata all’Accademia. Il video della masterclass qui sotto permette di seguire la costruzione dell’immagine, dalle prime linee ai rapporti tra le campiture di colore e alla composizione conclusa.
 

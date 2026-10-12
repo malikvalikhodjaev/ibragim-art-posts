@@ -4,7 +4,7 @@ language: "he"
 theme: 17
 description: "דיאס רחמטוב, לנה וסשה: פנים, תנוחה, לבוש וחלל בשלושה דיוקנאות משנים שונות."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # פנים, תנוחה ומרחב: שלושה דיוקנאות של וליכודג'ייב
@@ -43,17 +43,17 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 הכתפיים תופסות חלק ניכר מהחצי התחתון של הציור. גווני האפור והכחול הכהים של הבגדים תומכים במשקל הדמות, ומשאירים את הפנים במרכז. הרקע פשוט ביותר, אך לא ריק: פס אוקר צר בחלקו העליון מגדיר את הגבול שאליו מתייחסת צללית כיסוי הראש.
 
-## מליס אבזלוב בסטודיו: מן המפגש אל הדיוקן
+## דיאס רחמטוב בסטודיו: מהמפגש לדיוקן
 
-[מליס אבזלוב](<https://dsmi.uz/ru/melis-abzalov-2/>) היה שחקן ובמאי קולנוע אוזבקי. תצלומי הארכיון האלה מראים את מפגשו עם וליחודג׳אייב ואת עבודת האמן על דיוקנו. לצד הציורים המוגמרים הם מאפשרים לראות את תהליך העבודה: נוכחותו של היושב, המרחק מן כן הציור ותשומת הלב לפנים ולתנוחה.
+[דיאס רחמטוב](<https://uzbekkino.glob.uz/person/109>) היה שחקן תיאטרון וקולנוע אוזבקי. תצלומי הארכיון מציגים אותו בסטודיו של וליחודג'אייב ומתעדים את העבודה על דיוקנו. לצד הציור המוגמר, הם מאפשרים לראות את נוכחותו של היושב, את מיקומו מול כן הציור ואת תשומת לבו של הצייר לפנים ולתנוחה.
 
-[איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[איברגים וליחודג'אייב והשחקן דיאס רחמטוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-איברגים וליחודג'אייב והשחקן מליס אבזלוב בסטודיו. ארכיון האמן.
+איברגים וליחודג'אייב והשחקן דיאס רחמטוב בסטודיו. ארכיון האמן.
 
-[עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[עבודה על דיוקנו של דיאס רחמטוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-עבודה על דיוקנו של מליס אבזלוב בסטודיו. ארכיון האמן.
+עבודה על דיוקנו של דיאס רחמטוב בסטודיו. ארכיון האמן.
 
 ## כיצד דיוקן מכוון את העין
 
@@ -61,9 +61,9 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 הכיתוב הארכיוני מציין את שם המצויר, שנת הציור ומידותיו, אך אינו מספק פרטים על הסשן. אין להפוך את הבעת הפנים הנצפית לנרטיב ביוגרפי מוכן מראש. אקספרסיביות כאן נוצרת באמצעים ציוריים: מיקום הראש, אופי משיכות המכחול והקשר של הדמות לשדה שמסביב.
 
-[איברגים וליכודג'ייב. "דיוקן של לנה", 1987. גודל לפי כיתוב ארכיוני: 70 × 90 ס"מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[איברגים וליכודג'ייב. "דיוקן של לנה", 1987. גודל לפי כיתוב ארכיוני: 70 × 90 ס"מ. רפרודוקציה מארכיון האמן. הציור נוצר בשנות לימודיו במכון.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-איברגים וליכודג'ייב. "דיוקן של לנה", 1987. גודל לפי כיתוב ארכיוני: 70 × 90 ס"מ. רפרודוקציה מארכיון האמן.
+איברגים וליכודג'ייב. "דיוקן של לנה", 1987. גודל לפי כיתוב ארכיוני: 70 × 90 ס"מ. רפרודוקציה מארכיון האמן. הציור נוצר בשנות לימודיו במכון.
 
 ## "דיוקן של לנה": פרופיל ליד החלון
 
@@ -121,6 +121,14 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 [אינסטגרם](<https://www.instagram.com/ibragim.valikhodjaev/>) · [יוטיוב](<https://www.youtube.com/@ibragim.valikhodjaev>) · [בית הגלריה](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [אוקסנה קדישבה — צבעי הקשת בסוויטה של איברגים וליכודג'ייב; San’at, גיליון 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## דיוקן עצמי: הצייר הופך למודל של עצמו
+
+בדיוקן העצמי משנת 2006 הפנים קרובות לצופה. כתם אור כתום וחם נפגש עם גוונים אפורים קרירים יותר ועם אזורים כהים; המבט מלכד את הקומפוזיציה. הצייר מפנה כלפי עצמו את תשומת לבו לדמות האדם.
+
+[איברגים וליחודג'אייב. דיוקן עצמי, 2006. 60 × 40 ס״מ. רפרודוקציה מארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+איברגים וליחודג'אייב. דיוקן עצמי, 2006. 60 × 40 ס״מ. רפרודוקציה מארכיון האמן.
 
 ## יצירה, מפגשים וחיי הציורים
 

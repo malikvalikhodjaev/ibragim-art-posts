@@ -4,7 +4,7 @@ language: "uz"
 theme: 5
 description: "Rahim Ahmedov ustaxonasidan shogirdlar bilan mashg‘ulotlargacha: kuzatish, kompozitsiya va professional tajribani yetkazish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Rassom ustaxonasida: kuzatish, ta’lim va tajriba
@@ -121,13 +121,13 @@ Institutga kirishidan oldin Valixo‘jayev Namanganda badiiy buyurtmalarni bajar
 
 ## Ijod, uchrashuvlar va kartinalar hayoti
 
-[Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibrohim Valixo‘jayev va aktyor Dias Rahmatov ustaxonada. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibrohim Valixodjayev va aktyor Melis Abzalov ustaxonada. Rassom arxividan.
+Ibrohim Valixo‘jayev va aktyor Dias Rahmatov ustaxonada. Rassom arxivi.
 
-[Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Ustaxonada Dias Rahmatov portreti ustida ishlash. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Ustaxonada Melis Abzalov portreti ustida ishlash. Rassom arxividan.
+Ustaxonada Dias Rahmatov portreti ustida ishlash. Rassom arxivi.
 
 ## Tajribani ulashish: Siandagi mahorat darsi
 

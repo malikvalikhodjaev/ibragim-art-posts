@@ -4,7 +4,7 @@ language: "ar"
 theme: 17
 description: "دياس رحمتوف ولينا وساشا: ثلاثة بورتريهات تكشف دور الوجه والوضعية والخلفية واللون."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # الوجه والوضعية والفضاء: ثلاثة بورتريهات لفاليخودجاييف
@@ -43,17 +43,17 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 تشغل الأكتاف حيزاً كبيراً من النصف السفلي للوحة. وتُبرز درجات الرمادي الداكن والأزرق في الملابس ثقل الشخصية، تاركةً الوجه في المنتصف. أما الخلفية فهي بسيطة للغاية، لكنها ليست فارغة: إذ يُحدد شريط أصفر داكن ضيق في الأعلى الحدود التي تُرسم عليها صورة ظلية غطاء الرأس.
 
-## ميليس أبزالوف في المرسم: من اللقاء إلى البورتريه
+## دياس رحمتوف في المرسم: من اللقاء إلى البورتريه
 
-كان [ميليس أبزالوف](<https://dsmi.uz/ru/melis-abzalov-2/>) ممثلاً ومخرجاً سينمائياً أوزبكياً. تُظهر هذه الصور الأرشيفية لقاءه بفاليخوجاييف وعمل الفنان على رسم بورتريه له. وإلى جانب اللوحات المكتملة، تتيح الصور رؤية العمل أثناء تشكّله: حضور الشخص الجالس، والمسافة إلى حامل اللوحة، والانتباه إلى الوجه والوضعية.
+كان [دياس رحمتوف](<https://uzbekkino.glob.uz/person/109>) ممثلًا أوزبكيًا في المسرح والسينما. تُظهره هذه الصور الأرشيفية في مرسم فاليخودجاييف، وتوثق العمل على بورتريهه. إلى جانب اللوحة المكتملة، تكشف الصور حضور الشخص الجالس للرسم، وموقعه أمام الحامل، واهتمام الفنان بالوجه والوضعية.
 
-[إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[إبراهيم فاليخودجاييف والممثل دياس رحمتوف في المرسم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-إبراهيم فاليخوجاييف والممثل ميليس أبزالوف في المرسم. من أرشيف الفنان.
+إبراهيم فاليخودجاييف والممثل دياس رحمتوف في المرسم. أرشيف الفنان.
 
-[العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[العمل على بورتريه دياس رحمتوف في المرسم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-العمل على بورتريه ميليس أبزالوف في المرسم. من أرشيف الفنان.
+العمل على بورتريه دياس رحمتوف في المرسم. أرشيف الفنان.
 
 ## كيف توجه الصورة العين
 
@@ -61,9 +61,9 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 يشير التعليق الأرشيفي إلى اسم الشخص المرسوم وسنة إنجاز اللوحة وأبعادها، لكنه لا يقدم تفاصيل عن جلسة رسم البورتريه. لا ينبغي تحويل تعبير الوجه الملاحظ إلى سرد سيرة ذاتية جاهزة. فالتعبير هنا يُخلق بوسائل فنية: وضعية الرأس، وطبيعة ضربات الفرشاة، وعلاقة الشكل بالخلفية المحيطة.
 
-[إبراهيم فاليخودجاييف. "بورتريه لينا"، 1987. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 90 سم. نسخة مصوّرة من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
+[إبراهيم فاليخودجاييف. "بورتريه لينا"، 1987. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 90 سم. نسخة مصوّرة من أرشيف الفنان. أُنجزت اللوحة خلال سنوات دراسته في المعهد.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquqtL3qiOSGuddva9Tg86wDr84FDi7J-uYvv2InEilorvrBJ6yNjf4p4b27XapkdBy5955K1N1-gVLDYFOW7P_xst620YW3d-j021X1A6HY4N9bCuvBbVfC8WcOq0YQdfodrD08KwPE_bdWkCuPItiIN2YmpmLp4TUmVhwF4QDrxkHVD6U3SXTBqXLs9k/s1600/clipboard.png>)
 
-إبراهيم فاليخودجاييف. "بورتريه لينا"، 1987. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 90 سم. نسخة مصوّرة من أرشيف الفنان.
+إبراهيم فاليخودجاييف. "بورتريه لينا"، 1987. الأبعاد وفقًا للتعليق الأرشيفي: 70 × 90 سم. نسخة مصوّرة من أرشيف الفنان. أُنجزت اللوحة خلال سنوات دراسته في المعهد.
 
 ## "بورتريه لينا": صورة جانبية عند النافذة
 
@@ -121,6 +121,14 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 [انستغرام](<https://www.instagram.com/ibragim.valikhodjaev/>) · [يوتيوب](<https://www.youtube.com/@ibragim.valikhodjaev>) · [غاليري هاوس](<https://linktr.ee/ibragim.valikhodjaev>)
 
 [أوكسانا كاديشيفا — ألوان قوس قزح في «متتالية نامانغان»، مجلة San’at، العدد 3، 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
+
+## بورتريه ذاتي: الرسام يصبح موضوع لوحته
+
+في البورتريه الذاتي لعام 2006، يقترب الوجه من المشاهد. تتجاور مساحة من الضوء البرتقالي الدافئ مع درجات رمادية أبرد ومناطق داكنة، بينما تجمع النظرة عناصر التكوين. يوجّه الرسام إلى نفسه اهتمامه الدقيق بالإنسان.
+
+[إبراهيم فاليخودجاييف. «بورتريه ذاتي»، 2006. 60 × 40 سم. صورة للعمل من أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBDrPgIrCj1aCqRokf9cxdVlyOkoeeYsRjhCTS7lXdkswb9HU_BpKIPaH14MqLIDj5ef9cW3f6TLg_xeWOERi_8-sTmxbs83zdlLzsV-xWWnvCoZL3zM_O44_7YEUwTm8QdKoqBhW038Z12ogAKov6Qx1blUG0wPMFTrIipz79pMZQ-lVEEjqSWC6TFYkk/w1600-rj/clipboard.png>)
+
+إبراهيم فاليخودجاييف. «بورتريه ذاتي»، 2006. 60 × 40 سم. صورة للعمل من أرشيف الفنان.
 
 ## العمل واللقاءات وحياة اللوحات
 

@@ -4,7 +4,7 @@ language: "de"
 theme: 20
 description: "Valikhodjaev als Künstler, Organisator und Galeriegründer: Wie Atelier, Ausstellungsraum und Begegnungen mit dem Publikum zusammenwirken."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Vom Atelier zur Galerie: Valikhodjaev schafft Räume für die Kunst
@@ -117,7 +117,11 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 
 ## Tumor: der Beginn einer privaten Galeriegeschichte
 
-Seine Erfahrung als Gründer begann lange vor Gallery House. 1987 richtete Valikhodjaev eine private Kunstwerkstatt ein; 1993 eröffnete er in Namangan die Galerie Tumor, die er bis 1999 leitete. Die aktuelle biografische Chronik bezeichnet Tumor als erste private Kunstgalerie Usbekistans. Diese Station macht seine Pionierarbeit bei der Schaffung eines Ortes für Kunst sichtbar. Die späteren Galerieaktivitäten in Taschkent gehören zu einer längeren Geschichte: Ein Künstler schafft Werke und zugleich die Bedingungen für ihre Begegnung mit dem Publikum.
+Seine Erfahrung als Gründer begann lange vor Gallery House. 1987 richtete Valikhodjaev eine private Kunstwerkstatt ein; 1993 eröffnete er in Namangan die Galerie Tumor, die er bis 1999 leitete. Die aktuelle biografische Chronik bezeichnet Tumor als erste private Kunstgalerie im unabhängigen Usbekistan. Diese Station macht seine Pionierarbeit bei der Schaffung eines Ortes für Kunst sichtbar. Die späteren Galerieaktivitäten in Taschkent gehören zu einer längeren Geschichte: Ein Künstler schafft Werke und zugleich die Bedingungen für ihre Begegnung mit dem Publikum. Nach Angaben der Familie wurde seine Pionierrolle als Gründer auch in einer Enzyklopädie festgehalten.
+
+Von seiner Galerie erzählt er über das Sammeln. Auf Ausstellungen entdeckte er gute Arbeiten von Kollegen und wollte, wenn es seine Mittel erlaubten, ein oder zwei Werke erwerben. So entstand eine Sammlung von Gemälden, Keramik und angewandter Kunst. Die Galerie bot ihm die Möglichkeit, Werke auszuwählen und zu bewahren, mit ihnen zu leben und sie anderen zu zeigen. Im Gespräch mit HD Magazine unterscheidet er diese Bindung an die Kunst vom bloßen Weiterverkauf von Bildern.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 

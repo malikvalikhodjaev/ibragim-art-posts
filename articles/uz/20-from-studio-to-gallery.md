@@ -4,7 +4,7 @@ language: "uz"
 theme: 20
 description: "Valixo‘jayevning rassom, ustoz, kurator va galereya asoschisi sifatidagi faoliyati: asardan tomoshabin bilan uchrashuvgacha."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Ustaxonadan galereyagacha: ijodkor uchrashuv makonini yaratadi
@@ -117,7 +117,11 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 
 ## «Tumor»: xususiy galereya tarixining boshlanishi
 
-Valixo‘jayevning asoschi sifatidagi tajribasi Gallery House’dan ancha oldin boshlangan. 1987-yilda u xususiy badiiy sex-ustaxona tashkil etgan, 1993-yilda esa Namanganda «Tumor» galereya-salonini ochib, 1999-yilgacha unga rahbarlik qilgan. Amaldagi biografik xronikaga ko‘ra, «Tumor» O‘zbekistondagi birinchi xususiy san’at galereyasi bo‘lgan. Bu bosqich uning san’at uchun makon yaratishdagi kashshof tajribasini ko‘rsatadi. Toshkentdagi keyingi galereya faoliyati asar yaratadigan va uning tomoshabin bilan uchrashuviga sharoit hozirlaydigan rassomning uzoqroq tarixiga kiradi.
+Valixo‘jayevning asoschi sifatidagi tajribasi Gallery House’dan ancha oldin boshlangan. 1987-yilda u xususiy badiiy sex-ustaxona tashkil etgan, 1993-yilda esa Namanganda «Tumor» galereya-salonini ochib, 1999-yilgacha unga rahbarlik qilgan. Amaldagi biografik xronikaga ko‘ra, «Tumor» mustaqil O‘zbekistondagi birinchi xususiy san’at galereyasi bo‘lgan. Bu bosqich uning san’at uchun makon yaratishdagi kashshof tajribasini ko‘rsatadi. Toshkentdagi keyingi galereya faoliyati asar yaratadigan va uning tomoshabin bilan uchrashuviga sharoit hozirlaydigan rassomning uzoqroq tarixiga kiradi. Oila ma’lumotlariga ko‘ra, uning ilk asoschi sifatidagi o‘rni ensiklopediyada ham qayd etilgan.
+
+O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. HD Magazine suhbatida u san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 

@@ -4,7 +4,7 @@ language: "tr"
 theme: 5
 description: "Üstat Rahim Ahmedov’un atölyesinden öğrencilerle çalışmaya: gözlem, kompozisyon ve resim deneyiminin aktarılması."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Atölyede görmek, öğrenmek ve resim yapmak
@@ -121,15 +121,15 @@ Valikhodjaev, enstitüye girmeden önce Namangan’da sanatsal siparişler üzer
 
 ## Üretim, karşılaşmalar ve resimlerin yaşamı
 
-[Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[İbragim Valikhodjaev ve oyuncu Dias Rakhmatov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev ve oyuncu Melis Abzalov atölyede. Sanatçının arşivi.
+İbragim Valikhodjaev ve oyuncu Dias Rakhmatov atölyede. Sanatçının arşivi.
 
-[Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Atölyede Dias Rakhmatov’un portresi üzerinde çalışırken. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Atölyede Melis Abzalov’un portresi üzerinde çalışırken. Sanatçının arşivi.
+Atölyede Dias Rakhmatov’un portresi üzerinde çalışırken. Sanatçının arşivi.
 
-## Deneyimi paylaşmak: Xi’an’da resim atölyesi
+## Deneyimi paylaşmak: Xi’an’da resim bölümü öğrencileri için ustalık dersi
 
 Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’nin resim öğrencilerine uygulamalı bir ders verdi. CASIE’nin ‘Bir Kuşak, Bir Yol — Orta Asya’ programıyla bağlantılı 14–19 Eylül ziyaretine sanatçı ve Özbekistan Sanatçılar Birliği başkanı olarak katıldı. Bir saat yirmi dakikada tamamlanan kompozisyon Akademiye bağışlandı. Aşağıdaki atölye videosunda ilk çizgilerden renk alanları arasındaki ilişkilere ve tamamlanmış kompozisyona uzanan çalışma süreci izlenebilir.
 

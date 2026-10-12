@@ -4,7 +4,7 @@ language: "uz"
 theme: 3
 description: "Xulan, Xitoy, 2024: Valixo‘jayevning haykaltarosh sifatidagi ishtiroki, metall silueti, suvdagi aks va daryo makoni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Suv ustidagi haykal: Ibrohim Valixo‘jayev Xulanda
@@ -121,6 +121,6 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 
 Ibrohim Valixodjayevning suvga o‘rnatishga tayyorlanayotgan metall haykali. Rassom arxivi; suratning aniq sanasi tasdiqlanmagan.
 
-[Ibrohim Valixodjayev muzlagan daryodagi o‘z suzuvchi haykali fonida, Xitoy, 2026-yil 25-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ibrohim Valixodjayev muzlagan daryodagi o‘z suzuvchi haykali fonida, Xitoy, 2026-yil 25-fevral. Rassom arxivi.
+Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.

@@ -4,7 +4,7 @@ language: "he"
 theme: 3
 description: "וליכודג'ייב כפסל בפרויקט חולאן 2024: מתכת, מים, צללית והשתקפות במרחב הנהר."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # פיסול על פני המים: איברגים וליכודג'ייב בחולאן
@@ -123,9 +123,9 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 פסל המתכת של איברגים וליחודז'אייב במהלך ההכנה להצבה על המים. ארכיון האמן; תאריך הצילום לא אושר.
 
-[איברגים וליחודג'אייב על רקע הפסל הצף שיצר, בנהר הקפוא, סין, 25 בפברואר 2026. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[איברגים וליחודג'אייב מול הפסל הצף שלו על הנהר הקפוא, סין, חרבין, 25 בפברואר 2026. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-איברגים וליחודג'אייב על רקע הפסל הצף שיצר, בנהר הקפוא, סין, 25 בפברואר 2026. ארכיון האמן.
+איברגים וליחודג'אייב מול הפסל הצף שלו על הנהר הקפוא, סין, חרבין, 25 בפברואר 2026. ארכיון האמן.
 
 
 </div>

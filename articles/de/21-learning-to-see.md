@@ -4,7 +4,7 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
@@ -28,6 +28,10 @@ Ibragim Valikhodjaev wurde am 28. November 1958 in Namangan geboren. Vor den Aus
 Sein Vater schrieb auch Gedichte. Als Erwachsener veröffentlichte Ibragim eine Sammlung dieser Gedichte und bewahrte damit einen Teil des familiären Erbes. Das Detail erweitert den Blick auf das Elternhaus des späteren Künstlers: Handwerk und Dichtung gehörten beide zum Leben seines Vaters.
 
 Schon in der Schule will er Künstler werden. Doch zwischen diesem Kindheitswunsch und dem Beginn des Studiums liegen Jahre selbstständiger Arbeit. Seine späteren Marktszenen, Porträts und Bilder des ländlichen Lebens zeigen seine Aufmerksamkeit für den Alltag: für Menschen, ihre Tätigkeiten und ihre Umgebung. Hier verbindet sich die Geschichte des Malers mit der seiner Heimatstadt und Familie.
+
+Im Gespräch mit HD Magazine zeichnet er diesen Weg anhand konkreter Erinnerungen nach. Er begann schon vor der Einschulung zu zeichnen und besuchte während seiner Schulzeit das Haus der Pioniere. Sein Vater war Handwerker; in seiner unmittelbaren Umgebung gab es niemanden, der ihm den Weg zu einem Kunststudium genau erklären konnte. Ibragim beobachtete örtliche Maler des Kunstfonds und übte selbständig. Seine ersten Begegnungen mit dem künstlerischen Umfeld entstanden durch diese Kontakte und alltäglichen Beobachtungen.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ Nach der Aufnahme stellte er seine bisherige Tätigkeit mit kommerziellen Auftr�
 
 Der junge Künstler zwischen seinen Werken. Archiv des Künstlers.
 
+Vor dem Studium arbeitete er zehn Jahre als Dekorationsmaler. Im Interview erinnert er daran, wie verbreitet dieser Beruf war: Organisationen brauchten eigene Künstler, und die Gestaltungsarbeiten wurden von Hand ausgeführt. Aufträge sicherten sein Einkommen; daneben entwickelte sich eine andere Praxis: Studien im Freien und Porträts nach dem lebenden Modell. Rahim Ahmedov kannte er noch nicht persönlich, betrachtete aber seine Werke in Kunstzeitschriften und bewunderte besonders die Porträts. Am Institut wählte er das Atelier eines Malers, dessen Bilder ihm schon lange nahestanden.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## Der Lehrer ebnet den Weg, der Künstler sucht seine Sprache
 
 1986 trat Valikhodjaev in die Abteilung für Malerei des Alexander-Ostrowski-Instituts für Theater und Kunst in Taschkent ein. Im November desselben Jahres wurde er 28. Seine Ausbildung im Atelier von Meister Rahim Ahmedov dauerte bis 1991: Der Kindheitswunsch war nach Jahren selbstständiger Arbeit zu einer bewussten beruflichen Entscheidung geworden.
@@ -66,6 +74,12 @@ Valikhodjaev wurde in Namangan geboren und absolvierte seine professionelle Ausb
 In einem Fernsehinterview unterscheidet der Künstler zwischen Zeichnen und der Entwicklung eines Künstlers. Eine Ausbildung eröffnet eine Welt voller Möglichkeiten, doch die eigene Richtung darin zu finden, obliegt dem Künstler selbst. Dieser Weg lässt sich in seinem Werk nachvollziehen – in Porträts, Stillleben, Landschaften und Genrebildern mit mehreren Figuren.
 
 [Videoaufzeichnung oben · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+In ‚Ijod formulasi‘ erinnert er sich auch an ein völlig anderes Arbeitstempo: einen Monat im Studium, in dem ein Bild nicht gelingen wollte. An einer Basarkomposition arbeitete er im Lehratelier, an einer anderen zu Hause auf dem Balkon, den er als Arbeitsplatz eingerichtet hatte. Er kehrte zu den Leinwänden zurück, drückte Farbe aus den Tuben und malte; abends kratzte er die Farbe, unzufrieden mit dem Ergebnis, wieder ab. Das ging etwa einen Monat lang so. Eines Tages sah er mit seiner Familie fern und verspürte plötzlich den Wunsch zu malen. Er ging auf den Balkon und vollendete das Bild nach seiner Erinnerung in einer halben Stunde; am nächsten Tag beendete er die Arbeit im Atelier ebenso schnell. Die Geschichte zeigt, dass hinter einer für den Betrachter sichtbar schnellen Ausführung wochenlanges Suchen und Unzufriedenheit stehen können.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Nach den Erinnerungen der Familie zeigte sich das Vertrauen seines Lehrers auch bei der Wahl der Diplomarbeit. Von den Studierenden wurden gewöhnlich akademische Studien verlangt; allein Valikhodjaev durfte eine eigenständige Basarkomposition entwickeln. Rahim Ahmedov war überzeugt, dass Ibragim die akademischen Grundlagen bereits beherrschte und sich einer eigenen künstlerischen Aufgabe widmen konnte. Die Beobachtungen auf dem Markt gingen in sein Diplomgemälde ein und entwickelten sich später zu großen, vielfigurigen Bildern und einer unverwechselbaren Bildsprache.
 
 [Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ Archivaufnahme einer Begegnung mit Kollegen. Archiv des Künstlers.
 
 Archivaufnahme im Freien. Archiv des Künstlers.
 
+[Ibragim Valikhodjaev. Lebensbaum, 1998. 140 × 150 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Lebensbaum, 1998. 140 × 150 cm. Reproduktion aus dem Archiv des Künstlers.
+
+Neben der Archivfotografie im Freien steht Lebensbaum von 1998. Helle Äste vor dunklem Grund verdichten das Naturmotiv zu einem Bild; die zurückhaltende Palette hebt die Biegungen des Stammes und den Aufbau der Komposition hervor.
+
 [Valikhodjaev neben Keramikgefäßen. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 Valikhodjaev neben Keramikgefäßen. Archiv des Künstlers.
@@ -165,7 +185,11 @@ Die Fassungen des Duppi-Basars von 2004 und 2006 führen diese Suche fort. Im er
 
 ## Tumor, Namangan und der Umzug nach Taschkent
 
-1993 gründete Valikhodjaev in Namangan den Galerie-Salon Tumor, die erste private Kunstgalerie Usbekistans, und leitete ihn bis 1999. Damit war er ein Pionier des privaten Galeriewesens im Land: Eine persönliche Initiative schuf einen Ort, an dem Werke außerhalb des etablierten staatlichen Ausstellungsbetriebs einem Publikum begegnen konnten.
+1993 gründete Valikhodjaev in Namangan den Galerie-Salon Tumor, die erste private Kunstgalerie im unabhängigen Usbekistan, und leitete ihn bis 1999. Damit war er ein Pionier des privaten Galeriewesens im Land: Eine persönliche Initiative schuf einen Ort, an dem Werke außerhalb des etablierten staatlichen Ausstellungsbetriebs einem Publikum begegnen konnten. Nach Angaben der Familie wurde seine Pionierrolle als Gründer auch in einer Enzyklopädie festgehalten.
+
+Von seiner Galerie erzählt er über das Sammeln. Auf Ausstellungen entdeckte er gute Arbeiten von Kollegen und wollte, wenn es seine Mittel erlaubten, ein oder zwei Werke erwerben. So entstand eine Sammlung von Gemälden, Keramik und angewandter Kunst. Die Galerie bot ihm die Möglichkeit, Werke auszuwählen und zu bewahren, mit ihnen zu leben und sie anderen zu zeigen. Im Gespräch mit HD Magazine unterscheidet er diese Bindung an die Kunst vom bloßen Weiterverkauf von Bildern.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 Von 1997 bis 1999 leitete er die Namanganer Zweigstellen des Künstlerverbands und des Kunstfonds. Die Sorge für seine Mutter, die eigene Malerei und die Organisation des Kunstlebens seiner Heimatstadt waren verschiedene Seiten dieser Zeit. Später zog er von Namangan nach Taschkent; zu diesem Zeitpunkt hatte er bereits den Verlust seiner Mutter erlebt.
 
@@ -249,7 +273,7 @@ Kinder beobachten den Künstler bei der Arbeit im Freien. Archiv des Künstlers.
 
 Ibragim Valikhodjaev bei einem Pleinair-Treffen in der Türkei. Archiv des Künstlers.
 
-[Melis Abzalov im Atelier: von der Begegnung zum Porträt](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html#iv-melis-abzalov>)
+[Dias Rakhmatov im Atelier: von der Begegnung zum Porträt](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html#iv-dias-rakhmatov>)
 
 ## Farbe wird zum Gegenstand der Forschung
 
@@ -303,6 +327,8 @@ Eröffnung der Ausstellung „Neuer Blick (New View)“, Usbekistan, Taschkent, 
 
 Reisen eröffnen dieser Auseinandersetzung neue Perspektiven. 2012 nahm Valikhodjaev als Maler an einem Pleinair-Malertreffen in Montenegro teil und stellte die dort entstandenen Werke anschließend in Taschkent aus. Seine Pleinair-Arbeiten umfassen auch die Türkei, Usbekistan und Aserbaidschan. In Hulan, China, wirkte er als Bildhauer mit und setzte eine Komposition in Metall für ein schwimmendes Skulpturenprojekt um.
 
+2021 verband sein Aufenthalt in der Türkei die Teilnahme an einem Freilichtmalerei-Programm mit einer Einzelausstellung im Kulturzentrum Maltepe in Istanbul. Das Malen nach der Natur und die Ausstellung der Ergebnisse bildeten aufeinanderfolgende Schritte seiner Arbeit.
+
 Die Einzelausstellung „Sonne auf Schnee“ im Yu Shun Art Museum in Harbin, China, im Jahr 2026 verlieh seinen großformatigen Leinwänden eine neue Dimension. Die obenstehende Videoaufzeichnung verdeutlicht die Wirkung des Raumes: Aus der Ferne ist die Gesamtstruktur erkennbar, doch bei näherer Betrachtung nimmt ein markantes Farbfeld einen bedeutenden Teil des Blickfelds ein. Werke des Künstlers befinden sich in diesem Museum, in der Sammlung der Stadtverwaltung Maltepe in Istanbul, Türkei, und in einer Privatsammlung in Moskau, Russland, sowie in weiteren öffentlichen und privaten Sammlungen.
 
 [Videoaufzeichnung oben · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ Valikhodjaevs beruflicher Weg wurde unter anderem 2020 mit der Shuhrat-Medaille 
 
 [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), die Ehefrau des ersten Präsidenten Usbekistans, Islam Karimov, überreicht Ibragim Valikhodjaev die Goldmedaille des Präsidenten der Republik Usbekistan. Archiv des Künstlers.
 
+[Ibragim Valikhodjaev. Licht und Schatten. Für dieses Gemälde erhielt der Künstler 2018 die Goldmedaille des ersten Präsidenten der Republik Usbekistan. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Licht und Schatten. Für dieses Gemälde erhielt der Künstler 2018 die Goldmedaille des ersten Präsidenten der Republik Usbekistan. Reproduktion aus dem Archiv des Künstlers.
+
 [Akmal Nur, Vorsitzender der Kunstakademie Usbekistans, überreicht Ibragim Valikhodjaev die Goldmedaille der Akademie. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 [Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), Vorsitzender der Kunstakademie Usbekistans, überreicht Ibragim Valikhodjaev die Goldmedaille der Akademie. Archiv des Künstlers.
@@ -392,7 +422,17 @@ In den Archivarbeiten nimmt diese Neugierde verschiedene Formen an. Die blassget
 
 Künstlerlinks: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## Erfahrung weitergeben: ein Meisterkurs in Xi’an
+Wenn er von den Vorbereitungen seiner Ausstellung in China erzählt, beginnt er mit dem Raum. Er hatte den Saal bereits gesehen; nachdem er den Grundriss und die Maße erhalten hatte, überlegte er, welche Werke er mitnehmen und wie er sie hängen sollte. Der große, helle Saal erlaubte es, großformatige Leinwände zu zeigen. Aus der künstlerischen Entscheidung wurde dann eine praktische Aufgabe: Die Leinwände wurden von den Keilrahmen genommen, aufgerollt und per Frachtflugzeug versandt. Der Künstler traf vor den Werken ein, wartete auf ihre Ankunft und beteiligte sich am Aufbau. In seiner Fernseherzählung entsteht die Ausstellung aus dieser Abfolge von Entscheidungen, vom Bildformat über den Transport bis zur Platzierung im Saal.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, Harbin, 25. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, Harbin, 25. Februar 2026. Archiv des Künstlers.
+
+[Video der Ausstellungseröffnung in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+## Erfahrung weitergeben: ein Meisterkurs für Malereistudierende in Xi’an
 
 Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Malerei an der Kunstakademie Xi’an in China. Als Künstler und Vorsitzender des Künstlerverbands Usbekistans nahm er am Besuch vom 14. bis 19. September teil, der mit dem CASIE-Programm ‘Ein Gürtel, eine Straße — Zentralasien’ verbunden war. Die in einer Stunde und zwanzig Minuten entstandene Komposition wurde der Akademie geschenkt. Das Video des Meisterkurses unten zeigt, wie sich das Bild entwickelt: von den ersten Linien über das Zusammenspiel der Farbflächen bis zur fertigen Komposition.
 

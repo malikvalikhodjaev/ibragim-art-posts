@@ -4,7 +4,7 @@ language: "ru"
 theme: 3
 description: "Плавающие скульптуры в Хулане, Китай, 2024: участие Ибрагима Валиходжаева как скульптора, работа с силуэтом, водой и отражением."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # Скульптура на воде: Ибрагим Валиходжаев в Хулане, Китай
@@ -34,7 +34,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Плавучие скульптурные фигуры на реке, снимок из архива художника](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNL9Br5vP4xxVO0ccdKNR3j_cW-SUCUM-1BSILXfzn3zD2fWrgmq9zHeJGkBhrpXVrSmo2nOGPJ5k48DYCMw5jDRHToRShfrC_KdLd9l7jWNckxNUDgaQRuyc0bpWC4W251igz60BylVzBb0EVdfoz838RKRZuRQPm-_hHGaas2uR9V7qVwlUS7z9aaouF/s1600/clipboard.png>)
 
-Плавучие скульптурные фигуры на реке. Снимок из архива художника «For Great China»; авторство изображённых фигур и место съёмки в архиве не указаны. [Смотреть дополнительную видеозапись проекта в Хулане](<https://www.youtube.com/watch?v=KYalKm2VgSA>).
+Плавучие скульптурные фигуры на реке. Снимок из архива художника; авторство изображённых фигур и место съёмки в архиве не указаны. [Смотреть дополнительную видеозапись проекта в Хулане](<https://www.youtube.com/watch?v=KYalKm2VgSA>).
 
 У скульптуры на воде постоянно меняется окружение. За её силуэтом проходят облака, внизу возникает отражение, рябь дробит цвет, а вечерний свет меняет соотношение фигуры и фона. Один объект открывается в нескольких состояниях. Вода и берег участвуют в восприятии произведения так же ощутимо, как расстояние и выбранная точка зрения.
 
@@ -109,9 +109,9 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 Металлическая скульптура Ибрагима Валиходжаева на стадии подготовки к установке на воде. Архив художника; точная дата съёмки не подтверждена.
 
-[Ибрагим Валиходжаев на фоне собственной плавающей скульптуры в замёрзшей реке, Китай, 25 февраля 2026 года. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[Ибрагим Валиходжаев на фоне своей плавающей скульптуры на замёрзшей реке, Китай, Харбин, 25 февраля 2026 года. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-Ибрагим Валиходжаев на фоне собственной плавающей скульптуры в замёрзшей реке, Китай, 25 февраля 2026 года. Архив художника.
+Ибрагим Валиходжаев на фоне своей плавающей скульптуры на замёрзшей реке, Китай, Харбин, 25 февраля 2026 года. Архив художника.
 
 ## Возвращение к реке зимой
 

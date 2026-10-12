@@ -4,7 +4,7 @@ language: "de"
 theme: 5
 description: "Vom Atelier des Meisters Rahim Ahmedov zur eigenen Bildsprache: Valikhodjaevs Ausbildung, Beobachtung und Arbeit mit Studierenden."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Im Atelier: sehen, malen und lernen mit Ibragim Valikhodjaev
@@ -121,15 +121,15 @@ Vor seinem Eintritt ins Institut führte Valikhodjaev in Namangan künstlerische
 
 ## Arbeit, Begegnungen und das Leben der Bilder
 
-[Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev und der Schauspieler Dias Rakhmatov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev und der Schauspieler Melis Abzalov im Atelier. Archiv des Künstlers.
+Ibragim Valikhodjaev und der Schauspieler Dias Rakhmatov im Atelier. Archiv des Künstlers.
 
-[Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Arbeit am Porträt von Dias Rakhmatov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Arbeit am Porträt von Melis Abzalov im Atelier. Archiv des Künstlers.
+Arbeit am Porträt von Dias Rakhmatov im Atelier. Archiv des Künstlers.
 
-## Erfahrung weitergeben: ein Meisterkurs in Xi’an
+## Erfahrung weitergeben: ein Meisterkurs für Malereistudierende in Xi’an
 
 Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Malerei an der Kunstakademie Xi’an in China. Als Künstler und Vorsitzender des Künstlerverbands Usbekistans nahm er am Besuch vom 14. bis 19. September teil, der mit dem CASIE-Programm ‘Ein Gürtel, eine Straße — Zentralasien’ verbunden war. Die in einer Stunde und zwanzig Minuten entstandene Komposition wurde der Akademie geschenkt. Das Video des Meisterkurses unten zeigt, wie sich das Bild entwickelt: von den ersten Linien über das Zusammenspiel der Farbflächen bis zur fertigen Komposition.
 

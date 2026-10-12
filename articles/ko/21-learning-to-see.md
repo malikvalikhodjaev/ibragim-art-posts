@@ -4,7 +4,7 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
@@ -28,6 +28,10 @@ edition_date: "2026-10-11"
 그의 아버지는 시도 썼다. 이브라김은 성인이 된 뒤 아버지의 시를 모아 시집으로 출간해 가족의 유산을 남겼다. 이 사실은 훗날 화가가 된 그가 자란 집의 모습을 더 풍부하게 보여 준다. 아버지의 삶에는 손으로 만드는 일과 시가 함께 있었다.
 
 그는 학교에 다닐 때부터 화가가 되고 싶어 했다. 그러나 어린 시절의 꿈과 고등 예술교육 사이에는 스스로 일한 여러 해가 있었다. 이후의 시장 장면, 초상화, 농촌 생활을 그린 작품에는 일상에 대한 관심이 드러난다. 사람들, 그들의 일, 그리고 살아가는 환경이다. 화가의 여정은 여기서 고향과 가족의 역사에 닿는다.
+
+HD Magazine 대담에서 그는 구체적인 기억으로 이 길을 되짚는다. 초등학교에 들어가기 전부터 그림을 그렸고, 학창 시절에는 피오네르의 집에 다녔다. 아버지는 장인이었으며, 가까운 곳에 고등 미술교육으로 가는 길을 자세히 설명해 줄 사람은 없었다. 이브라김은 미술기금 소속 지역 화가들의 작업을 관찰하며 스스로 연습했다. 예술계와의 첫 만남은 이런 교류와 일상적인 관찰에서 시작됐다.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ edition_date: "2026-10-11"
 
 자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
+미술대학에 들어가기 전 십 년 동안 장식화가로 일했다. 대담에서는 당시 이 직업이 얼마나 흔했는지 돌아본다. 기관마다 화가가 필요했고, 장식 작업은 손으로 이루어졌다. 주문 작업으로 수입을 얻는 한편, 야외 습작과 인물을 직접 보고 그리는 초상화도 계속했다. 라힘 아흐메도프를 아직 만난 적은 없었지만 미술 잡지에서 작품을 살펴보며 특히 초상화를 동경했다. 대학에서는 오래전부터 가깝게 느끼던 작품을 그린 화가의 작업실을 선택했다.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## 선생은 길을 열어주고, 예술가는 자신의 언어를 찾는다.
 
 1986년 발리호자예프는 알렉산드르 오스트롭스키 타슈켄트 국립 연극·미술학교 회화과에 입학했다. 그해 11월에 만 28세가 되었다. 라힘 아흐메도프의 작업실에서 받은 교육은 1991년까지 이어졌다. 독립적으로 일한 경험을 거친 뒤, 어린 시절의 꿈은 숙고한 직업적 선택이 되었다.
@@ -66,6 +74,12 @@ edition_date: "2026-10-11"
 한 텔레비전 인터뷰에서 작가는 드로잉과 예술가로서의 성장 과정을 구분했다. 훈련은 무궁무진한 가능성의 세계를 열어주지만, 그 안에서 자신만의 방향을 찾는 것은 예술가 본인의 몫이다. 그의 작품, 즉 초상화, 정물화, 풍경화, 그리고 여러 인물이 등장하는 풍속화들을 통해 이러한 여정을 엿볼 수 있다.
 
 [위에 있는 영상 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+‘Ijod formulasi’에서는 전혀 다른 작업 속도도 회상한다. 학생 시절 한 달 동안 그림이 원하는 모습으로 풀리지 않았던 때다. 시장을 그린 한 작품은 대학 작업실에서, 다른 작품은 작업 공간으로 꾸민 집의 발코니에서 그렸다. 캔버스로 돌아가 물감을 짜고 작업했지만, 저녁이면 결과가 마음에 들지 않아 다시 물감을 긁어냈다. 이런 일이 한 달가량 이어졌다. 어느 날 가족과 텔레비전을 보다가 갑자기 그림을 그리고 싶어졌다. 발코니로 나가, 그의 기억으로는 반 시간 만에 집의 그림을 완성했다. 다음 날에는 작업실의 그림도 같은 속도로 마쳤다. 이 이야기는 관람자가 마지막에 보는 빠른 완성 뒤에 몇 주의 탐색과 불만족이 있을 수 있음을 보여 준다.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+가족의 회고에 따르면 졸업 작품의 주제에도 스승의 신뢰가 담겨 있었다. 학생들에게는 보통 아카데믹한 습작이 요구되었지만, 발리호자예프만은 바자르를 주제로 독자적인 구성을 시도하도록 허락받았다. 라힘 아흐메도프는 이브라김이 이미 아카데믹한 기초를 익혔으며 자신의 창작 과제를 탐구할 수 있다고 보았다. 시장에 대한 관찰은 졸업 작품에 담겼고, 이후 여러 인물이 등장하는 대형 회화와 작가를 알아볼 수 있는 고유한 회화 언어로 발전했다.
 
 [스승 라힘 아흐메도프와 이브라김 발리호자예프. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ edition_date: "2026-10-11"
 
 야외에서 촬영된 소장 사진. 작가 소장 사진.
 
+[이브라김 발리호자예프, 《생명의 나무》, 1998년, 140 × 150cm. 작가 소장 자료의 작품 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+이브라김 발리호자예프, 《생명의 나무》, 1998년, 140 × 150cm. 작가 소장 자료의 작품 도판.
+
+야외에서 촬영한 기록 사진 옆에 1998년의 《생명의 나무》를 배치했다. 어두운 바탕의 밝은 가지는 자연의 모티프를 응축된 이미지로 바꾼다. 절제된 색채는 줄기의 굴곡과 화면의 구성을 더욱 선명하게 드러낸다.
+
 [도자기 옆의 발리호자예프. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 도자기 옆의 발리호자예프. 작가 소장 사진.
@@ -165,7 +185,11 @@ edition_date: "2026-10-11"
 
 ## 투모르, 나망간, 타슈켄트로의 이주
 
-1993년 발리호자예프는 나망간에 우즈베키스탄 최초의 민간 미술갤러리인 투모르를 설립하고 1999년까지 운영했다. 그는 이 나라 민간 갤러리 활동의 선구자가 되었다. 개인의 시도가 기존 국영 전시장 체계 밖에서 작품과 관람객이 만날 수 있는 공간을 만든 것이다.
+1993년 발리호자예프는 나망간에 독립 이후 우즈베키스탄 최초의 사립 미술 갤러리인 투모르를 설립하고 1999년까지 운영했다. 그는 이 나라 민간 갤러리 활동의 선구자가 되었다. 개인의 시도가 기존 국영 전시장 체계 밖에서 작품과 관람객이 만날 수 있는 공간을 만든 것이다. 가족에 따르면 그가 선구적인 설립자로서 맡은 역할은 백과사전에도 기록되었다.
+
+자신의 갤러리에 대해서는 수집의 경험을 통해 이야기한다. 전시에서 동료들의 좋은 작품을 발견하면 여유가 있을 때 한두 점을 사고 싶었다. 그렇게 회화와 도자기, 응용미술 소장품이 모였다. 갤러리는 그에게 작품을 고르고 보존하며, 작품과 함께 생활하고 다른 사람에게 보여 줄 수 있는 공간이었다. HD Magazine 대담에서는 이런 예술에 대한 애착을 단순한 그림 재판매와 구분한다.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997~1999년에는 미술가연맹과 미술기금의 나망간 지부를 이끌었다. 어머니를 돌보고, 그림을 그리고, 고향의 미술 활동을 조직하는 일은 이 시기의 서로 다른 측면이었다. 이후 나망간에서 타슈켄트로 옮겼으며, 그때는 이미 어머니를 잃은 슬픔을 겪은 뒤였다.
 
@@ -249,7 +273,7 @@ edition_date: "2026-10-11"
 
 튀르키예의 야외 사생 행사에 참여한 이브라힘 발리호자예프. 화가의 아카이브.
 
-[작업실의 멜리스 압잘로프: 만남에서 초상화로](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html#iv-melis-abzalov>)
+[작업실의 디아스 라흐마토프: 만남에서 초상화까지](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html#iv-dias-rakhmatov>)
 
 ## 색채가 연구의 주제가 되다
 
@@ -303,6 +327,8 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 여행은 이러한 탐구에 새로운 맥락을 제공한다. 2012년 발리호자예프는 몬테네그로에서 열린 야외 회화 모임에 화가로 참여했고, 그곳에서 제작한 작품들을 타슈켄트에서 전시했다. 그의 야외 회화 작업은 터키, 우즈베키스탄, 아제르바이잔 등지에서도 이루어졌다. 중국 후란에서는 조각가로 참여하여, 작품 구성을 금속으로 옮겨 부유 조형물을 제작하는 프로젝트에 참여했다.
 
+2021년 터키 방문에서는 야외 회화 프로그램 참가와 이스탄불 말테페 문화센터의 개인전이 함께 이루어졌다. 실경을 그리는 일과 그 결과를 전시하는 일이 연속적인 작업 과정으로 이어졌다.
+
 2026년 중국 하얼빈의 위순(禹舜) 미술관에서 열린 개인전 "눈 위의 태양"은 그의 대형 캔버스 작품들에 새로운 차원을 부여했다. 위에 있는 영상은 전시 공간이 주는 효과를 보여준다. 멀리서 보면 전체적인 구조가 드러나지만, 가까이서 보면 뚜렷한 색채의 영역이 관람객의 시야를 상당 부분 차지한다. 작가의 작품은 이 미술관을 비롯하여 터키 이스탄불의 말테페 자치구 컬렉션, 러시아 모스크바의 개인 컬렉션, 그리고 기타 공공 및 개인 컬렉션에 소장되어 있다.
 
 [위에 있는 영상 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 우즈베키스탄 초대 대통령 이슬람 카리모프의 부인 [타티야나 카리모바](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>)가 이브라힘 발리호자예프에게 우즈베키스탄 공화국 대통령 금메달을 수여하는 모습. 화가의 아카이브.
 
+[이브라김 발리호자예프, 《빛과 그림자》. 작가는 이 작품으로 2018년 우즈베키스탄 공화국 초대 대통령 금메달을 받았다. 작가 소장 자료의 작품 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+이브라김 발리호자예프, 《빛과 그림자》. 작가는 이 작품으로 2018년 우즈베키스탄 공화국 초대 대통령 금메달을 받았다. 작가 소장 자료의 작품 도판.
+
 [우즈베키스탄 예술아카데미 회장 아크말 누르가 이브라힘 발리호자예프에게 아카데미 금메달을 수여하는 모습. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 우즈베키스탄 예술아카데미 회장 [아크말 누르](<https://art-academy.uz/ru/structure/rahbariyat/1>)가 이브라힘 발리호자예프에게 아카데미 금메달을 수여하는 모습. 화가의 아카이브.
@@ -392,7 +422,17 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 아티스트 링크: [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [페이스북](<https://www.facebook.com/valikhodjaev/>)
 
-## 경험을 전하다: 시안에서 열린 회화 마스터클래스
+중국 전시 준비를 이야기할 때 그는 먼저 전시 공간을 설명한다. 전에 그 장소를 보았으며, 평면도와 치수를 받은 뒤 어떤 작품을 가져가 어떻게 배치할지 생각했다. 넓고 밝은 전시실에서는 대형 캔버스를 보여 줄 수 있었다. 그다음 예술적 결정은 실제 작업이 되었다. 캔버스를 나무 틀에서 분리해 말아 화물기로 보냈다. 화가는 작품보다 먼저 도착해 작품을 기다리고 전시 설치에 참여했다. 텔레비전 대담에서 전시는 그림의 크기부터 운송과 전시실 배치까지 이어지는 결정의 과정 속에서 만들어진다.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.
+
+[하얼빈 전시 개막 영상, 2026년](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+
+## 경험을 전하다: 시안의 회화 전공 학생들을 위한 실기 수업
 
 2025년 9월, 발리호자예프는 중국 시안미술학원의 회화 전공 학생들을 위해 마스터클래스를 진행했다. 그는 화가이자 우즈베키스탄 예술가연맹 회장으로서 CASIE의 ‘일대일로 — 중앙아시아’ 프로그램과 관련된 9월 14~19일 방문에 참여했다. 한 시간 이십 분 동안 완성한 작품은 학원에 기증했다. 아래 마스터클래스 영상에서는 첫 선에서 색면 간의 관계를 거쳐 완성된 구도에 이르기까지 화면이 형성되는 과정을 볼 수 있다.
 

@@ -4,7 +4,7 @@ language: "ko"
 theme: 3
 description: "중국 후란의 2024년 수상 조각 프로젝트. 조각가로 참여한 발리호자예프의 금속 작업과 물, 빛, 반사의 관계."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-12"
 ---
 
 # 수면 위의 조각 — 이브라김 발리호자예프, 중국 후란에서
@@ -36,7 +36,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 [강 위에 떠 있는 조각 작품들, 작가 아카이브의 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNL9Br5vP4xxVO0ccdKNR3j_cW-SUCUM-1BSILXfzn3zD2fWrgmq9zHeJGkBhrpXVrSmo2nOGPJ5k48DYCMw5jDRHToRShfrC_KdLd9l7jWNckxNUDgaQRuyc0bpWC4W251igz60BylVzBb0EVdfoz838RKRZuRQPm-_hHGaas2uR9V7qVwlUS7z9aaouF/s1600/clipboard.png>)
 
-강 위에 떠 있는 조각 작품들. 작가 아카이브의 "For Great China" 폴더에서 가져온 사진이다. 아카이브 설명에는 사진 속 조각 작품의 제작자와 정확한 위치가 명시되어 있지 않는다. [후란에서 진행된 이 프로젝트의 추가 영상은 여기에서 볼 수 있다](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
+강 위에 떠 있는 조각 작품들. 작가 소장 자료의 사진. 자료 설명에는 사진 속 조각 작품의 제작자와 정확한 위치가 명시되어 있지 않다. [후란에서 진행된 이 프로젝트의 추가 영상은 여기에서 볼 수 있다](<https://www.youtube.com/watch?v=KYalKm2VgSA>) .
 
 조각품 주변 환경은 끊임없이 변화한다. 구름이 조각품의 실루엣 뒤로 지나가고, 아래에는 반영이 나타나며, 잔물결이 색채를 흩뜨리고, 저녁 햇살이 형상과 배경 사이의 관계를 변화시킨다. 하나의 오브제가 여러 가지 모습으로 나타난다. 물과 강둑은 거리와 감상 위치만큼이나 작품을 인식하는 데 실질적인 역할을 한다.
 
@@ -121,6 +121,6 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 
 수상 설치를 위해 준비 중인 이브라김 발리호자예프의 금속 조각. 작가 소장 사진. 촬영 날짜는 확인되지 않았다.
 
-[얼어붙은 강 위에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프, 중국, 2026년 2월 25일. 작가 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNoOC-pEpDUihP1PLyAR5NiVyoV27TYB8N_skhvYOvxe7WbVPQNjE-zi_KYaalv75cjmzdcgFB2ySuRwY6JqptzIUuln5Ln8TRV-DKjfRGWq_ywjUfg_zyxlwTOTQQ5dXhBdGjIcTZUwW1_AgYYxeY22g1Dd04rbRZC5zEC0_Rq3iv85rzz2qxuaOtGow6/s1600/clipboard.png>)
+[얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
-얼어붙은 강 위에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프, 중국, 2026년 2월 25일. 작가 아카이브.
+얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.

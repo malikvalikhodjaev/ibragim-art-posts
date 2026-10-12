@@ -4,7 +4,7 @@ language: "tr"
 theme: 21
 description: "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı
@@ -28,6 +28,10 @@ Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 Babası şiir de yazardı. İbragim, yetişkinlik yıllarında babasının şiirlerini bir kitapta yayımlayarak aile mirasının bu bölümünü korudu. Bu ayrıntı, geleceğin sanatçısının büyüdüğü evi daha yakından tanımamızı sağlar: babasının yaşamında zanaat ile şiir yan yana yer alıyordu.
 
 Daha okuldayken ressam olmak istiyordu. Ancak bu çocukluk isteğiyle yükseköğrenime başlaması arasında kendi başına çalıştığı yıllar bulunur. Daha sonra yaptığı pazar sahneleri, portreler ve kırsal yaşam resimleri gündelik hayata verdiği önemi gösterir: insanlar, uğraşları ve çevreleri. Sanatçının hikâyesi burada doğduğu şehrin ve ailesinin tarihiyle buluşur.
+
+HD Magazine söyleşisinde bu yolu somut anılarla anlatır. İlkokula başlamadan önce resim çizmiş, okul yıllarında Pionerler Evi’ndeki etkinliklere katılmıştır. Babası bir zanaatkârdı; yakınında yüksek sanat eğitimine nasıl ulaşacağını ayrıntılarıyla anlatabilecek biri yoktu. İbragim, Sanat Fonu’nda çalışan yerel ressamları izliyor ve kendi başına çalışıyordu. Sanat çevresiyle ilk karşılaşmaları bu buluşmalar ve gündelik gözlemler yoluyla gerçekleşti.
+
+[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -53,6 +57,10 @@ Kabul edildikten sonra önceki ticari sipariş işlerini bırakarak eğitimine y
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
+Enstitüye girmeden önce on yıl dekorasyon ressamı olarak çalıştı. Söyleşide bu mesleğin o dönemde ne kadar yaygın olduğunu anlatır: kurumların kendi ressamlarına ihtiyacı vardı ve süsleme işleri elle yapılıyordu. Siparişler gelir sağlarken bunların yanında başka bir çalışma da sürüyordu: açık havada etütler ve modelden portreler. Rahim Ahmedov’la henüz tanışmamıştı, ancak sanat dergilerinde eserlerini inceliyor, özellikle portrelerine hayranlık duyuyordu. Enstitüde, resimlerini uzun zamandır kendine yakın bulduğu sanatçının atölyesini seçti.
+
+[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+
 ## Öğretmen yolu açar, sanatçı kendi dilini arar.
 
 Valikhodjaev 1986’da Aleksandr Ostrovski adına Taşkent Devlet Tiyatro ve Sanat Enstitüsü’nün resim bölümüne girdi. O yılın kasım ayında 28 yaşına bastı. Usta Rahim Ahmedov’un atölyesindeki eğitimi 1991’e kadar sürdü: çocukluk arzusu, bağımsız çalışma deneyiminden sonra verilmiş bilinçli bir meslek kararına dönüşmüştü.
@@ -66,6 +74,12 @@ Valikhodjaev, Namangan'da doğdu ve profesyonel eğitimini Taşkent'te, Usta Rah
 Bir televizyon röportajında ​​sanatçı, çizim ile sanatçının gelişimi arasında bir ayrım yapıyor. Eğitim, geniş bir olasılıklar dünyasının kapılarını açıyor, ancak bu dünya içinde kendi yönünü bulmak sanatçıya kalmış. Bu yolculuk, portreler, natürmortlar, manzaralar ve gündelik yaşamı konu alan çok figürlü kompozisyonlar aracılığıyla eserlerinde izlenebilir.
 
 [Yukarıdaki video kaydı · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+
+‘Ijod formulasi’de çalışmanın bambaşka bir temposunu da hatırlar: öğrencilikte bir ay boyunca bir türlü istediği sonuca ulaşamadığı bir resim. Bir pazar kompozisyonunu okul atölyesinde, diğerini evinde çalışma alanı yaptığı balkonda resmediyordu. Tuvale dönüyor, boyaları sıkıp çalışıyor, akşam sonuçtan memnun kalmayınca boyayı yeniden kazıyordu. Bu durum yaklaşık bir ay sürdü. Bir gün ailesiyle televizyon izlerken aniden resim yapma isteği duydu; balkona çıktı ve kendi anlatımına göre evdeki resmi yarım saatte tamamladı. Ertesi gün atölyedeki çalışmayı da aynı hızla bitirdi. Bu hikâye, izleyicinin yalnızca sonunda gördüğü hızlı çalışmanın ardında haftalarca arayış ve tatminsizlik bulunabileceğini gösterir.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Ailenin anlatımına göre diploma çalışmasının konusu da hocasının güvenini gösteriyordu. Öğrencilerden genellikle akademik etütler beklenirken, yalnızca Valikhodjaev’in pazar konulu bağımsız bir kompozisyon üzerinde çalışmasına izin verilmişti. Rahim Ahmedov, İbragim’in akademik temelleri zaten edindiğini ve kendi yaratıcı sorununu ele alabileceğini düşünüyordu. Pazar gözlemleri diploma resmine girdi; daha sonra büyük, çok figürlü tuvallere ve sanatçının tanınan resim diline dönüştü.
 
 [Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 
@@ -119,6 +133,12 @@ Meslektaşlarla bir buluşma, arşiv fotoğrafı. Sanatçının arşivi.
 
 Arşivden bir açık hava fotoğrafı. Sanatçının arşivi.
 
+[İbragim Valikhodjaev. Hayat Ağacı, 1998. 140 × 150 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+İbragim Valikhodjaev. Hayat Ağacı, 1998. 140 × 150 cm. Sanatçının arşivinden röprodüksiyon.
+
+Açık havada çekilen arşiv fotoğrafının yanında 1998 tarihli Hayat Ağacı yer alır. Koyu zemin üzerindeki açık renkli dallar, doğal bir motifi yoğunlaştırılmış bir imgeye dönüştürür; ölçülü palet gövdenin kıvrımlarını ve kompozisyonun kuruluşunu öne çıkarır.
+
 [Valikhodjaev seramik kapların yanında. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJecPn_mi7YI-_jikpmKo_Fc9A_n0tqq_obIKFwZEK3SNQciH_z3hR2MPldCRVTZcKAFSkrC5L5qg65wplbqwPmqWa0zICXP3vUnAb9SNspN8zQd81nSPse2HVcSx7JRMX-pRw-J3pJjO2ZJN1A0cxJEqBNALRONbpciSAnpCya2izcWnGszxtsmCFfBS/s1600/clipboard.png>)
 
 Valikhodjaev seramik kapların yanında. Sanatçının arşivi.
@@ -165,7 +185,11 @@ Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve
 
 ## Tumor, Namangan ve Taşkent’e taşınma
 
-Valikhodjaev 1993’te Namangan’da Özbekistan’ın ilk özel sanat galerisi olan Tumor galeri-salonunu kurdu ve 1999’a kadar yönetti. Ülkedeki özel galericiliğin öncülerinden biri oldu: kişisel bir girişim, eserlerin devlet sergi mekânlarının yerleşik sistemi dışında izleyiciyle buluşabileceği bir alan yarattı.
+Valikhodjaev 1993’te Namangan’da bağımsız Özbekistan’ın ilk özel sanat galerisi olan Tumor galeri-salonunu kurdu ve 1999’a kadar yönetti. Ülkedeki özel galericiliğin öncülerinden biri oldu: kişisel bir girişim, eserlerin devlet sergi mekânlarının yerleşik sistemi dışında izleyiciyle buluşabileceği bir alan yarattı. Aileye göre, galerinin öncü kurucusu olarak üstlendiği rol bir ansiklopedide de yer aldı.
+
+Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. HD Magazine söyleşisinde sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997–1999’da Sanatçılar Birliği’nin ve Sanat Fonu’nun Namangan şubelerine başkanlık etti. Annesine bakmak, resim yapmak ve doğduğu şehrin sanat yaşamını örgütlemek bu dönemin farklı yönleriydi. Daha sonra Namangan’dan Taşkent’e taşındı; o zamana gelindiğinde annesinin kaybını yaşamıştı.
 
@@ -249,7 +273,7 @@ Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.
 
 Ibragim Valikhodjaev Türkiye’de bir açık hava resim etkinliğinde. Sanatçının arşivi.
 
-[Melis Abzalov atölyede: buluşmadan portreye](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html#iv-melis-abzalov>)
+[Dias Rakhmatov atölyede: karşılaşmadan portreye](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html#iv-dias-rakhmatov>)
 
 ## Renk, araştırma konusu haline geliyor.
 
@@ -303,6 +327,8 @@ Sanatçıyı ileriye taşıyan ilgi, merak ve yeni şeyler keşfetme isteğiydi.
 
 Seyahat, bu keşfe yeni bir bağlam kazandırıyor. Valikhodjaev, 2012'de Karadağ'da bir açık hava resim etkinliğine ressam olarak katıldı ve ardından orada yarattığı eserleri Taşkent'te sergiledi. Açık hava çalışmaları arasında Türkiye, Özbekistan ve Azerbaycan da yer alıyor. Çin'in Hulan kentinde ise heykeltıraş olarak yer alarak, yüzen bir heykel projesi için bir kompozisyonu metale dönüştürdü.
 
+2021’de Türkiye ziyareti, bir açık hava resim programına katılım ile İstanbul’daki Maltepe Kültür Merkezi’nde açılan kişisel sergiyi bir araya getirdi. Doğadan resim yapmak ve ortaya çıkan eserleri sergilemek, birbirini izleyen çalışma aşamalarıydı.
+
 2026 yılında Çin'in Harbin şehrindeki Yu Shun Art Museum’da açılan "Kar Üzerinde Güneş" adlı kişisel sergisi, büyük ölçekli tuvallerine yeni bir boyut kazandırdı. Yukarıdaki video kaydı, odanın etkisini gösteriyor: uzaktan bakıldığında genel yapı fark edilebilirken, yakından incelendiğinde belirgin bir renk alanı izleyicinin görüş alanının önemli bir bölümünü kaplıyor. Sanatçının eserleri bu müzede, İstanbul'daki Maltepe Belediyesi koleksiyonunda ve Moskova'daki özel bir koleksiyonda, ayrıca diğer kamu ve özel koleksiyonlarda yer almaktadır.
 
 [Yukarıdaki video kaydı · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
@@ -350,6 +376,10 @@ Valikhodjaev’in meslek yaşamı, 2020’de Şuhrat Madalyası ve 2018’de Öz
 
 Özbekistan’ın ilk cumhurbaşkanı İslam Karimov’un eşi [Tatyana Karimova](<https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%90%D0%BA%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D0%BD%D0%B0>), Ibragim Valikhodjaev’e Özbekistan Cumhuriyeti Cumhurbaşkanının Altın Madalyasını takdim ediyor. Sanatçının arşivi.
 
+[İbragim Valikhodjaev. Işık ve Gölgeler. Sanatçı bu resim için 2018’de Özbekistan Cumhuriyeti Birinci Cumhurbaşkanı Altın Madalyası’nı aldı. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+İbragim Valikhodjaev. Işık ve Gölgeler. Sanatçı bu resim için 2018’de Özbekistan Cumhuriyeti Birinci Cumhurbaşkanı Altın Madalyası’nı aldı. Sanatçının arşivinden röprodüksiyon.
+
 [Özbekistan Sanat Akademisi Başkanı Akmal Nur, Ibragim Valikhodjaev’e akademinin Altın Madalyasını takdim ediyor. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Özbekistan Sanat Akademisi Başkanı [Akmal Nur](<https://art-academy.uz/ru/structure/rahbariyat/1>), Ibragim Valikhodjaev’e akademinin Altın Madalyasını takdim ediyor. Sanatçının arşivi.
@@ -392,7 +422,7 @@ Arşiv çalışmalarında bu merak çeşitli biçimler alır. Soluk tonlu "Süra
 
 Sanatçı Bağlantıları: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 
-## Deneyimi paylaşmak: Xi’an’da resim atölyesi
+## Deneyimi paylaşmak: Xi’an’da resim bölümü öğrencileri için ustalık dersi
 
 Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’nin resim öğrencilerine uygulamalı bir ders verdi. CASIE’nin ‘Bir Kuşak, Bir Yol — Orta Asya’ programıyla bağlantılı 14–19 Eylül ziyaretine sanatçı ve Özbekistan Sanatçılar Birliği başkanı olarak katıldı. Bir saat yirmi dakikada tamamlanan kompozisyon Akademiye bağışlandı. Aşağıdaki atölye videosunda ilk çizgilerden renk alanları arasındaki ilişkilere ve tamamlanmış kompozisyona uzanan çalışma süreci izlenebilir.
 
@@ -401,3 +431,13 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 [Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
 [Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+
+Çin’deki serginin hazırlıklarını anlatırken önce mekândan söz eder. Salonu daha önce görmüştü; planını ve ölçülerini aldıktan sonra hangi eserleri götüreceğini ve nasıl yerleştireceğini düşündü. Büyük, aydınlık salon geniş tuvallerin sergilenmesine imkân veriyordu. Ardından sanatsal karar pratik bir işe dönüştü: tuvaller şaselerinden çıkarıldı, rulo yapıldı ve kargo uçağıyla gönderildi. Sanatçı eserlerden önce geldi, onları bekledi ve serginin hazırlanmasına katıldı. Televizyondaki anlatımında sergi, resmin ölçeğinden taşınmasına ve salondaki yerleşimine uzanan bu kararlar dizisiyle şekillenir.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.
+
+[Harbin’deki sergi açılışının video kaydı, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)

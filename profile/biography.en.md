@@ -4,7 +4,7 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-12"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
@@ -23,7 +23,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 *Alternative transliterations of his name include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.*
 
-[View and download the complete artist CV (DOCX, version 26)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+[View and download the complete artist CV (DOCX, version 27)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
 ## Institutional roles and teaching
 
@@ -38,11 +38,25 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 ## Education and gallery founding
 
+Before entering the institute, he spent ten years as a decorative artist. In the interview, he explains how familiar that occupation once was: organisations needed their own artists, and decorative work was done by hand. Commissions provided an income, while another practice developed alongside them—outdoor studies and portraits from life. He had not yet met Rahim Ahmedov, but studied his work in art magazines and particularly admired his portraits. At the institute, he chose the studio of an artist whose paintings had long mattered to him.
+
+In the HD Magazine conversation, he retraces this path through specific memories. He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
+
 **1986–1991:** Studio of Master Rahim Ahmedov; Faculty of Painting, Alexander Nikolayevich Ostrovsky Institute. See the master's painting [«For Whom» at Sotheby's](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>).
+
+In ‘Ijod formulasi’, he also recalls a very different pace of work: a month as a student when a painting would not come together. He was working on one bazaar composition in the teaching studio and another at home, where he had made a workspace on the balcony. He returned to the canvases, squeezed out paint and worked, only to scrape it off again in the evening, dissatisfied with the result. This continued for roughly a month. One day, watching television with his family, he suddenly wanted to paint. He went out to the balcony and, as he remembers it, finished the painting at home in half an hour; the next day, he completed the studio painting just as quickly. The story suggests how weeks of searching and dissatisfaction can lie behind a speed of execution that the viewer sees only at the end.
+
+[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+
+Family recollections describe the choice of his graduation project as another sign of his teacher’s confidence. Students were normally expected to concentrate on academic studies; Valikhodjaev alone was allowed to pursue an independent bazaar composition. Rahim Ahmedov felt that Ibragim had already mastered the academic foundations and could tackle a subject of his own. Observations of the market entered his graduation painting and later grew into large, multi-figure canvases and a recognisable pictorial language.
 
 **2021–2026:** Founder, Valikhodjaev Gallery House, Uzbekistan, Tashkent; opened 5 August 2021.
 
-**1993–1999:** Founder, «Tumor» Gallery Salon, Uzbekistan, Namangan; the first private art gallery in Uzbekistan.
+**1993–1999:** Founder, «Tumor» Gallery Salon, Uzbekistan, Namangan; the first private art gallery in independent Uzbekistan. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
+
+He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+
+[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 ## Selected solo exhibitions
 
@@ -50,6 +64,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 - **2024:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, «New View», Uzbekistan, Tashkent (Painter). [Exhibition tour](<https://www.youtube.com/watch?v=Z4kxe7w-teY>).
 - **2024:** Mondoir Gallery, «In Silence», United Arab Emirates, Dubai (Painter). [Gulf Today exhibition coverage](<https://www.gulftoday.ae/Culture/2024/06/26/In-Silence-exhibition-showcases-Uzbek-life-and-resonates-with-universal-themes>).
 - **2022:** Turkey, Istanbul, solo exhibition (Painter).
+- **2021:** Maltepe Cultural Centre, Turkey, Istanbul, solo exhibition held alongside the plein-air painting programme (Painter).
 - **2018:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, Uzbekistan, Tashkent (Painter).
 - **2018:** Contemporary Art Gallery of the National Bank of Uzbekistan, «From Dream to Destiny», Uzbekistan, Tashkent (Painter).
 - **2018:** United States Embassy, Uzbekistan, Tashkent (Painter).
@@ -91,8 +106,8 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 - **2012:** Montenegro, plein air painting programme (Participant as painter).
 - **2004:** Turkey, international art fair, Uzbekistan Pavilion (Pavilion organiser).
 - **Early 1990s:** Museum exhibition of Namangan artists, Uzbekistan, Namangan (Organiser).
-- China, Xi’an, international sculpture projects associated with the Great Silk Road and the Belt and Road initiative (Sculptor and organiser).
-- Cyprus, invited painting programme at a museum of contemporary art (Painter).
+- **2025:** China, Xi’an, international sculpture projects associated with the Great Silk Road and the Belt and Road initiative (Sculptor and organiser).
+- **2021:** Cyprus, invited painting programme at a museum of contemporary art (Painter).
 
 He has also worked as an artistic adviser for film productions.
 
@@ -137,7 +152,7 @@ His works are also in private collections in the United States, Canada, Germany,
 - **2009:** Best Painting Prize, Top-Art, for *Eastern Suite*.
 - **2008:** Best Exhibition of the Decade Prize, Top-Art.
 - Honorary Badge of the Academy of Arts of Uzbekistan.
-- Medal of the Ministry of Defence of the Republic of Uzbekistan.
+- **2025:** Medal of the Ministry of Defence of the Republic of Uzbekistan.
 
 ## Selected publications, interviews and videos
 
@@ -197,9 +212,9 @@ Ibragim Valikhodjaev, head of the Special Fund, 2002. Artist’s archive.
 
 Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.
 
-## Passing on experience: a masterclass in Xi’an
+## Passing on experience: a masterclass for painting students in Xi’an
 
-In September 2025, Valikhodjaev led a painting masterclass for students at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
+In September 2025, Valikhodjaev led a painting masterclass for students of the Painting Department at Xi’an Academy of Fine Arts in China. He took part in the 14–19 September visit associated with CASIE’s ‘One Belt, One Road — Central Asia’ programme as an artist and chairman of the Union of Artists of Uzbekistan. The composition, completed in one hour and twenty minutes, was donated to the Academy. The masterclass video below follows the development of the image, from its first lines to the relationships between areas of colour and the finished composition.
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
@@ -266,6 +281,12 @@ An archival gathering with colleagues. Artist’s archive.
 [An outdoor photograph from the archive. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsbniLH-I4gbbFtwXbBrhk3eQpfp6hPw0cDYiLvLZBQOCQ_-FvBta1cH4QNSksDGuIbmDWjriqUAmHhbCnCkZDRdvd_EWmoGWGaDmimUSDYY-kaQaQrUT23gES-j7KkWMU3iruKVNk-gGcd1Gc8ToPGwYgmqvbQwYpghwqORwzx-l0MejGHXWQ0bMmDxA/s1600/clipboard.png>)
 
 An outdoor photograph from the archive. Artist’s archive.
+
+[Ibragim Valikhodjaev. Tree of Life, 1998. 140 × 150 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5RDbzMhpQdsFHHeGYpMCR7FZxdnMKLSEc-PnwMZd_gkyViD7zTc0JljGufQxN9FRW7A6_wJNbkv7oLNqNo6vEIHHhUog3r0RnFS2OpyOQlhI2XX4BDcHP4RZFhpVmrCdzMjb_5MP1Zbr51rdAw-t1fxXEqjHuNLWH9AQEW4FdOoqj8UNhSLMcglCv8zr/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Tree of Life, 1998. 140 × 150 cm. Reproduction from the artist’s archive.
+
+Beside the outdoor archive photograph is Tree of Life, painted in 1998. Pale branches against a dark ground turn a natural motif into a distilled image; the restrained palette brings the trunk’s curves and the organisation of the composition into focus.
 
 [An archival gathering with colleagues. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84B0u6mIC9CmFE2LymX206mV2br3uq2g6JK8HFbKtP8wJzEMUZW8bEqgY0PHB2uUBbblqPVYz37Q3NQM6lXyMQDo_rIeStdCz1BSL-LZeVpaXA9R6wQVIJ5acrG6dYw-CF9P_L8nkBwXmYTkUvZgFzgdKqeGU76J6AEAsI3JFduI1qIGTe5whuULktJXL/s1600/clipboard.png>)
 
@@ -357,6 +378,10 @@ Award photographs add lived moments of recognition to the professional record. T
 
 Presentation of a gold medal to Ibragim Valikhodjaev. Artist’s archive.
 
+[Ibragim Valikhodjaev. Light and Shadows. The artist received the Gold Medal of the First President of the Republic of Uzbekistan for this painting in 2018. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX4d7Fj56PooZVH2bGt_pSoiBkMG15S3VRGym0VTH7fQU9GU5DgqcCb4fQGBRjlnOCkjdkOF9lA1-en6RAKPpBd0jPfim0CPjeVY5IjY2yldmg2fg0INg50EY7Lx7oH7CSvQlcrnjcLQrwIkrzCNU6j4Z03eTG5Oy8Hay6xorihXvng7heVDYEPrzB3Cfk/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev. Light and Shadows. The artist received the Gold Medal of the First President of the Republic of Uzbekistan for this painting in 2018. Reproduction from the artist’s archive.
+
 [Ibragim Valikhodjaev at an award ceremony. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev at an award ceremony. Artist’s archive.
@@ -405,13 +430,13 @@ Children watch the artist at work outdoors. Artist’s archive.
 
 Drawing from life on a plein-air visit. Artist’s archive.
 
-[Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
+[Ibragim Valikhodjaev and actor Dias Rakhmatov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 
-Ibragim Valikhodjaev and actor Melis Abzalov in the studio. Artist’s archive.
+Ibragim Valikhodjaev and actor Dias Rakhmatov in the studio. Artist’s archive.
 
-[Working on a portrait of Melis Abzalov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
+[Working on a portrait of Dias Rakhmatov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDfs1M-BbL3ULaenN4amTFAT0ihQTSizHArsx5WEklAEtsfVdXAPa7InVxNRhRrGdMb870wWSUNb_p_5GHnhU52FX-ROhPM8fcrLwTubdsKMrcoFE1WG25W-2piRd9ZXJPwPWIJ0iTHDh1YDTVWZJxzi8YXExQQAaLw6860mq2Azd6njX7dtL0SzezOO6r/w1200-rj/clipboard.png>)
 
-Working on a portrait of Melis Abzalov in the studio. Artist’s archive.
+Working on a portrait of Dias Rakhmatov in the studio. Artist’s archive.
 
 [Ibragim Valikhodjaev at a working meeting as chairman of the Union of Artists of Uzbekistan. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlQOnaOz7bNdFySkOY3_ciyvlw3EHFFe0Z2AQqcfWFe05iuRoQ4pwcbnH-Gt2ZvY1uDRBK2pT0aarRZJQgWFtNsqEPFJVgNp5IZquTF_2XhR6sFp0AvSnGye2Z6mKy741hiR2o26r0Qy4EKzA_9qx7d0YPogfaZu39yQ_1R8eeiU9K0gpvSf-yf1akqzcE/w1200-rj/clipboard.png>)
 
@@ -464,3 +489,11 @@ Two portraits of women on display. Artist’s archive.
 [Floral still lifes in the exhibition hall. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png>)
 
 Floral still lifes in the exhibition hall. Artist’s archive.
+
+When discussing preparations for his exhibition in China, he begins with the gallery space. He had seen it before; after receiving its plan and dimensions, he considered which works to bring and how to arrange them. The large, bright hall made it possible to show large canvases. The artistic decision then became a practical task: the paintings were taken off their stretchers, rolled and sent by cargo aircraft. He arrived before the works, waited for them and helped prepare the display. In his television account, the exhibition grows from this sequence of decisions—from the scale of a painting to its transport and placement in the hall.
+
+[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+
+[Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
+
+Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.
