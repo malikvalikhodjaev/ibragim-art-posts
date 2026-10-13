@@ -29,9 +29,7 @@ Otasi she’r ham yozgan. Ibrohim ulg‘ayganidan keyin otasining she’rlarini 
 
 U maktab davridayoq rassom bo‘lishni istagan. Biroq bolalikdagi qiziqish bilan institutga kirish orasida mustaqil mehnat yillari bor. Keyinchalik yaratgan bozor manzaralari, portretlari va qishloq hayotiga oid kartinalari kundalik turmushga e’tiborini ko‘rsatadi: odamlar, ularning mashg‘ulotlari va yashash muhiti muhim. Shu yerda rassomning yo‘li tug‘ilgan shahri va oilasi tarixi bilan tutashadi.
 
-HD Magazine suhbatida u bu yo‘lni aniq xotiralar orqali tiklaydi. Birinchi sinfga borishidan oldin rasm chiza boshlagan, maktab yillarida esa Pionerlar uyiga qatnagan. Otasi usta-hunarmand edi; oliy badiiy ta’limga qanday kirishni batafsil tushuntiradigan odam yaqinida bo‘lmagan. Ibrohim Badiiy fondda ishlaydigan mahalliy rassomlarni kuzatib, mustaqil mashq qilgan. Badiiy muhit unga dastlab shu uchrashuvlar va kundalik kuzatishlar orqali ochilgan.
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+Birinchi sinfga borishidan oldin rasm chiza boshlagan, maktab yillarida esa Pionerlar uyiga qatnagan. Otasi usta-hunarmand edi; oliy badiiy ta’limga qanday kirishni batafsil tushuntiradigan odam yaqinida bo‘lmagan. Ibrohim Badiiy fondda ishlaydigan mahalliy rassomlarni kuzatib, mustaqil mashq qilgan. Badiiy muhit unga dastlab shu uchrashuvlar va kundalik kuzatishlar orqali ochilgan.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ O‘qishga kirgach, avvalgi tijoriy buyurtmalar bilan ishlashni to‘xtatib, ta�
 
 Yosh rassom o‘z asarlari orasida. Rassom arxivi.
 
-Institutga kirishdan oldin Valixodjayev o‘n yil rassom-bezatuvchi bo‘lib ishlagan. HD Magazine suhbatida o‘sha davrda tashkilotlarning o‘z rassomlari bo‘lganini tushuntiradi: tasvir va yozuvlar muassasaning kundalik hayotida kerak bo‘lgan. Oilaviy xotiralarga ko‘ra, uning Namangandagi ishlari plakatlar, peshlavhalar va xonalarni bezatishni qamrab olgan; u ustalar brigadalariga rahbarlik qilgan. Bunday buyurtma qo‘l mehnatini talab etgan — chizish, yozish, bezash, ishni kelishish va tayyor natijaga yetkazish. Yosh Ibrohim uchun bu rangtasvir diplomi olinishidan ancha oldin egallangan kasb va daromad manbai edi.
+Institutga kirishdan oldin Valixodjayev o‘n yil rassom-bezatuvchi bo‘lib ishlagan. O‘sha davrda tashkilotlarning o‘z rassomlari bo‘lgan: tasvir va yozuvlar muassasaning kundalik hayotida kerak bo‘lgan. Oilaviy xotiralarga ko‘ra, uning Namangandagi ishlari plakatlar, peshlavhalar va xonalarni bezatishni qamrab olgan; u ustalar brigadalariga rahbarlik qilgan. Bunday buyurtma qo‘l mehnatini talab etgan — chizish, yozish, bezash, ishni kelishish va tayyor natijaga yetkazish. Yosh Ibrohim uchun bu rangtasvir diplomi olinishidan ancha oldin egallangan kasb va daromad manbai edi.
 
 Biroq bezatish ishlari uning barcha mashg‘ulotlarini tashkil etmagan. Ochiq havoda etyudlar ishlagan, odamning o‘ziga qarab naturadan portretlar yaratgan. Hikoyada choyxona ham tilga olinadi: Ibrohim u yerda qo‘lida kosa tutgan odam tasvirini ko‘rganini eslaydi. Oddiy shahar muhitida uchragan bunday tasvirlar unda o‘zi ham rassom bo‘lish istagini uyg‘otgan. Rangtasvirga yo‘l kundalik joylar, odamlarni kuzatish va bo‘yoq bilan mustaqil tajribalar orqali ham o‘tgan.
 
 Bu muhitning yana bir qismi — o‘sha yillarda chiqib, rassomlarning asarlarini e’lon qilgan san’at jurnallari edi. Yosh Ibrohim reproduksiyalarni ko‘rib, Rahim Ahmedov ijodini kuzatgan, ayniqsa portretlarini eslab qolgan. Ustozni hali shaxsan tanimasdi: dastlabki tanishuv jurnal sahifalarida bo‘lgan. Bu tasvirlar kartinaga qayta murojaat qilish, sinchiklab qarash va o‘zi nimani o‘rganishni istayotganini anglash imkonini bergan. Shuning uchun institutda Ahmedov ustaxonasini tanlash uning rangtasviriga avvaldan shakllangan qiziqishning davomi edi.
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## O‘qituvchi yo‘l ochadi, rassom o‘z tilini izlaydi
 
@@ -191,13 +187,9 @@ Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi
 
 1993-yilda Valixo‘jayev Namanganda mustaqil O‘zbekistondagi birinchi xususiy badiiy galereya — «Tumor» galereya-saloniga asos soldi. Uni 1999-yilgacha boshqardi. Shu tariqa mamlakatda xususiy galereya faoliyatini boshlab bergan ijodkorlardan biriga aylandi: shaxsiy tashabbus davlat ko‘rgazma maydonlaridan tashqarida asar va tomoshabin uchrashadigan makon yaratdi. Oila ma’lumotlariga ko‘ra, uning ilk asoschi sifatidagi o‘rni ensiklopediyada ham qayd etilgan.
 
-O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. HD Magazine suhbatida u san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
+O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. U san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
 
 U suhbat bo‘lib o‘tgan davrdagi ijodiy mehnat sharoitini ham muhokama qiladi. Bitta kartinaning qimmatligi o‘z-o‘zidan barqaror daromad degani emasligini tushuntiradi: sotuvlar orasida ko‘p vaqt o‘tishi mumkin, rassom esa ishlashda davom etadi. Ilgari ayrim hamkasblar dars berishdan ko‘ra o‘z ijodi bilan yashashni afzal ko‘rganini eslaydi; keyinchalik sotuvlarning muntazam bo‘lmasligi bunday tanlovni qiyinlashtirgan. Haqi oldindan ko‘zda tutilgan buyurtma bilan kelajak xaridori hali noma’lum bo‘lgan mustaqil kartina o‘rtasidagi farq shu yerda muhim.
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997–1999-yillarda Rassomlar uyushmasi va Badiiy fondning Namangan bo‘limlariga rahbarlik qildi. Onasiga g‘amxo‘rlik qilish, o‘z rangtasviri va ona shahrining badiiy hayotini tashkil etish shu davrning turli tomonlari edi. Keyinchalik Namangandan Toshkentga ko‘chdi; bu vaqtga kelib, u onasidan ayrilish qayg‘usini boshdan kechirgan edi.
 
@@ -404,8 +396,6 @@ Bugungi kunda Ibrohim Valixodjayevning 600 dan ortiq asari ma’lum; ularning as
 
 Suhbat oxirida u aniq bir tashvishga qaytadi: rassom hayotdan ko‘z yumgach, kartinalarga to‘la ustaxona bilan nima bo‘ladi? Valixodjayev ko‘p yillik mehnat mahsuli bo‘lgan asarlar merosxo‘rlarga kerak bo‘lmay qolgan holatlarni aytadi. U bunday ishlarni to‘plash, ro‘yxatga olish va saqlash joyini ta’minlashni taklif qiladi, toki kelajak avlodlar ularga murojaat qila olsin. Bu masala o‘z arxiviga ham tegishli. Rais va galereya asoschisi sifatidagi faoliyat ortida asarlarning kelajagiga g‘amxo‘rlik turadi — ular qayerda qoladi, kim asraydi va muallifdan keyin qanday foydalanish mumkin bo‘ladi.
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## Kompozitsiya turli davrlarni bog‘laydi
 
 2012-yilda San'at jurnalida chop etilgan profil maqolasida Oksana Kadysheva Valixo‘jayevning bir nechta yo‘nalishdagi sayohatini tasvirlab berdi: uning dastlabki, cheklangan palitrasi, bozor manzaralari, Chernogoriya manzaralari va gulli natyurmortlari. Uning tahlili markazida rassomning kuzatuvni kompozitsiyaga aylantirish qobiliyati yotadi. Bu kontekst bizga uning ijodiy hayotini yanada kengroq ko‘rishga yordam beradi: tasvir haqidagi yana bir savoldan yangi yo‘nalish paydo bo‘ladi, oldingi mavzular esa birga mavjud bo‘lib qolmoqda.
@@ -431,6 +421,12 @@ Arxiv ishlarida bu qiziqish turli shakllarda namoyon bo‘ladi. Och rangli “Ko
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [O‘zA — Pekinda O‘zbekiston san’ati ko‘rgazmasi, 2024-yil 23-yanvar (o‘zbekcha matn)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 Rassom havolalari: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

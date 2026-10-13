@@ -115,21 +115,19 @@ Werke von Ibragim Valikhodjaev befinden sich im Yu Shun Art Museum (China, Harbi
 
 [Oksana Kadysheva – „Die Stimmung der Regenbogenfarben in Ibragim Valikhodjaevs Suite“, San'at, Nr. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+
 ## Tumor: der Beginn einer privaten Galeriegeschichte
 
 Seine Erfahrung als Gründer begann lange vor Gallery House. 1987 richtete Valikhodjaev eine private Kunstwerkstatt ein; 1993 eröffnete er in Namangan die Galerie Tumor, die er bis 1999 leitete. Die aktuelle biografische Chronik bezeichnet Tumor als erste private Kunstgalerie im unabhängigen Usbekistan. Diese Station macht seine Pionierarbeit bei der Schaffung eines Ortes für Kunst sichtbar. Die späteren Galerieaktivitäten in Taschkent gehören zu einer längeren Geschichte: Ein Künstler schafft Werke und zugleich die Bedingungen für ihre Begegnung mit dem Publikum. Nach Angaben der Familie wurde seine Pionierrolle als Gründer auch in einer Enzyklopädie festgehalten.
 
-Von seiner Galerie erzählt er über das Sammeln. Auf Ausstellungen entdeckte er gute Arbeiten von Kollegen und wollte, wenn es seine Mittel erlaubten, ein oder zwei Werke erwerben. So entstand eine Sammlung von Gemälden, Keramik und angewandter Kunst. Die Galerie bot ihm die Möglichkeit, Werke auszuwählen und zu bewahren, mit ihnen zu leben und sie anderen zu zeigen. Im Gespräch mit HD Magazine unterscheidet er diese Bindung an die Kunst vom bloßen Weiterverkauf von Bildern.
+Von seiner Galerie erzählt er über das Sammeln. Auf Ausstellungen entdeckte er gute Arbeiten von Kollegen und wollte, wenn es seine Mittel erlaubten, ein oder zwei Werke erwerben. So entstand eine Sammlung von Gemälden, Keramik und angewandter Kunst. Die Galerie bot ihm die Möglichkeit, Werke auszuwählen und zu bewahren, mit ihnen zu leben und sie anderen zu zeigen. Er unterscheidet diese Bindung an die Kunst vom bloßen Weiterverkauf von Bildern.
 
 Er spricht auch über die Bedingungen künstlerischer Arbeit zum Zeitpunkt des Interviews. Der hohe Preis eines einzelnen Bildes bedeutet, wie er erklärt, noch kein sicheres Einkommen: Zwischen Verkäufen kann viel Zeit vergehen, während der Künstler weiterarbeitet. Er erinnert daran, dass manche Kollegen früher lieber von ihrer eigenen Kunst als vom Unterrichten lebten; später erschwerten unregelmäßige Verkäufe diese Entscheidung. Entscheidend ist der Unterschied zwischen einem Auftrag mit vereinbarter Bezahlung und einem selbständigen Gemälde, dessen künftiger Käufer noch unbekannt ist.
 
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
 Gegen Ende des Gesprächs kehrt er zu einer konkreten Sorge zurück: Was geschieht mit einem Atelier voller Bilder, wenn der Künstler stirbt? Valikhodjaev nennt Fälle, in denen Erben Werke nicht behalten wollten, die jahrelange Arbeit verkörperten. Er schlägt vor, solche Werke zusammenzutragen, zu inventarisieren und ihnen einen Aufbewahrungsort zu sichern, damit spätere Generationen darauf zugreifen können. Die Frage betrifft auch sein eigenes Archiv. Hinter seinen Rollen als Vorsitzender und Galeriegründer steht die Sorge um die Zukunft der Werke: wo sie bleiben, wer sie bewahrt und wie sie nach dem Tod ihres Urhebers zugänglich sein werden.
-
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Weiterlesen: Leben und künstlerischer Weg](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 

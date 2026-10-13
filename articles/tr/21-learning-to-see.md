@@ -29,9 +29,7 @@ Babası şiir de yazardı. İbragim, yetişkinlik yıllarında babasının şiir
 
 Daha okuldayken ressam olmak istiyordu. Ancak bu çocukluk isteğiyle yükseköğrenime başlaması arasında kendi başına çalıştığı yıllar bulunur. Daha sonra yaptığı pazar sahneleri, portreler ve kırsal yaşam resimleri gündelik hayata verdiği önemi gösterir: insanlar, uğraşları ve çevreleri. Sanatçının hikâyesi burada doğduğu şehrin ve ailesinin tarihiyle buluşur.
 
-HD Magazine söyleşisinde bu yolu somut anılarla anlatır. İlkokula başlamadan önce resim çizmiş, okul yıllarında Pionerler Evi’ndeki etkinliklere katılmıştır. Babası bir zanaatkârdı; yakınında yüksek sanat eğitimine nasıl ulaşacağını ayrıntılarıyla anlatabilecek biri yoktu. İbragim, Sanat Fonu’nda çalışan yerel ressamları izliyor ve kendi başına çalışıyordu. Sanat çevresiyle ilk karşılaşmaları bu buluşmalar ve gündelik gözlemler yoluyla gerçekleşti.
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+İlkokula başlamadan önce resim çizmiş, okul yıllarında Pionerler Evi’ndeki etkinliklere katılmıştır. Babası bir zanaatkârdı; yakınında yüksek sanat eğitimine nasıl ulaşacağını ayrıntılarıyla anlatabilecek biri yoktu. İbragim, Sanat Fonu’nda çalışan yerel ressamları izliyor ve kendi başına çalışıyordu. Sanat çevresiyle ilk karşılaşmaları bu buluşmalar ve gündelik gözlemler yoluyla gerçekleşti.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ Kabul edildikten sonra önceki ticari sipariş işlerini bırakarak eğitimine y
 
 Genç sanatçı, eserlerinin arasında. Sanatçının arşivi.
 
-Valikhodjaev enstitüye girmeden önce on yıl dekorasyon ressamı olarak çalıştı. HD Magazine söyleşisinde o dönemde kurumların kendi ressamlarının bulunduğunu anlatır: resimler ve yazılar kurumların gündelik yaşamında gerekliydi. Aile anılarına göre Namangan’da afişler, tabelalar ve iç mekân düzenlemeleri yapıyor, ustalardan oluşan ekiplere başkanlık ediyordu. Bu siparişler el emeği gerektiriyordu: çizmek, yazmak, süslemek, işi kararlaştırmak ve tamamlamak. Genç İbragim için bu, resim diplomasından çok önce edinilmiş bir meslek ve gelir kaynağıydı.
+Valikhodjaev enstitüye girmeden önce on yıl dekorasyon ressamı olarak çalıştı. O dönemde kurumların kendi ressamları vardı: resimler ve yazılar kurumların gündelik yaşamında gerekliydi. Aile anılarına göre Namangan’da afişler, tabelalar ve iç mekân düzenlemeleri yapıyor, ustalardan oluşan ekiplere başkanlık ediyordu. Bu siparişler el emeği gerektiriyordu: çizmek, yazmak, süslemek, işi kararlaştırmak ve tamamlamak. Genç İbragim için bu, resim diplomasından çok önce edinilmiş bir meslek ve gelir kaynağıydı.
 
 Ancak dekorasyon işleri bütün uğraşlarını kapsamıyordu. Açık havada etütler yapıyor, doğrudan modeline bakarak portreler resmediyordu. Anlatısında bir çayhane de yer alır: elinde bir kâse tutan insanın tasviri aklında kalmıştır. Sıradan şehir ortamında karşılaştığı bu görüntüler, kendisinin de ressam olma isteğini uyandırıyordu. Resme giden yol, okulun yanı sıra gündelik yerlerden, insanları gözlemlemekten ve boyayla kendi denemelerinden geçiyordu.
 
 Bu çevrenin bir başka parçası, o yıllarda yayımlanan ve sanatçıların eserlerine yer veren sanat dergileriydi. Genç İbragim röprodüksiyonları inceliyor, Rahim Ahmedov’un resimlerini izliyor, özellikle portrelerini hatırlıyordu. Ustayla henüz tanışmamıştı; ilk karşılaşma dergi sayfalarında gerçekleşmişti. Bu görüntüler bir resme tekrar dönme, dikkatle bakma ve neyi öğrenmek istediğini anlama imkânı veriyordu. Enstitüde Ahmedov’un atölyesini seçmesi, onun resmine daha önce gelişmiş ilgisinin devamıydı.
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## Öğretmen yolu açar, sanatçı kendi dilini arar.
 
@@ -191,13 +187,9 @@ Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve
 
 Valikhodjaev 1993’te Namangan’da bağımsız Özbekistan’ın ilk özel sanat galerisi olan Tumor galeri-salonunu kurdu ve 1999’a kadar yönetti. Ülkedeki özel galericiliğin öncülerinden biri oldu: kişisel bir girişim, eserlerin devlet sergi mekânlarının yerleşik sistemi dışında izleyiciyle buluşabileceği bir alan yarattı. Aileye göre, galerinin öncü kurucusu olarak üstlendiği rol bir ansiklopedide de yer aldı.
 
-Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. HD Magazine söyleşisinde sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
+Kendi galerisini koleksiyon oluşturmanın hikâyesi üzerinden anlatır. Sergilerde meslektaşlarının nitelikli eserlerini görüyor, imkânı oldukça bir ya da iki eser satın almak istiyordu. Böylece resim, seramik ve uygulamalı sanatlardan oluşan bir koleksiyon gelişti. Ona göre galeri, eserleri seçip korumak, onlarla yaşamak ve başkalarına göstermek için bir alan sağlıyordu. Sanata duyulan bu bağlılığı resimlerin yalnızca alınıp satılmasından ayırır.
 
 Söyleşinin yapıldığı dönemde sanatçıların çalışma koşullarını da ele alır. Tek bir resmin yüksek fiyatı, açıklamasına göre, düzenli gelir anlamına gelmez: satışlar arasında uzun zaman geçebilir, sanatçı ise çalışmayı sürdürür. Bazı meslektaşlarının eskiden ders vermek yerine kendi sanatıyla yaşamayı tercih ettiğini hatırlar; daha sonra düzensiz satışlar bu seçimi zorlaştırmıştır. Ücreti kararlaştırılmış bir siparişle, gelecekteki alıcısı henüz bilinmeden yapılan bağımsız bir resim arasındaki fark burada önem kazanır.
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997–1999’da Sanatçılar Birliği’nin ve Sanat Fonu’nun Namangan şubelerine başkanlık etti. Annesine bakmak, resim yapmak ve doğduğu şehrin sanat yaşamını örgütlemek bu dönemin farklı yönleriydi. Daha sonra Namangan’dan Taşkent’e taşındı; o zamana gelindiğinde annesinin kaybını yaşamıştı.
 
@@ -404,8 +396,6 @@ Bugün Ibragim Valikhodjaev’in çoğu resim olmak üzere 600’den fazla eseri
 
 Söyleşinin sonuna doğru somut bir kaygıya döner: sanatçı öldüğünde resimlerle dolu atölyesine ne olur? Valikhodjaev, yılların emeğini taşıyan eserlerin mirasçılar tarafından istenmediği örnekler anlatır. Gelecek kuşakların bu eserlere ulaşabilmesi için onları toplamak, envanterlerini çıkarmak ve saklanacak bir yer sağlamak gerektiğini söyler. Bu soru kendi arşivini de ilgilendirir. Başkanlık ve galeri kuruculuğu rollerinin arkasında eserlerin geleceğine yönelik bir ilgi vardır: nerede kalacakları, onları kimin koruyacağı ve sanatçıdan sonra nasıl erişilebilir olacakları.
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## Bu kompozisyon farklı yılları birbirine bağlıyor.
 
 Oksana Kadysheva, 2012 yılında San'at için yazdığı bir profil yazısında, Valikhodjaev'in yolculuğunu çeşitli yönlerden ele aldı: erken dönemdeki ölçülü renk paleti, pazar sahneleri, Karadağ manzaraları ve çiçekli natürmortlar. Onun yorumunun merkezinde, sanatçının gözlemi kompozisyona dönüştürme yeteneği yer alıyor. Bu bağlam, yaratıcı yaşamını daha kapsamlı bir şekilde görmemize yardımcı oluyor: önceki temalar varlığını sürdürürken, görüntüyle ilgili bir başka sorudan yeni bir yön ortaya çıkıyor.
@@ -431,6 +421,12 @@ Arşiv çalışmalarında bu merak çeşitli biçimler alır. Soluk tonlu "Süra
 [Oksana Kadysheva – “İbragim Valikhodjaev’in Süitinde Gökkuşağı Renklerinin Ruh Hali”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [UzA - Pekin'deki Özbekistan Sanat Sergisi, 23 Ocak 2024 (Özbekçe metin)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 Sanatçı Bağlantıları: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

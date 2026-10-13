@@ -115,21 +115,19 @@ Ibrohim Valixo‘jayevning asarlari Yu Shun san'at muzeyida (Xitoy, Xarbin), Mal
 
 [Oksana Kadysheva – “Ibrohim Valixo‘jayevning syuitasida kamalak ranglari kayfiyati”, San’at, 3-son, 2012-yil](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+
 ## «Tumor»: xususiy galereya tarixining boshlanishi
 
 Valixo‘jayevning asoschi sifatidagi tajribasi Gallery House’dan ancha oldin boshlangan. 1987-yilda u xususiy badiiy sex-ustaxona tashkil etgan, 1993-yilda esa Namanganda «Tumor» galereya-salonini ochib, 1999-yilgacha unga rahbarlik qilgan. Amaldagi biografik xronikaga ko‘ra, «Tumor» mustaqil O‘zbekistondagi birinchi xususiy san’at galereyasi bo‘lgan. Bu bosqich uning san’at uchun makon yaratishdagi kashshof tajribasini ko‘rsatadi. Toshkentdagi keyingi galereya faoliyati asar yaratadigan va uning tomoshabin bilan uchrashuviga sharoit hozirlaydigan rassomning uzoqroq tarixiga kiradi. Oila ma’lumotlariga ko‘ra, uning ilk asoschi sifatidagi o‘rni ensiklopediyada ham qayd etilgan.
 
-O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. HD Magazine suhbatida u san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
+O‘z galereyasi haqida u kolleksiya to‘plash tarixi orqali hikoya qiladi. Ko‘rgazmalarda hamkasblarining yaxshi asarlarini ko‘rib, imkoniyati yetganida bir-ikkitasini sotib olishni istagan. Shu tariqa rangtasvir, keramika va amaliy san’at asarlaridan kolleksiya shakllangan. Uning uchun galereya asarlarni tanlash, asrash, ular bilan birga yashash va boshqalarga ko‘rsatish imkoniyati edi. U san’atga bunday bog‘liqlikni kartinalarni shunchaki olib-sotishdan alohida ko‘radi.
 
 U suhbat bo‘lib o‘tgan davrdagi ijodiy mehnat sharoitini ham muhokama qiladi. Bitta kartinaning qimmatligi o‘z-o‘zidan barqaror daromad degani emasligini tushuntiradi: sotuvlar orasida ko‘p vaqt o‘tishi mumkin, rassom esa ishlashda davom etadi. Ilgari ayrim hamkasblar dars berishdan ko‘ra o‘z ijodi bilan yashashni afzal ko‘rganini eslaydi; keyinchalik sotuvlarning muntazam bo‘lmasligi bunday tanlovni qiyinlashtirgan. Haqi oldindan ko‘zda tutilgan buyurtma bilan kelajak xaridori hali noma’lum bo‘lgan mustaqil kartina o‘rtasidagi farq shu yerda muhim.
 
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
 Suhbat oxirida u aniq bir tashvishga qaytadi: rassom hayotdan ko‘z yumgach, kartinalarga to‘la ustaxona bilan nima bo‘ladi? Valixodjayev ko‘p yillik mehnat mahsuli bo‘lgan asarlar merosxo‘rlarga kerak bo‘lmay qolgan holatlarni aytadi. U bunday ishlarni to‘plash, ro‘yxatga olish va saqlash joyini ta’minlashni taklif qiladi, toki kelajak avlodlar ularga murojaat qila olsin. Bu masala o‘z arxiviga ham tegishli. Rais va galereya asoschisi sifatidagi faoliyat ortida asarlarning kelajagiga g‘amxo‘rlik turadi — ular qayerda qoladi, kim asraydi va muallifdan keyin qanday foydalanish mumkin bo‘ladi.
-
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 

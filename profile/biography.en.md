@@ -23,7 +23,7 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 *Alternative transliterations of his name include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.*
 
-[View and download the complete artist CV (DOCX, version 27)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
 ## Institutional roles and teaching
 
@@ -38,13 +38,13 @@ As an art expert, he founded and chairs the Expert Commission for the Evaluation
 
 ## Education and gallery founding
 
-Before entering the institute, Valikhodjaev spent ten years as a decorative artist. In the HD Magazine interview, he explains that organisations then had artists of their own: images and lettering were needed in an institution’s everyday life. Family recollections describe his Namangan work as posters, signs and interior decoration, with teams of craftspeople under his direction. Such commissions involved manual work—drawing, lettering, decorating, agreeing the work and bringing it to completion. For the young Ibragim, this was an established occupation and a source of income long before his painting diploma.
+Before entering the institute, Valikhodjaev spent ten years as a decorative artist. Organisations then had artists of their own: images and lettering were needed in an institution’s everyday life. Family recollections describe his Namangan work as posters, signs and interior decoration, with teams of craftspeople under his direction. Such commissions involved manual work—drawing, lettering, decorating, agreeing the work and bringing it to completion. For the young Ibragim, this was an established occupation and a source of income long before his painting diploma.
 
 Decorative commissions did not occupy all his attention. He went outdoors to paint studies and made portraits from life, looking directly at the sitter. His account also recalls a teahouse: an image of a person holding a bowl stayed in his memory. Pictures encountered in an ordinary urban setting helped awaken his wish to become an artist himself. His route into painting passed through everyday places, observation of people and his own experiments with paint, as well as through formal study.
 
 Another part of that environment was the art magazines published in those years, which reproduced artists’ work. The young Ibragim examined the reproductions, followed Rahim Ahmedov’s paintings and particularly remembered his portraits. He did not yet know the master personally: the first encounter took place on magazine pages. Those images offered a way to return to a painting, study it and recognise what he wanted to learn. Choosing Ahmedov’s studio at the institute therefore continued an interest in his painting that had already developed.
 
-In the HD Magazine conversation, he retraces this path through specific memories. He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
+He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
 
 **1986–1991:** Studio of Master Rahim Ahmedov; Faculty of Painting, Alexander Nikolayevich Ostrovsky Institute. See the master's painting [«For Whom» at Sotheby's](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>).
 
@@ -58,17 +58,11 @@ Family recollections describe the choice of his graduation project as another si
 
 **1993–1999:** Founder, «Tumor» Gallery Salon, Uzbekistan, Namangan; the first private art gallery in independent Uzbekistan. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
 
-He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. He distinguishes that attachment to art from simply reselling paintings.
 
 He also discusses the conditions of artistic work at the time of the interview. A high price for an individual painting, he explains, does not in itself mean a stable income: long intervals can separate sales, while an artist keeps working. He recalls that some colleagues once preferred to live from their own art rather than teaching; later, irregular sales made that choice harder. The distinction matters between a commission with agreed payment and an independent painting made before its future buyer is known.
 
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
 Towards the end of the conversation, he returns to a concrete concern: what happens to a studio full of paintings after its artist dies? Valikhodjaev describes cases in which heirs did not want works representing years of labour. He proposes bringing such works together, making inventories and providing storage so that future generations can consult them. The question concerns his own archive too. Behind his roles as chairman and gallery founder lies care for the works’ future—where they will remain, who will preserve them and how they will be accessible after their maker.
-
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 ## Selected solo exhibitions
 
@@ -202,7 +196,7 @@ San’at’s 2012 art-life chronicle records the Tashkent exhibition «21 Days i
 Artist: [ibragim.art@gmail.com](<mailto:ibragim.art@gmail.com>)  
 Gallery: [valikhodjaev.gallery.house@gmail.com](<mailto:valikhodjaev.gallery.house@gmail.com>)
 
-[View and download the complete artist CV (DOCX)](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
 
 ## Additional teaching and institutional experience
 
@@ -509,3 +503,9 @@ When discussing preparations for his exhibition in China, he begins with the gal
 [Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.
+
+## Sources and materials
+
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)

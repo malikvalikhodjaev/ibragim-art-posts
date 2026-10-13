@@ -1,5 +1,5 @@
 {
-  "edition": "2026-10-12",
+  "edition": "2026-10-13",
   "articles": [
     {
       "title": "How to Look at Abstract Art: A Guide Through Valikhodjaev’s Paintings",
@@ -410,8 +410,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/en/20-from-studio-to-gallery.md",
       "labels": "English,Ibragim Valikhodjaev,Art",
-      "sha256": "843551360ccb8e88400fe5664cc4bbf2ebae465332bb03ef7cfc1dc67cd92a97",
-      "published_html_sha256": "0e11dfbf1c31e526d44c486e20ea8e34a5e18bcfa87f4fe9b2556b63a4925034",
+      "sha256": "6b4be07df483006adc823b2eea6be6132f912965c6c9cdeb5ed16d42fc0117c4",
+      "published_html_sha256": "f015a38f1f631b6c2a4578c6cb0979b3f2119a51cad29367fa2f69f81440bcc0",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -428,7 +428,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Learning to See: Ibragim Valikhodjaev on a Life in Art",
@@ -439,8 +439,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/en/21-learning-to-see.md",
       "labels": "English, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "e28e84afdf188e2a86f3c172ff0728f3008a3589015e813c529757255cdabb04",
-      "published_html_sha256": "2631caefd8ff78a8a2917b93eca4dbecc14bd1c9b752f83953bf33deea7dfb7b",
+      "sha256": "35258337152c347d32b66998e70ffa14a2adb860c74ce50f795eed7a0cd32920",
+      "published_html_sha256": "a771a88693aa9a111f18852e0ae30bf83641d9426a18f9cb92bd6812b31ba685",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -489,7 +489,7 @@
         "https://www.youtube.com/embed/M3A9k9jeZ8g",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Comment regarder l’abstraction ? Couleur et forme chez Valikhodjaev",
@@ -900,8 +900,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/fr/20-from-studio-to-gallery.md",
       "labels": "Français, Ibragim Valikhodjaev, Art",
-      "sha256": "02130f78d52531ddf5e889416fde3d01af13917d6292da2b9df4b750d6710bdb",
-      "published_html_sha256": "2fe82bb6efd1a0a64670265f5f519295cb41cdf5ad47c5ac59eebe549fe0174e",
+      "sha256": "1c620c118b8593509d4399dac7fb83f63a44eb1367dcc1e0d6cb54285202858c",
+      "published_html_sha256": "aa9f49b9b757fe2b81f113593cce1df0c792ae10d30c8200b5645af351f104b8",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -918,7 +918,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Apprendre à voir : Ibragim Valikhodjaev, une vie dans l’art",
@@ -929,8 +929,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/fr/21-learning-to-see.md",
       "labels": "Français, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "6fb8649b73a7c08feac301c077b8557d0e95fcd960f7d5f36fc80f13194f40e7",
-      "published_html_sha256": "3a411fab09fa107741b835cfb6b7ed825d8fdf436bb93a9b72c47a693dfad855",
+      "sha256": "4bdb343f7788ab35b346243c15f5ea40328e26641f1199c6114f0cf21c02a853",
+      "published_html_sha256": "9134f82b76d9617402ffca493245fd7d5601be0c6383c8a0cf054eae5be25baf",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -979,7 +979,7 @@
         "https://www.youtube.com/embed/M3A9k9jeZ8g",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Come guardare l’astrazione: colore e forma in Valikhodjaev",
@@ -1390,8 +1390,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/it/20-from-studio-to-gallery.md",
       "labels": "Italiano, Ibragim Valikhodjaev, Art",
-      "sha256": "cd641dc0fd18be50d36852ef0ee33b7bfa03dc70a06f3c7524334eac49110ab6",
-      "published_html_sha256": "de9e8e45ae8b139552d2a90a7cbab30945448152861704f9077cb5e2aae47480",
+      "sha256": "da2d28766f247e10351a6a2892832f13ed06ba6985624e1ec57cf7a82e5ee883",
+      "published_html_sha256": "798f5aa6770f5975c7239df4a9e62a4cd2bf8f793ed475cbbc617b1ccd186027",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -1408,7 +1408,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Imparare a vedere: Ibragim Valikhodjaev e una vita nell’arte",
@@ -1419,8 +1419,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/it/21-learning-to-see.md",
       "labels": "Italiano, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "ab576162ee1b4344d507a755602d70b0fcf0dcfb5caf94f21b2e0e13270a400a",
-      "published_html_sha256": "957d29cd21648ae83e9dc322833d7359b15fda180916ae098a6386b146d0397c",
+      "sha256": "69c32f2c1ed70d3b04e85fe4d4623c7f41630eb3fd3094b194b028f531cbd872",
+      "published_html_sha256": "a30e0f6770c006546999656d879235ac87a0207f7b391205b7ee88a370819149",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -1469,7 +1469,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "如何觀看抽象繪畫：從色彩、線條到畫面尺度",
@@ -1880,8 +1880,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/zh-Hant/20-from-studio-to-gallery.md",
       "labels": "繁體中文, Ibragim Valikhodjaev, Art",
-      "sha256": "9780a9cd176a51713728615cdbe16fd6eed507dc522e7f9948be1529ef19cf3a",
-      "published_html_sha256": "e6f93ebd4255b6fb76c5e4e8134210883e468001286b1eb54b3c4647cd081818",
+      "sha256": "359e962a95dada5ad5090c9a342fc65e4db3b328f86c0a13de3723995f541904",
+      "published_html_sha256": "3ebbcf9dd63d0bc379976c11806fab90399f367d1f5e72f7c8a1922a625d0cb2",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -1898,7 +1898,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "學會觀看：伊布拉吉姆·瓦利霍賈耶夫的藝術人生",
@@ -1909,8 +1909,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/zh-Hant/21-learning-to-see.md",
       "labels": "繁體中文, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "b9f9910e1d5d7645b69965a03d56a348fd1de55a4e3c2c90082c80cb9a57ff6f",
-      "published_html_sha256": "1c4f2acb922f130ee16d9b80860aa054d4d1d0e4ba53bafcc4910a54a1f82471",
+      "sha256": "e28dc87531375abeadf0138c65d8f42772a36ddfa454ba388456748d582ea889",
+      "published_html_sha256": "0c4fbf14d8530e87124609ad42a2eb62636cd99b35c2399b06b41c2edfad452e",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -1959,7 +1959,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "如何观看抽象绘画：从色彩、线条到画面尺度",
@@ -2370,8 +2370,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/zh-CN/20-from-studio-to-gallery.md",
       "labels": "简体中文, Ibragim Valikhodjaev, Art",
-      "sha256": "ce11a64cb3edf49c3cec2ea5a01dffd94714636da436803a3e2c9c57a2f11561",
-      "published_html_sha256": "2fdb204a9738d970cfe7a8a1fc8924e5562f57126db498b5eddd4a6d054b75bf",
+      "sha256": "598b91d431e00dd772084ad1f0fd1012eb7636ada6e68d01f27b0581a1d1dbce",
+      "published_html_sha256": "3c37c26999bc5a8e2a0de8bf65ceacfe69e9caa8ed6c1cbab08e9c7f36c9d1db",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -2388,7 +2388,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "学会观看：伊布拉吉姆·瓦利霍贾耶夫的艺术人生",
@@ -2399,8 +2399,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/zh-CN/21-learning-to-see.md",
       "labels": "简体中文, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "7c5cedca85f5649e7773f28d373af3311aeaf9f82e4391807cd541acc62afe45",
-      "published_html_sha256": "ef3d2d37e8e315f4ff02a1e7b2516784a45877525e11b415a46585fd1cc7eae6",
+      "sha256": "7ae365c934a66e4025bcda1261c0bcfc2cb3c4b1f743591a57de749e12da685b",
+      "published_html_sha256": "9c183fe380023d4b50f41918638a7fd94e33fe3cb5a472f6ac0eb88eca6f215d",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -2449,7 +2449,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Как смотреть абстрактную живопись: картины Валиходжаева",
@@ -2860,8 +2860,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ru/20-from-studio-to-gallery.md",
       "labels": "Русский,Ибрагим Валиходжаев,Искусство",
-      "sha256": "dd35d917203da8f76786ab345a5382f0a5aa78e9ad4a88c0f1c9447dac238816",
-      "published_html_sha256": "de52923dde4572142987d9ba672534ae8c81e27abe3e2b7447370abd57c50be2",
+      "sha256": "e6fa1526f08891d8dcae0b80715d69df237f2fe99c6a8653cada444d126b7123",
+      "published_html_sha256": "5063eb2d4d398de358baf1372246c5eced46dec3552d0f719e96bc2ca9b1cfdd",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -2878,7 +2878,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Учиться видеть: Ибрагим Валиходжаев о жизни в искусстве",
@@ -2889,8 +2889,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ru/21-learning-to-see.md",
       "labels": "Русский, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "c3b2a2c974ae6f7a0ce7671fa8135bb78155c4b071fba4c2ff5e30331a0591f7",
-      "published_html_sha256": "37e60968040abb038030a43e93be1f02d5a5eb71b477bccd285939050751dd7c",
+      "sha256": "46c2f1e711174402032ae9db2f2903aae8cd321346ea1043ade7ca601bec9833",
+      "published_html_sha256": "639b87ad20d575eadf7dd59fbb9376bbf2e4dc81ce4b10eb9a159da6d8c08c3b",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -2939,7 +2939,7 @@
         "https://www.youtube.com/embed/M3A9k9jeZ8g",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Abstrakt rangtasvirni qanday ko‘rish kerak: rang, chiziq va miqyos",
@@ -3350,8 +3350,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/uz/20-from-studio-to-gallery.md",
       "labels": "O‘zbekcha,Ibrohim Valixodjayev,San’at",
-      "sha256": "a0787414e4099286543bdc079e2c5ba16052245905152aff2140abfe5ea7c177",
-      "published_html_sha256": "998ba7b9ea6c11f6dcaba244560765baf40a257cb7d6230554e977c3f31a7fe1",
+      "sha256": "24a529d0243ed08472a1e91f393eddfe7d3bcca24c4caf91e97a3bc3e4e743e2",
+      "published_html_sha256": "7b6525ceb482f06ca0ef15893ff6d58f2c41e6f2a5db442f291ec15ff4d25be2",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -3368,7 +3368,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li",
@@ -3379,8 +3379,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/uz/21-learning-to-see.md",
       "labels": "O‘zbekcha, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "0cc64ae062a7156805a9bd79b32809a134d573eba4d7800d5ac46e6d24ab6a67",
-      "published_html_sha256": "d9833fe35569d89c3cbbbb330175f329bf6f0fedf1672e82bddfead60937fe81",
+      "sha256": "395fde56ecbaf88f121c3fbc082612e1fb55fd694c54a44c9261a10caabaf6ac",
+      "published_html_sha256": "135663d04515eda6ab65c3a371220973d8c48966f81946cab71df10261effd57",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -3429,7 +3429,7 @@
         "https://www.youtube.com/embed/M3A9k9jeZ8g",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Soyut resme nasıl bakılır: Valikhodjaev’de renk, çizgi ve kompozisyon",
@@ -3840,8 +3840,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/tr/20-from-studio-to-gallery.md",
       "labels": "Türkçe, Ibragim Valikhodjaev, Art",
-      "sha256": "2ce27b55e388b34ed6ad9f843c161d3b3e13148e72dce73cafa508d680cd9038",
-      "published_html_sha256": "a3fe49e128dd22e10a30b5bc8be9fc0cab9f855e7f8aac1d6d09c6f0d0f86cd4",
+      "sha256": "6e99b345470ee946bb7c71282b7134871840c10e8411b59ef669756e1eb85394",
+      "published_html_sha256": "cc3c388e49468b233587ad3711b9ac3501e6a6f96d16000170c17be2c34e5861",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -3858,7 +3858,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı",
@@ -3869,8 +3869,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/tr/21-learning-to-see.md",
       "labels": "Türkçe, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "f6daff458fefaf009d31ec3230f8f530e014b036e293bafec0a6b0c39f451243",
-      "published_html_sha256": "6e89d70215524611db0af25daef4ea9adda4b225d0ea69c80a0223845f5e03cf",
+      "sha256": "885ac78a32f57368e5dca22532fdd9be8f1cd0ed730845f2c895c15c991b4b0d",
+      "published_html_sha256": "49bbedab4a75a187a07fdc2876fd118a7e0f1b2a73cbbb0007332d4e56013f6d",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -3919,7 +3919,7 @@
         "https://www.youtube.com/embed/M3A9k9jeZ8g",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "كيف ننظر إلى الفن التجريدي؟ دليل عبر لوحات فاليخودجاييف",
@@ -4330,8 +4330,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ar/20-from-studio-to-gallery.md",
       "labels": "العربية, Ibragim Valikhodjaev, Art",
-      "sha256": "c10d6ebc5dfdcee9d0beabdb8eefac4e311fe2a9afdd86fb9040a97397502852",
-      "published_html_sha256": "7721bd51ad06977ea4c10e4c4de0ebc85a78ff43d270167e87923e9b3c4ddf2e",
+      "sha256": "dc5a717a78286874ab933c9cfeb8d9f61f2e52be38cdbcf596b771f4ba18ae9d",
+      "published_html_sha256": "31a591479469320a0229e41f6a6422c54044f5c1307941c746288ea563c19c4c",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -4348,7 +4348,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "تعلّم الرؤية: إبراهيم فاليخودجاييف وحياة في الفن",
@@ -4359,8 +4359,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ar/21-learning-to-see.md",
       "labels": "العربية, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "86a41124a72a0845100ad39a2b8ac95be46e4b97f7c9980ef61fa5afc9e6ca01",
-      "published_html_sha256": "205f530d44ee841d828435208b7e09c9979a9e5fc6f0a5320a88b6fa1c634b2b",
+      "sha256": "de33a995ab96f07c7c1344ea7ced780273091a512178ab44c08491111db7494d",
+      "published_html_sha256": "b0747b4d7a95e22b7892b481336685fad8a5c9da204fe6f9fda295e9c733b341",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -4409,7 +4409,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "چگونه هنر انتزاعی را ببینیم؟ راهنمایی در میان نقاشی‌های ولی‌خوجایف",
@@ -4818,8 +4818,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/fa/20-from-studio-to-gallery.md",
       "labels": "فارسی, Ibragim Valikhodjaev, Art",
-      "sha256": "09dbd819291a5ba12e713a0c4ce5c50046c897287784769f95fb4be1c7f12f8d",
-      "published_html_sha256": "28f647a1de633b69f87810b231cb168a14dc5a69286f10c0f89a2af54b25eb75",
+      "sha256": "c0db4aa478c053ab01fb5c9bfa17d0d283da2ff36ebb1e944a009f1fda2e484b",
+      "published_html_sha256": "b4bfa8b3ac39f7aeccc9628f566c013d74e8045c29255c03d2df984a926b754a",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -4836,7 +4836,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "آموختن دیدن: ابراهیم ولی‌خوجایف و زندگی در هنر",
@@ -4847,8 +4847,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/fa/21-learning-to-see.md",
       "labels": "فارسی, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "6c7161472914836da47711e77de83602a1b579d4396f414b8ec09a70922076ab",
-      "published_html_sha256": "f52523edeb334a29179a623e456904a21f9efc9e4e7686a0678cba38d7fac86e",
+      "sha256": "bd38d0079996e55383602db5ea7bf1f9d84e5ec5f0f9931d2dc6c87a222c62b9",
+      "published_html_sha256": "b5eaf9d76cb89c7806f85a9fdf4db0b942c339fd06d90791c0f8c609f4c99566",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -4897,7 +4897,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Cómo mirar la abstracción: color y forma en Valikhodjaev",
@@ -5308,8 +5308,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/es/20-from-studio-to-gallery.md",
       "labels": "Español, Ibragim Valikhodjaev, Art",
-      "sha256": "8dd363c809db0730c097b88e2f9c8caefb0c016fba41c82ad563cdfae89a919d",
-      "published_html_sha256": "c8758eaccb873f36f8e8b6caedddae653e788167cf5f14639e96a142c5ae3e94",
+      "sha256": "1c81ad3338b2386e69349504457ce5ab80b98ad3dae28487e636b266be2d4754",
+      "published_html_sha256": "f6f0761014c67dc7413466615c49800385564ed0645292a55a1f1d891a4edb6e",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -5326,7 +5326,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Aprender a mirar: Ibragim Valikhodjaev, una vida en el arte",
@@ -5337,8 +5337,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/es/21-learning-to-see.md",
       "labels": "Español, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "b7a7a703363b13934c9c2dccce1f08a996abb3cf2d8af8d37fbb4b83705b53ec",
-      "published_html_sha256": "14c6cb39bacfc0b7b16f47a20d4bc5e01d25745c8efc04c604aaa8d00055fe10",
+      "sha256": "804d32dbc1ffafa742e6140a702b0550acba7fd302f93fdfbe650f3dc720e002",
+      "published_html_sha256": "b1ac92be81f5dfdd54e1cfb9116d203fd3a37fb910a91119b30230b2908edd74",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -5387,7 +5387,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Abstraktion betrachten: Farbe und Form bei Valikhodjaev",
@@ -5798,8 +5798,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/de/20-from-studio-to-gallery.md",
       "labels": "Deutsch, Ibragim Valikhodjaev, Art",
-      "sha256": "c0900f5efd9dd8ec9be35565c84417d614505c2b0bf20fc2025cbdeb29fecb3c",
-      "published_html_sha256": "d74bbd219f88ffba1328de9d2b540381d3648e5628f1cc09708db85ee13eacf8",
+      "sha256": "1ac1e3eacdf0bd7dba120165ddadf4b32737a48ddb227e04bdd9563bded5534d",
+      "published_html_sha256": "f2f8275adeb14db6b5d8ad290ac0b5f98ef7b365b763ccdddebd2eba5fb0514d",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -5816,7 +5816,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst",
@@ -5827,8 +5827,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/de/21-learning-to-see.md",
       "labels": "Deutsch, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "d6473176ba243f6d8cf09f706715d544eb86256793cdb900873a5604895a673e",
-      "published_html_sha256": "162b1fd3d597b761a51a95c1c514056c6fc2ec5af9fa0e66999dab10645e2e72",
+      "sha256": "394818666f37f2827017886c05109c8d8396f3af5be1a019dd22792f418dae44",
+      "published_html_sha256": "67c6b3126a70e495d3c1cb29cc060f75c54c76beade58eeecc2e593611aed52d",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -5877,7 +5877,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "איך מתבוננים בהפשטה? מסע בין ציוריו של וליכודג'ייב",
@@ -6286,8 +6286,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/he/20-from-studio-to-gallery.md",
       "labels": "עברית, Ibragim Valikhodjaev, Art",
-      "sha256": "4ca5c6131242a6210f7bbae0907bbaf39a11d4db9e5063aba1829756f22ec6be",
-      "published_html_sha256": "f73dbe17d41467db3ad1ac43617b2f7e2cd6cf998a5fa51bdd134ee9522f2663",
+      "sha256": "4a2744f38516362d19f635514fc00c12c6fff854bc5f1620431b343b3b3513b1",
+      "published_html_sha256": "083724448cafe489ece8a5530b2ffe90ebccb76ad65f692f1bfda64d379151dd",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -6304,7 +6304,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "ללמוד לראות: איברגים וליכודג'ייב וחיים באמנות",
@@ -6315,8 +6315,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/he/21-learning-to-see.md",
       "labels": "עברית, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "546dfdf3b48db8fcd77897a7764490bd45aa8d38fe6590ecc9099eff9289407e",
-      "published_html_sha256": "0d7070e9db20df633dcce560a0894d2c4e7ebf306c40a945ecea937d3678adee",
+      "sha256": "94a3161eadd7dcb6d8cf2e75558de5eec3d907ca5c2278a327d42fc7cd3f2ae0",
+      "published_html_sha256": "254aba6c743582da7a4efaa007182d9e88f0cc5742d39b3870736fd9f587c8c2",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -6365,7 +6365,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "抽象画をどう見るか――ヴァリホジャエフの絵画を手がかりに",
@@ -6774,8 +6774,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ja/20-from-studio-to-gallery.md",
       "labels": "日本語, Ibragim Valikhodjaev, Art",
-      "sha256": "f3e9afaa0d95066bd1de4ef681657d08b9b3b0aa412d539c36b7091e29cab6f3",
-      "published_html_sha256": "72dad36af2d30b64f8175afb97a0ab41a0987a980bea9649821b81a7e4b75792",
+      "sha256": "16b5cf84b7c15d38282ccb78733d9a34060cd0bb2a610df722a68e11b5662709",
+      "published_html_sha256": "96b5570dba0bf1680bef00f2611ca6dd75db3e8e2a4b33845d34ae3f315ecae4",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -6792,7 +6792,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生",
@@ -6803,8 +6803,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ja/21-learning-to-see.md",
       "labels": "日本語, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "dbdb264dd3f3259eb87bba7e6607d4d9d3df3c8661a8c2406c62a60a8df6ed1a",
-      "published_html_sha256": "23d9c1b54ae262a7d90989146555b57c10c9741a0731c2a6ab88c6611c283d14",
+      "sha256": "1d496724e2f91b9dce4238e2a57cf76f52be2c074b16561da9bd11fcafd66685",
+      "published_html_sha256": "d4053a473a46c4f89e4c0e326d55c1e91e90963c5b08c6d603026457a7820ddb",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -6853,7 +6853,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "추상화를 보는 법 — 발리호자예프의 그림에서 찾은 단서",
@@ -7262,8 +7262,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ko/20-from-studio-to-gallery.md",
       "labels": "한국어, Ibragim Valikhodjaev, Art",
-      "sha256": "2e5502e571a5ebe170d59b73820dedf94ae6c1d0516196b8618eea44dd3a31ab",
-      "published_html_sha256": "e03e83d224a93799ede0e7742964475b1ef08c53018bc479a268777879b3cdc8",
+      "sha256": "f4fa270c6797590e46af9573dfd81896db17545d5f71a8975fc2d30b24ec2d56",
+      "published_html_sha256": "a562909b3ed16a820be285da0cdf6b3fc7eca480465edb847dc60ecea6321585",
       "media_links": [
         "https://artvernissage.art/media/authors/%D0%98%D0%B1%D1%80%D0%BE%D1%85%D0%B8%D0%BC-%D0%B0%D0%BA%D0%B0_2.jpg",
         "https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944",
@@ -7280,7 +7280,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2R-R2i-gbT_uSAwbATdYy-A-uD0Mav6yMTmamRKVFnC8zhWPFMqWEOxfNjJNwe8dICe6dZP1TJbRqtSKLI9q9qpCLb4W9E_hB79H_OhXdafZlVXpF16_95Z7SbRG3WWKvM5Ca-9eZqKqb3QIx7k28vmU3s7GEurGuhgQW50oSOYzGFCTUtZs9XhxOte5L/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihzTf1gBJw1iJamSNSCadjzFwjShQntjAcpf2cdmIzQOzxJ-dJt94LpJ_5E9EtFgQByYQq03dav3ztVVks_XeKczDiIgjKZpkGF5e4qRWCic5YdGtO3OPw3bGa3aANxt5YVKnLhULo3arCULvUqmH4RbJjqURSlJ1aroqnc8dMxhgxfefxzA97jdRZB1yw/s1600/clipboard.png"
       ],
-      "paragraphs_checked": 64
+      "paragraphs_checked": 61
     },
     {
       "title": "보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술",
@@ -7291,8 +7291,8 @@
       "edition_date": "2026-10-12",
       "file": "articles/ko/21-learning-to-see.md",
       "labels": "한국어, Ibragim Valikhodjaev, Biography, Interviews",
-      "sha256": "913d1aeb6209ef3498141eb69b8a280bdddde1fb5f07d8e091c38ec79cbd110b",
-      "published_html_sha256": "471a5d265e45ae448f19d0c8d407bc71242d9188937146ea15cdd400dbc9982f",
+      "sha256": "84083027f5e759c05b78bb0b3e3d3543edab36c78a5427a4c7876c6e31ef0a74",
+      "published_html_sha256": "ed2dc8618118fb574572061c93becf4bf995c39bc7255af38129152961835053",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7M7pNMG4sbmK3d60HeSEMX-F4n8rSvq9TCvE8t7hnKpT4Q5KgXBfwzWKVX_bkjV9sdqKRO6C0IBnLCUADrO1ZG8FueErvJUF30fkTz3zvm3zLBSyWZSLYAudPnPzIzDGPby8eauPBKhbF9f0XhCCyC7qYd-16qy-Kv8mwku_g81IkPLN6_LZNz_eGIey/s1600/clipboard.png",
         "https://www.youtube.com/embed/uQzIBpYBXD8",
@@ -7341,7 +7341,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png",
         "https://www.youtube.com/embed/M3A9k9jeZ8g"
       ],
-      "paragraphs_checked": 174
+      "paragraphs_checked": 169
     },
     {
       "title": "Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV",
@@ -7352,8 +7352,8 @@
       "edition_date": "2026-10-12",
       "file": "profile/biography.en.md",
       "labels": "",
-      "sha256": "fb008c392a1d07f5eb5cae333dc2861dca3b436d8d3191e402fcc1745cdd29d4",
-      "published_html_sha256": "31363a0ca8841f7b4c27a8be4fe4434a9a32001067959afbaddc6dba3e6aaf41",
+      "sha256": "dae255a66dd6adeaaec9e242e1ac5e25fff6535a6ae4def8774dfb60bce60565",
+      "published_html_sha256": "9c228d6a159a9699127077074e8eacd2b484b2a230e65541d4784be9bab421a1",
       "media_links": [
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7BlB6l2HHLgyGUBM4408y-7vA7eIl6WID_eBGFCiQt2fTf7MMSOhy30cU-rMcH5KJVWOWLOc1SlPUcev86-emFhoG4-TkGRWlxANwBTXg5KhSQUbHaiRyC0Ir_OvMkt-tJaXX0CzDNwLP4g4cqxMdXS1vHTYotjPA1pyL7ei_v__yAvy7m4HSIuXt9KG/s1600/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png",
@@ -7411,7 +7411,7 @@
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSuySnGk6FVE6M3Yqr02Daz7zId1yOPgXGTBqNcxJRGnqN5KRclGME-oa7Dc4nr-LQ3_pQ2RWKMJ6F34WnnwkC21OBlXmx82Qx3pvOkKN1nhHbDPo7hdOfxHp8nI-DiF2xbrxSjUibEum-4JekFT3DBgpgk5abITfnUTWyo7lGntmF4UmD8pscZ8Pm2J0c/w1200-rj/clipboard.png",
         "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png"
       ],
-      "paragraphs_checked": 140
+      "paragraphs_checked": 138
     }
   ],
   "languages": {

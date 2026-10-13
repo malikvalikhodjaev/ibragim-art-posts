@@ -29,9 +29,7 @@ Suo padre scriveva anche poesie. Da adulto, Ibragim ne pubblicò una raccolta, c
 
 Vuole essere un artista fin dagli anni di scuola. Tuttavia, tra quel desiderio infantile e l’ingresso nell’istruzione superiore trascorrono anni di lavoro autonomo. Le successive scene di mercato, i ritratti e i dipinti della vita rurale mostrano l’importanza del quotidiano: le persone, le loro attività e l’ambiente in cui vivono. Qui il percorso del pittore incontra la storia della città natale e della famiglia.
 
-Nell’intervista a HD Magazine ripercorre questo cammino attraverso ricordi precisi. Cominciò a disegnare prima della scuola elementare e, durante gli anni scolastici, frequentò la Casa dei pionieri. Suo padre era un artigiano; non aveva accanto qualcuno che potesse spiegargli nel dettaglio come accedere agli studi artistici superiori. Ibragim osservava i pittori locali del Fondo artistico e si esercitava da solo. I primi incontri con l’ambiente artistico avvennero attraverso quei contatti e quelle osservazioni quotidiane.
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+Cominciò a disegnare prima della scuola elementare e, durante gli anni scolastici, frequentò la Casa dei pionieri. Suo padre era un artigiano; non aveva accanto qualcuno che potesse spiegargli nel dettaglio come accedere agli studi artistici superiori. Ibragim osservava i pittori locali del Fondo artistico e si esercitava da solo. I primi incontri con l’ambiente artistico avvennero attraverso quei contatti e quelle osservazioni quotidiane.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ Una volta ammesso, interruppe la precedente attività di commissioni commerciali
 
 Il giovane artista fra le sue opere. Archivio dell’artista.
 
-Prima di entrare all’istituto, Valikhodjaev lavorò dieci anni come pittore decoratore. Nell’intervista a HD Magazine spiega che allora le organizzazioni avevano propri artisti: immagini e scritte servivano nella vita quotidiana degli enti. I ricordi familiari descrivono il suo lavoro a Namangan — manifesti, insegne e decorazioni d’interni — e le squadre di artigiani che dirigeva. Quelle commissioni richiedevano lavoro manuale: disegnare, dipingere scritte, decorare, concordare il lavoro e completarlo. Per il giovane Ibragim era già un mestiere acquisito e una fonte di reddito, molto prima del diploma di pittura.
+Prima di entrare all’istituto, Valikhodjaev lavorò dieci anni come pittore decoratore. Allora le organizzazioni avevano propri artisti: immagini e scritte servivano nella vita quotidiana degli enti. I ricordi familiari descrivono il suo lavoro a Namangan — manifesti, insegne e decorazioni d’interni — e le squadre di artigiani che dirigeva. Quelle commissioni richiedevano lavoro manuale: disegnare, dipingere scritte, decorare, concordare il lavoro e completarlo. Per il giovane Ibragim era già un mestiere acquisito e una fonte di reddito, molto prima del diploma di pittura.
 
 La decorazione, però, non esauriva le sue attività. Dipingeva studi all’aperto e ritratti dal vero, osservando direttamente la persona. Nel racconto compare anche una casa da tè: gli rimase impressa l’immagine di una figura che teneva una ciotola. Immagini incontrate nel normale ambiente urbano risvegliavano il desiderio di diventare lui stesso pittore. Il percorso passava anche dai luoghi quotidiani, dall’osservazione delle persone e dai suoi esperimenti con il colore.
 
 Un’altra parte di quell’ambiente erano le riviste d’arte pubblicate in quegli anni, che riproducevano le opere degli artisti. Il giovane Ibragim esaminava le riproduzioni, seguiva i dipinti di Rahim Ahmedov e ricordava soprattutto i suoi ritratti. Non conosceva ancora personalmente il maestro: il primo incontro avvenne sulle pagine delle riviste. Quelle immagini permettevano di tornare a un quadro, osservarlo con attenzione e capire che cosa desiderasse imparare. La scelta dell’atelier di Ahmedov all’istituto proseguiva quindi un interesse già maturato per la sua pittura.
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## L'insegnante apre la strada, l'artista cerca il suo linguaggio
 
@@ -191,13 +187,9 @@ Le versioni del Mercato dei doppi del 2004 e del 2006 proseguono questa ricerca.
 
 Nel 1993 Valikhodjaev fondò a Namangan la galleria-salone Tumor, la prima galleria d’arte privata dell’Uzbekistan indipendente, che diresse fino al 1999. Fu un pioniere dell’attività delle gallerie private nel paese: un’iniziativa personale creava uno spazio d’incontro tra opere e pubblico al di fuori del sistema consolidato delle sedi espositive statali. Secondo la famiglia, il suo ruolo di fondatore pionieristico è stato ricordato anche in un’enciclopedia.
 
-Racconta la propria galleria attraverso la storia del collezionismo. Alle mostre notava le opere migliori dei colleghi e desiderava acquistarne una o due quando le risorse lo permettevano. Si formò così una raccolta di dipinti, ceramiche e arti applicate. Per lui la galleria offriva la possibilità di scegliere e conservare opere, vivere con esse e mostrarle ad altri. Nell’intervista a HD Magazine distingue questo legame con l’arte dalla semplice rivendita di quadri.
+Racconta la propria galleria attraverso la storia del collezionismo. Alle mostre notava le opere migliori dei colleghi e desiderava acquistarne una o due quando le risorse lo permettevano. Si formò così una raccolta di dipinti, ceramiche e arti applicate. Per lui la galleria offriva la possibilità di scegliere e conservare opere, vivere con esse e mostrarle ad altri. Distingue questo legame con l’arte dalla semplice rivendita di quadri.
 
 Discute anche le condizioni del lavoro artistico al momento dell’intervista. Il prezzo elevato di un singolo quadro, spiega, non significa di per sé un reddito stabile: tra una vendita e l’altra può trascorrere molto tempo, mentre il pittore continua a lavorare. Ricorda che alcuni colleghi preferivano un tempo vivere della propria creazione anziché dell’insegnamento; in seguito, l’irregolarità delle vendite rese più difficile quella scelta. Conta qui la differenza tra una commissione con un compenso concordato e un dipinto autonomo realizzato senza conoscere ancora il futuro acquirente.
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 Dal 1997 al 1999 presiedette le sezioni di Namangan dell’Unione degli artisti e del Fondo artistico. La cura della madre, la pittura e l’organizzazione della vita artistica della città natale furono aspetti diversi di quel periodo. In seguito si trasferì da Namangan a Tashkent; aveva già vissuto la perdita della madre.
 
@@ -404,8 +396,6 @@ Oggi sono note oltre 600 opere di Ibragim Valikhodjaev, soprattutto dipinti. Com
 
 Verso la fine della conversazione torna a una preoccupazione concreta: che cosa accade a un atelier pieno di dipinti quando il pittore muore? Valikhodjaev racconta casi in cui gli eredi non desideravano opere che rappresentavano anni di lavoro. Propone di riunirle, inventariarle e assicurare loro uno spazio di conservazione, perché le generazioni successive possano consultarle. La domanda riguarda anche il suo archivio. Dietro il ruolo di presidente e fondatore di galleria emerge la cura per il futuro delle opere: dove resteranno, chi le conserverà e come saranno accessibili dopo il loro autore.
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## La composizione collega anni diversi
 
 In un articolo del 2012 per San'at, Oksana Kadysheva ha descritto il percorso artistico di Valikhodjaev attraverso diverse direzioni: la sua tavolozza iniziale, sobria e misurata, le scene di mercato, i paesaggi montenegrini e le nature morte floreali. Al centro della sua interpretazione c'è la capacità dell'artista di trasformare l'osservazione in composizione. Questo contesto ci aiuta a comprendere più a fondo la sua vita creativa: una nuova direzione emerge da un'ulteriore riflessione sull'immagine, mentre i temi precedenti continuano a coesistere.
@@ -431,6 +421,12 @@ Nelle opere d'archivio, questa curiosità assume diverse forme. Le "Brocche" dai
 [Oksana Kadysheva – “L’atmosfera dei colori dell’arcobaleno nella Suite di Ibragim Valikhodjaev”, San’at, n. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [UzA — Mostra d'arte dell'Uzbekistan a Pechino, 23 gennaio 2024 (testo uzbeko)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 Link dell'artista: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

@@ -29,9 +29,7 @@ edition_date: "2026-10-12"
 
 学校に通う頃から画家になりたいと考えていた。しかし、その幼い願いから専門教育を受けるまでには、自ら働く年月があった。後年の市場の情景、肖像、農村生活の絵画には、人々とその仕事、暮らしの環境への関心が表れている。画家の歩みはここで、故郷と家族の歴史に重なる。
 
-HD Magazineの対談では、具体的な記憶を通してこの道のりを振り返っている。小学校に入る前から絵を描き、在学中はピオネールの家に通った。父は職人で、身近には美術の高等教育へ進む道を詳しく教えてくれる人がいなかった。イブラギムは美術基金に所属する地元の画家の仕事を見て、自分でも練習した。美術の世界との最初の出会いは、そうした交流と日々の観察から生まれた。
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+小学校に入る前から絵を描き、在学中はピオネールの家に通った。父は職人で、身近には美術の高等教育へ進む道を詳しく教えてくれる人がいなかった。イブラギムは美術基金に所属する地元の画家の仕事を見て、自分でも練習した。美術の世界との最初の出会いは、そうした交流と日々の観察から生まれた。
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ HD Magazineの対談では、具体的な記憶を通してこの道のりを振
 
 自身の作品に囲まれた若き画家。 画家のアーカイブより。
 
-学院に入る前、ヴァリホジャエフは装飾画家として10年間働いた。HD Magazineの対談では、当時は組織に専属の画家がおり、画像や文字が施設の日常に必要だったと説明する。家族の記憶によると、ナマンガンでポスター、看板、室内装飾を手がけ、職人のチームを率いていた。注文仕事は、描き、文字を書き、飾り、内容を相談して仕上げる手作業だった。若いイブラギムには、絵画の卒業資格を得るよりずっと前から、身につけた職業と収入源があった。
+学院に入る前、ヴァリホジャエフは装飾画家として10年間働いた。当時は組織に専属の画家がおり、画像や文字が施設の日常に必要だった。家族の記憶によると、ナマンガンでポスター、看板、室内装飾を手がけ、職人のチームを率いていた。注文仕事は、描き、文字を書き、飾り、内容を相談して仕上げる手作業だった。若いイブラギムには、絵画の卒業資格を得るよりずっと前から、身につけた職業と収入源があった。
 
 しかし、装飾だけが活動のすべてではなかった。野外に出て習作を描き、人物を直接観察して肖像画も制作した。回想には茶屋も登場する。器を手に持つ人物の画像が記憶に残っていた。普通の街の環境で出会ったこうした画像が、自分も画家になりたいという願いを呼び起こした。絵画への道は、日常の場所、人の観察、自分で絵具を使う試みの中にもあった。
 
 その環境の別の一部が、当時刊行され、美術家の作品を掲載した美術雑誌だった。若いイブラギムは図版を見てラヒム・アフメドフの絵を追い、とくに肖像画を覚えていた。まだ師を直接知らず、最初の出会いは雑誌のページで起きた。図版によって一枚の絵に繰り返し立ち返り、見つめ、自分が学びたいことを確かめられた。学院でアフメドフの工房を選んだのは、以前から育っていた関心の続きだった。
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## 教師は道を切り開き、芸術家は自らの言語を探し求める。
 
@@ -191,13 +187,9 @@ HD Magazineの対談では、具体的な記憶を通してこの道のりを振
 
 1993年、ヴァリホジャエフはナマンガンに、独立後のウズベキスタンで初めての私設アートギャラリーであるトゥモルを設立し、1999年まで運営した。国内の民間ギャラリー活動の先駆者となったのである。個人の取り組みが、従来の国営展示施設とは別に、作品と観客が出会う場所を生んだ。 家族によれば、先駆的な創設者としての役割は百科事典にも記録された。
 
-自身の画廊については、収集の経験から語っている。展覧会で仲間の優れた作品に出会うと、資金が許すときには一、二点を購入したいと思った。絵画、陶芸、工芸からなるコレクションが、そうして育った。画廊は彼にとって、作品を選び、保存し、ともに暮らし、ほかの人に見せる場だった。HD Magazineの対談では、このような美術への愛着と、単に絵を転売することを区別している。
+自身の画廊については、収集の経験から語っている。展覧会で仲間の優れた作品に出会うと、資金が許すときには一、二点を購入したいと思った。絵画、陶芸、工芸からなるコレクションが、そうして育った。画廊は彼にとって、作品を選び、保存し、ともに暮らし、ほかの人に見せる場だった。彼は、このような美術への愛着と、単に絵を転売することを区別している。
 
 対談当時の美術家の労働条件にも触れている。一枚の絵が高価でも、それだけで収入が安定するとは限らないと説明する。販売の間隔が長くても、画家は制作を続ける。以前は教えるよりも自分の創作で暮らすことを望んだ仲間もいたが、後には不定期な販売がその選択を難しくしたという。報酬が合意された注文と、将来の買い手を知らずに描く自主的な絵の違いが、ここでは重要になる。
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997年から1999年まで、美術家連盟と美術基金のナマンガン支部を率いた。母の世話、自身の絵画制作、故郷の美術活動の運営は、この時期の異なる側面だった。その後ナマンガンからタシケントへ移ったが、その頃にはすでに、母を失う悲しみを経験していた。
 
@@ -404,8 +396,6 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 対談の終わりには、具体的な心配に戻る。画家が亡くなったあと、絵でいっぱいの工房はどうなるのか。ヴァリホジャエフは、長年の仕事が込められた作品を相続人が望まなかった例を語る。作品を集め、目録を作り、保管場所を確保して、次の世代が参照できるようにすることを提案する。この問いは彼自身の資料にも関わる。会長、画廊創設者という役割の背後にあるのは、作品の将来への配慮だ。どこに残り、誰が守り、作者の死後もどう見られるのかを考えている。
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## 異なる時期の作品をつなぐもの
 
 2012年にSan’at誌に掲載された人物紹介記事の中で、オクサナ・カディシェワはヴァリホジャエフの創作の軌跡を、初期の抑制された色彩、市場の風景、モンテネグロの風景、そして花の静物画など、様々な方向から描いている。彼女の解釈の中心にあるのは、観察を構図へと昇華させるヴァリホジャエフの能力である。こうした背景を知ることで、彼の創作活動をより包括的に理解することができる。イメージに関する新たな問いから新たな方向性が生まれ、同時に以前のテーマも共存し続けているのだ。
@@ -431,6 +421,12 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 [オクサナ・カディシェワ「イブラギム・ヴァリホジャエフの組曲に響く虹の色彩」San’at、2012年第3号](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [UzA — 北京でのウズベキスタン美術展、2024 年 1 月 23 日 (ウズベク語テキスト)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 アーティスト関連リンク：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

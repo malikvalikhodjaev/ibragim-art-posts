@@ -29,9 +29,7 @@ edition_date: "2026-10-12"
 
 他在求學時就想成為畫家。不過，從童年的願望到進入高等藝術院校，中間還有多年獨立工作的經歷。後來創作的市集場景、肖像和鄉村生活畫作，呈現他對日常經驗的關注：人們、他們的勞作，以及周遭的環境。在這裡，畫家的個人歷程與故鄉及家庭的歷史相遇。
 
-在HD Magazine的訪談中，他透過具體的記憶回顧這段歷程。上小學之前，他已經開始畫畫，求學期間還參加少年宮的活動。父親是手藝人，身邊沒有人能夠詳細說明進入高等藝術院校的途徑。伊布拉吉姆觀察當地藝術基金所屬畫家的工作，並自己練習。他與藝術圈最初的接觸，來自這些相遇和日常觀察。
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+上小學之前，他已經開始畫畫，求學期間還參加少年宮的活動。父親是手藝人，身邊沒有人能夠詳細說明進入高等藝術院校的途徑。伊布拉吉姆觀察當地藝術基金所屬畫家的工作，並自己練習。他與藝術圈最初的接觸，來自這些相遇和日常觀察。
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ edition_date: "2026-10-12"
 
 年輕時的藝術家與自己的作品。 藝術家檔案。
 
-進入學院之前，瓦利霍賈耶夫當了十年的裝飾畫師。他在HD Magazine訪談中解釋，當時各單位有自己的畫師，圖像和文字是機構日常生活的需要。家人回憶，他在納曼干的工作包括海報、招牌和室內裝飾，也負責帶領工匠團隊。這些委託依靠手工勞動：畫圖、寫字、裝飾、商定工作並完成它。對年輕的伊布拉吉姆而言，在取得繪畫文憑很久以前，這已經是一門掌握的職業和收入來源。
+進入學院之前，瓦利霍賈耶夫當了十年的裝飾畫師。當時各單位有自己的畫師，圖像和文字是機構日常生活的需要。家人回憶，他在納曼干的工作包括海報、招牌和室內裝飾，也負責帶領工匠團隊。這些委託依靠手工勞動：畫圖、寫字、裝飾、商定工作並完成它。對年輕的伊布拉吉姆而言，在取得繪畫文憑很久以前，這已經是一門掌握的職業和收入來源。
 
 裝飾工作並非他全部的繪畫活動。他還到戶外畫習作，直接觀察人物，繪製寫生肖像。回憶中也出現一家茶館：一個手持碗的人物圖像留在他的記憶裡。這些在普通城市環境中遇見的圖像，喚起了他自己成為畫家的願望。通向繪畫的道路，也經過日常場所、對人的觀察，以及他親自進行的顏料實驗。
 
 那個環境的另一部分，是當時出版、刊載藝術家作品的美術雜誌。年輕的伊布拉吉姆觀看複製圖，關注拉希姆·艾哈邁多夫的繪畫，尤其記得那些肖像。他尚未與大師見面，最初的相遇發生在雜誌頁面上。這些圖像讓他能夠反覆觀看一幅畫，仔細研究，發現自己想要學習的東西。因此，在學院選擇艾哈邁多夫的工作室，延續了此前已經形成的興趣。
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## 教師開路，藝術家尋找語言
 
@@ -191,13 +187,9 @@ edition_date: "2026-10-12"
 
 1993年，瓦利霍賈耶夫在納曼干創辦圖莫爾畫廊沙龍，這是獨立後的烏茲別克第一家私人藝術畫廊，他負責經營至1999年。這使他成為該國私人畫廊事業的先行者：個人發起的空間，讓作品能夠在傳統國營展覽場所之外與觀眾相遇。 據家人介紹，他作為這家畫廊首位創辦者的開拓性貢獻，也被記入一部百科全書。
 
-他透過收藏的經歷講述自己的畫廊。在展覽中發現同行的好作品，經濟條件允許時，他希望購買一兩件。收藏逐漸形成，涵蓋繪畫、陶瓷和工藝美術。對他而言，畫廊使人能夠挑選和保存作品，與作品共同生活，也讓其他人看到它們。在HD Magazine訪談中，他將這種對藝術的感情與單純轉售畫作區分開來。
+他透過收藏的經歷講述自己的畫廊。在展覽中發現同行的好作品，經濟條件允許時，他希望購買一兩件。收藏逐漸形成，涵蓋繪畫、陶瓷和工藝美術。對他而言，畫廊使人能夠挑選和保存作品，與作品共同生活，也讓其他人看到它們。他將這種對藝術的感情與單純轉售畫作區分開來。
 
 他也談到訪談當時藝術勞動的處境。他解釋，一幅畫的價格很高，並不等於穩定收入：兩次銷售之間可能相隔很久，畫家卻一直在工作。他回憶，以前有些同行更願意依靠自己的創作生活，而非教學；後來，銷售不穩定使這種選擇變得困難。這裡需要區分約定報酬的委託，與尚不知未來買家是誰、獨立完成的畫作。
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997至1999年，他擔任藝術家聯盟及藝術基金納曼干分部的負責人。照顧母親、創作繪畫以及組織家鄉的藝術生活，是這一時期的不同側面。後來他從納曼干遷居塔什干，那時，他已歷經失去母親的悲痛。
 
@@ -404,8 +396,6 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 訪談接近結束時，他回到一個具體的憂慮：畫家去世後，一間裝滿畫作的工作室會怎樣？瓦利霍賈耶夫講述過繼承人不願保留作品的情況，儘管那些畫凝聚了多年的勞動。他建議收集這些作品，編製清單，提供保存場所，讓後世能夠查閱。這也關係到他自己的檔案。在主席和畫廊創辦者的身分背後，是對作品未來的關心：它們將留在哪裡，由誰保存，以及在作者身後如何繼續供人接觸。
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## 作品連結不同年份
 
 在2012年為《San'at》藝術雜誌撰寫的一篇人物特寫文章中，奧克薩娜·卡德舍娃描述了瓦利霍賈耶夫的藝術歷程，涵蓋了多個方向：他早期克制的色彩運用、市場場景、蒙特內哥羅風景以及花卉靜物。她解讀的核心在於藝術家將觀察轉化為構圖的能力。這個視角有助於我們更全面地理解他的創作生涯：新的方向源自於對畫面提出新的問題，而先前的主題則繼續並存。
@@ -431,6 +421,12 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 [奧克薩娜·卡德舍娃——“伊布拉吉姆·瓦利霍賈耶夫組曲中彩虹色彩的情緒”，《San'at》藝術雜誌，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [烏茲別克國家通訊社— 烏茲別克藝術展，北京，2024年1月23日（烏茲別克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 藝術家連結：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

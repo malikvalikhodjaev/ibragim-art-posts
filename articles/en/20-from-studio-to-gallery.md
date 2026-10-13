@@ -115,21 +115,19 @@ Ibragim Valikhodjaev's works are held in the Yu Shun Art Museum (China, Harbin),
 
 [Oksana Kadysheva – “The Mood of the Rainbow Colours in Ibragim Valikhodjaev’s Suite”, San'at, No. 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+
 ## Tumor: the beginnings of a private gallery history
 
 His experience as a founder began well before Gallery House. In 1987 Valikhodjaev established a private art workshop; in 1993 he opened the Tumor gallery-salon in Namangan, which he directed until 1999. The current biographical chronology identifies Tumor as the first private art gallery in independent Uzbekistan. This milestone reveals his pioneering work in creating a place for art. His later gallery activity in Tashkent belongs to a longer history of an artist who makes works and creates the conditions in which they can meet an audience. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
 
-He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. In the HD Magazine conversation, he distinguishes that attachment to art from simply reselling paintings.
+He describes his gallery through the story of collecting. At exhibitions, he noticed strong works by fellow artists and wanted to acquire one or two whenever funds allowed. A collection gradually formed: paintings, ceramics and applied art. To him, a gallery offered a way to select and preserve works, live with them and show them to others. He distinguishes that attachment to art from simply reselling paintings.
 
 He also discusses the conditions of artistic work at the time of the interview. A high price for an individual painting, he explains, does not in itself mean a stable income: long intervals can separate sales, while an artist keeps working. He recalls that some colleagues once preferred to live from their own art rather than teaching; later, irregular sales made that choice harder. The distinction matters between a commission with agreed payment and an independent painting made before its future buyer is known.
 
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
 Towards the end of the conversation, he returns to a concrete concern: what happens to a studio full of paintings after its artist dies? Valikhodjaev describes cases in which heirs did not want works representing years of labour. He proposes bringing such works together, making inventories and providing storage so that future generations can consult them. The question concerns his own archive too. Behind his roles as chairman and gallery founder lies care for the works’ future—where they will remain, who will preserve them and how they will be accessible after their maker.
-
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Continue reading: the artist’s life and work](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 

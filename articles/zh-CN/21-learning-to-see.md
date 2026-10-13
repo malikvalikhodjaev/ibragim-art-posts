@@ -29,9 +29,7 @@ edition_date: "2026-10-12"
 
 他在上学时就想成为画家。不过，从童年的愿望到进入高等艺术院校，中间还有多年独立工作的经历。后来创作的集市场景、肖像和乡村生活画作，显出他对日常经验的关注：人们、他们的劳作，以及周围的环境。在这里，画家的个人历程与故乡及家庭的历史相遇。
 
-在HD Magazine的访谈中，他通过具体的记忆回顾这段历程。上小学之前，他已经开始画画，求学期间还参加少年宫的活动。父亲是手艺人，身边没有人能够详细说明进入高等艺术院校的途径。伊布拉吉姆观察当地艺术基金所属画家的工作，并自己练习。他与艺术圈最初的接触，来自这些相遇和日常观察。
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+上小学之前，他已经开始画画，求学期间还参加少年宫的活动。父亲是手艺人，身边没有人能够详细说明进入高等艺术院校的途径。伊布拉吉姆观察当地艺术基金所属画家的工作，并自己练习。他与艺术圈最初的接触，来自这些相遇和日常观察。
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ edition_date: "2026-10-12"
 
 年轻时的艺术家与自己的作品。 艺术家档案。
 
-进入学院之前，瓦利霍贾耶夫当了十年的装饰画师。他在HD Magazine访谈中解释，当时各单位有自己的画师，图像和文字是机构日常生活的需要。家人回忆，他在纳曼干的工作包括海报、招牌和室内装饰，也负责带领工匠团队。这些委托依靠手工劳动：画图、写字、装饰、商定工作并完成它。对年轻的伊布拉吉姆而言，在取得绘画文凭很久以前，这已经是一门掌握的职业和收入来源。
+进入学院之前，瓦利霍贾耶夫当了十年的装饰画师。当时各单位有自己的画师，图像和文字是机构日常生活的需要。家人回忆，他在纳曼干的工作包括海报、招牌和室内装饰，也负责带领工匠团队。这些委托依靠手工劳动：画图、写字、装饰、商定工作并完成它。对年轻的伊布拉吉姆而言，在取得绘画文凭很久以前，这已经是一门掌握的职业和收入来源。
 
 装饰工作并非他全部的绘画活动。他还到户外画习作，直接观察人物，绘制写生肖像。回忆中也出现一家茶馆：一个手持碗的人物图像留在他的记忆里。这些在普通城市环境中遇见的图像，唤起了他自己成为画家的愿望。通向绘画的道路，也经过日常场所、对人的观察，以及他亲自进行的颜料实验。
 
 那个环境的另一部分，是当时出版、刊载艺术家作品的美术杂志。年轻的伊布拉吉姆观看复制图，关注拉希姆·艾哈迈多夫的绘画，尤其记得那些肖像。他尚未与大师见面，最初的相遇发生在杂志页面上。这些图像让他能够反复观看一幅画，仔细研究，发现自己想要学习的东西。因此，在学院选择艾哈迈多夫的工作室，延续了此前已经形成的兴趣。
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## 教师开路，艺术家寻觅语言
 
@@ -191,13 +187,9 @@ edition_date: "2026-10-12"
 
 1993年，瓦利霍贾耶夫在纳曼干创办图莫尔画廊沙龙，这是独立后的乌兹别克斯坦第一家私人艺术画廊，他负责经营至1999年。这使他成为该国私人画廊事业的先行者：个人发起的空间，让作品能够在传统国营展览场所之外与观众相遇。 据家人介绍，他作为这家画廊首位创办者的开拓性贡献，也被记入一部百科全书。
 
-他通过收藏的经历讲述自己的画廊。在展览中发现同行的好作品，经济条件允许时，他希望购买一两件。收藏逐渐形成，涵盖绘画、陶瓷和工艺美术。对他而言，画廊使人能够挑选和保存作品，与作品共同生活，也让其他人看到它们。在HD Magazine访谈中，他将这种对艺术的感情与单纯转卖画作区分开来。
+他通过收藏的经历讲述自己的画廊。在展览中发现同行的好作品，经济条件允许时，他希望购买一两件。收藏逐渐形成，涵盖绘画、陶瓷和工艺美术。对他而言，画廊使人能够挑选和保存作品，与作品共同生活，也让其他人看到它们。他将这种对艺术的感情与单纯转卖画作区分开来。
 
 他也谈到访谈当时艺术劳动的处境。他解释，一幅画的价格很高，并不等于稳定收入：两次销售之间可能相隔很久，画家却一直在工作。他回忆，以前有些同行更愿意依靠自己的创作生活，而非教学；后来，销售不稳定使这种选择变得困难。这里需要区分约定报酬的委托，与尚不知未来买家是谁、独立完成的画作。
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997至1999年，他担任艺术家联盟及艺术基金纳曼干分部的负责人。照顾母亲、创作绘画以及组织家乡的艺术生活，是这一时期的不同侧面。后来他从纳曼干迁居塔什干，那时，他已历经失去母亲的悲痛。
 
@@ -404,8 +396,6 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 访谈接近结束时，他回到一个具体的忧虑：画家去世后，一间装满画作的工作室会怎样？瓦利霍贾耶夫讲述过继承人不愿保留作品的情况，尽管那些画凝聚了多年的劳动。他建议收集这些作品，编制清单，提供保存场所，让后世能够查阅。这也关系到他自己的档案。在主席和画廊创办者的身份背后，是对作品未来的关心：它们将留在哪里，由谁保存，以及在作者身后如何继续供人接触。
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## 作品连接着不同年份
 
 在2012年为《San’at》艺术杂志撰写的一篇人物特写文章中，奥克萨娜·卡德舍娃描述了瓦利霍贾耶夫的艺术历程，涵盖了多个方向：他早期克制的色彩运用、市场场景、黑山风景以及花卉静物。她解读的核心在于艺术家将观察转化为构图的能力。这一视角有助于我们更全面地理解他的创作生涯：新的方向源于对图像的又一思考，而之前的主题则继续并存。
@@ -431,6 +421,12 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 [奥克萨娜·卡德舍娃——“伊布拉吉姆·瓦利霍贾耶夫组曲中彩虹色彩的情绪”，《San’at》艺术杂志，2012年第3期](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [乌兹别克斯坦国家通讯社 — 乌兹别克斯坦艺术展，北京，2024年1月23日（乌兹别克文）](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 艺术家链接：[YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [Instagram](<https://www.instagram.com/ibragim.valikhodjaev/>) · [Facebook](<https://www.facebook.com/valikhodjaev/>)
 

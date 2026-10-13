@@ -115,21 +115,19 @@ Las obras de Ibragim Valikhodjaev se conservan en el Museo de Arte Yu Shun (Chin
 
 [Oksana Kadysheva – “Los estados de ánimo de los colores del arcoíris en la suite de Ibragim Valikhodjaev”, San'at, n.° 3, 2012](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+
 ## Tumor: el comienzo de una galería privada
 
 Su experiencia como fundador comenzó mucho antes de Gallery House. En 1987 Valikhodjaev creó un taller de arte privado; en 1993 abrió en Namangán la galería-salón Tumor, que dirigió hasta 1999. La cronología biográfica actual la identifica como la primera galería de arte privada del Uzbekistán independiente. Este hito revela su trabajo pionero al crear un lugar para el arte. Su posterior actividad en Taskent forma parte de una historia más larga: la de un artista que realiza obras y crea las condiciones para que se encuentren con el público. Según la familia, su papel pionero como fundador también quedó recogido en una enciclopedia.
 
-Habla de su galería a través de la historia de su colección. En las exposiciones encontraba buenas obras de sus colegas y deseaba comprar una o dos cuando sus recursos se lo permitían. Así reunió pinturas, cerámicas y artes aplicadas. Para él, la galería ofrecía la posibilidad de seleccionar y conservar obras, convivir con ellas y mostrarlas a otros. En HD Magazine distingue ese vínculo con el arte de la simple reventa de cuadros.
+Habla de su galería a través de la historia de su colección. En las exposiciones encontraba buenas obras de sus colegas y deseaba comprar una o dos cuando sus recursos se lo permitían. Así reunió pinturas, cerámicas y artes aplicadas. Para él, la galería ofrecía la posibilidad de seleccionar y conservar obras, convivir con ellas y mostrarlas a otros. Distingue ese vínculo con el arte de la simple reventa de cuadros.
 
 También habla de las condiciones del trabajo artístico en el momento de la entrevista. El precio elevado de un cuadro, explica, no equivale por sí solo a ingresos estables: puede pasar mucho tiempo entre ventas, mientras el artista sigue trabajando. Recuerda que algunos colegas preferían antes vivir de su creación en lugar de la enseñanza; posteriormente, la irregularidad de las ventas dificultaba esa elección. Importa aquí distinguir entre un encargo con un pago acordado y una pintura independiente realizada sin conocer aún a su futuro comprador.
 
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
 Al final de la conversación vuelve a una preocupación concreta: ¿qué sucede con un taller lleno de cuadros cuando el artista muere? Valikhodjaev recuerda casos en los que los herederos no querían conservar obras que representaban años de trabajo. Propone reunirlas, inventariarlas y darles un lugar de conservación para que las siguientes generaciones puedan consultarlas. La pregunta afecta también a su propio archivo. Tras sus papeles de presidente y fundador de galería aparece el cuidado por el futuro de las obras: dónde quedarán, quién las preservará y cómo serán accesibles después de su autor.
-
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 [Seguir leyendo: la vida y la trayectoria del artista](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 

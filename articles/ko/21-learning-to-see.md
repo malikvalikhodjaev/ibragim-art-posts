@@ -29,9 +29,7 @@ edition_date: "2026-10-12"
 
 그는 학교에 다닐 때부터 화가가 되고 싶어 했다. 그러나 어린 시절의 꿈과 고등 예술교육 사이에는 스스로 일한 여러 해가 있었다. 이후의 시장 장면, 초상화, 농촌 생활을 그린 작품에는 일상에 대한 관심이 드러난다. 사람들, 그들의 일, 그리고 살아가는 환경이다. 화가의 여정은 여기서 고향과 가족의 역사에 닿는다.
 
-HD Magazine 대담에서 그는 구체적인 기억으로 이 길을 되짚는다. 초등학교에 들어가기 전부터 그림을 그렸고, 학창 시절에는 피오네르의 집에 다녔다. 아버지는 장인이었으며, 가까운 곳에 고등 미술교육으로 가는 길을 자세히 설명해 줄 사람은 없었다. 이브라김은 미술기금 소속 지역 화가들의 작업을 관찰하며 스스로 연습했다. 예술계와의 첫 만남은 이런 교류와 일상적인 관찰에서 시작됐다.
-
-[HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+초등학교에 들어가기 전부터 그림을 그렸고, 학창 시절에는 피오네르의 집에 다녔다. 아버지는 장인이었으며, 가까운 곳에 고등 미술교육으로 가는 길을 자세히 설명해 줄 사람은 없었다. 이브라김은 미술기금 소속 지역 화가들의 작업을 관찰하며 스스로 연습했다. 예술계와의 첫 만남은 이런 교류와 일상적인 관찰에서 시작됐다.
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
@@ -57,13 +55,11 @@ HD Magazine 대담에서 그는 구체적인 기억으로 이 길을 되짚는�
 
 자신의 작품들 사이에 있는 젊은 작가. 작가 소장 사진.
 
-미술대학에 들어가기 전 발리호자예프는 십 년 동안 장식화가로 일했다. HD Magazine 대담에서 당시 기관마다 화가가 있었으며, 그림과 글씨가 기관의 일상에 필요했다고 설명한다. 가족의 기억에 따르면 나망간에서 포스터와 간판, 실내 장식을 만들고 장인 팀을 이끌었다. 주문 작업은 손으로 이루어졌다. 그림을 그리고 글씨를 쓰고 장식하며, 작업 내용을 협의하고 완성하는 일이었다. 젊은 이브라김에게는 회화 졸업장을 받기 오래전부터 이미 익힌 직업과 수입원이 있었다.
+미술대학에 들어가기 전 발리호자예프는 십 년 동안 장식화가로 일했다. 당시 기관마다 화가가 있었으며, 그림과 글씨가 기관의 일상에 필요했다. 가족의 기억에 따르면 나망간에서 포스터와 간판, 실내 장식을 만들고 장인 팀을 이끌었다. 주문 작업은 손으로 이루어졌다. 그림을 그리고 글씨를 쓰고 장식하며, 작업 내용을 협의하고 완성하는 일이었다. 젊은 이브라김에게는 회화 졸업장을 받기 오래전부터 이미 익힌 직업과 수입원이 있었다.
 
 그러나 장식 작업이 활동의 전부는 아니었다. 야외에 나가 습작을 그리고, 사람을 직접 관찰하며 초상화도 제작했다. 회고에는 찻집도 등장한다. 그릇을 손에 든 사람의 이미지가 기억에 남아 있었다. 평범한 도시 환경에서 만난 이런 이미지가 자신도 화가가 되고 싶다는 마음을 일깨웠다. 회화로 향하는 길은 일상의 장소와 사람에 대한 관찰, 물감을 이용한 자신의 실험 속에도 있었다.
 
 그 환경의 또 다른 부분은 당시 발행되어 예술가들의 작품을 소개하던 미술 잡지였다. 젊은 이브라김은 도판을 살펴보며 라힘 아흐메도프의 그림을 찾아보았고, 특히 초상화를 기억했다. 아직 스승을 직접 알기 전으로, 첫 만남은 잡지 페이지에서 이루어졌다. 도판을 통해 한 그림으로 다시 돌아가 자세히 보고 자신이 배우고 싶은 것을 알아갈 수 있었다. 대학에서 아흐메도프의 작업실을 선택한 것은 이미 자라난 관심의 연장이었다.
-
-[HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
 
 ## 선생은 길을 열어주고, 예술가는 자신의 언어를 찾는다.
 
@@ -191,13 +187,9 @@ HD Magazine 대담에서 그는 구체적인 기억으로 이 길을 되짚는�
 
 1993년 발리호자예프는 나망간에 독립 이후 우즈베키스탄 최초의 사립 미술 갤러리인 투모르를 설립하고 1999년까지 운영했다. 그는 이 나라 민간 갤러리 활동의 선구자가 되었다. 개인의 시도가 기존 국영 전시장 체계 밖에서 작품과 관람객이 만날 수 있는 공간을 만든 것이다. 가족에 따르면 그가 선구적인 설립자로서 맡은 역할은 백과사전에도 기록되었다.
 
-자신의 갤러리에 대해서는 수집의 경험을 통해 이야기한다. 전시에서 동료들의 좋은 작품을 발견하면 여유가 있을 때 한두 점을 사고 싶었다. 그렇게 회화와 도자기, 응용미술 소장품이 모였다. 갤러리는 그에게 작품을 고르고 보존하며, 작품과 함께 생활하고 다른 사람에게 보여 줄 수 있는 공간이었다. HD Magazine 대담에서는 이런 예술에 대한 애착을 단순한 그림 재판매와 구분한다.
+자신의 갤러리에 대해서는 수집의 경험을 통해 이야기한다. 전시에서 동료들의 좋은 작품을 발견하면 여유가 있을 때 한두 점을 사고 싶었다. 그렇게 회화와 도자기, 응용미술 소장품이 모였다. 갤러리는 그에게 작품을 고르고 보존하며, 작품과 함께 생활하고 다른 사람에게 보여 줄 수 있는 공간이었다. 그는 이런 예술에 대한 애착을 단순한 그림 재판매와 구분한다.
 
 대담 당시 예술 노동의 조건도 이야기한다. 한 그림의 높은 가격이 곧 안정적인 수입을 뜻하지는 않는다고 설명한다. 판매 사이에 오랜 시간이 지나도 화가는 계속 일한다. 예전에는 가르치는 일보다 자신의 창작으로 살아가기를 원한 동료도 있었지만, 이후 불규칙한 판매가 그 선택을 어렵게 했다고 회고한다. 대가가 합의된 주문 작업과, 미래의 구매자를 모르는 상태에서 그리는 독립적인 그림의 차이가 여기서 중요하다.
-
-[HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
-
-[HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
 
 1997~1999년에는 미술가연맹과 미술기금의 나망간 지부를 이끌었다. 어머니를 돌보고, 그림을 그리고, 고향의 미술 활동을 조직하는 일은 이 시기의 서로 다른 측면이었다. 이후 나망간에서 타슈켄트로 옮겼으며, 그때는 이미 어머니를 잃은 슬픔을 겪은 뒤였다.
 
@@ -404,8 +396,6 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 대담 마지막에는 구체적인 걱정으로 돌아온다. 화가가 세상을 떠나면 그림으로 가득한 작업실은 어떻게 될까? 발리호자예프는 여러 해의 노동이 담긴 작품을 상속인들이 원하지 않았던 사례를 말한다. 작품을 모으고 목록을 작성하며 보관 장소를 마련해 다음 세대가 참고할 수 있도록 하자고 제안한다. 이 질문은 자신의 기록에도 해당한다. 회장과 갤러리 설립자의 역할 뒤에는 작품의 미래에 대한 관심이 있다. 작품이 어디에 남고 누가 보존하며 작가가 떠난 뒤에도 어떻게 접근할 수 있을지를 고민한다.
 
-[HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
-
 ## 다양한 시기의 작품을 잇는 탐구
 
 옥사나 카디셰바는 2012년 San’at지에 실린 인물 소개 기사에서 발리호자예프의 작품 세계를 여러 방향으로 묘사했다. 초기에는 절제된 색채를 사용했고, 이후에는 시장 풍경, 몬테네그로의 풍경, 그리고 꽃 정물화 등을 그렸다. 그녀의 분석의 핵심은 관찰을 구성으로 승화시키는 작가의 능력에 있다. 이러한 맥락은 그의 창작 활동을 더욱 포괄적으로 이해하는 데 도움을 준다. 즉, 이미지에 대한 또 다른 질문에서 새로운 방향이 나타나고, 기존의 주제들은 계속해서 공존하는 모습을 보여준다.
@@ -431,6 +421,12 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 [옥사나 카디셰바, 「이브라김 발리호자예프의 모음곡에 담긴 무지개빛 정서」, San’at, 2012년 제3호](<https://sanat.orexca.com/2012-rus/2012-3-2/sanat-nastroenie-tsvetov-radugi-v-syuite/>)
 
 [UzA — 2024년 1월 23일 베이징에서 열린 우즈베키스탄 미술 전시회(우즈베크어 원문)](<https://uza.uz/ar/posts/pekinda-ozbekiston-tasviriy-va-xalq-amaliy-sanati-korgazmasi-ochildi_560667>)
+
+- [HD Magazine · 00:50–01:46](<https://www.youtube.com/watch?v=3H0kefXY034&t=50s>)
+- [HD Magazine · 01:53–04:15](<https://www.youtube.com/watch?v=3H0kefXY034&t=113s>)
+- [HD Magazine · 14:38–15:43](<https://www.youtube.com/watch?v=3H0kefXY034&t=878s>)
+- [HD Magazine · 10:00–11:02](<https://www.youtube.com/watch?v=3H0kefXY034&t=600s>)
+- [HD Magazine · 24:05–27:05](<https://www.youtube.com/watch?v=3H0kefXY034&t=1445s>)
 
 아티스트 링크: [유튜브](<https://www.youtube.com/@ibragim.valikhodjaev>) · [인스타그램](<https://www.instagram.com/ibragim.valikhodjaev/>) · [페이스북](<https://www.facebook.com/valikhodjaev/>)
 
