@@ -4,7 +4,7 @@ language: "fa"
 theme: 7
 description: "هشت سمپوزیوم مجسمه‌سازی در ترکیه و ازبکستان؛ تجربهٔ ابراهیم ولی‌خوجایف در برگزاری و نمایشگاه‌گردانی."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_15.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # از سنگ تا فضای مشترک: ابراهیم ولی‌خوجایف و سمپوزیوم مجسمه‌سازی
@@ -78,15 +78,15 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ویدئو
 
-[گزارش سمپوزیوم، سمرقند، ۲۰۲۵](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[گزارش سمپوزیوم، سمرقند، ۲۰۲۵](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [ویدئو](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[اختتامیه سمپوزیوم، سمرقند، ۲۰۲۵](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[اختتامیه سمپوزیوم، سمرقند، ۲۰۲۵](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [ویدئو](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-گزارش CNN Türk در مورد پروژه Marble Wave در استانبول، ترکیه، ۲۰۲۱: [ویدیو را تماشا کنید](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . عکس آرشیوی بالا از یک محل کار متفاوت است.
+گزارش CNN Türk در مورد پروژه Marble Wave در استانبول، ترکیه، ۲۰۲۱: **[ویدیو را تماشا کنید](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . عکس آرشیوی بالا از یک محل کار متفاوت است.
 
 ## درباره هنرمند
 

@@ -4,12 +4,14 @@ language: "de"
 theme: 19
 description: "Gebet, Krüge und Blick: Valikhodjaevs frühe Gemälde zeigen die expressive Kraft einer hellen, zurückhaltenden Farbpalette."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Eine zurückhaltende Palette: Valikhodjaevs frühe Gemälde
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Frühe Werke · Gedämpfte Farbpalette
 
@@ -64,7 +66,7 @@ Ibragim Valikhodjaev. „Krüge“. Laut Archivangabe: 1997, 54 × 68 cm. Reprod
 
 Das Stillleben bewahrt warme und kühle Farbnuancen. Das helle Feld um die Gefäße ist ungleichmäßig; die Farbstriche verlaufen auch dort, wo kein einzelnes Objekt sichtbar ist. Daher ist der Hintergrund Teil des Bildes und dient nicht als leere Kulisse für die Krugreihe.
 
-Diese Aufgabe steht im Zusammenhang mit einer späteren Untersuchung eines großflächigen Farbfeldes, obwohl das künstlerische Ergebnis ein anderes ist. In RED zieht die dominante Farbe sofort die Aufmerksamkeit auf sich; hier hingegen erkennt der Betrachter subtile Übergänge. Der Vergleich offenbart die Bandbreite des Farbinteresses des Künstlers, ohne die zurückhaltende Palette auf eine bloße Vorbereitung zukünftiger Farbpracht zu reduzieren.
+Diese Aufgabe steht im Zusammenhang mit einer späteren Untersuchung eines großflächigen Farbfeldes, obwohl das künstlerische Ergebnis ein anderes ist. In **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)** zieht die dominante Farbe sofort die Aufmerksamkeit auf sich; hier hingegen erkennt der Betrachter subtile Übergänge. Der Vergleich offenbart die Bandbreite des Farbinteresses des Künstlers, ohne die zurückhaltende Palette auf eine bloße Vorbereitung zukünftiger Farbpracht zu reduzieren.
 
 ## „Blick“: Die Grenze verbirgt und enthüllt
 

@@ -4,12 +4,14 @@ language: "fa"
 theme: 17
 description: "پرتره‌های دیاس رحمتوف، لنا و ساشا؛ رابطهٔ چهره، حالت بدن، پس‌زمینه و رنگ در سه اثر."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_10.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # چهره، حالت بدن و فضا: سه پرتره از ولی‌خوجایف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_10.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_10.html>)
+
+[ویدئو](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 <div dir="rtl" lang="fa">
 
@@ -45,7 +47,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## دیاس رحمتوف در آتلیه: از دیدار تا پرتره
 
-[دیاس رحمتوف](<https://uzbekkino.glob.uz/person/109>) بازیگر ازبک تئاتر و سینما بود. این عکس‌های آرشیوی حضور او در آتلیهٔ ولی‌خوجایف و روند شکل‌گیری پرتره‌اش را نشان می‌دهند. در کنار نقاشی تمام‌شده، حضور مدل، جای او مقابل سه‌پایه و توجه نقاش به چهره و حالت بدن آشکار می‌شود.
+**[دیاس رحمتوف](<https://uzbekkino.glob.uz/person/109>)** بازیگر ازبک تئاتر و سینما بود. این عکس‌های آرشیوی حضور او در آتلیهٔ ولی‌خوجایف و روند شکل‌گیری پرتره‌اش را نشان می‌دهند. در کنار نقاشی تمام‌شده، حضور مدل، جای او مقابل سه‌پایه و توجه نقاش به چهره و حالت بدن آشکار می‌شود.
 
 [ابراهیم ولی‌خوجایف و بازیگر دیاس رحمتوف در آتلیه. آرشیو هنرمند.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

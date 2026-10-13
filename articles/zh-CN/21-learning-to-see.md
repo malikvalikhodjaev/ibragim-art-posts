@@ -4,12 +4,14 @@ language: "zh-CN"
 theme: 21
 description: "依据公开访谈与艺术家档案，回望瓦利霍贾耶夫从纳曼干集市到抽象、雕塑与教学的艺术探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 学会观看：伊布拉吉姆·瓦利霍贾耶夫的艺术人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_373.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
+
+[视频](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 艺术人生 · 纳曼干、工作室与绘画
 
@@ -57,7 +59,7 @@ edition_date: "2026-10-12"
 
 进入学院之前，瓦利霍贾耶夫当了十年的装饰画师。当时各单位有自己的画师，图像和文字是机构日常生活的需要。家人回忆，他在纳曼干的工作包括海报、招牌和室内装饰，也负责带领工匠团队。这些委托依靠手工劳动：画图、写字、装饰、商定工作并完成它。对年轻的伊布拉吉姆而言，在取得绘画文凭很久以前，这已经是一门掌握的职业和收入来源。
 
-装饰工作并非他全部的绘画活动。他还到户外画习作，直接观察人物，绘制写生肖像。回忆中也出现一家茶馆：一个手持碗的人物图像留在他的记忆里。这些在普通城市环境中遇见的图像，唤起了他自己成为画家的愿望。通向绘画的道路，也经过日常场所、对人的观察，以及他亲自进行的颜料实验。
+装饰工作并非他全部的绘画活动。他还到户外画习作，直接观察人物，绘制**[写生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html>)**肖像。回忆中也出现一家茶馆：一个手持碗的人物图像留在他的记忆里。这些在普通城市环境中遇见的图像，唤起了他自己成为画家的愿望。通向绘画的道路，也经过日常场所、对人的观察，以及他亲自进行的颜料实验。
 
 那个环境的另一部分，是当时出版、刊载艺术家作品的美术杂志。年轻的伊布拉吉姆观看复制图，关注拉希姆·艾哈迈多夫的绘画，尤其记得那些肖像。他尚未与大师见面，最初的相遇发生在杂志页面上。这些图像让他能够反复观看一幅画，仔细研究，发现自己想要学习的东西。因此，在学院选择艾哈迈多夫的工作室，延续了此前已经形成的兴趣。
 
@@ -73,11 +75,11 @@ edition_date: "2026-10-12"
 
 在一次电视采访中，这位艺术家区分了绘画和艺术家自身的发展。训练开启了广阔的可能性世界，但如何在其中找到自己的方向则取决于艺术家本人。这一历程可以从他的作品中追溯，包括肖像画、静物画、风景画和多人物风俗画。
 
-[上方视频 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方视频 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 在《Ijod formulasi》中，他还回忆过完全不同的工作节奏：学生时代有一个月，一幅画始终无法达到理想效果。他在学院工作室画一幅集市题材的作品，也在家中改作工作空间的阳台上画另一幅。他反复回到画布前，挤出颜料作画，到晚上又因不满意而刮去画层。这样的过程持续了约一个月。一天，与家人看电视时，他忽然想要画画。走到阳台后，据他回忆，半小时便完成了家中的画作；第二天，又同样迅速地完成了工作室里的作品。这段经历说明，观众最后看到的迅速完成，背后可能是数周的探索与不满意。
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 据家人回忆，毕业创作的选题也体现了导师的信任。学生通常需要完成学院式习作，只有瓦利霍贾耶夫获准以集市为题开展独立创作。拉希姆·艾哈迈多夫认为，伊布拉吉姆已经掌握学院训练的基础，可以探索自己的艺术课题。对集市生活的观察进入他的毕业作品，后来发展为大型多人物画，并形成鲜明的个人绘画语言。
 
@@ -87,9 +89,9 @@ edition_date: "2026-10-12"
 
 ## 与拉希姆·艾哈迈多夫老师在一起
 
-拉希姆·艾哈迈多夫是乌兹别克绘画的重要名家，也是一位培养了数代艺术家的教师。他获得乌兹别克苏维埃社会主义共和国及苏联人民艺术家称号，任教授，并为苏联艺术科学院通讯院士；这些资历见于[俄罗斯艺术科学院的官方传记](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)。他的心理性肖像、风俗画和风景画，将扎实的绘画传统与对人物及乌兹别克文化的关注结合起来。瓦利霍贾耶夫于1986至1991年在其工作室学习，这段师承关系是其专业成长的重要部分。
+拉希姆·艾哈迈多夫是乌兹别克绘画的重要名家，也是一位培养了数代艺术家的教师。他获得乌兹别克苏维埃社会主义共和国及苏联人民艺术家称号，任教授，并为苏联艺术科学院通讯院士；这些资历见于**[俄罗斯艺术科学院的官方传记](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**。他的心理性肖像、风俗画和风景画，将扎实的绘画传统与对人物及乌兹别克文化的关注结合起来。瓦利霍贾耶夫于1986至1991年在其工作室学习，这段师承关系是其专业成长的重要部分。
 
-档案照片呈现了老师与年轻画家并肩处于同一艺术圈中的情景。艾哈迈多夫本人的作品可见于苏富比目录：[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)及[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)。这些链接展示的是老师的艺术，档案则帮助读者了解瓦利霍贾耶夫受训的环境。
+档案照片呈现了老师与年轻画家并肩处于同一艺术圈中的情景。艾哈迈多夫本人的作品可见于苏富比目录：**[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**及**[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**。这些链接展示的是老师的艺术，档案则帮助读者了解瓦利霍贾耶夫受训的环境。
 
 [弗拉基米尔·伊万诺维奇·布尔马金向拉希姆·艾哈迈多夫老师致贺。艺术家私人档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ edition_date: "2026-10-12"
 
 在2002年的《多普帽市》中，对巴扎生活的观察已经转化为独立的绘画结构。白色头巾与衣服形成反复出现的明亮形状，人物彼此靠近、相互遮叠，几乎占满画布。前景的小物件与带花纹的细节，仍让画面与具体的交易场景相连。同年的《摇篮市场》以另一种方式组织空间：大片红色、深色与黄色平面彼此分隔。这些作品属于学生时代确立题材之后的发展阶段，并不是毕业创作的图像；在其中，日常生活已经获得了新的色彩与形态语言。
 
-[上方视频 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[上方视频 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 厘米. 复制图像来自艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ edition_date: "2026-10-12"
 
 他的职业道路与乌兹别克斯坦艺术机构的变化并行。艺术科学院于1997年1月23日成立；同年，瓦利霍贾耶夫担任艺术家联盟纳曼干分会主席。此后，他于1999至2005年领导科学院专项基金，于1999至2012年领导乌兹别克斯坦艺术基金。自2017年担任联盟主席、2023年成为院士，加上画廊工作与国际项目，展现出个人创作如何与为其他艺术家创造条件相连接。这是一种把生平放回文化环境中的对照，并不意味着整个环境的发展由一位艺术家决定。
 
-[历史背景：乌兹别克斯坦艺术科学院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[历史背景：乌兹别克斯坦艺术科学院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## 塔什干：在艺术基金的工作之外持续创作
 
@@ -239,7 +241,7 @@ edition_date: "2026-10-12"
 
 伊布拉吉姆·瓦利霍贾耶夫在2008年周年纪念展上。艺术家档案。
 
-2012年的黑山之行尤其能说明他的创作效率。据家人提供的信息，他在21天的户外写生项目中完成42幅画，并带回乌兹别克斯坦。个人展览《黑山21日》于6月28日至7月13日在塔什干举行。写生与展览构成一个完整的工作过程：接触新的地方，大量面对实景作画，再将成果汇集成展览。
+2012年的**[黑山](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)**之行尤其能说明他的创作效率。据家人提供的信息，他在21天的户外写生项目中完成42幅画，并带回乌兹别克斯坦。个人展览《黑山21日》于6月28日至7月13日在塔什干举行。写生与展览构成一个完整的工作过程：接触新的地方，大量面对实景作画，再将成果汇集成展览。
 
 这样的速度包含持续观察与不断作出绘画判断。下方照片呈现了同一实践的另一面：画家置身乡村街巷、庭院、岩石与树木之间。这些档案影像记录的是他在乌兹别克斯坦的写生实践，并非黑山之行的照片。此后的展览、示范教学及国际项目，仍与他自己的创作并行。
 
@@ -267,13 +269,13 @@ edition_date: "2026-10-12"
 
 孩子们围观艺术家的户外创作。 艺术家档案。
 
-[展览筹备录像：以乌兹别克斯坦艺术家联盟主席身份参与工作的伊布拉吉姆·瓦利霍贾耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[展览筹备录像：以乌兹别克斯坦艺术家联盟主席身份参与工作的伊布拉吉姆·瓦利霍贾耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [伊布拉吉姆·瓦利霍贾耶夫参加土耳其的户外写生活动。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 伊布拉吉姆·瓦利霍贾耶夫参加土耳其的户外写生活动。艺术家档案。
 
-[迪亚斯·拉赫马托夫在画室：从相见到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_497.html#iv-dias-rakhmatov>)
+**[迪亚斯·拉赫马托夫在画室：从相见到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_497.html#iv-dias-rakhmatov>)**
 
 ## 色彩成为研究对象
 
@@ -281,7 +283,7 @@ edition_date: "2026-10-12"
 
 这是一次对色彩关系的探索。色彩占据了画面的哪个部分？它与相邻色调的边界处会发生什么变化？如何在保留风景结构的同时，赋予色彩更大的自主性？在这些作品中，红色在图像的构建中扮演着重要角色，并决定着图像的情感共鸣。
 
-[上方视频 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方视频 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED：在观众面前作画
 
@@ -289,7 +291,7 @@ edition_date: "2026-10-12"
 
 乌兹别克斯坦使馆的展览报道记载了31件作品，以及面向观众的绘画示范。照片让人比较手的位置、调色板和正在形成的画面。对红色的研究，由它与相邻色调的关系，以及整张画布的组织方式具体呈现。
 
-[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED绘画示范：观众观看创作，乌兹别克斯坦，塔什干，2017年。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 ## 已有的艺术语言仍可以继续探索
 
-“我总是尝试用一种新颖独特的方式看待熟悉的事物，”这位艺术家在2017年的一次采访中说道（译自俄语）。这一理念有助于将他早期的风俗画与后来的抽象创作联系起来。在《新视角》展览的作品中，画面由大片色块、轮廓和几何关系构成。原本连接市场场景中人物的构图联系，如今则在独立的形体之间显现出来。
+“我总是尝试用一种新颖独特的方式看待熟悉的事物，”这位艺术家在2017年的一次采访中说道（译自俄语）。这一理念有助于将他早期的风俗画与后来的抽象创作联系起来。在《**[新视角](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_938.html>)**》展览的作品中，画面由大片色块、轮廓和几何关系构成。原本连接市场场景中人物的构图联系，如今则在独立的形体之间显现出来。
 
 推动艺术家向前的，是兴趣、好奇心与发现新事物的愿望。已经形成的绘画语言为下一步实验提供了起点：色彩、形态与构图还能怎样组织？题材或尺度改变之后，又会发生什么？因此，巴扎系列之外还有肖像、静物、风景，RED对红色的探索、New View的抽象绘画，以及雕塑。在电视访谈中，瓦利霍贾耶夫强调，形成可辨识的风格并不是停下来的理由：每一件新作都应开启另一种艺术解决方式。
 
-[上方视频 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方视频 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [“新视角”展览开幕，乌兹别克斯坦，塔什干，2024 年。照片由乌兹别克斯坦艺术科学院发布。](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 2026年，在中国哈尔滨禹舜美术馆举办的个展“雪地之阳”赋予了他的巨幅画布全新的维度。上方的视频展现了展厅的震撼力：远观，整体结构清晰可辨；近距离观察，一片鲜明的色彩占据了观者视野的相当一部分。这位艺术家的作品被收藏于禹舜美术馆、土耳其伊斯坦布尔马尔特佩市政府、俄罗斯莫斯科的一处私人收藏以及其他公共和私人机构。
 
-[上方视频 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[上方视频 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 以下这张档案照片展示了艺术家在另一次展览见面会上的情景。照片的确切日期和地点不详；哈尔滨的展览可以在上面的视频中看到。
 
@@ -343,9 +345,9 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 瓦利霍贾耶夫除了自己的创作之外，还负责在土耳其和乌兹别克斯坦组织和策划八届国际雕塑创作营。这包括邀请艺术家并为他们创造创作条件。在2024年接受Kultura.uz采访时，他特别强调了乌兹别克斯坦雕塑家，尤其是年轻一代雕塑家所积累的知识和经验。
 
-在画廊工作和教学中，分享经验的愿望显而易见。Valikhodjaev Gallery House 的第二家画廊于2021年8月5日开幕。绘画示范和面向学生的课程让学生有机会近距离观察专业艺术家的创作过程：艺术家如何开始一幅画作，如何修改局部，以及如何评估最终效果。组织聚会、参加户外写生活动以及创作自己的作品，这些都是不同的角色，各自承担着不同的责任。
+在画廊工作和教学中，分享经验的愿望显而易见。**[Valikhodjaev Gallery House](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_40.html>)** 的第二家画廊于2021年8月5日开幕。绘画示范和面向学生的课程让学生有机会近距离观察专业艺术家的创作过程：艺术家如何开始一幅画作，如何修改局部，以及如何评估最终效果。组织聚会、参加户外写生活动以及创作自己的作品，这些都是不同的角色，各自承担着不同的责任。
 
-[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## 今天：艺术创作与艺术共同体的责任
 
@@ -390,7 +392,7 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 他的探索之旅在他的作品中得以延续：从市场人群、红色变幻的意象、抽象画布的构建，到雕塑与公共空间的碰撞。这些不同的创作方向都贯穿着一种探索精神——不断以全新的视角审视事物，并寻求不同的绘画表达方式。
 
-[上方视频 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[上方视频 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 目前已知瓦利霍贾耶夫的作品超过600件，以绘画为主。它们横跨不同阶段与探索方向：早期克制的色调、纳曼干集市、肖像、静物、人体、户外写生风景、RED与抽象。他仍在通过色彩、形态和构图的新问题推进创作。
 
@@ -432,13 +434,13 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 谈到中国展览的筹备时，他先说起展厅。此前他已看过这一空间，收到平面图和尺寸后，又思考带哪些作品、如何安排。宽敞明亮的展厅能够展示大幅画作。随后，艺术上的决定成为实际的任务：画布从内框上取下，卷成卷，通过货运飞机运送。艺术家先于作品抵达，等待它们到来，并参与布展。在电视访谈中，展览由这一连串决定逐步形成，从画作的尺度，到运输，再到展厅中的位置。
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [伊布拉吉姆·瓦利霍贾耶夫站在自己创作的漂浮雕塑前；河面已结冰。中国哈尔滨，2026年2月25日。艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 伊布拉吉姆·瓦利霍贾耶夫站在自己创作的漂浮雕塑前；河面已结冰。中国哈尔滨，2026年2月25日。艺术家档案。
 
-[哈尔滨展览开幕视频，2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[哈尔滨展览开幕视频，2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**
 
 ## 传授经验：在西安为绘画专业学生举办大师课
 
@@ -446,6 +448,6 @@ RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 
 
 [视频](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**

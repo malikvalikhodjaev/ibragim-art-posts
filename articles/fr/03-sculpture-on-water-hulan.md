@@ -4,12 +4,14 @@ language: "fr"
 theme: 3
 description: "Valikhodjaev, sculpteur participant à Hulan en Chine en 2024 : métal, silhouette, reflets et sculptures flottantes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Des sculptures sur la rivière : Ibragim Valikhodjaev à Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Sculpture et environnement
 
@@ -30,7 +32,7 @@ Dans cet article
 
 ## Vidéo
 
-[Le processus de création et les sculptures flottantes](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[Le processus de création et les sculptures flottantes](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -40,7 +42,7 @@ Sculptures flottantes sur le fleuve. Photo issue des archives de l’artiste ; l
 
 L'environnement de la sculpture est en perpétuelle mutation. Les nuages ​​défilent derrière sa silhouette, un reflet apparaît en contrebas, des ondulations perturbent les couleurs, et la lumière du soir modifie le rapport entre la figure et le fond. Un seul et même objet se révèle sous de multiples aspects. L'eau et le rivage contribuent à la perception de l'œuvre de manière aussi tangible que la distance et le point de vue choisi.
 
-En 2024, Ibragim Valikhodjaev a participé, en tant que sculpteur, à un projet international de sculptures flottantes à Hulan, en Chine. Les vidéos de sa chaîne le montrent travaillant le métal et une installation fluviale, de jour comme de nuit. Ce projet collaboratif réunit plusieurs artistes ; Valikhodjaev y participe en tant qu’auteur de sa propre sculpture. Ce contexte nous permet d’explorer sa pratique artistique et les possibilités offertes par la sculpture en plein air.
+En 2024, Ibragim Valikhodjaev a participé, en tant que sculpteur, à un projet international de sculptures flottantes à Hulan, en Chine. Les vidéos de sa chaîne le montrent travaillant le métal et une installation fluviale, de jour comme de nuit. Ce projet collaboratif réunit plusieurs artistes ; Valikhodjaev y participe en tant qu’auteur de sa propre sculpture. Ce contexte nous permet d’explorer sa pratique artistique et les possibilités offertes par la sculpture en **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html>)**.
 
 Son travail à Hulan témoigne de la curiosité de Valikhodjaev pour les nouveaux matériaux et les modes d'expression artistique. En peinture, son exploration se concentre sur la couleur, le plan et la composition ; en sculpture, ces questions sont complétées par le volume, la silhouette, la lumière et l'espace réel. L'objet flottant présente un défi unique : l'image se modifie selon la perspective, la lumière et les reflets, et l'environnement devient un acteur de la perception.
 
@@ -113,7 +115,7 @@ Ces vidéos tournées durant l’hiver 2026 montrent l’artiste au bord de la r
 
 [L’artiste rejoint la rivière gelée](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[Une promenade sur la glace parmi les sculptures de différents artistes](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[Une promenade sur la glace parmi les sculptures de différents artistes](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## Dans les archives d’un projet de sculpture en Chine
 

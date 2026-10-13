@@ -4,7 +4,7 @@ language: "uz"
 theme: 15
 description: "Valixo‘jayev asarlari muzey, galereya va shaxsiy kolleksiyalarda: ko‘rgazma tarixi bilan saqlanish tarixining farqi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/korgazmadan-keyingi-hayot-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Ko‘rgazmadan keyin: asarning muzey va kolleksiyalardagi hayoti
@@ -70,11 +70,11 @@ Ibrohim Valixo‘jayev, "Namangan syuitasi." Rassom arxividagi reproduksiya. [As
 
 Asarning nomi, rassomi, materiali va tarixi haqidagi aniq ma'lumotlar uning kelajakdagi hayotini qo‘llab-quvvatlaydi. Yangi nashrlarda tanib olish imkonini beruvchi hujjatlar va tasvirlar ham rasm bilan bir qatorda muhimdir. Ushbu blogda arxiv reproduktsiyalari sarlavhalar bilan birga keltirilgan va tafsilotlar to‘liq tasvirlarga bog‘langan.
 
-Uning tarjimai holi, ko‘rgazma yozuvlari va asarlarining fotosuratlari Valixo‘jayev amaliyotining turli qirralarini bog‘lashga yordam beradi. Uning "Bozor" turkumida u odamlar va kundalik hayotga; RED turkumida qizil rang imkoniyatlariga; «Yangi nigoh»da abstraksiyaga qiziqdi. Muzeylar va kolleksiyalar ushbu tadqiqot natijalarini saqlaydi va yangi tomoshabinlar uni uning asarlariga e'tiborlari bilan davom ettiradilar.
+Uning tarjimai holi, ko‘rgazma yozuvlari va asarlarining fotosuratlari Valixo‘jayev amaliyotining turli qirralarini bog‘lashga yordam beradi. Uning "Bozor" turkumida u odamlar va kundalik hayotga; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida qizil rang imkoniyatlariga; «Yangi nigoh»da abstraksiyaga qiziqdi. Muzeylar va kolleksiyalar ushbu tadqiqot natijalarini saqlaydi va yangi tomoshabinlar uni uning asarlariga e'tiborlari bilan davom ettiradilar.
 
 ## Videoni tomosha qiling
 
-["Qor ustidagi quyosh" shaxsiy ko‘rgazmasining ochilishi, Xitoy, Xarbin, 2026 yil](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**["Qor ustidagi quyosh" shaxsiy ko‘rgazmasining ochilishi, Xitoy, Xarbin, 2026 yil](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

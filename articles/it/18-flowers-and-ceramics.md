@@ -4,7 +4,7 @@ language: "it"
 theme: 18
 description: "Mazzi di fiori, margherite e rose: ceramiche, intervalli e pennellate nelle nature morte floreali di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/oltre-il-bouquet-fiori-ceramica-e.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Oltre il bouquet: fiori, ceramica e pennellate di Valikhodjaev
@@ -80,7 +80,7 @@ Il tavolo nero funge da supporto inferiore. Il vaso chiaro e alcuni tocchi di gi
 
 ## Natura morta nell'ambito della più ampia esplorazione artistica
 
-Valikhodjaev affronta diverse sfide artistiche: l'osservazione delle figure umane nella serie Namangan, l'esplorazione del rosso in RED e le forme autonome in "New View". Nella sua natura morta floreale, una serie di interrogativi vengono esplorati attraverso la texture, il contrasto e la natura delle pennellate. Questo tema familiare offre opportunità uniche di sperimentazione.
+Valikhodjaev affronta diverse sfide artistiche: l'osservazione delle figure umane nella serie Namangan, l'esplorazione del rosso in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)** e le forme autonome in "New View". Nella sua natura morta floreale, una serie di interrogativi vengono esplorati attraverso la texture, il contrasto e la natura delle pennellate. Questo tema familiare offre opportunità uniche di sperimentazione.
 
 Confronta la visione d'insieme con un frammento di fiori, poi esamina l'ornamento del vaso. Tornando alla visione più ampia, potrai percepire più chiaramente la connessione tra i due ritmi. Il bouquet, il vaso e l'ambiente circostante acquistano espressività grazie al modo in cui sono dipinti e collegati sulla superficie del dipinto.
 

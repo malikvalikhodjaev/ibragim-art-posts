@@ -4,12 +4,14 @@ language: "fr"
 theme: 6
 description: "Barques, palmiers et pierre claire : deux paysages de Perast dans la série monténégrine de Valikhodjaev, réalisée en 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Paysage du Monténégro
 
@@ -64,7 +66,7 @@ La transition entre le premier plan lumineux et l'arrière-plan relativement cal
 
 ## Peindre en plein air, puis retrouver le motif
 
-L'œuvre remonte à 2012, année où Valikhodjaev a participé à un projet de peinture en plein air au Monténégro. L'exposition « 21 jours au Monténégro » s'est tenue la même année à Tachkent, en Ouzbékistan. Cette information permet de distinguer le lieu du voyage créatif de celui de l'exposition. La peinture elle-même révèle ce que le voyage a apporté à l'artiste : un nouveau motif, une relation différente entre l'architecture et l'eau, et une nouvelle approche des transitions spatiales.
+L'œuvre remonte à 2012, année où Valikhodjaev a participé à un projet de **[peinture en plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html>)** au Monténégro. L'exposition « 21 jours au Monténégro » s'est tenue la même année à Tachkent, en Ouzbékistan. Cette information permet de distinguer le lieu du voyage créatif de celui de l'exposition. La peinture elle-même révèle ce que le voyage a apporté à l'artiste : un nouveau motif, une relation différente entre l'architecture et l'eau, et une nouvelle approche des transitions spatiales.
 
 Au cours de ce voyage, l'observation prend une nouvelle dimension. Les bateaux qui virent forment le premier plan, le quai les relie à la ville, et les tons froids du lointain élargissent l'espace. Le tableau achevé préserve ces liens et nous permet de revenir à ce que nous avons vu dans la salle d'exposition.
 

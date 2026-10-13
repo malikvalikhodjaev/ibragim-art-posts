@@ -4,7 +4,7 @@ language: "ko"
 theme: 7
 description: "터키와 우즈베키스탄에서 기획하고 큐레이팅한 여덟 차례의 국제 조각 심포지엄. 재료와 교류, 공공 공간의 의미."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_837.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 돌에서 공공 공간으로 — 조각 심포지엄을 만드는 일
@@ -76,15 +76,15 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 동영상
 
-[2025년 사마르칸트에서 개최된 심포지엄 보고서](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[2025년 사마르칸트에서 개최된 심포지엄 보고서](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [영상](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[심포지엄 폐막식, 사마르칸트, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[심포지엄 폐막식, 사마르칸트, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [영상](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN Türk의 2021년 터키 이스탄불 마블 웨이브 프로젝트 관련 보도 [영상이다](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . 위의 사진은 다른 제작 현장에서 촬영된 자료 사진이다.
+CNN Türk의 2021년 터키 이스탄불 마블 웨이브 프로젝트 관련 보도 **[영상이다](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . 위의 사진은 다른 제작 현장에서 촬영된 자료 사진이다.
 
 ## 작가 소개
 

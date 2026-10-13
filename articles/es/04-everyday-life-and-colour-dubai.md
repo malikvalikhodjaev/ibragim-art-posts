@@ -4,7 +4,7 @@ language: "es"
 theme: 4
 description: "In Silence en Mondoir, Dubái, 2024: vida cotidiana uzbeka, color expresivo y distintas etapas de la obra de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/los-colores-de-la-vida-cotidiana.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Los colores de la vida cotidiana: Valikhodjaev en Dubái
@@ -30,7 +30,7 @@ Una escena cotidiana se transforma en pintura cuando el artista descubre su estr
 
 En 2024, se celebró en Dubái, Emiratos Árabes Unidos, en la galería Mondoir, la exposición individual titulada "En silencio". Comisariada por Zahra Habibizad, también conocida como Zara, la exposición presentó las pinturas de Valikhodjaev a un público internacional y permitió vislumbrar cómo los temas de la vida cotidiana uzbeka influyen en un diálogo más amplio sobre la humanidad, la memoria y el lenguaje artístico.
 
-La exposición de Dubái también puede interpretarse como un encuentro de distintas corrientes artísticas. En su serie Namangan, Valikhodjaev quedó cautivado por el bazar, la gente y la vida cotidiana; en RED, por el potencial expresivo del rojo; y en la abstracción, por las relaciones independientes entre formas y planos de color. Estos intereses nos ayudan a comprender la amplitud de su práctica y su constante afán por encontrar nuevas soluciones en la pintura.
+La exposición de Dubái también puede interpretarse como un encuentro de distintas corrientes artísticas. En su serie Namangan, Valikhodjaev quedó cautivado por el bazar, la gente y la vida cotidiana; en **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**, por el potencial expresivo del rojo; y en la abstracción, por las relaciones independientes entre formas y planos de color. Estos intereses nos ayudan a comprender la amplitud de su práctica y su constante afán por encontrar nuevas soluciones en la pintura.
 
 ## La vida cotidiana como tema pictórico
 
@@ -86,7 +86,7 @@ La presentación en vídeo y las publicaciones sobre la exposición preservan su
 
 ## Video
 
-[Presentación en vídeo de la exposición En Silencio](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[Presentación en vídeo de la exposición En Silencio](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

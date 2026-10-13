@@ -4,7 +4,7 @@ language: "en"
 theme: 13
 description: "Rural Courtyard, Visiting, Varzik, Returning from Work and Miraki: colour, architecture and everyday life in the Uzbek village."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/a-world-built-from-colour-houses-and.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Courtyards and winding roads: the colour of Uzbek village life
@@ -120,9 +120,9 @@ Editorial material from Valikhodjaev Gallery House. Sources for illustrations ar
 
 ## Plein air begins with looking
 
-Plein air begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
+**[Plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)** begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
 
-These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, Montenegro or Azerbaijan.
+These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)** or Azerbaijan.
 
 [Valikhodjaev on a plein-air visit: a village lane and mountain landscape. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

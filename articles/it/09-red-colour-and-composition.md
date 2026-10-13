@@ -4,12 +4,14 @@ language: "it"
 theme: 9
 description: "Cavalli rossi, paesaggi RED e astrazione: come Valikhodjaev costruisce un dipinto attraverso i rapporti cromatici."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: come il rosso costruisce un dipinto
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)
+
+[Video](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 ROSSO · Colore e forma
 
@@ -101,7 +103,7 @@ In "New View", la curiosità dell'artista si rivolge all'astrazione: forme e cam
 
 ## Video
 
-[Una registrazione video della mostra "New View"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) offre un ulteriore approfondimento sull'esplorazione del colore, della forma e della scala da parte dell'artista. Le riproduzioni presentate sopra sono legate al tema RED; il video rivela una direzione diversa per il lavoro dell'artista.
+**[Una registrazione video della mostra "New View"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** offre un ulteriore approfondimento sull'esplorazione del colore, della forma e della scala da parte dell'artista. Le riproduzioni presentate sopra sono legate al tema RED; il video rivela una direzione diversa per il lavoro dell'artista.
 
 ## Informazioni sull'artista
 
@@ -155,7 +157,7 @@ Masterclass RED: il pubblico osserva il pittore, Uzbekistan, Tashkent, 2017. Arc
 
 Masterclass RED: sviluppo della composizione, Uzbekistan, Tashkent, 2017. Archivio dell’artista.
 
-[RED e la masterclass: Ambasciata dell’Uzbekistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED e la masterclass: Ambasciata dell’Uzbekistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Nello studio, prima e dopo la mostra
 

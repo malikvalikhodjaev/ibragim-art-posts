@@ -4,7 +4,7 @@ language: "it"
 theme: 20
 description: "Valikhodjaev, artista e fondatore di Gallery House: dalla ricerca pittorica alla curatela, all’insegnamento e al pubblico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dallo-studio-alla-galleria-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Dallo studio alla galleria: Valikhodjaev crea spazi per l’arte
@@ -40,7 +40,7 @@ Valikhodjaev ha fondato la Valikhodjaev Gallery House; una seconda galleria è s
 
 ## Un'esplorazione personale entra nello spazio pubblico
 
-In studio, l'artista riflette sulla relazione tra colore, forma e composizione. La serie Namangan nasce dall'interesse di Valikhodjaev per le persone e la vita quotidiana del bazar; RED, dalla sua esplorazione del rosso; e New View, dalle possibilità dell'astrazione. Ogni filone si sviluppa a partire da specifici obiettivi artistici.
+In studio, l'artista riflette sulla relazione tra colore, forma e composizione. La serie Namangan nasce dall'interesse di Valikhodjaev per le persone e la vita quotidiana del bazar; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**, dalla sua esplorazione del rosso; e New View, dalle possibilità dell'astrazione. Ogni filone si sviluppa a partire da specifici obiettivi artistici.
 
 In mostra, queste scelte diventano un'esperienza per lo spettatore. Distanza, illuminazione e giustapposizione delle opere cambiano; le singole opere possono essere messe a confronto. L'ambiente della galleria ci aiuta a osservare l'esplorazione artistica in corso, ritornando dall'intero percorso a un singolo dipinto.
 
@@ -74,7 +74,7 @@ Dietro i suoi molteplici ruoli professionali, Valikhodjaev mantiene un interesse
 
 ## Video da guardare
 
-[Attività con gli studenti, 8 agosto 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Attività con gli studenti, 8 agosto 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Questi due video d’archivio mostrano l’artista mentre partecipa alla prepara
 
 [Video](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Preparazione della mostra — Ibragim Valikhodjaev, presidente dell’Unione degli artisti dell’Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Preparazione della mostra — Ibragim Valikhodjaev, presidente dell’Unione degli artisti dell’Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Visita alla mostra — Ibragim Valikhodjaev, presidente dell’Unione degli artisti dell’Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Visita alla mostra — Ibragim Valikhodjaev, presidente dell’Unione degli artisti dell’Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## Il dipinto nello spazio della mostra
 

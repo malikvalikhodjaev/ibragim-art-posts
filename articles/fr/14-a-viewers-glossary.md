@@ -4,7 +4,7 @@ language: "fr"
 theme: 14
 description: "Dix notions pour regarder un tableau : composition, palette, silhouette, rythme et matière chez Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-lexique-du-regard-dix-cles-pour.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Le lexique du regard : dix clés pour comprendre la peinture
@@ -61,7 +61,7 @@ Une silhouette est le contour général d'une figure ou d'un objet. On reconnaî
 
 ## 4. Composition
 
-La composition unit les différentes parties d'une œuvre pour former un tout. Dans « Suite de Namangan », la disposition des groupes, la superposition des figures et le mouvement horizontal sont essentiels. Chaque personnage occupe un espace précis, et la répétition des jeux de lumière et de couleur relie des zones éloignées. Interrogez-vous sur le parcours que suggère cette disposition à travers le tableau.
+La composition unit les différentes parties d'une œuvre pour former un tout. Dans « **[Suite de Namangan](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html>)** », la disposition des groupes, la superposition des figures et le mouvement horizontal sont essentiels. Chaque personnage occupe un espace précis, et la répétition des jeux de lumière et de couleur relie des zones éloignées. Interrogez-vous sur le parcours que suggère cette disposition à travers le tableau.
 
 [Ibragim Valikhodjaev, «Suite de Namangan». Composition et format horizontal.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Le rythme naît de la répétition et de la variation. Des foulards blancs réap
 
 ## 6. Couleur
 
-Une palette de couleurs est l'ensemble des relations entre les couleurs d'un tableau. Dans « Miraki », le champ rouge, la route bleue, le mur clair et les arbres sombres sont perçus comme interconnectés. La teinte, la taille et la proximité de chaque élément sont toutes significatives. L'exploration du rouge dans « RED » démontre la multitude de significations qu'une seule couleur dominante peut véhiculer.
+Une palette de couleurs est l'ensemble des relations entre les couleurs d'un tableau. Dans « Miraki », le champ rouge, la route bleue, le mur clair et les arbres sombres sont perçus comme interconnectés. La teinte, la taille et la proximité de chaque élément sont toutes significatives. L'exploration du rouge dans « **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** » démontre la multitude de significations qu'une seule couleur dominante peut véhiculer.
 
 [Ibragim Valikhodjaev, « Miraki ». La palette de couleurs repose sur les relations entre de grandes zones colorées.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Un dictionnaire s'avère utile lorsqu'il nous ramène à l'œuvre. Choisissez de
 
 ## Vidéo à regarder
 
-["New View" : Couleur et géométrie dans l'espace d'exposition](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["New View" : Couleur et géométrie dans l'espace d'exposition](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

@@ -4,7 +4,7 @@ language: "ja"
 theme: 18
 description: "「花束」「陶器の花瓶のデイジー」「薔薇のある静物」。花、花瓶、筆触が生む多様なリズム。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_11.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 花束の向こうに――花、陶器、筆触のリズム

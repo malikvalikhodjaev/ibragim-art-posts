@@ -4,12 +4,14 @@ language: "de"
 theme: 9
 description: "Rote Pferde, Miraki und RED: Wie Valikhodjaev mit dominanten Farben, Konturen und dem Kontrast zu Blau Raum und Rhythmus gestaltet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: wie Rot ein Gemälde aufbaut
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Farbe und Form
 
@@ -101,7 +103,7 @@ In „New View“ richtet sich die Neugier des Künstlers auf die Abstraktion: U
 
 ## Video
 
-[Eine Videoaufzeichnung der Ausstellung „New View“](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) bietet weitere Einblicke in die Auseinandersetzung des Künstlers mit Farbe, Form und Maßstab. Die oben gezeigten Reproduktionen beziehen sich auf das Thema RED; das Video offenbart eine andere Richtung im Werk des Künstlers.
+**[Eine Videoaufzeichnung der Ausstellung „New View“](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** bietet weitere Einblicke in die Auseinandersetzung des Künstlers mit Farbe, Form und Maßstab. Die oben gezeigten Reproduktionen beziehen sich auf das Thema RED; das Video offenbart eine andere Richtung im Werk des Künstlers.
 
 ## Über den Künstler
 
@@ -155,7 +157,7 @@ RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent
 
 RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
 
-[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Im Atelier, vor und nach der Ausstellung
 

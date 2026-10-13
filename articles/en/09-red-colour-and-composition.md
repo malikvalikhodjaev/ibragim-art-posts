@@ -4,12 +4,14 @@ language: "en"
 theme: 9
 description: "Red Horses, RED landscapes and abstraction: how Valikhodjaev uses red, contrasting colour fields and expressive contours."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: how colour builds a painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)
+
+[Video](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Colour and shape
 
@@ -101,7 +103,7 @@ In "New View," the artist's curiosity is directed toward abstraction: independen
 
 ## Video
 
-[A video recording of the "New View" exhibition](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) offers a further insight into the artist's exploration of colour, form, and scale . The reproductions presented above are related to the RED theme; the video reveals a different direction for the artist's work.
+**[A video recording of the "New View" exhibition](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** offers a further insight into the artist's exploration of colour, form, and scale . The reproductions presented above are related to the RED theme; the video reveals a different direction for the artist's work.
 
 ## About the artist
 
@@ -155,7 +157,7 @@ RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 201
 
 RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.
 
-[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Inside the studio: before and after the exhibition
 

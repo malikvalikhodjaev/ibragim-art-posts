@@ -4,12 +4,14 @@ language: "it"
 theme: 17
 description: "Dias Rakhmatov, Lena e Sasha: come Valikhodjaev costruisce il ritratto attraverso colore, posa e spazio."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Volto, posa, spazio: tre ritratti di Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-un-ritratto-la-presenza.html>)
+
+[Video](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 La figura e lo spazio pittorico
 
@@ -43,7 +45,7 @@ Le spalle occupano una porzione significativa della metà inferiore del dipinto.
 
 ## Dias Rakhmatov in studio: dall’incontro al ritratto
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) era un attore uzbeko di teatro e cinema. Queste fotografie d’archivio lo mostrano nello studio di Valikhodjaev e documentano l’elaborazione del suo ritratto. Accanto al dipinto finito, rendono visibili la presenza del modello, la sua posizione davanti al cavalletto e l’attenzione del pittore al volto e alla posa.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)** era un attore uzbeko di teatro e cinema. Queste fotografie d’archivio lo mostrano nello studio di Valikhodjaev e documentano l’elaborazione del suo ritratto. Accanto al dipinto finito, rendono visibili la presenza del modello, la sua posizione davanti al cavalletto e l’attenzione del pittore al volto e alla posa.
 
 [Ibragim Valikhodjaev e l’attore Dias Rakhmatov in studio. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

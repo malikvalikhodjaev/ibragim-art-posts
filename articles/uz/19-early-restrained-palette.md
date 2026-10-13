@@ -4,12 +4,14 @@ language: "uz"
 theme: 19
 description: "«Ibodat», «Ko‘zalar», «Nigoh» va «Muqaddas toshlar»: ilk asarlardagi vazmin kolorit va nozik tonal munosabatlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Vazmin palitradagi sokinlik: ilk oq-kulrang asarlar
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Dastlabki ishlar · Vazmin palitra
 
@@ -64,7 +66,7 @@ Ibrohim Valixo‘jayev. "Ko‘zalar." Arxiv yozuviga ko‘ra: 1997, 54 × 68 sm.
 
 Natyurmort iliq va sovuq nuanslarni saqlab qolgan. Idishlar atrofidagi och rangli maydon notekis; bo‘yoq izlari hatto biron bir alohida buyum ko‘rinmaydigan joyda ham harakatlanishda davom etadi. Shuning uchun, fon ko‘zalar qatori ortidagi betaraf bo‘shliq bo‘lib qolmay tasvirning bir qismidir.
 
-Bu vazifa keyinchalik katta rang maydonini o‘rganish bilan bog‘liq, garchi badiiy natija boshqacha bo‘lsa ham. RED turkumida dominant rang darhol e'tiborni jalb qilishi mumkin; bu yerda tomoshabin nozik o‘tishlarni ajrata oladi. Taqqoslash rassomning ranglarga bo‘lgan qiziqish doirasini ochib beradi, vazmin palitrani keyingi yorqin asarlarga tayyorgarlik bilangina cheklamaydi.
+Bu vazifa keyinchalik katta rang maydonini o‘rganish bilan bog‘liq, garchi badiiy natija boshqacha bo‘lsa ham. **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida dominant rang darhol e'tiborni jalb qilishi mumkin; bu yerda tomoshabin nozik o‘tishlarni ajrata oladi. Taqqoslash rassomning ranglarga bo‘lgan qiziqish doirasini ochib beradi, vazmin palitrani keyingi yorqin asarlarga tayyorgarlik bilangina cheklamaydi.
 
 ## «Nigoh»: chegara yashirinadi va ochib beradi
 

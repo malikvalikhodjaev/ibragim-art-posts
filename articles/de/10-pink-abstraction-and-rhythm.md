@@ -4,12 +4,14 @@ language: "de"
 theme: 10
 description: "Rosa Abstraktion Nr. 1: Wie eine dunkle Horizontale, feine Linien und offene Farbflächen den Rhythmus des Gemäldes bestimmen."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bogen-flachen-und-pausen-der-rhythmus.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Ein rosa Farbfeld und eine dunkle Linie: Rhythmus bei Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bogen-flachen-und-pausen-der-rhythmus.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bogen-flachen-und-pausen-der-rhythmus.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Komposition und Rhythmus
 
@@ -53,7 +55,7 @@ Schon in der Gesamtansicht lässt sich erkennen, wie sich die verschiedenen Rosa
 
 In Valikhodjaevs Basarbildern lässt sich ein Rhythmus in den Kopftücher, den Silhouetten der Menschen und den Kurven der Hände erkennen. In dieser Abstraktion übernimmt die Richtung der Pinselstriche und der Wechsel zwischen dichten und lichteren Flächen die Rolle der Wiederholung. Diese Gegenüberstellung hilft uns, die Verbindungen zwischen den verschiedenen Richtungen seines Werks zu verstehen und gleichzeitig die Unterschiede zwischen ihnen zu wahren.
 
-„New View“ steht im Zusammenhang mit dem Interesse des Künstlers an Abstraktion, „RED“ mit der Auseinandersetzung mit der Farbe Rot und die Namangan-Serie mit den Menschen und dem Alltag auf dem Basar. „Rosa Abstraktion Nr. 1“ ermöglicht es uns, den Begriff des Rhythmus anhand eines klar definierten Farbfelds zu untersuchen. Da Entstehungsdatum und Ausstellungszugehörigkeit des Gemäldes in der verfügbaren Archivbeschreibung nicht angegeben sind, können sie hier nicht bestätigt werden.
+„**[New View](<https://ibragim-valikhodjaev.blogspot.com/2026/10/abstraktion-betrachten-farbe-und-form.html>)**“ steht im Zusammenhang mit dem Interesse des Künstlers an Abstraktion, „RED“ mit der Auseinandersetzung mit der Farbe Rot und die Namangan-Serie mit den Menschen und dem Alltag auf dem Basar. „Rosa Abstraktion Nr. 1“ ermöglicht es uns, den Begriff des Rhythmus anhand eines klar definierten Farbfelds zu untersuchen. Da Entstehungsdatum und Ausstellungszugehörigkeit des Gemäldes in der verfügbaren Archivbeschreibung nicht angegeben sind, können sie hier nicht bestätigt werden.
 
 ## Gesamtansicht und langsames Lesen
 

@@ -4,12 +4,14 @@ language: "ja"
 theme: 19
 description: "「祈り」「壺」「まなざし」「聖なる石」。抑制された色彩と微妙な明暗が形を生む初期作品を読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 抑えた色彩の静けさ――白と灰色の初期作品
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_255.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html>)
+
+[映像](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 初期作品・落ち着いた色調
 
@@ -112,7 +114,7 @@ Valikhodjaev Gallery House
 
 ## 初期の制作を一つの様式にまとめない
 
-抑えた色調は、同じ時期の別の探究と並べて見ることが大切である。1993年の《天使》では、座る女性の顔と手に注意が向けられる。1991年の《叫び》では、暗い塊と鋭い明色のアクセントが大きな役割を果たす。これらは、それぞれの絵画的な課題の独立性を保ちながら、初期制作への視野を広げる。バザールの絵画、RED、抽象への歩みは、完成した一つの様式を別の様式に取り替えることよりも、好奇心の持続として捉えるほうが適切だろう。
+抑えた色調は、同じ時期の別の探究と並べて見ることが大切である。1993年の《天使》では、座る女性の顔と手に注意が向けられる。1991年の《叫び》では、暗い塊と鋭い明色のアクセントが大きな役割を果たす。これらは、それぞれの絵画的な課題の独立性を保ちながら、初期制作への視野を広げる。バザールの絵画、**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)**、抽象への歩みは、完成した一つの様式を別の様式に取り替えることよりも、好奇心の持続として捉えるほうが適切だろう。
 
 [《天使》, 1993. 100 × 100 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYScLEqs_XrSMD1kDWF6GlrGhr40m7ETkOVPEUGvolOiqQceqv7m4wOYmp8sOfsoSzwduy1oeQeQkOy7Ym7J2uKG2bCULJPYEla4gSGdmypOLqQXiAJZZvZMl5PyxViW070Ikf8q2Vw-4qy0_b4BqxuNO38xo2fcDzbpyRBI7A89MSNlv5YxwlwqJCwrEL/w1200-rj/clipboard.png>)
 

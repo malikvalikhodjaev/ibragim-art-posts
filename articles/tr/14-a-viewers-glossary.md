@@ -4,7 +4,7 @@ language: "tr"
 theme: 14
 description: "Resme bakmak için on kavram: konu, motif, silüet, kompozisyon, ritim, renk, kontrast, doku, format ve soyutlama."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resme-bakmann-on-yolu-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Resme bakma sözlüğü: on temel kavram
@@ -61,7 +61,7 @@ Silüet, bir figürün veya nesnenin genel hatlarıdır. Beyaz bir başörtüsü
 
 ## 4. Kompozisyon
 
-Kompozisyon, bir eserin parçalarını bir bütün haline getirir. "Namangan Süiti"nde, grupların yerleşimi, figürlerin üst üste gelmesi ve yatay format boyunca hareket önemlidir. Her karakter belirli bir alanı işgal eder ve tekrarlanan ışık ve renk biçimleri uzak alanları birbirine bağlar. Kendinize şu soruyu sorun: Bu düzenleme, resim boyunca hangi yolu öneriyor?
+Kompozisyon, bir eserin parçalarını bir bütün haline getirir. "**[Namangan Süiti](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html>)**"nde, grupların yerleşimi, figürlerin üst üste gelmesi ve yatay format boyunca hareket önemlidir. Her karakter belirli bir alanı işgal eder ve tekrarlanan ışık ve renk biçimleri uzak alanları birbirine bağlar. Kendinize şu soruyu sorun: Bu düzenleme, resim boyunca hangi yolu öneriyor?
 
 [Ibragim Valikhodjaev, "Namangan Süiti." Kompozisyon ve yatay format.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -105,7 +105,7 @@ Bir sözlük, bizi esere geri döndürdüğünde faydalı hale gelir. İki kavra
 
 ## Videoyu izleyin
 
-["Yeni Bakış (New View)": Sergi Alanında Renk ve Geometri](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Yeni Bakış (New View)": Sergi Alanında Renk ve Geometri](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

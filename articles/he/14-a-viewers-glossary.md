@@ -4,7 +4,7 @@ language: "he"
 theme: 14
 description: "מנושא וצללית ועד מרקם וקנה מידה: עשרה מושגים לצפייה מדוקדקת ביצירות וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_26.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # עשרה מפתחות לציור: מדריך דרך יצירות וליכודג'ייב
@@ -63,7 +63,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## 4. קומפוזיציה
 
-קומפוזיציה מחברת את חלקי היצירה לשלם. ב"סוויטת נמנגן", מיקום הקבוצות, חפיפת הדמויות והתנועה לאורך הפורמט האופקי חשובים. כל דמות תופסת חלל מסוים, וצורות חוזרות ונשנות של אור וצבע מחברות אזורים מרוחקים. שאלו את עצמכם איזה נתיב בציור מציע הסידור הזה.
+קומפוזיציה מחברת את חלקי היצירה לשלם. ב"**[סוויטת נמנגן](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_94.html>)**", מיקום הקבוצות, חפיפת הדמויות והתנועה לאורך הפורמט האופקי חשובים. כל דמות תופסת חלל מסוים, וצורות חוזרות ונשנות של אור וצבע מחברות אזורים מרוחקים. שאלו את עצמכם איזה נתיב בציור מציע הסידור הזה.
 
 [איברגים וליכודג'ייב, "סוויטת נמנגן". קומפוזיציה ופורמט אופקי.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -75,7 +75,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## 6. צבע
 
-ערכת צבעים היא מערכת של יחסים בין צבעים בציור. ב"מיראקי", השדה האדום, הכביש הכחול, הקיר הבהיר והעצים הכהים נתפסים כקשורים זה בזה. הגוון, הגודל והקרבה של כל מקטע הם כולם משמעותיים. החקירה של אדום בסדרת RED מדגימה כמה דרכי הבעה צבע דומיננטי אחד יכול לפתוח.
+ערכת צבעים היא מערכת של יחסים בין צבעים בציור. ב"מיראקי", השדה האדום, הכביש הכחול, הקיר הבהיר והעצים הכהים נתפסים כקשורים זה בזה. הגוון, הגודל והקרבה של כל מקטע הם כולם משמעותיים. החקירה של אדום בסדרת **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_4.html>)** מדגימה כמה דרכי הבעה צבע דומיננטי אחד יכול לפתוח.
 
 [איברגים וליכודג'ייב, "מיראקי". סכמת הצבעים בנויה על היחסים בין אזורי צבע גדולים.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -107,7 +107,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## צפו בסרטון
 
-["מבט חדש": צבע וגיאומטריה בחלל התערוכה](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["מבט חדש": צבע וגיאומטריה בחלל התערוכה](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [סרטון](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

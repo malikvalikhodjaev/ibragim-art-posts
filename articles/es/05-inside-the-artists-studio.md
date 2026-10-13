@@ -4,7 +4,7 @@ language: "es"
 theme: 5
 description: "Del taller del maestro Rahim Ahmedov a las clases con alumnos: observar, componer y transmitir la experiencia pictórica."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/en-el-taller-mirar-pintar-y-aprender.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # En el taller: mirar, pintar y aprender con Ibragim Valikhodjaev
@@ -36,7 +36,7 @@ Una pintura terminada oculta las numerosas decisiones que llevaron a su creació
 
 La práctica creativa de Ibragim Valikhodjaev está intrínsecamente ligada a la docencia. Un vídeo de archivo del 8 de agosto de 2014 lo muestra trabajando en un estudio con y para sus alumnos. Un vídeo grabado en Azerbaiyán en 2026 captura el proceso creativo de pintar al aire libre. Ambos formatos ofrecen la oportunidad de presenciar cómo surge una solución profesional directamente ante el espectador.
 
-El estudio nos permite observar cómo la curiosidad artística se traduce en trabajo práctico. Valikhodjaev busca constantemente nuevos enfoques del color, la forma y la composición: en la serie Namangan, se interesó por la gente y la vida del bazar; en RED, por las posibilidades del rojo; y en New View, por el lenguaje abstracto. Cada dirección requiere sus propios experimentos, observaciones y refinamientos sobre el lienzo.
+El estudio nos permite observar cómo la curiosidad artística se traduce en trabajo práctico. Valikhodjaev busca constantemente nuevos enfoques del color, la forma y la composición: en la serie Namangan, se interesó por la gente y la vida del bazar; en **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**, por las posibilidades del rojo; y en New View, por el lenguaje abstracto. Cada dirección requiere sus propios experimentos, observaciones y refinamientos sobre el lienzo.
 
 ## Taller del Maestro Rahim Ahmedov
 
@@ -74,11 +74,11 @@ Un recorrido por el estudio enriquece la percepción posterior de las pinturas t
 
 ## Video
 
-[Taller de pintura con estudiantes, 8 de agosto de 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Taller de pintura con estudiantes, 8 de agosto de 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[Proceso de pintura al aire libre, Azerbaiyán, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Proceso de pintura al aire libre, Azerbaiyán, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ En septiembre de 2025, Valikhodjaev impartió una clase magistral a estudiantes 
 
 [Vídeo](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Vídeo de la clase magistral · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Vídeo de la clase magistral · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Crónica de la visita y la clase magistral · Facebook, 8 de octubre de 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Crónica de la visita y la clase magistral · Facebook, 8 de octubre de 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## En el taller, antes y después de la exposición
 
@@ -177,4 +177,4 @@ Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 201
 
 Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.
 
-[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

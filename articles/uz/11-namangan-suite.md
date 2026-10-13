@@ -4,12 +4,14 @@ language: "uz"
 theme: 11
 description: "«Namangan syuitasi»da bozor hayoti: qo‘l harakatlari, do‘ppilar, oq ro‘mollar va ko‘p figurali kompozitsiya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Namangan syuitasi»: katta kartina ichidagi kundalik hayot
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_170.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 Bitta rasmning hikoyasi
 
@@ -84,7 +86,7 @@ Umumiy ko‘rinishga qaytsak, ushbu mahalliy munosabatlar panoramani qanday qo�
 
 "Namangan syuitasi"ning kuchi yaqindan ko‘rib chiqilganda namoyon bo‘ladi. Biz odamlar va buyumlarni taniymiz, keyin ularning sirtda qanday aniq yig‘ilganini sezamiz. Kundalik harakatlarga aniq siluet beriladi; kiyim guruhni rang bilan bog‘laydi; takrorlanuvchi ro‘mol polotnoning uzoq qismlarini bog‘laydi.
 
-Bozor mavzusi Valixo‘jayevga inson muhitini o‘rganish va doimiy ravishda boshqa kompozitsion yechimlarni izlash imkoniyatini berdi. Keyinchalik uning yangi qiyinchiliklarga bo‘lgan qiziqishi "RED"dagi qizil rangni va "Yangi nigoh"dagi abstraksiyani o‘rganishda namoyon bo‘ldi. "Namangan syuitasi" ushbu tadqiqotning ustunlaridan birini namoyish etadi: jonli sahnaga e'tibor berish va unga izchil badiiy obrazni singdirish qobiliyati.
+Bozor mavzusi Valixo‘jayevga inson muhitini o‘rganish va doimiy ravishda boshqa kompozitsion yechimlarni izlash imkoniyatini berdi. Keyinchalik uning yangi qiyinchiliklarga bo‘lgan qiziqishi "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)**"dagi qizil rangni va "Yangi nigoh"dagi abstraksiyani o‘rganishda namoyon bo‘ldi. "Namangan syuitasi" ushbu tadqiqotning ustunlaridan birini namoyish etadi: jonli sahnaga e'tibor berish va unga izchil badiiy obrazni singdirish qobiliyati.
 
 ## Kundalik manzara ko‘plab ovozlarni qanday saqlab qoladi
 

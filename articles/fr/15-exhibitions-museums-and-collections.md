@@ -4,7 +4,7 @@ language: "fr"
 theme: 15
 description: "Musées et collections de Valikhodjaev : distinguer la présentation en exposition de l’entrée d’une œuvre dans une collection."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/apres-lexposition-ibragim-valikhodjaev.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Après l’exposition : Ibragim Valikhodjaev dans les musées et les collections
@@ -70,11 +70,11 @@ Ibragim Valikhodjaev, « Suite de Namangan ». Reproduction issue des archives d
 
 Des informations précises sur le titre, l'artiste, les matériaux et l'histoire d'une œuvre contribuent à sa pérennité. Les documents et images permettant son identification dans de nouvelles publications sont également essentiels. Sur ce blog, les reproductions d'archives sont accompagnées de leurs titres, et des liens vers les images complètes permettent d'accéder aux détails.
 
-Une biographie, des notes d'exposition et des photographies de ses œuvres permettent de mieux comprendre les différentes facettes de la pratique de Valikhodjaev. Dans sa série « Bazar », il s'intéressait aux gens et à la vie quotidienne ; dans « RED », aux possibilités de la couleur rouge ; dans « New View », à l'abstraction. Les musées et les collections conservent les fruits de cette exploration, et les nouveaux visiteurs la poursuivent par leur regard sur ses œuvres.
+Une biographie, des notes d'exposition et des photographies de ses œuvres permettent de mieux comprendre les différentes facettes de la pratique de Valikhodjaev. Dans sa série « Bazar », il s'intéressait aux gens et à la vie quotidienne ; dans « **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** », aux possibilités de la couleur rouge ; dans « New View », à l'abstraction. Les musées et les collections conservent les fruits de cette exploration, et les nouveaux visiteurs la poursuivent par leur regard sur ses œuvres.
 
 ## Vidéo à regarder
 
-[Vernissage de l'exposition personnelle « Soleil sur neige », Chine, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Vernissage de l'exposition personnelle « Soleil sur neige », Chine, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

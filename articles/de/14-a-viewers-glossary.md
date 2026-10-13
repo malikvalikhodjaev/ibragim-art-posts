@@ -4,7 +4,7 @@ language: "de"
 theme: 14
 description: "Zehn Begriffe für den Blick auf Valikhodjaevs Malerei: Komposition, Silhouette, Farbe, Rhythmus, Textur und das Porträt von Gulchehra."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/das-worterbuch-des-betrachtens-zehn.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Das Wörterbuch des Betrachtens: zehn Schlüssel zur Malerei
@@ -61,7 +61,7 @@ Eine Silhouette ist die allgemeine Umrisslinie einer Figur oder eines Objekts. E
 
 ## 4. Komposition
 
-Die Komposition verbindet die einzelnen Teile eines Werkes zu einem Ganzen. In „Namangan-Suite“ sind die Anordnung der Figurengruppen, die Überlappung der Figuren und die Bewegung entlang der horizontalen Achse von Bedeutung. Jede Figur nimmt einen bestimmten Raum ein, und wiederkehrende Licht- und Farbmuster verbinden entfernte Bereiche. Fragen Sie sich, welchen Weg durch das Gemälde diese Anordnung nahelegt.
+Die Komposition verbindet die einzelnen Teile eines Werkes zu einem Ganzen. In „**[Namangan-Suite](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html>)**“ sind die Anordnung der Figurengruppen, die Überlappung der Figuren und die Bewegung entlang der horizontalen Achse von Bedeutung. Jede Figur nimmt einen bestimmten Raum ein, und wiederkehrende Licht- und Farbmuster verbinden entfernte Bereiche. Fragen Sie sich, welchen Weg durch das Gemälde diese Anordnung nahelegt.
 
 [Ibragim Valikhodjaev, „Namangan-Suite“. Komposition und Querformat.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Rhythmus entsteht durch Wiederholung und Variation. Weiße Kopftücher tauchen i
 
 ## 6. Farbgebung
 
-Die Farbgebung bezeichnet die Beziehungen zwischen den Farben in einem Gemälde. In „Miraki“ werden das rote Feld, die blaue Straße, die helle Mauer und die dunklen Bäume als miteinander verbunden wahrgenommen. Farbton, Größe und räumliche Nähe der einzelnen Elemente sind bedeutsam. Die Auseinandersetzung mit Rot in „RED“ verdeutlicht, wie vielfältig eine einzige dominante Farbe wirken kann.
+Die Farbgebung bezeichnet die Beziehungen zwischen den Farben in einem Gemälde. In „Miraki“ werden das rote Feld, die blaue Straße, die helle Mauer und die dunklen Bäume als miteinander verbunden wahrgenommen. Farbton, Größe und räumliche Nähe der einzelnen Elemente sind bedeutsam. Die Auseinandersetzung mit Rot in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ verdeutlicht, wie vielfältig eine einzige dominante Farbe wirken kann.
 
 [Ibragim Valikhodjaev, „Miraki“. Das Farbschema basiert auf den Beziehungen zwischen großen Farbflächen.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Ein Wörterbuch wird dann nützlich, wenn es uns zum Werk zurückführt. Wählen
 
 ## Video ansehen
 
-["Neuer Blick (New View)": Farbe und Geometrie im Ausstellungsraum](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Neuer Blick (New View)": Farbe und Geometrie im Ausstellungsraum](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

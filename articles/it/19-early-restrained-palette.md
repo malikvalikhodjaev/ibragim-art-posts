@@ -4,12 +4,14 @@ language: "it"
 theme: 19
 description: "Preghiera, Brocche, Sguardo e Pietre sacre: sfumature tonali e forza espressiva della tavolozza sobria di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Il silenzio di una tavolozza contenuta: le prime opere in bianco e grigio
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html>)
+
+[Video](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Opere giovanili · Tavolozza dai colori tenui
 
@@ -64,7 +66,7 @@ Ibragim Valikhodjaev. "Brocche". Secondo la didascalia d'archivio: 1997, 54 × 6
 
 La natura morta conserva sfumature calde e fredde. Il campo luminoso intorno ai vasi è irregolare; le pennellate continuano a muoversi anche dove non è visibile alcun oggetto singolo. Pertanto, lo sfondo è parte integrante dell'immagine, anziché fungere da semplice sfondo neutro per la fila di brocche.
 
-Questo compito è collegato a uno studio successivo su un ampio campo cromatico, sebbene il risultato artistico sia diverso. In RED, il colore dominante può attirare immediatamente l'attenzione; qui, lo spettatore percepisce sottili transizioni. Il confronto rivela la gamma di interessi dell'artista in materia di colore, senza ridurre la tavolozza sobria a una mera preparazione per una futura vivacità.
+Questo compito è collegato a uno studio successivo su un ampio campo cromatico, sebbene il risultato artistico sia diverso. In **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**, il colore dominante può attirare immediatamente l'attenzione; qui, lo spettatore percepisce sottili transizioni. Il confronto rivela la gamma di interessi dell'artista in materia di colore, senza ridurre la tavolozza sobria a una mera preparazione per una futura vivacità.
 
 ## "Sguardo": il confine nasconde e rivela
 

@@ -4,12 +4,14 @@ language: "ko"
 theme: 17
 description: "디아스 라흐마토프, 레나, 사샤. 세 초상화의 얼굴과 자세, 옷, 여백이 전하는 인간의 존재감."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 얼굴과 자세, 공간 — 세 점의 초상화를 읽다
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_276.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html>)
+
+[영상](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 인물과 회화적 공간
 
@@ -43,7 +45,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 작업실의 디아스 라흐마토프: 만남에서 초상화까지
 
-[디아스 라흐마토프](<https://uzbekkino.glob.uz/person/109>)는 우즈베키스탄의 연극·영화 배우였다. 이 기록 사진들은 그가 발리호자예프의 작업실에 있는 모습과 초상화가 제작되는 과정을 보여 준다. 완성된 그림과 함께 보면 모델의 존재, 이젤 앞에서의 위치, 얼굴과 자세에 기울인 화가의 관심을 살펴볼 수 있다.
+**[디아스 라흐마토프](<https://uzbekkino.glob.uz/person/109>)**는 우즈베키스탄의 연극·영화 배우였다. 이 기록 사진들은 그가 발리호자예프의 작업실에 있는 모습과 초상화가 제작되는 과정을 보여 준다. 완성된 그림과 함께 보면 모델의 존재, 이젤 앞에서의 위치, 얼굴과 자세에 기울인 화가의 관심을 살펴볼 수 있다.
 
 [작업실에서 함께한 이브라김 발리호자예프와 배우 디아스 라흐마토프. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

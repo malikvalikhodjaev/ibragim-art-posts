@@ -4,12 +4,14 @@ language: "de"
 theme: 17
 description: "Dias, Lena und Sasha: Drei Porträts von Valikhodjaev zeigen, wie Haltung, Kleidung und Umgebung über die bloße Ähnlichkeit hinausführen."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Jenseits der Ähnlichkeit: Dias, Lena und Sasha in Valikhodjaevs Porträts
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 Die Figur und der Bildraum
 
@@ -43,7 +45,7 @@ Die Schultern nehmen einen beträchtlichen Teil der unteren Bildhälfte ein. Die
 
 ## Dias Rakhmatov im Atelier: von der Begegnung zum Porträt
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) war ein usbekischer Theater- und Filmschauspieler. Die Archivfotografien zeigen ihn in Valikhodjaevs Atelier und dokumentieren die Entstehung seines Porträts. Neben dem fertigen Gemälde machen sie die Anwesenheit des Modells, seine Position vor der Staffelei und die Aufmerksamkeit des Malers für Gesicht und Haltung sichtbar.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)** war ein usbekischer Theater- und Filmschauspieler. Die Archivfotografien zeigen ihn in Valikhodjaevs Atelier und dokumentieren die Entstehung seines Porträts. Neben dem fertigen Gemälde machen sie die Anwesenheit des Modells, seine Position vor der Staffelei und die Aufmerksamkeit des Malers für Gesicht und Haltung sichtbar.
 
 [Ibragim Valikhodjaev und der Schauspieler Dias Rakhmatov im Atelier. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

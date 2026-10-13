@@ -4,7 +4,7 @@ language: "fr"
 theme: 7
 description: "Huit symposiums internationaux de sculpture organisés et dirigés par Valikhodjaev : création, échanges et espace public."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-la-pierre-lespace-public-les.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # De la pierre à l’espace public : les symposiums de sculpture d’Ibragim Valikhodjaev
@@ -76,15 +76,15 @@ Ibragim Valikhodjaev travaillant à une sculpture métallique sur un site à Hul
 
 ## Vidéo
 
-[Compte rendu du symposium de Samarcande, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Compte rendu du symposium de Samarcande, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Clôture du symposium, Samarcande, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Clôture du symposium, Samarcande, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-Reportage de CNN Türk sur le projet Marble Wave à Istanbul, en Turquie, en 2021 : [regardez la vidéo](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . La photo d'archive ci-dessus provient d'un autre chantier.
+Reportage de CNN Türk sur le projet Marble Wave à Istanbul, en Turquie, en 2021 : **[regardez la vidéo](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . La photo d'archive ci-dessus provient d'un autre chantier.
 
 ## À propos de l'artiste
 

@@ -4,12 +4,14 @@ language: "tr"
 theme: 11
 description: "Namangan Süiti’nde çarşı hayatı: insan grupları, el hareketleri, işlemeli takkeler, beyaz başörtüleri ve canlı renkler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Namangan Süiti»: büyük bir tablonun içindeki hayat
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim\_01557250984.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 Bir resmin hikayesi
 
@@ -84,7 +86,7 @@ Genel görünüme dönecek olursak, bu yerel ilişkilerin panoramayı nasıl des
 
 "Namangan Süiti"nin gücü, yakından incelendiğinde ortaya çıkıyor. İnsanları ve nesneleri tanıyoruz, ardından bunların yüzeyde ne kadar hassas bir şekilde bir araya getirildiğini fark ediyoruz. Günlük eylemlere net bir silüet veriliyor; giysiler grubu renklerle bir araya getiriyor; tekrar eden bir başörtüsü, tuvalin uzak kısımlarını birbirine bağlıyor.
 
-Çarşı teması, Valikhodjaev'e insan çevresini keşfetme ve sürekli olarak farklı bir kompozisyon çözümü arama fırsatı verdi. Daha sonra, yeni zorluklara olan ilgisi, "RED"da kırmızı rengi ve "Yeni Bakış (New View)" sergisinde soyutlamayı keşfetmesinde kendini gösterdi. "Namangan Süiti", bu keşfin temel taşlarından birini sergiliyor: canlı sahneye dikkat ve ona tutarlı bir sanatsal imge kazandırma yeteneği.
+Çarşı teması, Valikhodjaev'e insan çevresini keşfetme ve sürekli olarak farklı bir kompozisyon çözümü arama fırsatı verdi. Daha sonra, yeni zorluklara olan ilgisi, "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**"da kırmızı rengi ve "Yeni Bakış (New View)" sergisinde soyutlamayı keşfetmesinde kendini gösterdi. "Namangan Süiti", bu keşfin temel taşlarından birini sergiliyor: canlı sahneye dikkat ve ona tutarlı bir sanatsal imge kazandırma yeteneği.
 
 ## Günlük Yaşam Sahnesi Çok Sayıda Sesi Nasıl Koruyor?
 

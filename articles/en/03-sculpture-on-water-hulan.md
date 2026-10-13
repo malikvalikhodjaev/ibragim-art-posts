@@ -4,12 +4,14 @@ language: "en"
 theme: 3
 description: "Valikhodjaev’s sculptural participation in Hulan, China, in 2024: metal, silhouette, water, reflections and an international river display."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Sculpture on Water: Ibragim Valikhodjaev in Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>)
+
+[Video](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Sculpture and the Environment
 
@@ -30,7 +32,7 @@ In this article
 
 ## Video
 
-[The work process and floating sculptures](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[The work process and floating sculptures](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Video](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ These winter recordings from 2026 show the artist by the waterfront and sculptur
 
 [The artist walking towards the frozen river](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[A walk on the ice among sculptures by different artists](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[A walk on the ice among sculptures by different artists](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## From the archive of a sculpture project in China
 

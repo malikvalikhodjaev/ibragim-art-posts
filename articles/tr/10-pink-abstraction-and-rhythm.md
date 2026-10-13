@@ -4,12 +4,14 @@ language: "tr"
 theme: 10
 description: "Pembe Soyutlama No. 1: koyu bir yatay çizgi, ince fırça izleri ve geniş renk alanı resimde nasıl ritim oluşturur?"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev_01887514916.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Pembe bir renk alanı ve koyu bir çizgi: resimde ritim
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev\_01887514916.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev_01887514916.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Kompozisyon ve ritim
 
@@ -53,7 +55,7 @@ Genel bir bakışta bile, bir pembe tonunun diğerinin yanında nasıl değişti
 
 Valikhodjaev'in çarşı resimlerinde ritim, başörtülerinde, insanların silüetlerinde ve ellerin kıvrımlarında izlenebilir. Bu soyutlamada, tekrarın rolünü fırça darbelerinin yönü ve yoğun ile seyrek alanların değişimi üstlenir. Bu yan yana getirme, aralarındaki ayrımları korurken, eserinin farklı yönleri arasındaki bağlantıları anlamamıza yardımcı olur.
 
-"Yeni Bakış (New View)", sanatçının soyutlamaya olan ilgisiyle, "RED" ise kırmızının keşfiyle, Namangan Serisi ise çarşının insanları ve günlük yaşamıyla bağlantılıdır. "Pembe Soyutlama No. 1", farklı bir renk alanı aracılığıyla ritim kavramını incelememizi sağlar. Resmin tarihi ve sergi bağlantısı, mevcut arşiv açıklamasında belirtilmediğinden burada teyit edilmemiştir.
+"**[Yeni Bakış](<https://ibragim-valikhodjaev.blogspot.com/2026/10/soyut-resme-nasl-baklr-ibragim.html>)** (New View)", sanatçının soyutlamaya olan ilgisiyle, "RED" ise kırmızının keşfiyle, Namangan Serisi ise çarşının insanları ve günlük yaşamıyla bağlantılıdır. "Pembe Soyutlama No. 1", farklı bir renk alanı aracılığıyla ritim kavramını incelememizi sağlar. Resmin tarihi ve sergi bağlantısı, mevcut arşiv açıklamasında belirtilmediğinden burada teyit edilmemiştir.
 
 ## Genel bakış ve yavaş okuma
 

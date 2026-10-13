@@ -4,12 +4,14 @@ language: "zh-Hant"
 theme: 9
 description: "從《紅馬》到米拉基風景與 RED 系列：紅色、藍色、輪廓和色塊如何構成畫面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED：紅色如何組織瓦利霍賈耶夫的畫面
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html>)
+
+[影片](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 紅色· 顏色和形狀
 
@@ -101,7 +103,7 @@ RED 系列與藝術家對紅色本身的熱情探索緊密相連。瓦利霍賈�
 
 ## 影片
 
-[「新視角」展覽的錄影](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)進一步展現了藝術家對色彩、形式和比例的探索。上文展示的作品作品圖像與「紅色」主題相關；而影片則揭示了藝術家創作的另一個方向。
+**[「新視角」展覽的錄影](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**進一步展現了藝術家對色彩、形式和比例的探索。上文展示的作品作品圖像與「紅色」主題相關；而影片則揭示了藝術家創作的另一個方向。
 
 ## 關於藝術家
 
@@ -155,7 +157,7 @@ RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝
 
 RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。
 
-[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## 畫室內：展覽前後的工作
 

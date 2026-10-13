@@ -4,12 +4,14 @@ language: "it"
 theme: 6
 description: "Barche, palme e pietra chiara: due paesaggi di Perast nella serie montenegrina di Valikhodjaev del 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Ventuno giorni in Montenegro: i paesaggi costieri di Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)
+
+[Video](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Paesaggio del Montenegro
 
@@ -64,7 +66,7 @@ Il passaggio dal primo piano luminoso alla distanza relativamente tranquilla sca
 
 ## La pittura en plein air e il ritorno al motivo
 
-L'opera risale al 2012, quando Valikhodjaev partecipò a un progetto di pittura en plein air in Montenegro. La mostra "21 giorni in Montenegro" si tenne nello stesso anno a Tashkent, in Uzbekistan. Queste informazioni ci aiutano a distinguere tra il luogo del viaggio creativo e la successiva mostra. Il dipinto stesso ci permette di vedere cosa il viaggio ha offerto all'artista: un nuovo soggetto, una diversa relazione tra architettura e acqua e un carattere differente delle transizioni spaziali.
+L'opera risale al 2012, quando Valikhodjaev partecipò a un progetto di **[pittura en plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html>)** in Montenegro. La mostra "21 giorni in Montenegro" si tenne nello stesso anno a Tashkent, in Uzbekistan. Queste informazioni ci aiutano a distinguere tra il luogo del viaggio creativo e la successiva mostra. Il dipinto stesso ci permette di vedere cosa il viaggio ha offerto all'artista: un nuovo soggetto, una diversa relazione tra architettura e acqua e un carattere differente delle transizioni spaziali.
 
 Durante il viaggio, l'osservazione assume nuovi contesti. Le barche viste da angolazioni diverse formano il primo piano, la banchina lo collega alla città e la fredda distanza espande lo spazio. Il dipinto finito conserva queste relazioni e ci permette di tornare a ciò che abbiamo visto nella sala espositiva.
 

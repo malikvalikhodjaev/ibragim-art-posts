@@ -4,12 +4,14 @@ language: "es"
 theme: 19
 description: "Oración, Jarras, Mirada y Piedras sagradas: tonos, contornos y matices en la paleta contenida de las primeras obras de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Una paleta contenida: las primeras pinturas de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Primeras obras · Paleta de colores sobria
 
@@ -64,7 +66,7 @@ Ibragim Valikhodjaev. «Jarras». Según la ficha de archivo: 1997, 54 × 68 cm.
 
 La naturaleza muerta conserva matices cálidos y fríos. El campo de luz alrededor de las vasijas es irregular; las pinceladas se mueven incluso donde no se ve ningún objeto individual. Por lo tanto, el fondo forma parte de la imagen en lugar de servir como telón de fondo vacío para la hilera de jarras.
 
-Esta tarea se relaciona con un estudio posterior de un amplio campo de color, aunque el resultado artístico es diferente. En RED, el color dominante atrae la atención de inmediato; aquí, el espectador percibe transiciones sutiles. La comparación revela la amplitud del interés del artista por el color, sin reducir la paleta sobria a una mera preparación para una mayor intensidad cromática.
+Esta tarea se relaciona con un estudio posterior de un amplio campo de color, aunque el resultado artístico es diferente. En **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**, el color dominante atrae la atención de inmediato; aquí, el espectador percibe transiciones sutiles. La comparación revela la amplitud del interés del artista por el color, sin reducir la paleta sobria a una mera preparación para una mayor intensidad cromática.
 
 ## "Mirada": la frontera oculta y revela
 

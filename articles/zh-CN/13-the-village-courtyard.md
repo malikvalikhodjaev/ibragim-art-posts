@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 13
 description: "从《乡村庭院》到瓦尔齐克、归途与米拉基：建筑、人物与乡村风景的色彩结构。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_668.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 庭院、墙壁与归途：乌兹别克斯坦乡村的色彩
@@ -120,9 +120,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 户外写生从观看开始
 
-户外写生在第一笔落下之前就已开始：先行走，再选择观看的位置。照片中可见乡村街巷、紧凑的院落、岩石山坡和秋日树木。一处景物可被理解为明亮墙面与暗色门窗的交替，另一处则呈现道路在建筑之间的延伸。画家选择的不只是画什么，还有支撑整幅作品的大块形体关系。
+户外**[写生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html>)**在第一笔落下之前就已开始：先行走，再选择观看的位置。照片中可见乡村街巷、紧凑的院落、岩石山坡和秋日树木。一处景物可被理解为明亮墙面与暗色门窗的交替，另一处则呈现道路在建筑之间的延伸。画家选择的不只是画什么，还有支撑整幅作品的大块形体关系。
 
-这些工作照片为风景画补充了场地的尺度、变化的光线和表面质感。墙壁、屋顶、地面与树冠构成色彩关系的材料。在完成的画作中，观察可以更自由、更概括，而与实景的联系仍保留在空间组织中。这些照片的具体地点和年份尚未确定，不能仅凭画面便将其归入米拉基、黑山或阿塞拜疆的某次写生活动。
+这些工作照片为风景画补充了场地的尺度、变化的光线和表面质感。墙壁、屋顶、地面与树冠构成色彩关系的材料。在完成的画作中，观察可以更自由、更概括，而与实景的联系仍保留在空间组织中。这些照片的具体地点和年份尚未确定，不能仅凭画面便将其归入米拉基、**[黑山](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)**或阿塞拜疆的某次写生活动。
 
 [户外写生途中：乡村街巷与山景。 艺术家档案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

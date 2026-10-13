@@ -4,7 +4,7 @@ language: "de"
 theme: 1
 description: "Neuer Blick (New View): Wie Valikhodjaev mit Linien, Farbflächen und wechselnden Blickrichtungen abstrakte Kompositionen entwickelt."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/abstraktion-betrachten-farbe-und-form.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Abstraktion betrachten: Farbe und Form bei Valikhodjaev
@@ -33,7 +33,7 @@ In diesem Artikel
 
 ## Video
 
-[Entdecken Sie den Ausstellungsrundgang „New View“](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[Entdecken Sie den Ausstellungsrundgang „New View“](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

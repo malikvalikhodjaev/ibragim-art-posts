@@ -4,7 +4,7 @@ language: "es"
 theme: 13
 description: "Patio rural, De visita, Varzik y Regreso del trabajo: arquitectura, color y presencia humana en los paisajes de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/patios-y-caminos-sinuosos-los-colores.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Patios y caminos sinuosos: los colores de las aldeas uzbekas
@@ -120,9 +120,9 @@ Material editorial de la Valikhodjaev Gallery House. Las fuentes de las ilustrac
 
 ## Pintar al aire libre comienza por mirar
 
-La pintura al aire libre empieza antes de la primera pincelada, con un paseo y la elección del punto de vista. Las fotografías muestran una calle de pueblo, un patio cerrado, una ladera rocosa y árboles otoñales. Un motivo se lee como alternancia de muros claros y huecos oscuros; otro, como el recorrido de un camino entre edificios. El pintor elige el tema y la relación entre las grandes masas que sostendrán el cuadro.
+La **[pintura al aire libre](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html>)** empieza antes de la primera pincelada, con un paseo y la elección del punto de vista. Las fotografías muestran una calle de pueblo, un patio cerrado, una ladera rocosa y árboles otoñales. Un motivo se lee como alternancia de muros claros y huecos oscuros; otro, como el recorrido de un camino entre edificios. El pintor elige el tema y la relación entre las grandes masas que sostendrán el cuadro.
 
-Estas imágenes de trabajo completan los paisajes al restituir la escala, la luz desigual y las texturas. Muros, tejados, una franja de tierra y la copa de un árbol alimentan las relaciones cromáticas. En el cuadro la observación puede hacerse más libre y sintética; el vínculo con el natural permanece en la construcción del espacio. No se conocen el lugar y el año de estas fotografías: su aspecto no basta para atribuirlas a un encuentro concreto en Miraki, Montenegro o Azerbaiyán.
+Estas imágenes de trabajo completan los paisajes al restituir la escala, la luz desigual y las texturas. Muros, tejados, una franja de tierra y la copa de un árbol alimentan las relaciones cromáticas. En el cuadro la observación puede hacerse más libre y sintética; el vínculo con el natural permanece en la construcción del espacio. No se conocen el lugar y el año de estas fotografías: su aspecto no basta para atribuirlas a un encuentro concreto en Miraki, **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)** o Azerbaiyán.
 
 [Trabajo del natural: una calle de pueblo y un paisaje montañoso. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

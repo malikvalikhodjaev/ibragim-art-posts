@@ -4,7 +4,7 @@ language: "tr"
 theme: 8
 description: "Karadağ, Türkiye, Özbekistan ve Azerbaycan’da açık hava resmi; Valikhodjaev’in katılımcı ve küratör olarak farklı rolleri."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Resme yer açmak: açık hava çalışmaları ve sanatsal buluşmalar
@@ -30,17 +30,17 @@ Bu makalede
 
 ## Video
 
-[Maltepe'de açık hava resmi, İstanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Maltepe'de açık hava resmi, İstanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Açık Resim Süreci, Azerbaycan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Açık Resim Süreci, Azerbaycan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 Açık havada, sanatçı değişen bir dünyada çalışır. Işık yüzeyde kayar, gölgeler uzar, insanlar görüş alanına girer ve çıkar. Gözlem, hızlı bir seçim gerektirir: hangi ilişkiler gelecekteki resmin temelini oluşturacak, ne korunmalı, hangi detaylar tuvalin ötesinde kalabilir. Bu çalışma, anlık izlenimleri, seçme ve kompozisyon konusunda eğitimli bir yetenekle birleştirir.
 
-İbrahim Valikhodjaev, 2023 yılında Türkiye'de ve 2026 yılında Özbekistan'ın Semerkant ve Azerbaycan'ın Şabran şehirlerinde açık hava resim etkinliklerine ressam olarak katıldı. Ayrıca 2026 yılında Andican Güzel Sanatlar Festivali'nin küratörlüğünü üstlendi. Sanatçı ve küratör olarak çalışmaları, sanatsal karşılaşmalara farklı bakış açıları sunmakta ve profesyonel deneyiminin bağımsız parçalarını oluşturmaktadır. İbrahim Valikhodjaev, 2012 yılında Karadağ'da da açık hava resim etkinliklerine ressam olarak katıldı.
+İbrahim Valikhodjaev, 2023 yılında Türkiye'de ve 2026 yılında Özbekistan'ın Semerkant ve Azerbaycan'ın Şabran şehirlerinde açık hava resim etkinliklerine ressam olarak katıldı. Ayrıca 2026 yılında Andican Güzel Sanatlar Festivali'nin küratörlüğünü üstlendi. Sanatçı ve küratör olarak çalışmaları, sanatsal karşılaşmalara farklı bakış açıları sunmakta ve profesyonel deneyiminin bağımsız parçalarını oluşturmaktadır. İbrahim Valikhodjaev, 2012 yılında **[Karadağ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)**'da da açık hava resim etkinliklerine ressam olarak katıldı.
 
 Valikhodjaev için açık havada resim yapmak, sürekli yeni sanatsal yönler ve çözümler arayışının bir parçasıdır. Farklı bir ortam, beklenmedik renkler, farklı bir ışık karakteri ve yeni biçim ilişkileri sunar. Gözlem tutkusu, kompozisyon keşfiyle birleşir: sanatçı, resmin ana odak noktasının ne olacağına ve izlenimi kendi sanatsal diliyle nasıl aktaracağına karar verir.
 
@@ -60,7 +60,7 @@ Zamanlama da önemlidir. Sabah ışığı bazı yüzeyleri, akşam ışığı is
 
 Seyahat etmek ve açık havada resim yapma seanslarına katılmak, zaten yerleşik olan sanatsal dile yeni zorluklar getiriyor. Sanatçı farklı mimari, ışıklandırma ve mekânsal ilişkilerle karşılaşıyor. Resim, vurguladığı yerin niteliklerini ve bunları kendi kompozisyon pratiğine nasıl dahil ettiğini ortaya koyuyor. Bu deneyim, gözlem ve seçim gücünü genişletiyor.
 
-Bu merak, pratiğinin çeşitli yönlerinde kendini gösterir. Namangan serisinde başlangıç ​​noktası çarşının insanları ve günlük yaşamıydı; RED'de kırmızı rengin keşfi; New View'da ise soyutlamanın olanakları. Açık havada resim yapmak, bu keşfe değişen doğayla doğrudan bir karşılaşma ekler. Diğer sanatçılarla iletişim, çözümleri karşılaştırma ve kendi çalışmaları için yeni sorular keşfetme fırsatı sunar.
+Bu merak, pratiğinin çeşitli yönlerinde kendini gösterir. Namangan serisinde başlangıç ​​noktası çarşının insanları ve günlük yaşamıydı; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**'de kırmızı rengin keşfi; New View'da ise soyutlamanın olanakları. Açık havada resim yapmak, bu keşfe değişen doğayla doğrudan bir karşılaşma ekler. Diğer sanatçılarla iletişim, çözümleri karşılaştırma ve kendi çalışmaları için yeni sorular keşfetme fırsatı sunar.
 
 ## Açık hava resmi sanatçıları bir araya getirir
 

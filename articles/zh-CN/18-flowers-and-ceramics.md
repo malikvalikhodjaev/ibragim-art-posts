@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 18
 description: "《花束》《陶瓷花瓶中的雏菊》与《玫瑰静物》：陶瓷纹样、花瓣、笔触和色彩关系。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_687.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 不止一束花：花瓶、花瓣与笔触的节奏

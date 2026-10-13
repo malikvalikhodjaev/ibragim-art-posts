@@ -4,12 +4,14 @@ language: "ko"
 theme: 6
 description: "2012년 페라스트의 항구와 야자수 풍경. 물, 돌집, 하늘을 통해 읽는 발리호자예프의 몬테네그로 작품."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 몬테네그로의 21일 — 발리호자예프가 그린 해안 도시
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/21\_7.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html>)
+
+[영상](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 몬테네그로 풍경
 

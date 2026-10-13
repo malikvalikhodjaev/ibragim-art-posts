@@ -4,7 +4,7 @@ language: "uz"
 theme: 2
 description: "Xarbindagi «Qor ustidagi quyosh», 2026: monumental kartinalar, geometriya va Yu Shun Art Museum makonidagi tomosha tajribasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/22-metrlik-rangtasvir-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Kartina makonga aylanganda: Valixo‘jayevning Xarbindagi ko‘rgazmasi
@@ -33,9 +33,9 @@ Ushbu maqolada
 
 ## Video
 
-[Muzey ekspozitsiyasi haqida qisqa videolavha](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)
+**[Muzey ekspozitsiyasi haqida qisqa videolavha](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)**
 
-[Ko‘rgazma ochilishining to‘liq videoyozuvi](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Ko‘rgazma ochilishining to‘liq videoyozuvi](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [«Qor ustidagi quyosh» ko‘rgazmasining umumiy ko‘rinishi, Yu Shun san’at muzeyi, Xitoy, Harbin, 2026-yil 21-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
@@ -43,7 +43,7 @@ Ushbu maqolada
 
 Asosiy suratda Ibrohim Valixodjayev monumental geometrik asari oldida turibdi. Rassomning gavdasi rangtasvir yuzasining ko‘lamini his qilishga yordam beradi. Qizil, sariq, oq va to‘q shakllar devor bo‘ylab yoyilgan; ularning o‘zaro bog‘lanishi va ayrim qismlarini ko‘rish uchun tomoshabin o‘z joyini o‘zgartirishi kerak.
 
-"Qor ustidagi quyosh" shaxsiy ko‘rgazmasi 2026-yil 19-fevraldan 19-martgacha Xitoyning Xarbin shahridagi Yu Shun muzeyida bo‘lib o‘tdi. Xitoy [san'at gazetasida](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) 19 ta katta rasm va 22,24 x 3 metrli polotno haqida xabar berilgan edi. Ushbu ko‘rgazma tomoshabin uchun alohida qiyinchilik tug‘diradi: rasmni idrok etish xonadagi harakatning bir qismiga aylanadi va muzey arxitekturasi badiiy tajribaga hissa qo‘shadi.
+"Qor ustidagi quyosh" shaxsiy ko‘rgazmasi 2026-yil 19-fevraldan 19-martgacha Xitoyning Xarbin shahridagi Yu Shun muzeyida bo‘lib o‘tdi. Xitoy **[san'at gazetasida](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)** 19 ta katta rasm va 22,24 x 3 metrli polotno haqida xabar berilgan edi. Ushbu ko‘rgazma tomoshabin uchun alohida qiyinchilik tug‘diradi: rasmni idrok etish xonadagi harakatning bir qismiga aylanadi va muzey arxitekturasi badiiy tajribaga hissa qo‘shadi.
 
 Xarbin ko‘rgazmasining ko‘lami rang, shakl va kompozitsiyani doimiy ravishda o‘rganish asosida yotadi. Valixo‘jayev uchun katta format alohida rang dog‘i va butun polotno o‘rtasida, rasm va tomoshabinning jismoniy tajribasi o‘rtasida yangi munosabatlarni ochadi. Abstraksiya imkoniyatlariga bo‘lgan bu qiziqish, ayniqsa, Toshkentdagi "Yangi nigoh" ko‘rgazmasida aniq ifodalangan; Xarbinda uni rasmning kengligi va muzey zalidagi mavjudligi orqali qulay tarzda o‘rganish mumkin.
 
@@ -77,7 +77,7 @@ Bu yerdagi badiiy izlanishni aniq qarorlarda kuzatish mumkin: ranglar maydonini 
 
 Yuqoridagi havola orqali ochilishning videoyozuvi tadbirning yana bir jihatini aks ettiradi: nutqlar, rassomning nutqlari va mehmonlarning asarlar oldida o‘zaro muloqoti. ​​Muzey zali rangtasvir haqida ommaviy suhbat o‘tkaziladigan joyga aylanadi. Tashrif buyuruvchilarning figuralari asarlarning ko‘lami haqida tasavvur beradi va ularning mavjudligi bizga ko‘rgazma ma'lum shaxslarning tajribasida mavjudligini eslatadi.
 
-[Xitoy matbuotidagi xabarda](<https://www.sohu.com/a/990524748_121106822>) ochilish marosimi 2026-yil 24-fevralda bo‘lib o‘tgani qayd etilgan. Xarbinda Valixo‘jayev asosan shaxsiy rasmlar ko‘rgazmasi muallifi sifatida taqdim etiladi. Uning professional faoliyatiga haykaltaroshlik, o‘qitish, kuratorlik qilish va xalqaro loyihalarni tashkil etish ham kiradi. Bu yerda uning rang va kompozitsion yondashuvlari muzey tomoshabinlariga monumental formatda qanday taqdim etilishiga e'tibor qaratilgan.
+**[Xitoy matbuotidagi xabarda](<https://www.sohu.com/a/990524748_121106822>)** ochilish marosimi 2026-yil 24-fevralda bo‘lib o‘tgani qayd etilgan. Xarbinda Valixo‘jayev asosan shaxsiy rasmlar ko‘rgazmasi muallifi sifatida taqdim etiladi. Uning professional faoliyatiga haykaltaroshlik, o‘qitish, kuratorlik qilish va xalqaro loyihalarni tashkil etish ham kiradi. Bu yerda uning rang va kompozitsion yondashuvlari muzey tomoshabinlariga monumental formatda qanday taqdim etilishiga e'tibor qaratilgan.
 
 Yuqorida havola qilingan ikkita video — koʻrgazma haqida qisqa videolavha va ochilishning toʻliq yozuvi — turli jihatlardan foydalidir. Birinchisi zallarning joylashuvini kuzatish va rasmlarga bir nechta burchaklardan qarash imkonini beradi. Ikkinchisi tadbirning muhiti va ijtimoiy kontekstini ifodalaydi. Ular birgalikda koʻrgazmani yaxlit tajriba sifatida taqdim etishga yordam beradi: asar, makon va tomoshabinning mavjudligi.
 
@@ -124,4 +124,4 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 
 [Ko‘rgazma ochilishining panoramali tasviri, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
 
-[Ko‘rgazmada namoyish etilgan videodastur — 50 daqiqa](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
+**[Ko‘rgazmada namoyish etilgan videodastur — 50 daqiqa](<https://www.youtube.com/watch?v=XNCh44JMBYM>)**

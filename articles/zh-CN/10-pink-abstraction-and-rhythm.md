@@ -4,12 +4,14 @@ language: "zh-CN"
 theme: 10
 description: "细看《粉色抽象画1号》：水平线、交错笔触、颜料层与观看节奏；档案未注明年份和尺寸。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_185.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 粉红色域与一条线：抽象绘画中的节奏
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_185.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_185.html>)
+
+[视频](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 构成与节奏
 
@@ -53,7 +55,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 在瓦利霍贾耶夫的集市画作中，头巾、人物轮廓和手部曲线都蕴含着韵律。在这些抽象作品中，笔触的方向以及浓淡交替的运用，共同构成了重复这一主题。这种并置手法既有助于我们理解他不同创作方向之间的联系，又能保持它们之间的独特性。
 
-“新视角”与艺术家对抽象艺术的兴趣相关，“红色”与对红色的探索相关，“纳曼干系列”则与集市上的人群和日常生活相关。“粉色抽象画1号”让我们得以通过独特的色域来审视节奏的概念。由于现有档案说明中未注明该画作的创作日期和展览信息，因此此处无法确认。
+“**[新视角](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_938.html>)**”与艺术家对抽象艺术的兴趣相关，“红色”与对红色的探索相关，“纳曼干系列”则与集市上的人群和日常生活相关。“粉色抽象画1号”让我们得以通过独特的色域来审视节奏的概念。由于现有档案说明中未注明该画作的创作日期和展览信息，因此此处无法确认。
 
 ## 整体观看与细读
 

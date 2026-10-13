@@ -4,7 +4,7 @@ language: "de"
 theme: 13
 description: "Der ländliche Hof, Varzik und Heimkehr von der Arbeit: Valikhodjaevs Blick auf Wege, Mauern und alltägliche Gesten im ländlichen Usbekistan."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/hofe-und-gewundene-wege-die-farben.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Höfe und gewundene Wege: die Farben usbekischer Dörfer
@@ -120,9 +120,9 @@ Redaktionelles Material aus dem Valikhodjaev Gallery House. Die Quellen der Abbi
 
 ## Freilichtmalerei beginnt mit dem Sehen
 
-Freilichtmalerei beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
+**[Freilichtmalerei](<https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html>)** beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
 
-Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, Montenegro oder Aserbaidschan.
+Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html>)** oder Aserbaidschan.
 
 [Unterwegs beim Arbeiten nach der Natur: Dorfstraße und Berglandschaft. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

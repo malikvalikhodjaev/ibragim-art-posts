@@ -4,12 +4,14 @@ language: "fr"
 theme: 11
 description: "Dans Suite de Namangan : gestes quotidiens, foulards blancs et vêtements colorés composent une vaste scène de bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Suite de Namangan» : la vie dans une grande toile
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 L'histoire d'un tableau
 
@@ -84,7 +86,7 @@ Pour revenir à la vue d'ensemble, on remarque comment ces relations locales con
 
 La puissance de « Suite de Namangan » se révèle à l'examen attentif. On reconnaît des personnages et des objets, puis on remarque la précision de leur agencement sur la toile. Les gestes du quotidien se dessinent en silhouettes nettes ; les vêtements unifient le groupe par la couleur ; un foulard, motif récurrent, relie les différentes parties de la toile.
 
-Le thème du bazar a permis à Valikhodjaev d'explorer l'environnement humain et de rechercher sans cesse de nouvelles solutions compositionnelles. Plus tard, son intérêt pour les nouveaux défis s'est manifesté dans son exploration de la couleur rouge dans « RED » et de l'abstraction dans « New View ». « Suite de Namangan » illustre l'un des piliers de cette exploration : l'attention portée au monde vivant et la capacité à lui conférer une image artistique cohérente.
+Le thème du bazar a permis à Valikhodjaev d'explorer l'environnement humain et de rechercher sans cesse de nouvelles solutions compositionnelles. Plus tard, son intérêt pour les nouveaux défis s'est manifesté dans son exploration de la couleur rouge dans « **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** » et de l'abstraction dans « New View ». « Suite de Namangan » illustre l'un des piliers de cette exploration : l'attention portée au monde vivant et la capacité à lui conférer une image artistique cohérente.
 
 ## Comment la scène du quotidien préserve une multitude de voix
 

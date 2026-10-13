@@ -4,12 +4,14 @@ language: "en"
 theme: 21
 description: "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Learning to See: Ibragim Valikhodjaev on a Life in Art
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_179.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
+
+[Video](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 A life in art · Namangan, the workshop and painting
 
@@ -73,11 +75,11 @@ Valikhodjaev was born in Namangan and received his professional training in Tash
 
 In a television interview, the artist distinguishes between drawing and the development of an artist. Training opens a vast world of possibilities, but finding one's own direction within it is up to the artist. This journey can be traced through his work, through portraits, still lifes, landscapes, and multi-figure genre compositions.
 
-[Video above · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Video above · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 In ‘Ijod formulasi’, he also recalls a very different pace of work: a month as a student when a painting would not come together. He was working on one bazaar composition in the teaching studio and another at home, where he had made a workspace on the balcony. He returned to the canvases, squeezed out paint and worked, only to scrape it off again in the evening, dissatisfied with the result. This continued for roughly a month. One day, watching television with his family, he suddenly wanted to paint. He went out to the balcony and, as he remembers it, finished the painting at home in half an hour; the next day, he completed the studio painting just as quickly. The story suggests how weeks of searching and dissatisfaction can lie behind a speed of execution that the viewer sees only at the end.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 Family recollections describe the choice of his graduation project as another sign of his teacher’s confidence. Students were normally expected to concentrate on academic studies; Valikhodjaev alone was allowed to pursue an independent bazaar composition. Rahim Ahmedov felt that Ibragim had already mastered the academic foundations and could tackle a subject of his own. Observations of the market entered his graduation painting and later grew into large, multi-figure canvases and a recognisable pictorial language.
 
@@ -87,9 +89,9 @@ Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.
 
 ## With Master Rahim Ahmedov
 
-Rahim Ahmedov was a major Uzbek painter and a teacher of several generations of artists. His honours—People’s Artist of the Uzbek SSR and of the USSR, professor and corresponding member of the USSR Academy of Arts—are documented in his [Russian Academy of Arts biography](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>). His psychological portraits, genre compositions and landscapes combine a rigorous painting tradition with close attention to people and Uzbek culture. Valikhodjaev studied in his studio in 1986–1991; this relationship was an important part of his formation.
+Rahim Ahmedov was a major Uzbek painter and a teacher of several generations of artists. His honours—People’s Artist of the Uzbek SSR and of the USSR, professor and corresponding member of the USSR Academy of Arts—are documented in his **[Russian Academy of Arts biography](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. His psychological portraits, genre compositions and landscapes combine a rigorous painting tradition with close attention to people and Uzbek culture. Valikhodjaev studied in his studio in 1986–1991; this relationship was an important part of his formation.
 
-The archive photograph places the master and the younger artist together within a shared artistic community. Ahmedov’s own paintings can be explored in Sotheby’s catalogues: [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) and [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>). The links reveal the teacher’s art, while the archive conveys the milieu in which Valikhodjaev trained.
+The archive photograph places the master and the younger artist together within a shared artistic community. Ahmedov’s own paintings can be explored in Sotheby’s catalogues: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** and **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. The links reveal the teacher’s art, while the archive conveys the milieu in which Valikhodjaev trained.
 
 [Vladimir Ivanovich Burmakin congratulates Master Rahim Ahmedov. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ The bazaar theme captivated the artist while he was working on his diploma thesi
 
 Duppi Bazaar of 2002 already shows observation of market life becoming an independent pictorial structure. White headscarves and garments form recurring light shapes; figures press together, overlap and occupy almost the entire canvas. Small objects and patterned details in the foreground retain a connection to a particular trading scene. Beshik Bazaar, painted that same year, organises space differently, through large red, dark and yellow planes. These paintings belong to the theme’s development after its beginnings during his studies. They are not illustrations of the diploma project, but works in which everyday subject matter has acquired a new language of colour and form.
 
-[Video above · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[Video above · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [‘Duppi Bazaar — the skullcap market’, 2002. 100 × 120 cm. Reproduction from the artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ The artist beside an architectural monument. Artist’s archive.
 
 His career developed alongside changes in Uzbekistan’s art institutions. The Academy of Arts was established on 23 January 1997; that year Valikhodjaev became chairman of the Namangan branch of the Union of Artists. He later headed the Academy’s Special Fund in 1999–2005 and the Art Fund of Uzbekistan in 1999–2012. His Union chairmanship since 2017, appointment as an Academician in 2023, gallery work and international projects show how making art can connect with creating conditions for others. This is a parallel between a biography and its cultural setting, rather than a claim that one artist determined that setting’s development.
 
-[Historical context: Academy of Arts of Uzbekistan](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[Historical context: Academy of Arts of Uzbekistan](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## Tashkent: painting alongside work in the art funds
 
@@ -239,13 +241,13 @@ Administrative roles did not interrupt his creative practice. After completing h
 
 Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.
 
-His productivity is especially clear in his visit to Montenegro in 2012. According to his family, he painted 42 pictures during a 21-day plein-air project and brought them back to Uzbekistan. His solo exhibition ‘21 Days in Montenegro’ ran in Tashkent from 28 June to 13 July. The project and the exhibition form a single working cycle: encounter a new place, paint extensively from life and bring the results together for an audience.
+His productivity is especially clear in his visit to **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)** in 2012. According to his family, he painted 42 pictures during a 21-day plein-air project and brought them back to Uzbekistan. His solo exhibition ‘21 Days in Montenegro’ ran in Tashkent from 28 June to 13 July. The project and the exhibition form a single working cycle: encounter a new place, paint extensively from life and bring the results together for an audience.
 
 This pace reflects continuous observation and the making of painterly decisions. The photographs below show another side of the same practice, placing the artist among village streets, courtyards, rocks and trees. These archive images illustrate his plein-air work in Uzbekistan; they are not photographs of the Montenegro trip. Exhibitions, masterclasses and international projects would continue alongside his own work.
 
 ### Plein air begins with looking
 
-Plein air begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
+**[Plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)** begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
 
 These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, Montenegro or Azerbaijan.
 
@@ -267,21 +269,21 @@ On a plein-air visit: a courtyard and village buildings. Artist’s archive.
 
 Children watch the artist at work outdoors. Artist’s archive.
 
-[Exhibition preparation video: Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Exhibition preparation video: Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Ibragim Valikhodjaev at a plein-air painting event in Turkey. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev at a plein-air painting event in Turkey. Artist’s archive.
 
-[Dias Rakhmatov in the studio: from encounter to portrait](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html#iv-dias-rakhmatov>)
+**[Dias Rakhmatov in the studio: from encounter to portrait](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html#iv-dias-rakhmatov>)**
 
 ## Colour becomes the subject of research
 
-For the 2017 RED exhibition, red became a distinct artistic focus. In an interview with nuz.uz, Valikhodjaev explains that in his work, there are periods of particular attention to one colour. Red intrigued him for its emotional power and the complexity of its combination with other colours.
+For the 2017 **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)** exhibition, red became a distinct artistic focus. In an interview with nuz.uz, Valikhodjaev explains that in his work, there are periods of particular attention to one colour. Red intrigued him for its emotional power and the complexity of its combination with other colours.
 
 This is a search for colouristic relationships. What part of the surface does colour occupy? What happens at the boundary with the adjacent tone? How can the structure of the landscape be preserved while allowing colour greater autonomy? In these works, red plays a role in the construction of the image and determines its emotional resonance.
 
-[Video above · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Video above · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED: painting before an audience
 
@@ -289,7 +291,7 @@ Two photographs of the masterclass accompanying RED in Tashkent in 2017 bring th
 
 The Embassy of Uzbekistan’s report on the exhibition records 31 works and a masterclass for visitors. The photographs open the process to view: the position of the hand, the palette and the emerging image can be compared. The investigation of red takes shape through its neighbouring tones and the organisation of the entire canvas.
 
-[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 2017. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ Ibragim Valikhodjaev’s solo exhibition, Fine Arts Gallery of the National Bank
 
 ## The language found leaves room for change
 
-“I always try to see familiar things in a new, unusual way,” the artist said in a 2017 interview (translated from Russian). This idea helps connect his genre painting with his subsequent turn to abstraction. In "New View," the image is constructed through large colour fields, contours, and geometric relationships. The compositional connections that united the characters in the market scene now emerge between independent forms.
+“I always try to see familiar things in a new, unusual way,” the artist said in a 2017 interview (translated from Russian). This idea helps connect his genre painting with his subsequent turn to abstraction. In "**[New View](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_06.html>)**," the image is constructed through large colour fields, contours, and geometric relationships. The compositional connections that united the characters in the market scene now emerge between independent forms.
 
 Interest, curiosity and the wish to discover something new kept the artist moving. An established visual language offered a starting point for further experiments: how else might colour, form and composition be organised, and what changes with a different subject or scale? Alongside the bazaar series, he therefore pursues portraits, still lifes, landscapes, the exploration of red in RED, abstraction in New View and sculpture. In the televised conversation, Valikhodjaev stresses that a recognisable style is no reason to stop: each new work should open the possibility of another artistic solution.
 
-[Video above · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Video above · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 18 April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [Opening of the exhibition "New View", Uzbekistan, Tashkent, 2024. Photo published by the Academy of Arts of Uzbekistan.](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ In 2021, his visit to Turkey combined participation in a plein-air programme wit
 
 The solo exhibition "Sun on Snow" at the Yu Shun Museum in Harbin, China, in 2026 gave his large-scale canvases a new dimension. The video above demonstrates the impact of the room: from a distance, the overall structure is discernible, but upon closer inspection, a distinct field of colour takes up a significant portion of the viewer's field of vision. The artist's works are held in this museum, in the collection of the Maltepe Municipality in Istanbul, Turkey, and in a private collection in Moscow, Russia, along with other public and private collections.
 
-[Video above · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[Video above · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 The following archival photograph shows the artist at another exhibition meeting. The exact date and location of the photo are unknown; the Harbin showing can be seen in the video above.
 
@@ -345,7 +347,7 @@ Valikhodjaev combines his own work with organising and curating eight internatio
 
 A desire to share experience is evident in gallery work and teaching. The second gallery, Valikhodjaev Gallery House, opened on August 5, 2021. Painting demonstrations and classes with students allow for close-up observation of professional work: how the artist begins a painting, changes a section, and evaluates the result. Organising a meeting, taking part in a plein-air gathering, and creating one's own work are different roles, each with its own responsibilities.
 
-[Kultura.uz · September 10, 2024](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · September 10, 2024](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## Today: making art and supporting its wider community
 
@@ -390,7 +392,7 @@ The biography allows us to trace exhibitions and professional assignments; inter
 
 His journey continues in his works: in marketplace people, the changing resonance of red, the construction of abstract canvases, and the encounter of sculpture with public space. These various movements are united by a habit of exploration—of looking anew and finding a different pictorial response.
 
-[Video above · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[Video above · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 More than 600 works by Ibragim Valikhodjaev are known today, predominantly paintings. They span distinct periods and approaches: an early restrained palette, the Namangan bazaar, portraits, still lifes, nudes, plein air landscapes, RED and abstraction. His practice continues through new questions of colour, form and composition.
 
@@ -436,16 +438,16 @@ In September 2025, Valikhodjaev led a painting masterclass for students of the P
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 When discussing preparations for his exhibition in China, he begins with the gallery space. He had seen it before; after receiving its plan and dimensions, he considered which works to bring and how to arrange them. The large, bright hall made it possible to show large canvases. The artistic decision then became a practical task: the paintings were taken off their stretchers, rolled and sent by cargo aircraft. He arrived before the works, waited for them and helped prepare the display. In his television account, the exhibition grows from this sequence of decisions—from the scale of a painting to its transport and placement in the hall.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.
 
-[Video of the exhibition opening in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[Video of the exhibition opening in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**

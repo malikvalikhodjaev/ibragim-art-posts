@@ -4,12 +4,14 @@ language: "ko"
 theme: 12
 description: "「지고의 조화」「잠자는 여인」「누드」. 세 작품에서 인체와 윤곽, 자세, 주변 색면의 관계를 비교한다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_09.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 누워 있는 인체 — 발리호자예프의 누드화에 담긴 선과 색
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_09.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_09.html>)
+
+[영상](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 나체 · 인체
 
@@ -79,7 +81,7 @@ Valikhodjaev Gallery House
 
 "지고의 조화", "잠자는 여인", "누드"는 모두 누워 있는 인체의 형태와 움직임에 주목한다는 공통점을 지니지만, 표현 방식은 각기 다르다. 풍부한 배경, 차분한 회색빛 환경, 그리고 푸른빛 배경은 밝게 빛나는 인물의 무게감과 감상의 속도를 변화시킨다. 어두운 윤곽선은 두드러지게 나타나기도 하고, 더욱 미묘한 변화로 이어지기도 한다.
 
-이 작품들은 발리호자예프의 기존 작품들, 즉 시장 풍경, 초상화, RED 연작, 그리고 추상화와는 다른 독특한 면모를 보여준다. 누드는 형태 탐구의 소재가 되며, 작가는 자세, 선, 그리고 신체 주변의 공간을 비교하며 익숙한 장르 안에서 다양한 표현 방식을 찾아낸다.
+이 작품들은 발리호자예프의 기존 작품들, 즉 시장 풍경, 초상화, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)** 연작, 그리고 추상화와는 다른 독특한 면모를 보여준다. 누드는 형태 탐구의 소재가 되며, 작가는 자세, 선, 그리고 신체 주변의 공간을 비교하며 익숙한 장르 안에서 다양한 표현 방식을 찾아낸다.
 
 ## 몸의 윤곽을 따라 자세히 보기
 

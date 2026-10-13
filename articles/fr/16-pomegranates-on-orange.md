@@ -4,12 +4,14 @@ language: "fr"
 theme: 16
 description: "Grenades sur fond orange : contours, intervalles et matière picturale dans une nature morte de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Des grenades sur fond orange : le petit monde d’une nature morte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Gros plan d'un tableau
 
@@ -68,7 +70,7 @@ La nature morte est aisément reconnaissable, mais sa structure offre une second
 
 ## Un sujet au sein d'une exploration plus vaste
 
-L'intérêt de Valikhodjaev pour la couleur et la forme imprègne divers thèmes : les personnages et le quotidien de la série Namangan, l'exploration du rouge dans RED et l'abstraction de New View. « Grenades » permet d'explorer des questions similaires dans le domaine de la nature morte : qu'est-ce qui capte le regard, comment relier les répétitions et quelle peut être la puissance d'un champ coloré ?
+L'intérêt de Valikhodjaev pour la couleur et la forme imprègne divers thèmes : les personnages et le quotidien de la série Namangan, l'exploration du rouge dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** et l'abstraction de New View. « Grenades » permet d'explorer des questions similaires dans le domaine de la nature morte : qu'est-ce qui capte le regard, comment relier les répétitions et quelle peut être la puissance d'un champ coloré ?
 
 Commencez par la composition d'ensemble, repérez un fruit et suivez-en le contour. Après avoir étudié un détail, contemplez à nouveau le tableau dans son intégralité : les petites touches d'ocre et les variations de forme apparaîtront plus clairement. Un retour attentif révèle un motif familier, fruit d'une succession de choix picturaux précis.
 

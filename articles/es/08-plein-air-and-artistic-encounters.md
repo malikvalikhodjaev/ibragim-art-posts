@@ -4,7 +4,7 @@ language: "es"
 theme: 8
 description: "Valikhodjaev y la pintura del natural: participación en encuentros al aire libre y experiencia curatorial en Andiján."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Dar espacio a la pintura: trabajo al aire libre y encuentros artísticos
@@ -30,17 +30,17 @@ En este artículo
 
 ## Video
 
-[Plein air en Maltepe, Estambul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Plein air en Maltepe, Estambul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Proceso de pintura al aire libre, Azerbaiyán, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Proceso de pintura al aire libre, Azerbaiyán, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 Al pintar al aire libre, el artista trabaja en un mundo en constante cambio. La luz se desplaza sobre la superficie, las sombras se alargan, las personas entran y salen del campo de visión. La observación exige una selección rápida: qué relaciones constituyen la base de la futura pintura, qué debe conservarse, qué detalles pueden quedar fuera del lienzo. Esta obra combina impresiones inmediatas con una habilidad entrenada para seleccionar y componer.
 
-Ibragim Valikhodjaev participó como pintor en encuentros de pintura al aire libre en Turquía en 2023, y en 2026 en Samarcanda, Uzbekistán, y Shabran, Azerbaiyán. También en 2026, fue curador del Festival de Bellas Artes de Andiján. Su trabajo como artista y como curador ofrece diferentes perspectivas sobre los encuentros artísticos y constituye una parte independiente de su experiencia profesional. En 2012, Ibragim Valikhodjaev también participó como pintor en encuentros de pintura al aire libre en Montenegro.
+Ibragim Valikhodjaev participó como pintor en encuentros de pintura al aire libre en Turquía en 2023, y en 2026 en Samarcanda, Uzbekistán, y Shabran, Azerbaiyán. También en 2026, fue curador del Festival de Bellas Artes de Andiján. Su trabajo como artista y como curador ofrece diferentes perspectivas sobre los encuentros artísticos y constituye una parte independiente de su experiencia profesional. En 2012, Ibragim Valikhodjaev también participó como pintor en encuentros de pintura al aire libre en **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)**.
 
 Para Valikhodjaev, pintar al aire libre forma parte de una búsqueda constante de nuevas direcciones y soluciones artísticas. Un entorno diferente ofrece colores inesperados, una luz distinta y nuevas relaciones formales. La pasión por la observación se combina con la exploración de la composición: el artista elige cuál será el foco principal de la pintura y cómo transmitir esa impresión a través de su propio lenguaje artístico.
 
@@ -60,7 +60,7 @@ El momento oportuno también es importante. La luz de la mañana resalta algunas
 
 Viajar y participar en sesiones de pintura al aire libre plantea nuevos retos a un lenguaje artístico ya consolidado. El artista se enfrenta a diferentes arquitecturas, iluminaciones y relaciones espaciales. La pintura revela las cualidades del lugar que destaca y cómo las incorpora a su propia práctica compositiva. Esta experiencia amplía su capacidad de observación y de elección.
 
-Esta curiosidad se manifiesta en diversos aspectos de su práctica. En la serie Namangan, el punto de partida fueron las personas y la vida cotidiana del bazar; en RED, una exploración del color rojo; y en New View, las posibilidades de la abstracción. La pintura al aire libre complementa esta exploración con un encuentro directo con la naturaleza cambiante. La comunicación con otros artistas brinda la oportunidad de comparar soluciones y descubrir nuevas preguntas para el propio trabajo.
+Esta curiosidad se manifiesta en diversos aspectos de su práctica. En la serie Namangan, el punto de partida fueron las personas y la vida cotidiana del bazar; en **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**, una exploración del color rojo; y en New View, las posibilidades de la abstracción. La pintura al aire libre complementa esta exploración con un encuentro directo con la naturaleza cambiante. La comunicación con otros artistas brinda la oportunidad de comparar soluciones y descubrir nuevas preguntas para el propio trabajo.
 
 ## Plein air como encuentro profesional
 

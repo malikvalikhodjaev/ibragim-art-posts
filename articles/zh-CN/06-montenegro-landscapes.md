@@ -4,12 +4,14 @@ language: "zh-CN"
 theme: 6
 description: "黑山2012年户外写生系列：比较《佩拉斯特港》与棕榈树风景中的海水、建筑和空间。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 在黑山的二十一天：佩拉斯特的海岸风景
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_812.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)
+
+[视频](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 黑山景观
 
@@ -64,7 +66,7 @@ Valikhodjaev Gallery House
 
 ## 从户外写生到重新观看
 
-这幅作品创作于2012年，当时瓦利霍贾耶夫参与了在黑山的一次户外写生项目。同年，名为“黑山21天”的展览在乌兹别克斯坦首都塔什干举办。这些信息有助于我们区分创作之旅和随后的展览地点。画作本身也展现了此次旅行带给艺术家的感悟：新的创作主题、建筑与水之间不同的关系，以及空间过渡方式的转变。
+这幅作品创作于2012年，当时瓦利霍贾耶夫参与了在黑山的一次户外**[写生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html>)**项目。同年，名为“黑山21天”的展览在乌兹别克斯坦首都塔什干举办。这些信息有助于我们区分创作之旅和随后的展览地点。画作本身也展现了此次旅行带给艺术家的感悟：新的创作主题、建筑与水之间不同的关系，以及空间过渡方式的转变。
 
 旅途中，观察有了新的意义。转弯的船只构成前景，堤岸将其与城市连接起来，而冷色调的远景则拓宽了空间。完成的画作保留了这些关系，使我们能够回想起在展厅中看到的景象。
 

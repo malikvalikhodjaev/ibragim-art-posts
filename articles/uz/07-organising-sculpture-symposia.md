@@ -4,7 +4,7 @@ language: "uz"
 theme: 7
 description: "Turkiya va O‘zbekistondagi sakkiz haykaltaroshlik simpoziumi: ijodiy jarayon, tashkilotchilik, kuratorlik va jamoat makoni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/toshdan-umumiy-makongacha-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Toshdan jamoat makonigacha: haykaltaroshlik simpoziumlarini tashkil etish
@@ -76,15 +76,15 @@ Ibrohim Valixo‘jayev Xitoyning Xulan shahridagi bir joyda metall haykal ustida
 
 ## Video
 
-[Simpoziumdan hisobot, Samarqand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Simpoziumdan hisobot, Samarqand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Simpoziumning yopilishi, Samarqand, 2025 yil](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Simpoziumning yopilishi, Samarqand, 2025 yil](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN Turkning Turkiyaning Istanbul shahridagi Marble Wave loyihasi haqidagi reportaji, 2021: [videoni tomosha qiling](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . Yuqoridagi arxiv fotosurati boshqa ish maydonidan olingan.
+CNN Turkning Turkiyaning Istanbul shahridagi Marble Wave loyihasi haqidagi reportaji, 2021: **[videoni tomosha qiling](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . Yuqoridagi arxiv fotosurati boshqa ish maydonidan olingan.
 
 ## Rassom haqida
 

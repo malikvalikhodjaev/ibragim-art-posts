@@ -4,7 +4,7 @@ language: "it"
 theme: 8
 description: "Pittura en plein air in Montenegro, Turchia, Uzbekistan e Azerbaigian: incontri e pratica curatoriale di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Fare spazio alla pittura: plein air e incontri artistici
@@ -30,17 +30,17 @@ In questo articolo
 
 ## Video
 
-[Plein air a Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Plein air a Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Video](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[La pittura en plein air: il processo di lavoro, Azerbaigian, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[La pittura en plein air: il processo di lavoro, Azerbaigian, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 En plein air, l'artista lavora in un mondo in continuo mutamento. La luce si sposta sulla superficie, le ombre si allungano, le persone entrano ed escono dal campo visivo. L'osservazione richiede una rapida selezione: quali relazioni costituiscono la base del futuro dipinto, cosa va conservato, quali dettagli possono rimanere al di fuori della tela. Quest'opera combina impressioni immediate con una raffinata capacità di selezione e composizione.
 
-Nel 2023 Ibragim Valikhodjaev ha partecipato come pittore a una incontro di pittura en plein air in Turchia, e nel 2026 a Samarcanda, in Uzbekistan, e a Shabran, in Azerbaigian. Sempre nel 2026, ha curato l'Andijan Fine Arts Festival. Il suo lavoro come artista e come curatore offre diverse prospettive sugli incontri artistici e costituisce una parte indipendente della sua esperienza professionale. Nel 2012, Ibragim Valikhodjaev ha partecipato anche come pittore a una incontro di pittura en plein air in Montenegro.
+Nel 2023 Ibragim Valikhodjaev ha partecipato come pittore a una incontro di pittura en plein air in Turchia, e nel 2026 a Samarcanda, in Uzbekistan, e a Shabran, in Azerbaigian. Sempre nel 2026, ha curato l'Andijan Fine Arts Festival. Il suo lavoro come artista e come curatore offre diverse prospettive sugli incontri artistici e costituisce una parte indipendente della sua esperienza professionale. Nel 2012, Ibragim Valikhodjaev ha partecipato anche come pittore a una incontro di pittura en plein air in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)**.
 
 Per Valikhodjaev, la pittura en plein air è parte di una costante ricerca di nuove direzioni e soluzioni artistiche. Un ambiente diverso offre colori inaspettati, una diversa natura della luce e nuove relazioni tra le forme. La passione per l'osservazione si unisce all'esplorazione della composizione: l'artista sceglie quale sarà il punto focale del dipinto e come trasmettere l'impressione attraverso il proprio linguaggio artistico.
 
@@ -60,7 +60,7 @@ Anche la tempistica è importante. La luce del mattino mette in risalto alcune s
 
 Viaggiare e partecipare a sessioni di pittura en plein air offre nuove sfide a un linguaggio artistico già consolidato. L'artista si confronta con architetture, luci e relazioni spaziali diverse. Il dipinto rivela le qualità del luogo che mette in risalto e come le integra nella propria pratica compositiva. Questa esperienza amplia le sue capacità di osservazione e di scelta.
 
-Questa curiosità si manifesta in vari aspetti della sua pratica. Nella serie Namangan, il punto di partenza sono state le persone e la vita quotidiana del bazar; in RED, un'esplorazione del colore rosso; e in New View, le possibilità dell'astrazione. La pittura en plein air aggiunge a questa esplorazione un incontro diretto con la natura in continua trasformazione. Il confronto con altri artisti offre l'opportunità di confrontare soluzioni e scoprire nuove domande per il proprio lavoro.
+Questa curiosità si manifesta in vari aspetti della sua pratica. Nella serie Namangan, il punto di partenza sono state le persone e la vita quotidiana del bazar; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**, un'esplorazione del colore rosso; e in New View, le possibilità dell'astrazione. La pittura en plein air aggiunge a questa esplorazione un incontro diretto con la natura in continua trasformazione. Il confronto con altri artisti offre l'opportunità di confrontare soluzioni e scoprire nuove domande per il proprio lavoro.
 
 ## Il plein air come incontro professionale
 

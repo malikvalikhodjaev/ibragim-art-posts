@@ -4,12 +4,14 @@ language: "uz"
 theme: 10
 description: "«Pushti abstraksiya №1»: gorizontal chiziq, rangning zichligi, mo‘yqalam izlari va rangtasvirdagi pauzalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Pushti rang sohasi va bitta chiziq: abstrakt rangtasvirdagi ritm
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Kompozitsiya va ritm
 
@@ -53,7 +55,7 @@ Umumiy ko‘rinishda ham, bitta pushti rangning yonida boshqasi bilan qanday o�
 
 Valixo‘jayevning bozor rasmlarida ritmni ro‘mollarda, odamlar siluetlarida va qo‘llarning egri chiziqlarida kuzatish mumkin. Ushbu abstraksiyada takrorlanish rolini mo‘yqalam surtmalarining yo‘nalishi va zich va siyrak joylarning almashinishi o‘ynaydi. Bu yonma-yon qo‘yish bizga uning ishining turli yo‘nalishlari o‘rtasidagi bog‘liqlikni tushunishga yordam beradi, shu bilan birga ular orasidagi farqlarni saqlab qoladi.
 
-"Yangi nigoh" rassomning abstraksiyaga qiziqishi, "RED" qizil rangni o‘rganishi va Namangan seriyasi bozor odamlari va kundalik hayoti bilan bog‘liq. "Pushti abstraksiya №1" bizga ritm tushunchasini aniq ranglar maydoni orqali o‘rganish imkonini beradi. Rasmning sanasi va ko‘rgazmaga tegishliligi mavjud arxiv izohida ko‘rsatilmagan, shuning uchun ular bu yerda tasdiqlanmagan.
+"**[Yangi nigoh](<https://ibragim-valikhodjaev.blogspot.com/2026/10/rangning-oz-ovozi-ibrohim.html>)**" rassomning abstraksiyaga qiziqishi, "RED" qizil rangni o‘rganishi va Namangan seriyasi bozor odamlari va kundalik hayoti bilan bog‘liq. "Pushti abstraksiya №1" bizga ritm tushunchasini aniq ranglar maydoni orqali o‘rganish imkonini beradi. Rasmning sanasi va ko‘rgazmaga tegishliligi mavjud arxiv izohida ko‘rsatilmagan, shuning uchun ular bu yerda tasdiqlanmagan.
 
 ## Umumiy ko‘rinish va sekin o‘qish
 

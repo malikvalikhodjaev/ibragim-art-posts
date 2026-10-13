@@ -4,12 +4,14 @@ language: "es"
 theme: 6
 description: "El muelle y las palmeras de Perast: color, arquitectura y espacio en los paisajes de Montenegro de Valikhodjaev, 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Veintiún días en Montenegro: los paisajes costeros de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Paisaje de Montenegro
 
@@ -64,7 +66,7 @@ La transición del primer plano luminoso a la distancia relativamente tranquila 
 
 ## Pintar al aire libre y volver al motivo
 
-La obra data de 2012, cuando Valikhodjaev participó en un proyecto de pintura al aire libre en Montenegro. La exposición "21 Días en Montenegro" se celebró ese mismo año en Tashkent, Uzbekistán. Esta información nos ayuda a distinguir entre el lugar del viaje creativo y la exposición posterior. La pintura en sí misma nos permite apreciar el impacto del viaje en el artista: un nuevo motivo, una relación diferente entre la arquitectura y el agua, y un carácter distinto en las transiciones espaciales.
+La obra data de 2012, cuando Valikhodjaev participó en un proyecto de **[pintura al aire libre](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html>)** en Montenegro. La exposición "21 Días en Montenegro" se celebró ese mismo año en Tashkent, Uzbekistán. Esta información nos ayuda a distinguir entre el lugar del viaje creativo y la exposición posterior. La pintura en sí misma nos permite apreciar el impacto del viaje en el artista: un nuevo motivo, una relación diferente entre la arquitectura y el agua, y un carácter distinto en las transiciones espaciales.
 
 Durante el viaje, la observación adquiere nuevos contextos. Los barcos que giran forman el primer plano, el paseo marítimo lo conecta con la ciudad y la fría distancia amplía el espacio. La pintura terminada conserva estas relaciones y nos permite retomar en la sala de exposiciones lo observado durante el viaje.
 

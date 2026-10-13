@@ -4,12 +4,14 @@ language: "fa"
 theme: 3
 description: "ولی‌خوجایف در پروژهٔ مجسمه‌های شناور هولان، چین، ۲۰۲۴: فرم فلزی، آب، بازتاب و مقیاس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # مجسمه روی آب: ابراهیم ولی‌خوجایف در هولان
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_27.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>)
+
+[ویدئو](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 <div dir="rtl" lang="fa">
 
@@ -32,7 +34,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ویدئو
 
-[مراحل کار و مجسمه‌های شناور](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[مراحل کار و مجسمه‌های شناور](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [ویدئو](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -115,7 +117,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 [هنرمند به سوی رودخانهٔ یخ‌زده می‌رود](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[قدم‌زدن روی یخ میان مجسمه‌های هنرمندان مختلف](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[قدم‌زدن روی یخ میان مجسمه‌های هنرمندان مختلف](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## از آرشیو پروژه مجسمه‌سازی در چین
 

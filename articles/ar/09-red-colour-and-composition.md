@@ -4,12 +4,14 @@ language: "ar"
 theme: 9
 description: "الخيول الحمراء والغرفة الحمراء: كيف يختبر إبراهيم فاليخودجاييف قوة الأحمر وعلاقته بالألوان المجاورة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_8.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: كيف يبني اللون الأحمر اللوحة
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_8.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_8.html>)
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 <div dir="rtl" lang="ar">
 
@@ -103,7 +105,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 ## فيديو
 
-[يُقدّم تسجيل فيديو لمعرض "رؤية جديدة"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) نظرةً أعمق على استكشاف الفنان للألوان والأشكال والأحجام. ترتبط الصور المعروضة أعلاه بموضوع اللون الأحمر، بينما يكشف الفيديو عن اتجاه مختلف في أعمال الفنان.
+**[يُقدّم تسجيل فيديو لمعرض "رؤية جديدة"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** نظرةً أعمق على استكشاف الفنان للألوان والأشكال والأحجام. ترتبط الصور المعروضة أعلاه بموضوع اللون الأحمر، بينما يكشف الفيديو عن اتجاه مختلف في أعمال الفنان.
 
 ## نبذة عن الفنان
 
@@ -157,7 +159,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 درس RED التطبيقي: بناء التكوين، أوزبكستان، طشقند، 2017. أرشيف الفنان.
 
-[RED والدرس التطبيقي: تقرير سفارة أوزبكستان، 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED والدرس التطبيقي: تقرير سفارة أوزبكستان، 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## داخل المرسم: قبل المعرض وبعده
 

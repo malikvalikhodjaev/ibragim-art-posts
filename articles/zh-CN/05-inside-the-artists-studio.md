@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 5
 description: "从拉希姆·艾哈迈多夫大师工作室到指导学生：绘画中的观察、构图与专业经验的传递。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_578.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 在画家工作室：观察、教学与经验的传递
@@ -34,7 +34,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 一幅完成的画作掩盖了其创作过程中诸多抉择的痕迹。而在工作室里，这个过程清晰可见：艺术家比较色彩关系，调整轮廓，改变色块大小，并退后几步，重新审视整体画面。绘画展现出其细致入微的观察和形式把握，每一笔都建立在前一笔的基础上。
 
-伊布拉吉姆·瓦利霍贾耶夫的创作实践与教学密不可分。2014年8月8日的档案影像记录了他与学生们在工作室里一起工作的场景。2026年在阿塞拜疆拍摄的视频则捕捉到了他在户外写生时的创作过程。这两种影像形式都让观众有机会亲眼见证专业作品的创作过程。
+伊布拉吉姆·瓦利霍贾耶夫的创作实践与教学密不可分。2014年8月8日的档案影像记录了他与学生们在工作室里一起工作的场景。2026年在阿塞拜疆拍摄的视频则捕捉到了他在户外**[写生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_339.html>)**时的创作过程。这两种影像形式都让观众有机会亲眼见证专业作品的创作过程。
 
 工作室让我们得以一窥艺术家的好奇心如何转化为实际创作。瓦利霍贾耶夫不断探索色彩、形式和构图的新方法：在《纳曼干》系列中，他关注集市上的人物和生活；在《红色》系列中，他探索红色的各种可能性；而在《新视角》系列中，他则运用抽象语言。每一个创作方向都需要在画布上进行独特的实验、观察和改进。
 
@@ -74,11 +74,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 视频
 
-[2014年8月8日，与学生们一起绘画](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[2014年8月8日，与学生们一起绘画](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [视频](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[开放式绘画过程，阿塞拜疆，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[开放式绘画过程，阿塞拜疆，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [视频](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [视频](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[大师课视频 · 中国，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[访问及大师课报道 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## 画室内：展览前后的工作
 
@@ -177,4 +177,4 @@ RED绘画示范：观众观看创作，乌兹别克斯坦，塔什干，2017年�
 
 RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 艺术家档案。
 
-[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**

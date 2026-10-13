@@ -4,7 +4,7 @@ language: "ko"
 theme: 14
 description: "주제, 실루엣, 구도, 리듬, 질감, 스케일. 작품을 구체적으로 보는 데 도움이 되는 열 가지 미술 용어."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_71.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 그림을 읽는 열 가지 열쇠 — 작품으로 익히는 미술 용어
@@ -61,7 +61,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 4. 구도
 
-구도는 작품의 각 부분을 하나로 연결한다. "나망간 모음곡"에서는 인물들의 배치, 겹쳐진 형상들, 그리고 수평 구도를 따라 움직이는 모습이 중요하다. 각 인물은 특정한 공간을 차지하고 있으며, 반복되는 빛과 색채의 형태는 멀리 떨어진 영역들을 연결한다. 이러한 배치가 그림 속에서 어떤 동선을 제시하는지 스스로에게 질문해 보기.
+구도는 작품의 각 부분을 하나로 연결한다. "**[나망간 모음곡](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_219.html>)**"에서는 인물들의 배치, 겹쳐진 형상들, 그리고 수평 구도를 따라 움직이는 모습이 중요하다. 각 인물은 특정한 공간을 차지하고 있으며, 반복되는 빛과 색채의 형태는 멀리 떨어진 영역들을 연결한다. 이러한 배치가 그림 속에서 어떤 동선을 제시하는지 스스로에게 질문해 보기.
 
 [Ibragim Valikhodjaev, "나망간 모음곡". 구성 및 가로 형식이다.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 6. 색채 구성
 
-색채 구성는 그림 속 색들 간의 관계를 나타내는 체계이다. "미라키"에서 붉은 색면, 파란 길, 밝은 벽, 그리고 어두운 나무들은 서로 연결되어 있는 것처럼 보인다. 각 부분의 색조, 크기, 그리고 근접성은 모두 중요한 의미를 지닌다. "RED"에서 붉은색을 탐구하는 것은 하나의 주된 색이 얼마나 다양한 의미를 전달할 수 있는지를 보여준다.
+색채 구성는 그림 속 색들 간의 관계를 나타내는 체계이다. "미라키"에서 붉은 색면, 파란 길, 밝은 벽, 그리고 어두운 나무들은 서로 연결되어 있는 것처럼 보인다. 각 부분의 색조, 크기, 그리고 근접성은 모두 중요한 의미를 지닌다. "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)**"에서 붉은색을 탐구하는 것은 하나의 주된 색이 얼마나 다양한 의미를 전달할 수 있는지를 보여준다.
 
 [이브라김 발리호자예프, "미라키." 색 구성은 넓은 색 영역들 사이의 관계를 바탕으로 이루어졌다.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 영상 보기
 
-["New View": 전시 공간 속 색채와 기하학](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["New View": 전시 공간 속 색채와 기하학](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [영상](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

@@ -4,12 +4,14 @@ language: "es"
 theme: 11
 description: "Suite de Namangan de cerca: gestos, pañuelos blancos, gorros bordados y grupos de figuras en una panorámica del bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Suite de Namangan»: la vida dentro de un gran lienzo
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 La historia de un cuadro
 
@@ -84,7 +86,7 @@ Volviendo a la perspectiva general, se puede apreciar cómo estas relaciones loc
 
 La fuerza de "Suite de Namangan" se revela al observarla con detenimiento. Reconocemos personas y objetos, y luego notamos la precisión con la que están dispuestos en la superficie. La acción cotidiana adquiere una silueta nítida; la ropa une al grupo mediante el color; un pañuelo que se repite conecta las partes distantes del lienzo.
 
-El tema del bazar le brindó a Valikhodjaev la oportunidad de explorar el entorno humano y buscar constantemente soluciones compositivas diferentes. Posteriormente, su interés por nuevos desafíos se manifestó en su exploración del color rojo en "RED" y la abstracción en "New View". "Suite de Namangan" demuestra uno de los pilares de esta exploración: la atención a la escena cotidiana y la capacidad de plasmar en ella una imagen artística coherente.
+El tema del bazar le brindó a Valikhodjaev la oportunidad de explorar el entorno humano y buscar constantemente soluciones compositivas diferentes. Posteriormente, su interés por nuevos desafíos se manifestó en su exploración del color rojo en "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**" y la abstracción en "New View". "Suite de Namangan" demuestra uno de los pilares de esta exploración: la atención a la escena cotidiana y la capacidad de plasmar en ella una imagen artística coherente.
 
 ## Cómo la escena cotidiana preserva una multitud de voces
 

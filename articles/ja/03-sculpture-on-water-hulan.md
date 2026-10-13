@@ -4,12 +4,14 @@ language: "ja"
 theme: 3
 description: "中国・フーランの水上彫刻プロジェクト、2024年。彫刻家として参加したヴァリホジャエフの制作と水、光、反射。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 水面に浮かぶ彫刻――イブラギム・ヴァリホジャエフ、フーランにて
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_336.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>)
+
+[映像](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 彫刻と環境
 
@@ -30,7 +32,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## ビデオ
 
-[制作過程と浮かぶ彫刻](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[制作過程と浮かぶ彫刻](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [映像](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 
 [凍結した川へ向かう作家](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[氷上を歩き、さまざまな作家の彫刻を見る](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[氷上を歩き、さまざまな作家の彫刻を見る](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## 中国での彫刻プロジェクトの記録
 

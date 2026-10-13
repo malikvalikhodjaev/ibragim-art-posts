@@ -4,7 +4,7 @@ language: "it"
 theme: 13
 description: "Cortili, muri rossi, Varzik e Miraki: colore, architettura e presenze umane nei villaggi dipinti da Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/cortili-e-strade-sinuose-i-colori-dei.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Cortili e strade sinuose: i colori dei villaggi uzbeki
@@ -122,7 +122,7 @@ Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle illustrazi
 
 La pittura all’aperto comincia prima della prima pennellata, con una passeggiata e la scelta del punto di vista. Le fotografie mostrano una strada di villaggio, un cortile raccolto, un pendio roccioso e alberi autunnali. Un motivo si legge come alternanza di muri chiari e aperture scure; un altro come movimento di una strada fra gli edifici. Il pittore sceglie sia il soggetto sia il rapporto fra le grandi masse della composizione.
 
-Queste immagini di lavoro completano i paesaggi, restituendo la scala dei luoghi, la luce irregolare e le texture. Pareti, tetti, una striscia di terra e la chioma di un albero alimentano i rapporti cromatici. Nel dipinto l’osservazione può diventare più libera e sintetica, mantenendo il legame con il motivo nella costruzione dello spazio. Luogo e anno delle fotografie non sono accertati: il loro aspetto non basta a collegarle a un preciso soggiorno a Miraki, in Montenegro o in Azerbaigian.
+Queste immagini di lavoro completano i paesaggi, restituendo la scala dei luoghi, la luce irregolare e le texture. Pareti, tetti, una striscia di terra e la chioma di un albero alimentano i rapporti cromatici. Nel dipinto l’osservazione può diventare più libera e sintetica, mantenendo il legame con il motivo nella costruzione dello spazio. Luogo e anno delle fotografie non sono accertati: il loro aspetto non basta a collegarle a un preciso soggiorno a Miraki, in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)** o in Azerbaigian.
 
 [Uscita di lavoro dal vero: una strada di villaggio e le montagne. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

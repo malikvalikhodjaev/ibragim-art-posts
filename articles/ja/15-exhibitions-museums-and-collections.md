@@ -4,7 +4,7 @@ language: "ja"
 theme: 15
 description: "ハルビンの美術館、イスタンブールの自治体コレクション、モスクワの個人所蔵。展覧会と収蔵の違いを読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_49.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 展覧会のその先へ――美術館とコレクションにある作品
@@ -74,7 +74,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 動画を見る
 
-[個展「雪上の太陽」開催、中国・ハルビン、2026年](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[個展「雪上の太陽」開催、中国・ハルビン、2026年](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [映像](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

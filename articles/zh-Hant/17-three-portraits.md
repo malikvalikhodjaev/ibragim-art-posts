@@ -4,12 +4,14 @@ language: "zh-Hant"
 theme: 17
 description: "比較迪亞斯·拉赫馬托夫、莉娜與薩沙肖像：面部、服裝、留白與繪畫空間。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 面孔、姿態與留白：瓦利霍賈耶夫的三幅肖像
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_426.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html>)
+
+[影片](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 人物與繪畫空間
 
@@ -43,7 +45,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 迪亞斯·拉赫馬托夫在畫室：從相見到肖像
 
-[迪亞斯·拉赫馬托夫](<https://uzbekkino.glob.uz/person/109>)是烏茲別克戲劇及電影演員。這些檔案照片記錄了他在瓦利霍賈耶夫畫室中的身影，以及肖像的創作過程。與完成的畫作並置時，照片讓觀者看到模特兒在場的狀態、他與畫架的位置關係，以及畫家對面容和姿態的關注。
+**[迪亞斯·拉赫馬托夫](<https://uzbekkino.glob.uz/person/109>)**是烏茲別克戲劇及電影演員。這些檔案照片記錄了他在瓦利霍賈耶夫畫室中的身影，以及肖像的創作過程。與完成的畫作並置時，照片讓觀者看到模特兒在場的狀態、他與畫架的位置關係，以及畫家對面容和姿態的關注。
 
 [伊布拉吉姆·瓦利霍賈耶夫與演員迪亞斯·拉赫馬托夫在畫室中。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

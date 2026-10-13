@@ -4,7 +4,7 @@ language: "de"
 theme: 8
 description: "Pleinair-Malerei und Austausch: Valikhodjaev als Teilnehmer in Montenegro und Aserbaidschan sowie seine bestätigten kuratorischen Aufgaben."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Raum für Malerei: Pleinair und künstlerische Begegnungen
@@ -30,17 +30,17 @@ In diesem Artikel
 
 ## Video
 
-[Pleinair in Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Pleinair in Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Offener Malprozess, Aserbaidschan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Offener Malprozess, Aserbaidschan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 Im Freien arbeitet der Künstler in einer sich ständig verändernden Welt. Das Licht wandert über die Fläche, Schatten werden länger, Menschen kommen und gehen aus dem Blickfeld. Die Beobachtung erfordert eine schnelle Auswahl: Welche Beziehungen bilden die Grundlage des zukünftigen Gemäldes, was soll bewahrt werden, welche Details können jenseits der Leinwand bleiben? Diese Arbeit verbindet unmittelbare Eindrücke mit der geschulten Fähigkeit, auszuwählen und zu komponieren.
 
-Ibragim Valikhodjaev nahm 2023 als Maler an einem Pleinair-Treffen in der Türkei und 2026 in Samarkand (Usbekistan) und Shabran (Aserbaidschan) teil. Ebenfalls 2026 kuratierte er das Andijan Fine Arts Festival. Seine Arbeit als Künstler und Kurator bietet unterschiedliche Perspektiven auf künstlerische Begegnungen und bildet eigenständige Bereiche seiner beruflichen Erfahrung. Bereits 2012 war Ibragim Valikhodjaev als Freilichtmaler in Montenegro aktiv.
+Ibragim Valikhodjaev nahm 2023 als Maler an einem Pleinair-Treffen in der Türkei und 2026 in Samarkand (Usbekistan) und Shabran (Aserbaidschan) teil. Ebenfalls 2026 kuratierte er das Andijan Fine Arts Festival. Seine Arbeit als Künstler und Kurator bietet unterschiedliche Perspektiven auf künstlerische Begegnungen und bildet eigenständige Bereiche seiner beruflichen Erfahrung. Bereits 2012 war Ibragim Valikhodjaev als Freilichtmaler in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html>)** aktiv.
 
 Für Valikhodjaev ist die Freilichtmalerei Teil einer ständigen Suche nach neuen künstlerischen Wegen und Lösungen. Eine andere Umgebung eröffnet unerwartete Farben, ein anderes Lichtspiel und neue Formenbeziehungen. Seine Leidenschaft für die Beobachtung verbindet sich mit der Auseinandersetzung mit der Komposition: Der Künstler wählt den Schwerpunkt des Gemäldes und die Art und Weise, wie er den Eindruck durch seine eigene künstlerische Sprache vermittelt.
 
@@ -60,7 +60,7 @@ Auch der Zeitpunkt ist wichtig. Morgenlicht hebt manche Oberflächen hervor, Abe
 
 Reisen und die Teilnahme an Pleinair-Treffen stellen den Künstler vor neue Herausforderungen in seiner etablierten künstlerischen Ausdrucksweise. Er begegnet unterschiedlicher Architektur, Lichtverhältnissen und räumlichen Beziehungen. Das Gemälde offenbart die Qualitäten des dargestellten Ortes und wie er diese in seine eigene Kompositionspraxis einfließen lässt. Diese Erfahrung erweitert seine Beobachtungsgabe und seinen Gestaltungsspielraum.
 
-Diese Neugierde manifestiert sich in verschiedenen Aspekten seiner künstlerischen Praxis. In der Serie „Namangan“ bildeten die Menschen und das Alltagsleben des Basars den Ausgangspunkt; in „RED“ die Auseinandersetzung mit der Farbe Rot; und in „New View“ die Möglichkeiten der Abstraktion. Die Pleinairmalerei erweitert diese Erkundung um eine unmittelbare Begegnung mit der sich wandelnden Natur. Der Austausch mit anderen Künstlern bietet die Möglichkeit, Lösungsansätze zu vergleichen und neue Fragestellungen für das eigene Werk zu entdecken.
+Diese Neugierde manifestiert sich in verschiedenen Aspekten seiner künstlerischen Praxis. In der Serie „Namangan“ bildeten die Menschen und das Alltagsleben des Basars den Ausgangspunkt; in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ die Auseinandersetzung mit der Farbe Rot; und in „New View“ die Möglichkeiten der Abstraktion. Die Pleinairmalerei erweitert diese Erkundung um eine unmittelbare Begegnung mit der sich wandelnden Natur. Der Austausch mit anderen Künstlern bietet die Möglichkeit, Lösungsansätze zu vergleichen und neue Fragestellungen für das eigene Werk zu entdecken.
 
 ## Pleinair als professionelles Treffen
 

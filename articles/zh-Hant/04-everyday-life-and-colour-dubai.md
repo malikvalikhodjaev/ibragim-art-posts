@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 4
 description: "杜拜 Mondoir 畫廊2024年《寂靜之中》個展：日常生活、色彩表現與不同時期作品的相遇。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_504.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 日常生活與色彩的表現力：杜拜的《寂靜之中》
@@ -86,7 +86,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 影片
 
-[展覽「寂靜之中」的影片介紹](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[展覽「寂靜之中」的影片介紹](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [影片](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

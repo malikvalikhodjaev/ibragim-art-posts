@@ -4,12 +4,14 @@ language: "en"
 theme: 6
 description: "Boats, palms, pale stone and deep blue: a close look at two Perast paintings from Valikhodjaev’s Montenegro series of 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_716.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)
+
+[Video](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Montenegro Landscape
 
@@ -64,7 +66,7 @@ The transition from the bright foreground to the comparatively calm distance set
 
 ## Plein-air painting and a return to the motif
 
-The work dates back to 2012, when Valikhodjaev participated in a plein air painting project in Montenegro. The exhibition "21 Days in Montenegro" was held that same year in Tashkent, Uzbekistan. This information helps us distinguish between the location of the creative trip and the subsequent exhibition. The painting itself allows us to see what the trip gave the artist: a new motif, a different relationship between architecture and water, and a different character of spatial transitions.
+The work dates back to 2012, when Valikhodjaev participated in a **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)** painting project in Montenegro. The exhibition "21 Days in Montenegro" was held that same year in Tashkent, Uzbekistan. This information helps us distinguish between the location of the creative trip and the subsequent exhibition. The painting itself allows us to see what the trip gave the artist: a new motif, a different relationship between architecture and water, and a different character of spatial transitions.
 
 On the trip, observation takes on new contexts. The turning boats form the foreground, the embankment connects it to the city, and the cold distance expands the space. The finished painting preserves these relationships and allows us to return to what we saw in the exhibition hall.
 

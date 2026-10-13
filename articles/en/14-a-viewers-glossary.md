@@ -4,7 +4,7 @@ language: "en"
 theme: 14
 description: "Ten useful painting terms, explained through portraits, bazaar scenes, landscapes and abstraction: composition, palette, rhythm and texture."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ten-ways-into-painting-viewers-guide-to.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # A Viewer’s Glossary: Ten Keys to Painting
@@ -61,7 +61,7 @@ A silhouette is the general outline of a figure or object. A white scarf can be 
 
 ## 4. Composition
 
-Composition connects the parts of a work into a whole. In "Namangan Suite," the placement of groups, the overlapping of figures, and the movement along the horizontal format are important. Each character occupies a specific space, and repeated light and colour forms connect distant areas. Ask yourself what path through the painting this arrangement suggests.
+Composition connects the parts of a work into a whole. In "**[Namangan Suite](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html>)**," the placement of groups, the overlapping of figures, and the movement along the horizontal format are important. Each character occupies a specific space, and repeated light and colour forms connect distant areas. Ask yourself what path through the painting this arrangement suggests.
 
 [Ibragim Valikhodjaev, "Namangan Suite." Composition and horizontal format.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Rhythm emerges from repetition and variation. White scarves return at different 
 
 ## 6. Colour
 
-A colour scheme is the system of relationships between colours in a painting. In "Miraki," the red field, blue road, light wall, and dark trees are perceived as interconnected. The hue, size, and proximity of each section are all significant. The exploration of red in RED demonstrates how many purposes a single dominant colour can convey.
+A colour scheme is the system of relationships between colours in a painting. In "Miraki," the red field, blue road, light wall, and dark trees are perceived as interconnected. The hue, size, and proximity of each section are all significant. The exploration of red in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)** demonstrates how many purposes a single dominant colour can convey.
 
 [Ibragim Valikhodjaev, "Miraki." The colour scheme is built on the relationships between large colour areas.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ A dictionary becomes useful when it brings us back to the work. Choose two conce
 
 ## Watch the video
 
-["New View": Colour and Geometry in the Exhibition Space](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["New View": Colour and Geometry in the Exhibition Space](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Video](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

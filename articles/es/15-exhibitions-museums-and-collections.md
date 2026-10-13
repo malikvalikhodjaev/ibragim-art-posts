@@ -4,7 +4,7 @@ language: "es"
 theme: 15
 description: "Las obras de Valikhodjaev en museos y colecciones: Harbin, Estambul y Moscú. La historia de una exposición y la de una colección."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/despues-de-la-exposicion-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Después de la exposición: Ibragim Valikhodjaev en museos y colecciones
@@ -70,11 +70,11 @@ Ibragim Valikhodjaev, "Suite de Namangan". Reproducción del archivo del artista
 
 La información precisa sobre el título, el artista, el material y la historia de una obra es fundamental para su preservación. Los documentos e imágenes que permiten su reconocimiento en nuevas publicaciones también son importantes, además de la pintura. En este blog, las reproducciones de archivo se acompañan de títulos y los detalles se enlazan con las imágenes completas.
 
-Una biografía, notas de la exposición y fotografías de sus obras ayudan a conectar las diversas facetas de la práctica artística de Valikhodjaev. En su serie «Bazar», se interesó por las personas y la vida cotidiana; en «RED», por las posibilidades del color rojo; en «Nueva mirada (New View)», por la abstracción. Museos y colecciones conservan los resultados de esta exploración, y nuevos espectadores la continúan con su atención a sus obras.
+Una biografía, notas de la exposición y fotografías de sus obras ayudan a conectar las diversas facetas de la práctica artística de Valikhodjaev. En su serie «Bazar», se interesó por las personas y la vida cotidiana; en «**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**», por las posibilidades del color rojo; en «Nueva mirada (New View)», por la abstracción. Museos y colecciones conservan los resultados de esta exploración, y nuevos espectadores la continúan con su atención a sus obras.
 
 ## Ver el vídeo
 
-[Inauguración de la exposición individual "Sol sobre nieve", Harbin, China, 2026.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Inauguración de la exposición individual "Sol sobre nieve", Harbin, China, 2026.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

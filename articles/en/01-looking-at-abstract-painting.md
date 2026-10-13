@@ -4,7 +4,7 @@ language: "en"
 theme: 1
 description: "Explore colour, composition and scale in Valikhodjaev’s New View exhibition, with close attention to the language of abstraction."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_06.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # How to Look at Abstract Art: A Guide Through Valikhodjaev’s Paintings
@@ -33,7 +33,7 @@ In this article
 
 ## Video
 
-[View the New View exhibition route](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[View the New View exhibition route](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Video](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

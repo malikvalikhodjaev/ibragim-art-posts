@@ -4,12 +4,14 @@ language: "es"
 theme: 10
 description: "Abstracción rosa n.º 1: una línea oscura, pinceladas y pausas revelan cómo Valikhodjaev construye el ritmo pictórico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/arcos-planos-y-pausas-el-ritmo-de-la.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Un campo rosa y una línea oscura: el ritmo en Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/arcos-planos-y-pausas-el-ritmo-de-la.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/arcos-planos-y-pausas-el-ritmo-de-la.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Composición y ritmo
 
@@ -53,7 +55,7 @@ Incluso en una visión general, se puede apreciar cómo un tono de rosa cambia j
 
 En las pinturas de Valikhodjaev ambientadas en bazares, el ritmo se aprecia en los pañuelos, las siluetas de las personas y las curvas de las manos. En esta abstracción, la repetición se manifiesta en la dirección de las pinceladas y la alternancia de zonas densas y dispersas. Esta yuxtaposición nos ayuda a comprender las conexiones entre las distintas direcciones de su obra, sin perder de vista sus diferencias.
 
-«Nueva mirada (New View)» se relaciona con el interés del artista por la abstracción, «RED» con la exploración del color rojo, y la Serie Namangan con la gente y la vida cotidiana del bazar. «Abstracción Rosa N.° 1» nos permite examinar el concepto mismo de ritmo a través de un campo de color distintivo. La fecha de la pintura y su afiliación a la exposición no se indican en el pie de foto disponible, por lo que no se confirman aquí.
+«**[Nueva mirada](<https://ibragim-valikhodjaev.blogspot.com/2026/10/como-mirar-la-abstraccion-color-y-forma.html>)** (New View)» se relaciona con el interés del artista por la abstracción, «RED» con la exploración del color rojo, y la Serie Namangan con la gente y la vida cotidiana del bazar. «Abstracción Rosa N.° 1» nos permite examinar el concepto mismo de ritmo a través de un campo de color distintivo. La fecha de la pintura y su afiliación a la exposición no se indican en el pie de foto disponible, por lo que no se confirman aquí.
 
 ## Visión general y lectura pausada
 

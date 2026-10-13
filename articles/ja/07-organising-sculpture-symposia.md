@@ -4,7 +4,7 @@ language: "ja"
 theme: 7
 description: "トルコとウズベキスタンで企画・キュレーションした8回の国際彫刻シンポジウム。素材と交流、公共空間を考える。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_692.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 石から公共空間へ――彫刻シンポジウムをつくる
@@ -76,15 +76,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## ビデオ
 
-[シンポジウム報告、サマルカンド、2025年](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[シンポジウム報告、サマルカンド、2025年](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [映像](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[シンポジウム閉会式、サマルカンド、2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[シンポジウム閉会式、サマルカンド、2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [映像](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNNトルコによるトルコ・イスタンブールのマーブルウェーブ・プロジェクトに関する2021年の報道：[動画をご覧ください](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)。上のアーカイブ写真は、別の制作現場で撮影されたものである。
+CNNトルコによるトルコ・イスタンブールのマーブルウェーブ・プロジェクトに関する2021年の報道：**[動画をご覧ください](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)**。上のアーカイブ写真は、別の制作現場で撮影されたものである。
 
 ## アーティストについて
 

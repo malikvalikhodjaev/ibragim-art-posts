@@ -4,12 +4,14 @@ language: "ja"
 theme: 10
 description: "「ピンクの抽象 No.1」を近くから見る。一本の暗い線、重なる筆触、密度の変化がつくるリズム。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_306.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # ピンクの色面、暗い一本の線――絵画に生まれるリズム
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_306.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_306.html>)
+
+[映像](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 構成とリズム
 
@@ -23,7 +25,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [English](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-rhythm-of-painting-how-ibragim.html>) · [Français](<https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html>) · [Italiano](<https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html>) · [繁體中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_472.html>) · [简体中文](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_185.html>) · [Русский](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_136.html>) · [O‘zbekcha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html>) · [Türkçe](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev_01887514916.html>) · [العربية](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_33.html>) · [فارسی](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_01.html>) · [Español](<https://ibragim-valikhodjaev.blogspot.com/2026/10/arcos-planos-y-pausas-el-ritmo-de-la.html>) · [Deutsch](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bogen-flachen-und-pausen-der-rhythmus.html>) · [עברית](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_34.html>) · [日本語](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_306.html>) · [한국어](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_933.html>)
 
-「ピンクの抽象 No.1」は、構図について新たな視点を提供する作品である。リズムは、筆致、絵具の密度、そして一本の表現力豊かな線の位置によって形成される。
+「ピンクの抽象 No.1」は、構図について**[新たな視点](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_1.html>)**を提供する作品である。リズムは、筆致、絵具の密度、そして一本の表現力豊かな線の位置によって形成される。
 
 ## 色面内で何が起こるのか
 
@@ -53,7 +55,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ヴァリホジャエフのバザールを描いた絵画では、スカーフ、人々のシルエット、手の曲線にリズムが感じられる。この抽象表現において、反復の役割は筆致の方向と、密集した部分と疎な部分の交互配置によって担われている。こうした対比は、彼の作品の様々な方向性のつながりを理解するのに役立つと同時に、それぞれの方向性の違いも明確に示している。
 
-「New View」は抽象表現へのアーティストの関心、「RED」は赤色の探求、「ナマンガンシリーズ」はバザールの人々と日常生活に関連している。「ピンクの抽象 No.1」は、独特の色彩を通してリズムという概念そのものを考察することを可能にする。この絵画の制作年月日と展覧会との関連性は、入手可能な資料の説明には記載されていないため、ここでは確認できない。
+「New View」は抽象表現へのアーティストの関心、「**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)**」は赤色の探求、「ナマンガンシリーズ」はバザールの人々と日常生活に関連している。「ピンクの抽象 No.1」は、独特の色彩を通してリズムという概念そのものを考察することを可能にする。この絵画の制作年月日と展覧会との関連性は、入手可能な資料の説明には記載されていないため、ここでは確認できない。
 
 ## 全体像とゆっくり読む
 

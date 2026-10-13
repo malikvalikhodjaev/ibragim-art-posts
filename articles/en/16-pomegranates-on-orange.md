@@ -4,12 +4,14 @@ language: "en"
 theme: 16
 description: "Pomegranates on orange: colour, intervals, texture and the relationship between near objects and distant forms in Valikhodjaev’s still life."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Pomegranates on Orange: A Small World of Painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html>)
+
+[Video](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 One painting close up
 
@@ -68,7 +70,7 @@ The still life is easily recognisable, but its structure offers a second level o
 
 ## One Subject within a Wider Exploration
 
-Valikhodjaev's interest in colour and form permeates various themes: the people and everyday life of the Namangan series, the exploration of red in RED, and the abstraction of New View. "Pomegranates" allows one to explore a similar range of questions in still life: what holds attention, how to connect repetitions, and how powerful can a colour field be?
+Valikhodjaev's interest in colour and form permeates various themes: the people and everyday life of the Namangan series, the exploration of red in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, and the abstraction of New View. "Pomegranates" allows one to explore a similar range of questions in still life: what holds attention, how to connect repetitions, and how powerful can a colour field be?
 
 Start with the overall composition, find a single fruit, and trace its edge. After studying a detail, look again at the painting as a whole: the small ochre strokes and twists of form will be more noticeable. A careful return reveals a familiar motif as a sequence of precise painterly decisions.
 

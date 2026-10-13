@@ -4,7 +4,7 @@ language: "en"
 theme: 20
 description: "From studio to gallery: Valikhodjaev as painter, teacher, curator and founder, and the encounters created by an exhibition."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # From Studio to Gallery: How Valikhodjaev Makes Space for Art
@@ -40,7 +40,7 @@ Valikhodjaev founded the Valikhodjaev Gallery House; a second gallery opened on 
 
 ## A Personal Exploration Enters Public Space
 
-In the studio, the artist considers the relationship between colour, form, and composition. The Namangan series stems from Valikhodjaev's interest in the people and everyday life of the bazaar; RED, from his exploration of red; and New View, from the possibilities of abstraction. Each direction develops from specific artistic goals.
+In the studio, the artist considers the relationship between colour, form, and composition. The Namangan series stems from Valikhodjaev's interest in the people and everyday life of the bazaar; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, from his exploration of red; and New View, from the possibilities of abstraction. Each direction develops from specific artistic goals.
 
 At the exhibition, these decisions become an experience for the viewer. Distance, lighting, and juxtaposition of works change; individual works can be compared. The gallery environment helps us see the artistic exploration in progress, returning from the entire itinerary to a single painting.
 
@@ -74,7 +74,7 @@ Behind his multiple professional roles, Valikhodjaev maintains a constant intere
 
 ## Watch the video
 
-[Working with students, August 8, 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Working with students, August 8, 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ These two archival videos show the artist taking part in preparing and viewing a
 
 [Video](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## The painting and its exhibition space
 

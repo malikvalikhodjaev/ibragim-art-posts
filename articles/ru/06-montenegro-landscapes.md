@@ -4,12 +4,14 @@ language: "ru"
 theme: 6
 description: "Пейзажи Пераста 2012 года: лодки, пальмы, светлый камень и глубокая синева. Черногорская серия Ибрагима Валиходжаева."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_513.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Двадцать один день в Черногории: приморские пейзажи Валиходжаева
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_513.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_513.html>)
+
+[Видеозапись](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Черногория · Пейзаж
 

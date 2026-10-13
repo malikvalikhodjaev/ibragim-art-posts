@@ -4,12 +4,14 @@ language: "it"
 theme: 12
 description: "Armonia superiore, Dormiente e Nudo: tre studi della figura distesa, del contorno e dello spazio cromatico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # La figura distesa: linea e colore nei nudi di Ibragim Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html>)
+
+[Video](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Nudo · La figura umana
 
@@ -79,7 +81,7 @@ Rispetto a "Dormiente", il colore freddo diventa un elemento più indipendente n
 
 "Armonia superiore", "Dormiente" e "Nudo" sono accomunate dall'attenzione alla forma e al movimento del corpo disteso, ma vengono trattate in modo diverso. La ricca cornice, l'ambiente grigiastro e tenue e lo sfondo bluastro modificano il peso della figura luminosa e il ritmo della visione. Il contorno scuro può diventare dominante o cedere il passo a una transizione più delicata.
 
-Queste opere rivelano un lato peculiare del lavoro di Valikhodjaev, che si affianca a composizioni dedicate al bazar, ritratti, opere RED e astrazione. Il nudo diventa materiale per esplorare la forma: l'artista mette a confronto posa, linea e spazio intorno al corpo, trovando diverse soluzioni espressive all'interno di un genere a lui familiare.
+Queste opere rivelano un lato peculiare del lavoro di Valikhodjaev, che si affianca a composizioni dedicate al bazar, ritratti, opere **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)** e astrazione. Il nudo diventa materiale per esplorare la forma: l'artista mette a confronto posa, linea e spazio intorno al corpo, trovando diverse soluzioni espressive all'interno di un genere a lui familiare.
 
 ## Osservare da vicino il contorno della figura
 

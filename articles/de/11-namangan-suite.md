@@ -4,12 +4,14 @@ language: "de"
 theme: 11
 description: "Die Namangan-Suite: Alltagsgesten, weiße Kopftücher und bunte Kleidung verdichten sich bei Valikhodjaev zu einer großen Basarszene."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Namangan-Suite»: das Leben in einem großen Gemälde
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 Die Geschichte eines Gemäldes
 
@@ -84,7 +86,7 @@ Kehrt man zur Gesamtansicht zurück, so fällt auf, wie diese lokalen Beziehunge
 
 Die Kraft der „Namangan-Suite“ offenbart sich erst bei genauerer Betrachtung. Wir erkennen Personen und Gegenstände und bemerken dann, wie präzise sie auf der Oberfläche angeordnet sind. Alltägliche Handlungen erhalten klare Konturen; Kleidung verbindet die Gruppe farblich; ein sich wiederholendes Kopftuch verbindet die entfernten Teile der Leinwand.
 
-Das Thema Basar bot Valikhodjaev die Gelegenheit, die menschliche Umgebung zu erforschen und beständig nach neuen Kompositionslösungen zu suchen. Später manifestierte sich sein Interesse an neuen Herausforderungen in seiner Auseinandersetzung mit der Farbe Rot in „RED“ und der Abstraktion in „New View“. Die „Namangan-Suite“ verdeutlicht eine der Säulen dieser Auseinandersetzung: die Aufmerksamkeit für die lebendige Szene und die Fähigkeit, ihr ein stimmiges künstlerisches Bild zu verleihen.
+Das Thema Basar bot Valikhodjaev die Gelegenheit, die menschliche Umgebung zu erforschen und beständig nach neuen Kompositionslösungen zu suchen. Später manifestierte sich sein Interesse an neuen Herausforderungen in seiner Auseinandersetzung mit der Farbe Rot in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ und der Abstraktion in „New View“. Die „Namangan-Suite“ verdeutlicht eine der Säulen dieser Auseinandersetzung: die Aufmerksamkeit für die lebendige Szene und die Fähigkeit, ihr ein stimmiges künstlerisches Bild zu verleihen.
 
 ## Wie die Alltagsszene eine Vielzahl von Stimmen bewahrt
 

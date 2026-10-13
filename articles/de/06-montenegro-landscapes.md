@@ -4,12 +4,14 @@ language: "de"
 theme: 6
 description: "Montenegro 2012: Boote, Palmen und Uferpromenaden in Valikhodjaevs Pleinair-Malerei. Zwei Landschaften aus Perast im genauen Blick."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Einundzwanzig Tage in Montenegro: Valikhodjaevs Küstenlandschaften
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Montenegro-Landschaft
 

@@ -4,7 +4,7 @@ language: "en"
 theme: 7
 description: "Eight international sculpture symposia organised and curated by Valikhodjaev in Turkey and Uzbekistan: stone, exchange and public space."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/from-stone-to-shared-space-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # From Stone to Shared Space: Ibragim Valikhodjaev and the Sculpture Symposium
@@ -76,15 +76,15 @@ Ibragim Valikhodjaev working on a metal sculpture at a site in Hulan, China. Pho
 
 ## Video
 
-[Report from the symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Report from the symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Video](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Closing of the symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Closing of the symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Video](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN Türk's report on the Marble Wave project in Istanbul, Turkey, 2021: [watch the video](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . The archival photo above is from a different working site.
+CNN Türk's report on the Marble Wave project in Istanbul, Turkey, 2021: **[watch the video](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . The archival photo above is from a different working site.
 
 ## About the artist
 

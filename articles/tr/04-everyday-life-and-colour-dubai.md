@@ -4,7 +4,7 @@ language: "tr"
 theme: 4
 description: "In Silence, Dubai 2024: Valikhodjaev’in gündelik yaşamı resmetmesi ve Zahra Habibizad’ın küratörlüğündeki kişisel sergi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gundelik-hayatn-renkleri-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Gündelik hayatın renkleri: Valikhodjaev Dubai’de
@@ -30,7 +30,7 @@ Bir sanatçı, günlük bir sahnenin içsel yapısını keşfettiğinde, yani fi
 
 2024 yılında, Birleşik Arap Emirlikleri'nin Dubai kentindeki Mondoir Galerisi'nde "Sessizlik İçinde (In Silence)" adlı kişisel bir sergi düzenlendi. Zara olarak da bilinen Zahra Habibizad'ın küratörlüğünü üstlendiği sergi, Valikhodjaev'in resimlerini uluslararası bir izleyici kitlesine tanıttı ve Özbekistan'ın günlük yaşamından temaların insanlık, hafıza ve sanatsal dil hakkında daha geniş bir tartışmayı nasıl şekillendirdiğine dair bir bakış açısı sağladı.
 
-Dubai sergisi, farklı sanatsal yaklaşımların bir buluşması olarak da görülebilir. Valikhodjaev, Namangan serisinde çarşıya, insanlara ve günlük hayata; RED serisinde kırmızının ifade potansiyeline; soyutlamada ise biçimlerin ve renk düzlemlerinin bağımsız ilişkilerine odaklanmıştır. Bu ilgi alanları, pratiğinin genişliğini ve resim içinde sürekli yeni çözümler bulma arzusunu anlamamıza yardımcı olur.
+Dubai sergisi, farklı sanatsal yaklaşımların bir buluşması olarak da görülebilir. Valikhodjaev, Namangan serisinde çarşıya, insanlara ve günlük hayata; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)** serisinde kırmızının ifade potansiyeline; soyutlamada ise biçimlerin ve renk düzlemlerinin bağımsız ilişkilerine odaklanmıştır. Bu ilgi alanları, pratiğinin genişliğini ve resim içinde sürekli yeni çözümler bulma arzusunu anlamamıza yardımcı olur.
 
 ## Resim sanatında günlük yaşamın teması
 
@@ -86,7 +86,7 @@ Sergiyle ilgili video sunumları ve yayınlar, serginin kamusal tarihini koruyor
 
 ## Video
 
-["Sessizlik İçinde (In Silence)" sergisinin video sunumu](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**["Sessizlik İçinde (In Silence)" sergisinin video sunumu](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

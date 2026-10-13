@@ -4,12 +4,14 @@ language: "en"
 theme: 11
 description: "Inside Namangan Suite: people, everyday gestures, white headscarves and vivid clothing in Valikhodjaev’s panoramic bazaar painting."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Namangan Suite: Life Inside a Large Painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html>)
+
+[Video](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 The story of one painting
 
@@ -84,7 +86,7 @@ Returning to the overall view, one can notice how these local relationships supp
 
 The power of "Namangan Suite" is revealed upon closer inspection. We recognise people and objects, then notice how precisely they are assembled on the surface. Everyday action is given a clear silhouette; clothing binds the group together with colour; a repeating scarf connects the distant parts of the canvas.
 
-The bazaar theme gave Valikhodjaev the opportunity to explore the human environment and continually seek a different compositional solution. Later, his interest in new challenges manifested itself in his exploration of the colour red in "RED" and abstraction in "New View." "Namangan Suite" demonstrates one of the pillars of this exploration: attention to the living scene and the ability to impart a coherent artistic image to it.
+The bazaar theme gave Valikhodjaev the opportunity to explore the human environment and continually seek a different compositional solution. Later, his interest in new challenges manifested itself in his exploration of the colour red in "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**" and abstraction in "New View." "Namangan Suite" demonstrates one of the pillars of this exploration: attention to the living scene and the ability to impart a coherent artistic image to it.
 
 ## How the Everyday Scene Preserves a Multitude of Voices
 

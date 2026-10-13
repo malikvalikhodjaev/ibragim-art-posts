@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 7
 description: "瓦利霍賈耶夫在土耳其和烏茲別克組織並策劃八屆國際雕塑創作營的專業經驗。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_2.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 從石材到公共空間：組織國際雕塑創作營
@@ -76,15 +76,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 影片
 
-[2025年撒馬爾罕雕塑創作營報告](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[2025年撒馬爾罕雕塑創作營報告](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [影片](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[雕塑創作營閉幕式，撒馬爾罕，2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[雕塑創作營閉幕式，撒馬爾罕，2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [影片](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN土耳其頻道2021年報導了土耳其伊斯坦堡的「大理石波浪」計畫：[觀看影片](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)。上方的存檔照片來自另一個雕塑創作現場。
+CNN土耳其頻道2021年報導了土耳其伊斯坦堡的「大理石波浪」計畫：**[觀看影片](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)**。上方的存檔照片來自另一個雕塑創作現場。
 
 ## 關於藝術家
 

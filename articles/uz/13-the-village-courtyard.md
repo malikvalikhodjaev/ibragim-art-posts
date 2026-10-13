@@ -4,7 +4,7 @@ language: "uz"
 theme: 13
 description: "«Qishloq hovlisi», «Mehmonda», «Varzik» va «Ishdan qaytish»: arxitektura, rang va kichik inson qiyofasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/uylar-va-yollar-ibrohim-valixodjayev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Hovli, devor va qaytish yo‘li: o‘zbek qishlog‘ining ranglari
@@ -120,9 +120,9 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 
 ## Plener sinchiklab kuzatishdan boshlanadi
 
-Plener ilk mo‘yqalam zarbasidan oldin — sayr va ko‘rish nuqtasini tanlashdan boshlanadi. Suratlarda qishloq ko‘chasi, tor hovli, toshli yonbag‘ir va kuzgi daraxtlar ko‘rinadi. Bir motivni och devorlar va qoramtir eshik-derazalar almashinuvi sifatida, boshqasini imoratlar orasidan o‘tuvchi yo‘l harakati sifatida o‘qish mumkin. Rassom tasvir mavzusini ham, kompozitsiyani ushlab turadigan katta shakllar nisbatini ham tanlaydi.
+**[Plener](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html>)** ilk mo‘yqalam zarbasidan oldin — sayr va ko‘rish nuqtasini tanlashdan boshlanadi. Suratlarda qishloq ko‘chasi, tor hovli, toshli yonbag‘ir va kuzgi daraxtlar ko‘rinadi. Bir motivni och devorlar va qoramtir eshik-derazalar almashinuvi sifatida, boshqasini imoratlar orasidan o‘tuvchi yo‘l harakati sifatida o‘qish mumkin. Rassom tasvir mavzusini ham, kompozitsiyani ushlab turadigan katta shakllar nisbatini ham tanlaydi.
 
-Bu ish jarayoni suratlari manzaralarga joyning ko‘lami, o‘zgaruvchan yorug‘lik va sirt fakturasini qaytaradi. Devor, tom, yer tasmasi va daraxt shox-shabbasi rang munosabatlariga asos bo‘ladi. Tayyor asarda kuzatish erkinroq va umumlashgan tus olishi mumkin; natura bilan aloqa makon qurilishida saqlanadi. Suratlarning aniq joyi va yili belgilanmagan. Faqat ko‘rinishiga qarab ularni Miraki, Chernogoriya yoki Ozarbayjondagi muayyan plenerga nisbat berib bo‘lmaydi.
+Bu ish jarayoni suratlari manzaralarga joyning ko‘lami, o‘zgaruvchan yorug‘lik va sirt fakturasini qaytaradi. Devor, tom, yer tasmasi va daraxt shox-shabbasi rang munosabatlariga asos bo‘ladi. Tayyor asarda kuzatish erkinroq va umumlashgan tus olishi mumkin; natura bilan aloqa makon qurilishida saqlanadi. Suratlarning aniq joyi va yili belgilanmagan. Faqat ko‘rinishiga qarab ularni Miraki, **[Chernogoriya](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)** yoki Ozarbayjondagi muayyan plenerga nisbat berib bo‘lmaydi.
 
 [Plener safarida: qishloq ko‘chasi va tog‘ manzarasi. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

@@ -4,7 +4,7 @@ language: "en"
 theme: 4
 description: "In Silence at Mondoir Gallery, Dubai, in 2024: everyday Uzbek life, vivid colour and an exhibition curated by Zahra Habibizad."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/everyday-life-extraordinary-colour.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Everyday Life, Extraordinary Colour: Valikhodjaev in Dubai
@@ -30,7 +30,7 @@ An everyday scene becomes a painting when the artist discovers its inner structu
 
 In 2024, a solo exhibition, "In Silence," was held in Dubai, United Arab Emirates, at the Mondoir Gallery. Curated by Zahra Habibizad, also known as Zara, the exhibition introduced Valikhodjaev's paintings to an international audience and allowed for a glimpse into how themes of everyday Uzbek life inform a broader conversation about humanity, memory, and artistic language.
 
-The Dubai exhibition can also be seen as a meeting of different artistic directions. In his Namangan series, Valikhodjaev was captivated by the bazaar, people, and everyday life; in RED, by the expressive potential of red; and in abstraction, by the independent relationships of forms and colour planes. These interests help us understand the breadth of his practice and his constant desire to find new solutions within painting.
+The Dubai exhibition can also be seen as a meeting of different artistic directions. In his Namangan series, Valikhodjaev was captivated by the bazaar, people, and everyday life; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, by the expressive potential of red; and in abstraction, by the independent relationships of forms and colour planes. These interests help us understand the breadth of his practice and his constant desire to find new solutions within painting.
 
 ## Everyday life as a theme of painting
 
@@ -86,7 +86,7 @@ The video presentation and publications about the exhibition preserve its public
 
 ## Video
 
-[Video presentation of the exhibition In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[Video presentation of the exhibition In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Video](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

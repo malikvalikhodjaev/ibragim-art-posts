@@ -4,12 +4,14 @@ language: "es"
 theme: 16
 description: "Granadas sobre un fondo naranja: siluetas oscuras, pinceladas y espacios entre los frutos en una naturaleza muerta de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/granadas-sobre-naranja-el-pequeno-mundo.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Granadas sobre naranja: el pequeño mundo de una naturaleza muerta
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/granadas-sobre-naranja-el-pequeno-mundo.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/granadas-sobre-naranja-el-pequeno-mundo.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Un cuadro en primer plano
 
@@ -68,7 +70,7 @@ La naturaleza muerta es fácilmente reconocible, pero su estructura ofrece una s
 
 ## Un tema dentro de una exploración más amplia
 
-El interés de Valikhodjaev por el color y la forma impregna diversos temas: la gente y la vida cotidiana de la serie Namangan, la exploración del rojo en RED y la abstracción de New View. «Granadas» permite explorar un abanico similar de cuestiones en la naturaleza muerta: ¿qué capta la atención?, ¿cómo conectar las repeticiones?, ¿y cuán poderoso puede ser un campo de color?
+El interés de Valikhodjaev por el color y la forma impregna diversos temas: la gente y la vida cotidiana de la serie Namangan, la exploración del rojo en **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)** y la abstracción de New View. «Granadas» permite explorar un abanico similar de cuestiones en la naturaleza muerta: ¿qué capta la atención?, ¿cómo conectar las repeticiones?, ¿y cuán poderoso puede ser un campo de color?
 
 Comienza con la composición general, encuentra una fruta y sigue su contorno. Tras estudiar un detalle, vuelve a observar la pintura en su conjunto: las pequeñas pinceladas ocres y las formas onduladas serán más perceptibles. Un repaso minucioso revela un motivo familiar como una secuencia de decisiones pictóricas precisas.
 

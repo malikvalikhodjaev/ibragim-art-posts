@@ -4,7 +4,7 @@ language: "tr"
 theme: 7
 description: "Valikhodjaev’in düzenlediği sekiz heykel sempozyumu: malzeme, ortak çalışma alanı, küratörlük ve kamusal heykelin yaşamı."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tastan-kamusal-alana-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Taştan kamusal alana: heykel sempozyumlarının içinden
@@ -76,15 +76,15 @@ Valikhodjaev'in sekiz sempozyumu, sanatın yaratıcı ve kamusal alanları aras�
 
 ## Video
 
-[Semerkant 2025 sempozyumu raporu](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Semerkant 2025 sempozyumu raporu](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Sempozyumun kapanışı, Semerkant, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Sempozyumun kapanışı, Semerkant, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN Türk'ün İstanbul'daki Mermer Dalga projesiyle ilgili 2021 tarihli haberini [izleyin](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . Yukarıdaki arşiv fotoğrafı farklı bir çalışma alanından alınmıştır.
+CNN Türk'ün İstanbul'daki Mermer Dalga projesiyle ilgili 2021 tarihli haberini **[izleyin](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . Yukarıdaki arşiv fotoğrafı farklı bir çalışma alanından alınmıştır.
 
 ## Sanatçı hakkında
 

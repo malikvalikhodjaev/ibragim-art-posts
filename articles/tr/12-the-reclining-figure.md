@@ -4,12 +4,14 @@ language: "tr"
 theme: 12
 description: "Yüksek Uyum, Uyuyan ve Nü: Valikhodjaev’in resimlerinde uzanan beden, koyu kontur ve çevresindeki renk alanları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Uzanan figür: Valikhodjaev’in nü resimlerinde çizgi ve renk
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Nü · İnsan figürü
 
@@ -79,7 +81,7 @@ Figürün altındaki açık renkli düzlem, üstteki daha koyu alandan ayrılmı
 
 "Yüksek Uyum", "Uyuyan" ve "Nü" adlı eserler, uzanmış bedenin biçimine ve hareketine odaklanmalarıyla birleşirler, ancak farklı şekillerde ele alınırlar. Zengin çevre, soluk gri ortam ve mavimsi alan, açık renkli figürün ağırlığını ve izleme hızını değiştirir. Koyu hatlar baskın hale gelebilir veya daha incelikli bir geçişe yol açabilir.
 
-Bu eserler, Valikhodjaev'in çarşı kompozisyonları, portreleri, RED ve soyutlamanın yanı sıra çalışmalarının farklı bir yönünü ortaya koyuyor. Nü, biçimi araştırmak için bir malzeme haline geliyor: sanatçı, poz, çizgi ve bedenin etrafındaki alanı karşılaştırarak, tanıdık bir tür içinde farklı ifade çözümleri buluyor.
+Bu eserler, Valikhodjaev'in çarşı kompozisyonları, portreleri, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)** ve soyutlamanın yanı sıra çalışmalarının farklı bir yönünü ortaya koyuyor. Nü, biçimi araştırmak için bir malzeme haline geliyor: sanatçı, poz, çizgi ve bedenin etrafındaki alanı karşılaştırarak, tanıdık bir tür içinde farklı ifade çözümleri buluyor.
 
 ## Figürün konturuna yakından bakmak
 

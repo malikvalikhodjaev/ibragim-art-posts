@@ -4,7 +4,7 @@ language: "ko"
 theme: 5
 description: "거장 라힘 아흐메도프의 작업실에서 자신의 교육 활동까지. 관찰, 구도, 제작 과정을 통해 보는 발리호자예프의 회화."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_84.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 작업실 안으로 — 보고, 배우고, 그리는 일
@@ -36,7 +36,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 이브라김 발리호자예프의 창작 활동은 교육과 밀접하게 연결되어 있다. 2014년 8월 8일 촬영된 아카이브 영상은 그가 스튜디오에서 학생들과 함께, 그리고 학생들을 위해 작업하는 모습을 보여준다. 2026년 아제르바이잔에서 촬영된 영상은 야외에서 그림을 그리는 그의 자유로운 작업 과정을 포착하고 있다. 두 영상 모두 전문적인 해결책이 눈앞에서 직접 드러나는 모습을 보여준다.
 
-이 작업실은 예술적 호기심이 어떻게 실질적인 작업으로 이어지는지 보여준다. 발리호자예프는 색채, 형태, 구도에 대한 새로운 접근 방식을 끊임없이 탐구한다. '나망간' 시리즈에서는 시장의 사람들과 삶에 관심을 가졌고, 'RED' 시리즈에서는 붉은색의 가능성을, 'New View' 시리즈에서는 추상적인 언어를 표현했다. 각 방향은 캔버스 위에서 고유한 실험, 관찰, 그리고 다듬기 과정을 필요로 한다.
+이 작업실은 예술적 호기심이 어떻게 실질적인 작업으로 이어지는지 보여준다. 발리호자예프는 색채, 형태, 구도에 대한 새로운 접근 방식을 끊임없이 탐구한다. '나망간' 시리즈에서는 시장의 사람들과 삶에 관심을 가졌고, '**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)**' 시리즈에서는 붉은색의 가능성을, 'New View' 시리즈에서는 추상적인 언어를 표현했다. 각 방향은 캔버스 위에서 고유한 실험, 관찰, 그리고 다듬기 과정을 필요로 한다.
 
 ## 거장 라힘 아흐메도프의 작업실
 
@@ -74,11 +74,11 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 동영상
 
-[학생들과 함께 그림 그리기, 2014년 8월 8일](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[학생들과 함께 그림 그리기, 2014년 8월 8일](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [영상](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[공개된 회화 제작 과정, 아제르바이잔, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[공개된 회화 제작 과정, 아제르바이잔, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [영상](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 
 [영상](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## 작업실에서: 전시 전후의 시간
 
@@ -177,4 +177,4 @@ RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타�
 
 RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
 
-[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)**

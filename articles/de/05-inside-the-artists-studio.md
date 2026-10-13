@@ -4,7 +4,7 @@ language: "de"
 theme: 5
 description: "Vom Atelier des Meisters Rahim Ahmedov zur eigenen Bildsprache: Valikhodjaevs Ausbildung, Beobachtung und Arbeit mit Studierenden."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/im-atelier-sehen-malen-und-lernen-mit.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Im Atelier: sehen, malen und lernen mit Ibragim Valikhodjaev
@@ -36,7 +36,7 @@ Ein fertiges Gemälde verbirgt die vielen Entscheidungen, die zu seiner Entstehu
 
 Ibragim Valikhodjaevs künstlerische Praxis ist eng mit seiner Lehrtätigkeit verbunden. Archivaufnahmen vom 8. August 2014 zeigen ihn bei der Arbeit in einem Atelier mit und für Studierende. Videoaufnahmen aus Aserbaidschan aus dem Jahr 2026 dokumentieren den offenen Malprozess im Freien. Beide Formate ermöglichen es, die Entstehung einer professionellen Lösung direkt vor den Augen des Betrachters mitzuerleben.
 
-Das Atelier ermöglicht es uns zu sehen, wie künstlerische Neugier in praktisches Arbeiten umgesetzt wird. Valikhodjaev sucht ständig nach neuen Ansätzen in Bezug auf Farbe, Form und Komposition: In der Serie „Namangan“ interessierte er sich für die Menschen und das Leben auf dem Basar, in „RED“ für die Möglichkeiten der Farbe Rot und in „New View“ für die abstrakte Bildsprache. Jede dieser Richtungen erfordert eigene Experimente, Beobachtungen und Verfeinerungen auf der Leinwand.
+Das Atelier ermöglicht es uns zu sehen, wie künstlerische Neugier in praktisches Arbeiten umgesetzt wird. Valikhodjaev sucht ständig nach neuen Ansätzen in Bezug auf Farbe, Form und Komposition: In der Serie „Namangan“ interessierte er sich für die Menschen und das Leben auf dem Basar, in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ für die Möglichkeiten der Farbe Rot und in „New View“ für die abstrakte Bildsprache. Jede dieser Richtungen erfordert eigene Experimente, Beobachtungen und Verfeinerungen auf der Leinwand.
 
 ## Atelier des Meisters Rahim Ahmedov
 
@@ -74,11 +74,11 @@ Ein Besuch im Atelier bereichert die spätere Wahrnehmung der fertigen Gemälde.
 
 ## Video
 
-[Malen mit Schülern, 8. August 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Malen mit Schülern, 8. August 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[Offener Malprozess, Aserbaidschan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Offener Malprozess, Aserbaidschan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Ma
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Im Atelier, vor und nach der Ausstellung
 
@@ -177,4 +177,4 @@ RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent
 
 RED-Malkurs: Entwicklung der Komposition, Usbekistan, Taschkent, 2017. Archiv des Künstlers.
 
-[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

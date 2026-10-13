@@ -4,12 +4,14 @@ language: "tr"
 theme: 19
 description: "Dua, Sürahiler ve Bakış: Valikhodjaev’in erken dönem resimlerinde açık tonlar, ölçülü renk ve ince yüzey farklılıkları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Ölçülü bir paletin gücü: Valikhodjaev’in erken dönem resimleri
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Erken Dönem Eserleri · Sade Renk Paleti
 
@@ -64,7 +66,7 @@ Neredeyse beyaz olan nesneler, açık renkli çevreden ince tonlar ve daha koyu 
 
 Natürmort, sıcak ve soğuk tonları koruyor. Kapların etrafındaki açık renkli alan düzensiz; boya izleri, tek tek nesnelerin görünmediği yerlerde bile hareket etmeye devam ediyor. Bu nedenle, arka plan, sürahi sırası için boş bir fon görevi görmekten ziyade, görüntünün bir parçası haline geliyor.
 
-Bu çalışma, daha sonra yapılan geniş bir renk alanı çalışmasıyla bağlantılıdır, ancak sanatsal sonuç farklıdır. RED'de baskın renk hemen dikkat çekebilir; burada ise izleyici ince geçişleri fark eder. Bu karşılaştırma, sanatçının renklere olan ilgi alanını ortaya koyarken, kısıtlı paleti gelecekteki canlılık için bir hazırlık olarak görmediğini de gösteriyor.
+Bu çalışma, daha sonra yapılan geniş bir renk alanı çalışmasıyla bağlantılıdır, ancak sanatsal sonuç farklıdır. **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**'de baskın renk hemen dikkat çekebilir; burada ise izleyici ince geçişleri fark eder. Bu karşılaştırma, sanatçının renklere olan ilgi alanını ortaya koyarken, kısıtlı paleti gelecekteki canlılık için bir hazırlık olarak görmediğini de gösteriyor.
 
 ## "Bakış": Sınır hem gizler hem de ortaya çıkarır
 

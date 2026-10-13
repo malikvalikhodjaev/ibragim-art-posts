@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 20
 description: "畫家、策展人、教師與畫廊創辦人：瓦利霍賈耶夫如何把個人探索帶入公共藝術交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 從工作室到畫廊：藝術家如何創造相遇的空間
@@ -40,7 +40,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 個人探索進入公共空間
 
-在工作室裡，藝術家思考色彩、形式和構圖之間的關係。 《納曼干》系列源自於瓦利霍賈耶夫對市集上人們及其日常生活的興趣；《紅色》系列源自於他對紅色的探索；《新視角》系列則源自於他對抽象可能性的探索。每個系列都源自於特定的藝術目標。
+在工作室裡，藝術家思考色彩、形式和構圖之間的關係。 《納曼干》系列源自於瓦利霍賈耶夫對市集上人們及其日常生活的興趣；《紅色》系列源自於他對紅色的探索；《**[新視角](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_628.html>)**》系列則源自於他對抽象可能性的探索。每個系列都源自於特定的藝術目標。
 
 在展覽中，這些決定本身就成為觀者的一種體驗。距離、光線和作品的並置方式都在變化；觀者可以對不同的作品進行比較。展廳環境幫助我們看到藝術探索的過程，最終從整個觀展路線回到一幅畫本身。
 
@@ -74,7 +74,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 觀看影片
 
-[與學生一起工作，2014 年8 月8 日。](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[與學生一起工作，2014 年8 月8 日。](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [影片](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [影片](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[展覽籌備——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[展覽籌備——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [影片](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[巡視展覽——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[巡視展覽——烏茲別克斯坦藝術家聯盟主席伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## 繪畫與展覽空間
 

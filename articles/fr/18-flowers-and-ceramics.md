@@ -4,7 +4,7 @@ language: "fr"
 theme: 18
 description: "Bouquets, marguerites et roses : fleurs, céramiques peintes et rythmes de la touche dans les natures mortes de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bien-plus-quun-bouquet-fleurs-ceramique.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Bien plus qu’un bouquet : fleurs, céramique et matière chez Valikhodjaev
@@ -80,7 +80,7 @@ La table noire forme le support inférieur. Le vase clair et quelques touches de
 
 ## La nature morte dans la recherche de l’artiste
 
-Valikhodjaev aborde divers défis artistiques : l’observation de l’être humain dans la série Namangan, l’exploration du rouge dans RED et les formes autonomes dans « New View ». Dans sa nature morte florale, il explore un ensemble de questions à travers la texture, le contraste et la nature des coups de pinceau. Ce thème familier offre des possibilités d’expérimentation uniques.
+Valikhodjaev aborde divers défis artistiques : l’observation de l’être humain dans la série Namangan, l’exploration du rouge dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** et les formes autonomes dans « New View ». Dans sa nature morte florale, il explore un ensemble de questions à travers la texture, le contraste et la nature des coups de pinceau. Ce thème familier offre des possibilités d’expérimentation uniques.
 
 Comparez la vue d'ensemble avec un fragment de fleurs, puis examinez l'ornementation du vase. En revenant à la vue d'ensemble, vous percevrez plus clairement le lien entre les deux rythmes. Le bouquet, le vase et le décor acquièrent toute leur expressivité grâce à la manière dont ils sont peints et agencés sur la toile.
 

@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 1
 description: "從抽象作品出發，觀察色塊、輪廓、間隔與尺幅，理解瓦利霍賈耶夫如何組織畫面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_628.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 如何觀看抽象繪畫：從色彩、線條到畫面尺度
@@ -33,7 +33,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 影片
 
-[觀看《新視角》展覽影片](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[觀看《新視角》展覽影片](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [影片](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

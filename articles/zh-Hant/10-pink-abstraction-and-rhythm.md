@@ -4,12 +4,14 @@ language: "zh-Hant"
 theme: 10
 description: "細看《粉紅色抽象畫1號》：水平線、交錯筆觸、顏料層與觀看節奏；檔案未註明年份和尺寸。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_472.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 粉紅色域與一條線：抽象繪畫中的節奏
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_472.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_472.html>)
+
+[影片](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 構成與節奏
 
@@ -53,7 +55,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 在瓦利霍賈耶夫的市集畫作中，頭巾、人物輪廓和手部曲線都蘊含著節奏。在這些抽象作品中，筆觸的方向以及濃淡交替的運用，共同構成了重複這個主題。這種並置手法既有助於我們理解他不同創作方向之間的聯繫，又能保持它們之間的獨特性。
 
-「新視角」與藝術家對抽象藝術的興趣相關，「紅色」與對紅色的探索相關，而「納曼干系列」則與市集上的人群和日常生活相關。 「粉紅色抽象畫1號」讓我們得以透過獨特的色域來審視節奏的概念。由於現有檔案說明中未註明該畫作的創作日期和展覽訊息，因此此處無法確認。
+「**[新視角](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_628.html>)**」與藝術家對抽象藝術的興趣相關，「紅色」與對紅色的探索相關，而「納曼干系列」則與市集上的人群和日常生活相關。 「粉紅色抽象畫1號」讓我們得以透過獨特的色域來審視節奏的概念。由於現有檔案說明中未註明該畫作的創作日期和展覽訊息，因此此處無法確認。
 
 ## 整體觀看與細讀
 

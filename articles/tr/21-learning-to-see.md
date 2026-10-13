@@ -4,12 +4,14 @@ language: "tr"
 theme: 21
 description: "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 Sanatla geçen bir hayat · Namangan, atölye ve resim
 
@@ -73,11 +75,11 @@ Valikhodjaev, Namangan'da doğdu ve profesyonel eğitimini Taşkent'te, Usta Rah
 
 Bir televizyon röportajında ​​sanatçı, çizim ile sanatçının gelişimi arasında bir ayrım yapıyor. Eğitim, geniş bir olasılıklar dünyasının kapılarını açıyor, ancak bu dünya içinde kendi yönünü bulmak sanatçıya kalmış. Bu yolculuk, portreler, natürmortlar, manzaralar ve gündelik yaşamı konu alan çok figürlü kompozisyonlar aracılığıyla eserlerinde izlenebilir.
 
-[Yukarıdaki video kaydı · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yukarıdaki video kaydı · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ‘Ijod formulasi’de çalışmanın bambaşka bir temposunu da hatırlar: öğrencilikte bir ay boyunca bir türlü istediği sonuca ulaşamadığı bir resim. Bir pazar kompozisyonunu okul atölyesinde, diğerini evinde çalışma alanı yaptığı balkonda resmediyordu. Tuvale dönüyor, boyaları sıkıp çalışıyor, akşam sonuçtan memnun kalmayınca boyayı yeniden kazıyordu. Bu durum yaklaşık bir ay sürdü. Bir gün ailesiyle televizyon izlerken aniden resim yapma isteği duydu; balkona çıktı ve kendi anlatımına göre evdeki resmi yarım saatte tamamladı. Ertesi gün atölyedeki çalışmayı da aynı hızla bitirdi. Bu hikâye, izleyicinin yalnızca sonunda gördüğü hızlı çalışmanın ardında haftalarca arayış ve tatminsizlik bulunabileceğini gösterir.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 Ailenin anlatımına göre diploma çalışmasının konusu da hocasının güvenini gösteriyordu. Öğrencilerden genellikle akademik etütler beklenirken, yalnızca Valikhodjaev’in pazar konulu bağımsız bir kompozisyon üzerinde çalışmasına izin verilmişti. Rahim Ahmedov, İbragim’in akademik temelleri zaten edindiğini ve kendi yaratıcı sorununu ele alabileceğini düşünüyordu. Pazar gözlemleri diploma resmine girdi; daha sonra büyük, çok figürlü tuvallere ve sanatçının tanınan resim diline dönüştü.
 
@@ -87,9 +89,9 @@ Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
 
 ## Usta Rahim Ahmedov ile
 
-Rahim Ahmedov, Özbek resminin önde gelen ustalarından ve birkaç kuşak sanatçı yetiştirmiş bir eğitimcidir. Özbek SSC ve SSCB Halk Sanatçısı, profesör ve SSCB Sanat Akademisi muhabir üyesi unvanları [Rusya Sanat Akademisi’ndeki biyografisinde](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>) yer alır. Psikolojik portreleri, gündelik yaşam kompozisyonları ve manzaraları, resim geleneğini insana ve Özbek kültürüne duyarlılıkla birleştirir. Valikhodjaev 1986–1991 yıllarında onun atölyesinde eğitim aldı; bu ilişki mesleki gelişiminin önemli bir parçasıdır.
+Rahim Ahmedov, Özbek resminin önde gelen ustalarından ve birkaç kuşak sanatçı yetiştirmiş bir eğitimcidir. Özbek SSC ve SSCB Halk Sanatçısı, profesör ve SSCB Sanat Akademisi muhabir üyesi unvanları **[Rusya Sanat Akademisi’ndeki biyografisinde](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** yer alır. Psikolojik portreleri, gündelik yaşam kompozisyonları ve manzaraları, resim geleneğini insana ve Özbek kültürüne duyarlılıkla birleştirir. Valikhodjaev 1986–1991 yıllarında onun atölyesinde eğitim aldı; bu ilişki mesleki gelişiminin önemli bir parçasıdır.
 
-Arşiv fotoğrafı, usta ile genç sanatçıyı ortak bir sanat çevresinde yan yana gösteriyor. Ahmedov’un kendi eserleri Sotheby’s kataloglarında görülebilir: [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) ve [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>). Bağlantılar hocanın sanatını, arşiv ise Valikhodjaev’in yetiştiği ortamı tanımaya yardımcı olur.
+Arşiv fotoğrafı, usta ile genç sanatçıyı ortak bir sanat çevresinde yan yana gösteriyor. Ahmedov’un kendi eserleri Sotheby’s kataloglarında görülebilir: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** ve **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Bağlantılar hocanın sanatını, arşiv ise Valikhodjaev’in yetiştiği ortamı tanımaya yardımcı olur.
 
 [Vladimir İvanoviç Burmakin, Usta Rahim Ahmedov’u kutluyor. Sanatçının kişisel arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ Sanatçı, diploma resmini hazırlarken çarşı temasından çok etkilenmiş ve
 
 2002 tarihli Duppi Pazarı’nda pazar yaşamını gözlemlemenin bağımsız bir resimsel düzene dönüştüğü görülür. Beyaz başörtüleri ve giysiler yinelenen açık renk biçimler oluşturur; figürler birbirine yaklaşır, örtüşür ve tuvalin neredeyse tamamını doldurur. Ön plandaki küçük nesneler ve desenli ayrıntılar belirli bir alışveriş sahnesiyle bağı korur. Aynı yıl yapılan Beshik Pazarı’nda mekân farklı biçimde, geniş kırmızı, koyu ve sarı düzlemlerle düzenlenir. Bu resimler, öğrencilik yıllarında başlayan konunun sonraki gelişim aşamasına aittir. Diploma çalışmasının görselleri değil, gündelik yaşamın yeni bir renk ve biçim dili kazandığı eserlerdir.
 
-[Yukarıdaki video kaydı · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[Yukarıdaki video kaydı · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [“Duppi Pazarı — geleneksel takke pazarı”, 2002. 100 × 120 cm. Sanatçının arşivinden röprodüksiyon.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ Sanatçı bir mimari anıtın yanında. Sanatçının arşivi.
 
 Sanatçının yolu, Özbekistan’daki sanat kurumlarının dönüşümüyle birlikte ilerledi. Güzel Sanatlar Akademisi 23 Ocak 1997’de kuruldu; aynı yıl Valikhodjaev, Sanatçılar Birliği’nin Namangan şubesinin başkanı oldu. Daha sonra Akademi’nin Özel Fonu’nu 1999–2005, Özbekistan Sanat Fonu’nu 1999–2012 yıllarında yönetti. Birlik başkanlığını 2017’den beri sürdürmesi, 2023’te akademisyen unvanını alması, galeri çalışmaları ve uluslararası projeleri, kişisel üretimin başkalarının çalışma koşullarını oluşturmakla nasıl birleştiğini gösterir. Bu, biyografi ile kültürel çevre arasında bir paralelliktir; çevrenin gelişimini tek bir sanatçıya bağlayan bir iddia değildir.
 
-[Tarihsel bağlam: Özbekistan Güzel Sanatlar Akademisi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[Tarihsel bağlam: Özbekistan Güzel Sanatlar Akademisi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## Taşkent: sanat fonlarındaki görevlerin yanında süren resim çalışmaları
 
@@ -239,13 +241,13 @@ Yönetim görevleri yaratıcı çalışmasını durdurmadı. Valikhodjaev, 2005�
 
 Ibragim Valikhodjaev, 2008 yılındaki jübile sergisinde. Sanatçının arşivi.
 
-Üretkenliği, 2012’deki Karadağ yolculuğunda özellikle belirgindir. Ailesinin verdiği bilgiye göre 21 günlük açık hava resim etkinliğinde 42 resim yaparak bunlarla Özbekistan’a döndü. ‘Karadağ’da 21 Gün’ kişisel sergisi, 28 Haziran–13 Temmuz tarihlerinde Taşkent’te açıldı. Etkinlik ve sergi tek bir çalışma döngüsü oluşturur: yeni bir yerle karşılaşmak, doğadan yoğun biçimde çalışmak ve sonucu bir sergide bir araya getirmek.
+Üretkenliği, 2012’deki **[Karadağ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)** yolculuğunda özellikle belirgindir. Ailesinin verdiği bilgiye göre 21 günlük açık hava resim etkinliğinde 42 resim yaparak bunlarla Özbekistan’a döndü. ‘Karadağ’da 21 Gün’ kişisel sergisi, 28 Haziran–13 Temmuz tarihlerinde Taşkent’te açıldı. Etkinlik ve sergi tek bir çalışma döngüsü oluşturur: yeni bir yerle karşılaşmak, doğadan yoğun biçimde çalışmak ve sonucu bir sergide bir araya getirmek.
 
 Bu hız, sürekli gözlem yapmayı ve resimsel kararlar almayı içerir. Aşağıdaki fotoğraflar aynı pratiğin başka bir yanını, sanatçıyı köy sokakları, avlular, kayalar ve ağaçlar arasında gösteriyor. Bu arşiv kareleri Özbekistan’daki açık hava çalışmalarına aittir; Karadağ yolculuğunun fotoğrafları değildir. Sergiler, uygulamalı dersler ve uluslararası projeler kendi üretimiyle birlikte devam edecektir.
 
 ### Açık havada resim, bakmakla başlar
 
-Açık havada resim, ilk fırça darbesinden önce, bir yürüyüş ve bakış açısının seçimiyle başlar. Fotoğraflarda köy sokağı, dar bir avlu, kayalık yamaç ve sonbahar ağaçları görülür. Bir motif açık renk duvarlarla koyu açıklıkların sıralanışı olarak, diğeri yapıların arasından geçen yolun hareketi olarak okunabilir. Ressam hem konuyu hem de kompozisyonu taşıyacak büyük kütlelerin düzenini seçer.
+**[Açık havada resim](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html>)**, ilk fırça darbesinden önce, bir yürüyüş ve bakış açısının seçimiyle başlar. Fotoğraflarda köy sokağı, dar bir avlu, kayalık yamaç ve sonbahar ağaçları görülür. Bir motif açık renk duvarlarla koyu açıklıkların sıralanışı olarak, diğeri yapıların arasından geçen yolun hareketi olarak okunabilir. Ressam hem konuyu hem de kompozisyonu taşıyacak büyük kütlelerin düzenini seçer.
 
 Bu çalışma fotoğrafları, manzara resimlerine yerin ölçeğini, değişken ışığını ve yüzey dokularını ekler. Duvar, çatı, toprak şeridi ve ağaç tacı renk ilişkilerinin malzemesine dönüşür. Bitmiş resimde gözlem daha serbest ve yoğun olabilir; doğayla bağ mekânın kuruluşunda sürer. Fotoğrafların kesin yeri ve yılı bilinmiyor. Yalnızca görüntülerine bakarak onları Miraki, Karadağ ya da Azerbaycan’daki belirli bir etkinliğe bağlamak mümkün değildir.
 
@@ -267,21 +269,21 @@ Doğadan çalışma gezisi: avlu ve köy yapıları. Sanatçının arşivi.
 
 Çocuklar açık havada çalışan sanatçıyı izliyor. Sanatçının arşivi.
 
-[Sergi hazırlığının video kaydı: Özbekistan Sanatçılar Birliği Başkanı olarak Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Sergi hazırlığının video kaydı: Özbekistan Sanatçılar Birliği Başkanı olarak Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Ibragim Valikhodjaev Türkiye’de bir açık hava resim etkinliğinde. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev Türkiye’de bir açık hava resim etkinliğinde. Sanatçının arşivi.
 
-[Dias Rakhmatov atölyede: karşılaşmadan portreye](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html#iv-dias-rakhmatov>)
+**[Dias Rakhmatov atölyede: karşılaşmadan portreye](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html#iv-dias-rakhmatov>)**
 
 ## Renk, araştırma konusu haline geliyor.
 
-2017 RED sergisi için kırmızı, belirgin bir sanatsal odak noktası haline geldi. nuz.uz ile yaptığı bir röportajda Valikhodjaev, çalışmalarında belirli dönemler boyunca bir renge özellikle odaklandığını açıklıyor. Kırmızı, duygusal gücü ve diğer renklerle olan karmaşık kombinasyonu nedeniyle onu cezbetmişti.
+2017 **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)** sergisi için kırmızı, belirgin bir sanatsal odak noktası haline geldi. nuz.uz ile yaptığı bir röportajda Valikhodjaev, çalışmalarında belirli dönemler boyunca bir renge özellikle odaklandığını açıklıyor. Kırmızı, duygusal gücü ve diğer renklerle olan karmaşık kombinasyonu nedeniyle onu cezbetmişti.
 
 Bu, renk ilişkilerinin araştırılmasıdır. Renk, yüzeyin hangi bölümünü kaplar? Komşu tonla olan sınırda ne olur? Renklere daha fazla özerklik tanınırken, manzaranın yapısı nasıl korunabilir? Bu çalışmalarda kırmızı, görüntünün inşasında rol oynar ve duygusal yankısını belirler.
 
-[Yukarıdaki video kaydı · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yukarıdaki video kaydı · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED: izleyicilerin önünde resim yapmak
 
@@ -289,7 +291,7 @@ Bu, renk ilişkilerinin araştırılmasıdır. Renk, yüzeyin hangi bölümünü
 
 Özbekistan Büyükelçiliği’nin sergi haberinde 31 eser ve ziyaretçiler için düzenlenen uygulamalı çalışma kaydedilir. Fotoğraflar elin konumunu, paleti ve oluşan resmi karşılaştırmaya imkân verir. Kırmızının araştırılması, komşu tonlarla ilişkilerinde ve tuvalin bütününün düzenlenmesinde somutlaşır.
 
-[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekistan, Taşkent, 2017. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ Ibragim Valikhodjaev’in kişisel sergisi, Özbekistan Cumhuriyeti Millî Banka
 
 ## Bulunan dil, değişime açık bir alan bırakıyor.
 
-Sanatçı 2017'de verdiği bir röportajda (Rusçadan çevrilmiştir) "Tanıdık şeyleri her zaman yeni, alışılmadık bir şekilde görmeye çalışırım" demişti. Bu fikir, gündelik yaşamı konu alan resimlere olan ilgisinin daha sonraki soyutlamaya yönelmesiyle bağlantı kurmasına yardımcı oluyor. "Yeni Bakış (New View)" sergisinde, görüntü geniş renk alanları, konturlar ve geometrik ilişkiler aracılığıyla oluşturuluyor. Pazar sahnesindeki karakterleri birleştiren kompozisyonel bağlantılar, şimdi bağımsız formlar arasında ortaya çıkıyor.
+Sanatçı 2017'de verdiği bir röportajda (Rusçadan çevrilmiştir) "Tanıdık şeyleri her zaman yeni, alışılmadık bir şekilde görmeye çalışırım" demişti. Bu fikir, gündelik yaşamı konu alan resimlere olan ilgisinin daha sonraki soyutlamaya yönelmesiyle bağlantı kurmasına yardımcı oluyor. "**[Yeni Bakış](<https://ibragim-valikhodjaev.blogspot.com/2026/10/soyut-resme-nasl-baklr-ibragim.html>)** (New View)" sergisinde, görüntü geniş renk alanları, konturlar ve geometrik ilişkiler aracılığıyla oluşturuluyor. Pazar sahnesindeki karakterleri birleştiren kompozisyonel bağlantılar, şimdi bağımsız formlar arasında ortaya çıkıyor.
 
 Sanatçıyı ileriye taşıyan ilgi, merak ve yeni şeyler keşfetme isteğiydi. Bulduğu resim dili yeni denemeler için bir dayanak sağladı: renk, biçim ve kompozisyon başka nasıl düzenlenebilir; konu ya da ölçek değişince ne olur? Bu nedenle pazar dizisinin yanında portreler, natürmortlar, manzaralar, RED’de kırmızı üzerine araştırmalar, New View’daki soyutlama ve heykel de gelişir. Televizyon söyleşisinde Valikhodjaev, tanınabilir bir üslubun durmak için gerekçe olmadığını vurgular: her yeni eser başka bir sanatsal çözümün olanağını açmalıdır.
 
-[Yukarıdaki video kaydı · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yukarıdaki video kaydı · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 18 Nisan 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ["Yeni Bakış (New View)" sergisinin açılışı, Özbekistan, Taşkent, 2024. Fotoğraf, Özbekistan Sanat Akademisi tarafından yayınlanmıştır.](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ Seyahat, bu keşfe yeni bir bağlam kazandırıyor. Valikhodjaev, 2012'de Karada
 
 2026 yılında Çin'in Harbin şehrindeki Yu Shun Art Museum’da açılan "Kar Üzerinde Güneş" adlı kişisel sergisi, büyük ölçekli tuvallerine yeni bir boyut kazandırdı. Yukarıdaki video kaydı, odanın etkisini gösteriyor: uzaktan bakıldığında genel yapı fark edilebilirken, yakından incelendiğinde belirgin bir renk alanı izleyicinin görüş alanının önemli bir bölümünü kaplıyor. Sanatçının eserleri bu müzede, İstanbul'daki Maltepe Belediyesi koleksiyonunda ve Moskova'daki özel bir koleksiyonda, ayrıca diğer kamu ve özel koleksiyonlarda yer almaktadır.
 
-[Yukarıdaki video kaydı · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[Yukarıdaki video kaydı · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 Aşağıdaki arşiv fotoğrafı, sanatçıyı başka bir sergi toplantısında gösteriyor. Fotoğrafın kesin tarihi ve yeri bilinmiyor; Harbin'deki sergi yukarıdaki video kaydıda görülebilir.
 
@@ -345,7 +347,7 @@ Valikhodjaev, kendi çalışmalarını Türkiye ve Özbekistan'da sekiz uluslara
 
 Deneyim paylaşma arzusu, galeri çalışmalarında ve eğitimde açıkça görülmektedir. Valikhodjaev Gallery House’un ikinci galerisi 5 Ağustos 2021'de açıldı. Öğrencilerle yapılan resim gösterileri ve dersler, profesyonel çalışmaları yakından gözlemleme olanağı sağlıyor: sanatçının bir resme nasıl başladığı, bir bölümü nasıl değiştirdiği ve sonucu nasıl değerlendirdiği. Bir toplantı düzenlemek, açık hava etkinliğine katılmak ve kendi eserini yaratmak, her birinin kendi sorumlulukları olan farklı rollerdir.
 
-[Kultura.uz · 10 Eylül 2024](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 10 Eylül 2024](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## Bugün: sanat üretimi ve sanat çevresine karşı sorumluluk
 
@@ -390,7 +392,7 @@ Biyografi, sergilerini ve profesyonel görevlerini takip etmemizi sağlarken, r�
 
 Onun yolculuğu eserlerinde devam ediyor: pazar yerindeki insanlar, kırmızının değişen yankısı, soyut tuvallerin inşası ve heykelin kamusal alanla karşılaşması. Bu çeşitli akımlar, bir keşif alışkanlığıyla, yani yeni bir bakış açısıyla ve farklı bir resimsel yanıt bulma alışkanlığıyla birleşiyor.
 
-[Yukarıdaki video kaydı · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[Yukarıdaki video kaydı · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 Bugün Ibragim Valikhodjaev’in çoğu resim olmak üzere 600’den fazla eseri biliniyor. Erken döneminin ölçülü paleti, Namangan pazarı, portreler, natürmortlar, nü, açık hava manzaraları, RED ve soyutlama farklı dönem ve arayışları oluşturur. Sanatçı renk, biçim ve kompozisyonun yeni olanaklarını araştırmayı sürdürüyor.
 
@@ -436,16 +438,16 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 
 [Video kaydı](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 Çin’deki serginin hazırlıklarını anlatırken önce mekândan söz eder. Salonu daha önce görmüştü; planını ve ölçülerini aldıktan sonra hangi eserleri götüreceğini ve nasıl yerleştireceğini düşündü. Büyük, aydınlık salon geniş tuvallerin sergilenmesine imkân veriyordu. Ardından sanatsal karar pratik bir işe dönüştü: tuvaller şaselerinden çıkarıldı, rulo yapıldı ve kargo uçağıyla gönderildi. Sanatçı eserlerden önce geldi, onları bekledi ve serginin hazırlanmasına katıldı. Televizyondaki anlatımında sergi, resmin ölçeğinden taşınmasına ve salondaki yerleşimine uzanan bu kararlar dizisiyle şekillenir.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 İbragim Valikhodjaev donmuş nehirdeki kendi yüzen heykelinin önünde, Çin, Harbin, 25 Şubat 2026. Sanatçının arşivi.
 
-[Harbin’deki sergi açılışının video kaydı, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[Harbin’deki sergi açılışının video kaydı, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**

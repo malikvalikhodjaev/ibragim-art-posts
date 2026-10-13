@@ -4,12 +4,14 @@ language: "ko"
 theme: 9
 description: "「붉은 말들」과 RED 풍경, 「미라키」. 색면과 윤곽을 통해 읽는 발리호자예프의 붉은색 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED — 붉은색은 어떻게 그림을 구성하는가
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_5.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)
+
+[영상](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 빨간색 · 색상과 모양
 
@@ -101,7 +103,7 @@ RED는 붉은색에 대한 열정적인 탐구와 관련이 있다. 발리호자
 
 ## 동영상
 
-["New View" 전시의 영상 기록은](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) 색채, 형태, 크기에 대한 작가의 탐구를 더욱 깊이 있게 보여준다. 위에 제시된 작품들은 '붉은색'이라는 주제와 관련이 있지만, 영상은 작가의 작품이 나아갈 또 다른 방향을 제시한다.
+**["New View" 전시의 영상 기록은](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** 색채, 형태, 크기에 대한 작가의 탐구를 더욱 깊이 있게 보여준다. 위에 제시된 작품들은 '붉은색'이라는 주제와 관련이 있지만, 영상은 작가의 작품이 나아갈 또 다른 방향을 제시한다.
 
 ## 작가 소개
 
@@ -155,7 +157,7 @@ RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타�
 
 RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.
 
-[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## 작업실에서: 전시 전후의 시간
 

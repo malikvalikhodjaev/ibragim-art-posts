@@ -4,7 +4,7 @@ language: "ja"
 theme: 20
 description: "画家、教師、キュレーター、ギャラリー創設者。ヴァリホジャエフが作品と観客の出会いをつくる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_12.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # アトリエからギャラリーへ――芸術の居場所をつくる
@@ -74,7 +74,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 動画を見る
 
-[学生との活動、2014年8月8日。](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[学生との活動、2014年8月8日。](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [映像](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [映像](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[展覧会の準備――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[展覧会の準備――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [映像](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[展示を見て回る――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[展示を見て回る――ウズベキスタン芸術家連盟会長イブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## 絵画と展示空間
 

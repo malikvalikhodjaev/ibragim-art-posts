@@ -4,7 +4,7 @@ language: "ko"
 theme: 20
 description: "화가와 교육자, 큐레이터와 갤러리 설립자. 발리호자예프가 작품과 관객의 만남을 만드는 방식."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_505.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 작업실에서 갤러리까지 — 예술의 자리를 만드는 일
@@ -40,7 +40,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 개인적 탐구가 공공 공간으로 진입하다
 
-작가는 작업실에서 색채, 형태, 구도 사이의 관계를 고찰한다. 나망간 시리즈는 발리호자예프가 시장의 사람들과 일상생활에 관심을 가졌던 데서 비롯되었고, RED 시리즈는 붉은색에 대한 탐구에서, 그리고 New View 시리즈는 추상 미술의 가능성에서 출발했다. 각 작품 방향은 특정한 예술적 목표에서 발전해 나간다.
+작가는 작업실에서 색채, 형태, 구도 사이의 관계를 고찰한다. 나망간 시리즈는 발리호자예프가 시장의 사람들과 일상생활에 관심을 가졌던 데서 비롯되었고, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)** 시리즈는 붉은색에 대한 탐구에서, 그리고 New View 시리즈는 추상 미술의 가능성에서 출발했다. 각 작품 방향은 특정한 예술적 목표에서 발전해 나간다.
 
 전시에서 이러한 결정들은 관람객에게 하나의 경험이 된다. 거리, 조명, 작품들의 배치 방식이 변화하고, 개별 작품들을 비교할 수 있게 된다. 전시장 환경은 예술적 탐구의 진행 과정을 보여주고, 전체 여정에서 하나의 그림으로 다시 돌아오게 해준다.
 
@@ -74,7 +74,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 영상 보기
 
-[학생들과 함께 활동하는 모습, 2014년 8월 8일.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[학생들과 함께 활동하는 모습, 2014년 8월 8일.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [영상](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 [영상](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[전시 준비 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[전시 준비 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [영상](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[전시장 둘러보기 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[전시장 둘러보기 — 우즈베키스탄 예술가연맹 회장 이브라김 발리호자예프](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## 회화와 전시 공간
 

@@ -4,12 +4,14 @@ language: "it"
 theme: 10
 description: "Astrazione rosa n. 1: una linea scura, pennellate incrociate e ritmi mutevoli all’interno del campo cromatico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Un campo rosa e una linea scura: il ritmo secondo Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html>)
+
+[Video](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Composizione e ritmo
 
@@ -53,7 +55,7 @@ Anche in una visione d'insieme, si può notare come una tonalità di rosa cambi 
 
 Nei dipinti di Valikhodjaev raffiguranti scene di bazar, il ritmo si può rintracciare nelle foulard, nelle silhouette delle persone e nelle curve delle mani. In questa astrazione, il ruolo della ripetizione è svolto dalla direzione delle pennellate e dall'alternanza di aree dense e rade. Questa giustapposizione ci aiuta a comprendere le connessioni tra le diverse direzioni del suo lavoro, pur mantenendo le distinzioni tra di esse.
 
-"New View" è legato all'interesse dell'artista per l'astrazione, "RED" all'esplorazione del rosso e la serie Namangan alla gente e alla vita quotidiana del bazar. "Astrazione rosa n. 1" ci permette di esaminare il concetto stesso di ritmo attraverso un campo cromatico ben definito. La data del dipinto e l'appartenenza a una mostra non sono indicate nella didascalia d'archivio disponibile, pertanto non vengono qui confermate.
+"**[New View](<https://ibragim-valikhodjaev.blogspot.com/2026/10/come-guardare-lastrazione-colore-e.html>)**" è legato all'interesse dell'artista per l'astrazione, "RED" all'esplorazione del rosso e la serie Namangan alla gente e alla vita quotidiana del bazar. "Astrazione rosa n. 1" ci permette di esaminare il concetto stesso di ritmo attraverso un campo cromatico ben definito. La data del dipinto e l'appartenenza a una mostra non sono indicate nella didascalia d'archivio disponibile, pertanto non vengono qui confermate.
 
 ## Panoramica generale e lettura lenta
 

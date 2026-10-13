@@ -4,7 +4,7 @@ language: "it"
 theme: 1
 description: "Colore, composizione, ritmo e scala: come osservare i dipinti astratti di Valikhodjaev attraverso la mostra New View."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/come-guardare-lastrazione-colore-e.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Come guardare l’astrazione: colore e forma in Valikhodjaev
@@ -33,7 +33,7 @@ In questo articolo
 
 ## Video
 
-[Visualizza il percorso espositivo di New View](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[Visualizza il percorso espositivo di New View](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Video](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

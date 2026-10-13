@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 5
 description: "從拉希姆·艾哈邁多夫大師工作室到指導學生：繪畫中的觀察、構圖與專業經驗的傳遞。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_20.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 走進畫家工作室：觀察、教學與經驗的傳遞
@@ -34,7 +34,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 一幅完成的畫作掩蓋了其創作過程中諸多抉擇的痕跡。而在工作室裡，這個過程清晰可見：藝術家比較色彩關係，調整輪廓，改變色塊大小，並退後幾步，重新審視整體畫面。繪畫展現出其細緻入微的觀察和形式掌握，每一筆都建立在前一筆的基礎上。
 
-伊布拉吉姆·瓦利霍賈耶夫的創作實踐與教學密不可分。 2014年8月8日的檔案影像記錄了他與學生們在工作室裡一起工作的場景。 2026年在亞塞拜然拍攝的影片則捕捉了他在戶外寫生時的創作過程。這兩種影像形式都讓觀眾有機會親眼見證專業作品的創作過程。
+伊布拉吉姆·瓦利霍賈耶夫的創作實踐與教學密不可分。 2014年8月8日的檔案影像記錄了他與學生們在工作室裡一起工作的場景。 2026年在亞塞拜然拍攝的影片則捕捉了他在戶外**[寫生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_81.html>)**時的創作過程。這兩種影像形式都讓觀眾有機會親眼見證專業作品的創作過程。
 
 工作室讓我們得以一窺藝術家的好奇心如何轉化為實際創作。瓦利霍賈耶夫不斷探索色彩、形式和構圖的新方法：在《納曼干》系列中，他關注集市上的人物和生活；在《紅色》系列中，他探索紅色的各種可能性；而在《新視角》系列中，他則運用抽象語言。每一個創作方向都需要在畫布上進行獨特的實驗、觀察與改進。
 
@@ -74,11 +74,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 影片
 
-[2014年8月8日，與學生一起繪畫](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[2014年8月8日，與學生一起繪畫](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [影片](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[開放式繪畫過程，亞塞拜然，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[開放式繪畫過程，亞塞拜然，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [影片](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 [影片](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## 畫室內：展覽前後的工作
 
@@ -177,4 +177,4 @@ RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝
 
 RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術家檔案。
 
-[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**

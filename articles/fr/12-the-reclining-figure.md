@@ -4,12 +4,14 @@ language: "fr"
 theme: 12
 description: "Harmonie supérieure, Dormeuse et Nu : trois études de la figure allongée, du contour et de l’espace pictural."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # La figure allongée : ligne et couleur dans les nus d’Ibragim Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Nu · La figure humaine
 
@@ -79,7 +81,7 @@ Comparée à « Dormeuse », la couleur froide s’affirme davantage dans l’im
 
 « Harmonie supérieure », « Dormeuse » et « Nu » partagent une même attention portée à la forme et au mouvement du corps allongé, mais sont traitées différemment. La richesse du décor, l’atmosphère grise et feutrée, et le champ bleuté modifient l’importance de la silhouette lumineuse et le rythme du regard. Le contour sombre peut devenir prédominant ou s’estomper en une transition plus subtile.
 
-Ces œuvres révèlent une facette inédite du travail de Valikhodjaev, aux côtés de compositions inspirées des bazars, de portraits, de RED et d'abstractions. Le nu devient matériau d'exploration formelle : l'artiste compare la pose, la ligne et l'espace autour du corps, trouvant ainsi différentes solutions expressives au sein d'un genre familier.
+Ces œuvres révèlent une facette inédite du travail de Valikhodjaev, aux côtés de compositions inspirées des bazars, de portraits, de **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)** et d'abstractions. Le nu devient matériau d'exploration formelle : l'artiste compare la pose, la ligne et l'espace autour du corps, trouvant ainsi différentes solutions expressives au sein d'un genre familier.
 
 ## Observer le contour de la figure de près
 

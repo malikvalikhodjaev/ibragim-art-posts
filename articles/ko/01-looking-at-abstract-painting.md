@@ -4,7 +4,7 @@ language: "ko"
 theme: 1
 description: "이브라김 발리호자예프의 추상화를 색면, 선, 구도, 스케일로 읽는다. 개인전 New View에서 드러나는 새로운 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_50.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 추상화를 보는 법 — 발리호자예프의 그림에서 찾은 단서
@@ -33,7 +33,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 동영상
 
-[New View 전시 영상](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[New View 전시 영상](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [영상](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

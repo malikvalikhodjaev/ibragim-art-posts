@@ -4,7 +4,7 @@ language: "uz"
 theme: 1
 description: "Ibrohim Valixo‘jayevning «Yangi nigoh» asarlarida rang sohalari, chiziq, ritm va monumental miqyosning o‘zaro munosabati."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/rangning-oz-ovozi-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Abstrakt rangtasvirni qanday ko‘rish kerak: rang, chiziq va miqyos
@@ -33,7 +33,7 @@ Ushbu maqolada
 
 ## Video
 
-["Yangi nigoh" ko‘rgazma yo‘nalishini ko‘ring](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Yangi nigoh" ko‘rgazma yo‘nalishini ko‘ring](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

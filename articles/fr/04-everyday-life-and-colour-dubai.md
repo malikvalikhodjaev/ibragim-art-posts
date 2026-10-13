@@ -4,7 +4,7 @@ language: "fr"
 theme: 4
 description: "In Silence à la galerie Mondoir de Dubaï en 2024 : scènes ouzbèkes et couleur, dans une exposition de Zahra Habibizad."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/les-couleurs-du-quotidien-valikhodjaev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Les couleurs du quotidien : Valikhodjaev à Dubaï
@@ -30,7 +30,7 @@ Une scène du quotidien se métamorphose en tableau lorsque l'artiste en découv
 
 En 2024, une exposition personnelle intitulée « In Silence » s'est tenue à Dubaï, aux Émirats arabes unis, à la galerie Mondoir. Présentée sous le commissariat de Zahra Habibizad, également connue sous le nom de Zara, cette exposition a permis de présenter les peintures de Valikhodjaev à un public international et d'entrevoir comment les thèmes de la vie quotidienne ouzbèke alimentent une réflexion plus large sur l'humanité, la mémoire et le langage artistique.
 
-L'exposition de Dubaï peut également être perçue comme une rencontre de différents courants artistiques. Dans sa série Namangan, Valikhodjaev était captivé par le bazar, les gens et la vie quotidienne ; dans RED, par le potentiel expressif du rouge ; et dans l'abstraction, par les relations indépendantes entre les formes et les plans colorés. Ces intérêts nous aident à comprendre l'étendue de sa pratique et son désir constant de trouver de nouvelles solutions en peinture.
+L'exposition de Dubaï peut également être perçue comme une rencontre de différents courants artistiques. Dans sa série Namangan, Valikhodjaev était captivé par le bazar, les gens et la vie quotidienne ; dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)**, par le potentiel expressif du rouge ; et dans l'abstraction, par les relations indépendantes entre les formes et les plans colorés. Ces intérêts nous aident à comprendre l'étendue de sa pratique et son désir constant de trouver de nouvelles solutions en peinture.
 
 ## La vie quotidienne comme thème pictural
 
@@ -86,7 +86,7 @@ La présentation vidéo et les publications relatives à l'exposition préserven
 
 ## Vidéo
 
-[Présentation vidéo de l'exposition In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[Présentation vidéo de l'exposition In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

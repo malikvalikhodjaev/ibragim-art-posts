@@ -4,12 +4,14 @@ language: "de"
 theme: 12
 description: "Höhere Harmonie, Schlafend und Akt: Wie Valikhodjaev den menschlichen Körper durch Farbflächen, Konturen und kompositorische Ruhe gestaltet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Die liegende Figur: Linie und Farbe in Ibragim Valikhodjaevs Aktbildern
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-liegende-figur-linie-und-farbe-in.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Akt · Die menschliche Figur
 
@@ -79,7 +81,7 @@ Im Vergleich zu „Schlafend“ tritt die kühle Farbe im Bild stärker in den V
 
 „Höhere Harmonie“, „Schlafend“ und „Akt“ verbindet die Auseinandersetzung mit Form und Bewegung des liegenden Körpers, doch ihre Darstellungsweise ist unterschiedlich. Die intensive Farbgebung der Umgebung, das gedämpfte Grau und der bläuliche Hintergrund verändern die Wirkung der hellen Gestalt und den Betrachtungsrhythmus. Die dunkle Kontur kann dominant werden oder einem subtileren Übergang weichen.
 
-Diese Arbeiten offenbaren eine neue Facette von Valikhodjaevs Schaffen neben Basarkompositionen, Porträts, RED und Abstraktion. Der Akt wird zum Material für die Erforschung der Form: Der Künstler vergleicht Pose, Linie und den Raum um den Körper und findet so innerhalb eines vertrauten Genres unterschiedliche Ausdrucksmöglichkeiten.
+Diese Arbeiten offenbaren eine neue Facette von Valikhodjaevs Schaffen neben Basarkompositionen, Porträts, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)** und Abstraktion. Der Akt wird zum Material für die Erforschung der Form: Der Künstler vergleicht Pose, Linie und den Raum um den Körper und findet so innerhalb eines vertrauten Genres unterschiedliche Ausdrucksmöglichkeiten.
 
 ## Die Kontur der Figur aus der Nähe betrachten
 

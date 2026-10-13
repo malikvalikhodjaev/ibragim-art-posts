@@ -4,7 +4,7 @@ language: "tr"
 theme: 20
 description: "Valikhodjaev’in ressam, küratör, organizatör ve galeri kurucusu olarak çalışmaları: atölyeden izleyiciyle buluşmaya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/atolyeden-galeriye-ibragim-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Atölyeden galeriye: sanat için alan yaratmak
@@ -40,7 +40,7 @@ Valikhodjaev, Valikhodjaev Gallery House’u kurdu; ikinci galeri 5 Ağustos 202
 
 ## Kişisel Bir Keşif Kamusal Alana Giriyor
 
-Sanatçı, stüdyosunda renk, biçim ve kompozisyon arasındaki ilişkiyi inceler. Namangan serisi, Valikhodjaev'in çarşı insanlarına ve günlük yaşamına olan ilgisinden; RED serisi, kırmızının keşfinden; Yeni Bakış serisi ise soyutlamanın olanaklarından doğar. Her bir yaklaşım, belirli sanatsal hedeflerden gelişir.
+Sanatçı, stüdyosunda renk, biçim ve kompozisyon arasındaki ilişkiyi inceler. Namangan serisi, Valikhodjaev'in çarşı insanlarına ve günlük yaşamına olan ilgisinden; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)** serisi, kırmızının keşfinden; Yeni Bakış serisi ise soyutlamanın olanaklarından doğar. Her bir yaklaşım, belirli sanatsal hedeflerden gelişir.
 
 Sergide, bu kararlar izleyici için bir deneyime dönüşüyor. Mesafe, ışıklandırma ve eserlerin yan yana yerleştirilmesi değişiyor; bireysel eserler karşılaştırılabiliyor. Galeri ortamı, tüm yolculuktan tek bir tabloya geri dönerek, sanatsal keşfin ilerleyişini görmemize yardımcı oluyor.
 
@@ -74,7 +74,7 @@ Valikhodjaev, çok yönlü profesyonel rollerinin ardında, renk, biçim ve komp
 
 ## Videoyu izleyin
 
-[Öğrencilerle çalışma, 8 Ağustos 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Öğrencilerle çalışma, 8 Ağustos 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Bu iki arşiv videosu sanatçının bir serginin hazırlanmasına ve incelenmesi
 
 [Video kaydı](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Sergi hazırlığı — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Sergi hazırlığı — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Sergiyi incelemek — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Sergiyi incelemek — Özbekistan Sanatçılar Birliği başkanı Ibragim Valikhodjaev](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## Resim ve sergi mekânı
 

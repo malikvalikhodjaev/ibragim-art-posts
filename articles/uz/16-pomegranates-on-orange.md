@@ -4,12 +4,14 @@ language: "uz"
 theme: 16
 description: "«Anorlar», 2012: to‘q mevalar, to‘q sariq rang sohasi, siluet chegaralari va ifodali mo‘yqalam surtmalari."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/toq-sariq-maydondagi-anorlar-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # To‘q sariq fondagi anorlar: natyurmortning kichik olami
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/toq-sariq-maydondagi-anorlar-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/toq-sariq-maydondagi-anorlar-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Bir kartinaga yaqindan nazar
 
@@ -68,7 +70,7 @@ Natyurmortni osongina tanib olish mumkin, ammo uning tuzilishi o‘qishning ikki
 
 ## Kengroq tadqiqot doirasidagi bitta mavzu
 
-Valixo‘jayevning rang va shaklga bo‘lgan qiziqishi turli mavzularni qamrab oladi: Namangan seriyasidagi odamlar va kundalik hayot, RED turkumida qizil rangni o‘rganish va "Yangi nigoh"ning abstraksiyasi. "Anorlar" natyurmortda shunga o‘xshash savollar doirasini o‘rganishga imkon beradi: diqqatni nima tortadi, takroriylikni qanday bog‘lash mumkin va rang maydoni qanchalik kuchli bo‘lishi mumkin?
+Valixo‘jayevning rang va shaklga bo‘lgan qiziqishi turli mavzularni qamrab oladi: Namangan seriyasidagi odamlar va kundalik hayot, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida qizil rangni o‘rganish va "Yangi nigoh"ning abstraksiyasi. "Anorlar" natyurmortda shunga o‘xshash savollar doirasini o‘rganishga imkon beradi: diqqatni nima tortadi, takroriylikni qanday bog‘lash mumkin va rang maydoni qanchalik kuchli bo‘lishi mumkin?
 
 Umumiy kompozitsiyadan boshlang, bitta mevani toping va uning chegarasini nigoh bilan kuzating. Biror detalni o‘rganib chiqqandan so‘ng, rasmga yana bir bor nazar tashlang: mayda oxra chiziqlari va shakl burilishlari ko‘proq seziladi. Kartinaga diqqat bilan qayta qarash tanish motivni aniq rangtasvir qarorlari ketma-ketligi sifatida ochib beradi.
 

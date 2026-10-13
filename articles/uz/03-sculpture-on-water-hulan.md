@@ -4,12 +4,14 @@ language: "uz"
 theme: 3
 description: "Xulan, Xitoy, 2024: Valixo‘jayevning haykaltarosh sifatidagi ishtiroki, metall silueti, suvdagi aks va daryo makoni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Suv ustidagi haykal: Ibrohim Valixo‘jayev Xulanda
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Haykaltaroshlik va atrof-muhit
 
@@ -30,7 +32,7 @@ Ushbu maqolada
 
 ## Video
 
-[Ish jarayoni va suzuvchi haykallar](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[Ish jarayoni va suzuvchi haykallar](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 
 [Rassom muzlagan daryo tomon yo‘l olmoqda](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[Muz ustidagi sayr va turli mualliflarning haykallari](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[Muz ustidagi sayr va turli mualliflarning haykallari](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## Xitoydagi haykaltaroshlik loyihasi arxividan
 

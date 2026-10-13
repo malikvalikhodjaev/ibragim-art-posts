@@ -4,7 +4,7 @@ language: "uz"
 theme: 18
 description: "«Guldastalar», moychechaklar va atirgullar: sopol vaza, gulbarg, och-to‘qlik va mo‘yqalam harakatining ritmi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/guldastadan-kengroq-olam-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Guldastadan kengroq: vaza, gulbarg va mo‘yqalam ritmi
@@ -80,7 +80,7 @@ Qora stol pastki tayanchni yaratadi. Yorqin vaza va chapdagi bir nechta sariq su
 
 ## Rassomning kengroq tadqiqoti doirasidagi natyurmort
 
-Valixo‘jayev turli badiiy muammolarni hal qiladi: Namangan seriyasida odamlarni kuzatish, RED turkumida qizilni o‘rganish va "Yangi nigoh"da avtonom shakllar. Uning gulli natyurmortida faktura, kontrast va mo‘yqalam surtmalarining tabiati orqali bir qator savollar o‘rganiladi. Bu tanish mavzu tajriba o‘tkazish uchun noyob imkoniyatlarni taqdim etadi.
+Valixo‘jayev turli badiiy muammolarni hal qiladi: Namangan seriyasida odamlarni kuzatish, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida qizilni o‘rganish va "Yangi nigoh"da avtonom shakllar. Uning gulli natyurmortida faktura, kontrast va mo‘yqalam surtmalarining tabiati orqali bir qator savollar o‘rganiladi. Bu tanish mavzu tajriba o‘tkazish uchun noyob imkoniyatlarni taqdim etadi.
 
 Umumiy ko‘rinishni gullar parchasi bilan taqqoslang, so‘ngra vazaning bezaklarini ko‘rib chiqing. Kattaroq ko‘rinishga qaytish sizga ikki ritm o‘rtasidagi bog‘liqlikni aniqroq idrok etish imkonini beradi. Guldasta, vaza va atrof-muhit rasm yuzasida chizilgan va bog‘langan usul orqali ifodalilikka ega bo‘ladi.
 

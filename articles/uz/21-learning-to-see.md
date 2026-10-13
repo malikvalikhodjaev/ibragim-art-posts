@@ -4,12 +4,14 @@ language: "uz"
 theme: 21
 description: "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_573.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 Hayot va san’at · Namangan, ustaxona, rangtasvir
 
@@ -73,11 +75,11 @@ Valixo‘jayev Namanganda tug‘ilgan va professional ta'limni Toshkentda, usta 
 
 Televizion intervyuda rassom tasvir yaratish ko‘nikmasi bilan ijodkor sifatida shakllanish o‘rtasidagi farq haqida gapiradi. Mashg‘ulotlar imkoniyatlarning keng dunyosini ochadi, ammo unda o‘z yo‘nalishini topish rassomning o‘ziga bog‘liq. Bu sayohatni uning ishi, portretlar, natyurmortlar, peyzajlar va ko‘p figurali janrli kompozitsiyalar orqali kuzatish mumkin.
 
-[Yuqoridagi video · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yuqoridagi video · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 «Ijod formulasi»da rassom ishning boshqa bir sur’atini ham eslaydi: talabalikdagi bir oy davomida kartina ko‘ngildagidek chiqmagan. Bir bozor kompozitsiyasini o‘quv ustaxonasida, boshqasini uyida, ish joyi qilib olgan balkonda ishlagan. Xolstga qaytgan, bo‘yoq siqib ishlagan, kechqurun esa natijadan ko‘ngli to‘lmay, bo‘yoqni yana qirib tashlagan. Bu holat bir oycha davom etgan. Bir kuni oilasi bilan televizor ko‘rib o‘tirganida birdan ishlagisi kelgan: balkonga chiqib, o‘z xotirasiga ko‘ra, uyidagi kartinani yarim soatda tugatgan; ertasi kuni ustaxonadagi asarni ham shunday tez yakunlagan. Bu voqea tomoshabin ko‘rmaydigan haftalab izlanish va qoniqmaslik asarning tez bitishi ortida turishi mumkinligini ko‘rsatadi.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 Oila xotiralariga ko‘ra, diplom ishi mavzusini tanlashda ham ustozning ishonchi muhim bo‘lgan. Odatda talabalardan akademik qo‘yilmalar talab qilingan; Valixo‘jayevga esa yolg‘iz o‘ziga bozor mavzusidagi mustaqil kompozitsiyani ishlashga ruxsat berilgan. Rahim Ahmedov Ibrohim akademik maktab asoslarini egallab bo‘lgan, endi o‘z ijodiy vazifasini hal qilishi mumkin, deb hisoblagan. Bozor hayotini kuzatish diplom ishiga asos bo‘lib, keyinchalik yirik, ko‘p figurali polotnolarga va rassomning taniladigan dastxatiga aylangan.
 
@@ -87,9 +89,9 @@ Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.
 
 ## Ustoz Rahim Ahmedov bilan
 
-Rahim Ahmedov — o‘zbek rangtasvirining yirik ustalaridan biri, bir necha avlod rassomlariga ta’lim bergan pedagog. Uning O‘zbekiston SSR va SSSR xalq rassomi, professor hamda SSSR Badiiy akademiyasining muxbir a’zosi bo‘lganligi [Rossiya Badiiy akademiyasi saytida berilgan tarjimai holida](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>) qayd etilgan. Psixologik portretlari, maishiy kompozitsiyalari va manzaralarida rangtasvir maktabi insonga hamda O‘zbekiston madaniyatiga e’tibor bilan uyg‘unlashadi. Valixo‘jayev 1986–1991-yillarda uning ustaxonasida tahsil olgan; ustoz bilan bu bog‘liqlik kasbiy kamolotining muhim qismidir.
+Rahim Ahmedov — o‘zbek rangtasvirining yirik ustalaridan biri, bir necha avlod rassomlariga ta’lim bergan pedagog. Uning O‘zbekiston SSR va SSSR xalq rassomi, professor hamda SSSR Badiiy akademiyasining muxbir a’zosi bo‘lganligi **[Rossiya Badiiy akademiyasi saytida berilgan tarjimai holida](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** qayd etilgan. Psixologik portretlari, maishiy kompozitsiyalari va manzaralarida rangtasvir maktabi insonga hamda O‘zbekiston madaniyatiga e’tibor bilan uyg‘unlashadi. Valixo‘jayev 1986–1991-yillarda uning ustaxonasida tahsil olgan; ustoz bilan bu bog‘liqlik kasbiy kamolotining muhim qismidir.
 
-Arxiv surati ustoz va yosh rassomni umumiy ijodiy muhitda yonma-yon ko‘rsatadi. Ahmedovning o‘z asarlarini Sotheby’s kataloglarida ko‘rish mumkin: [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) va [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>). Havolalar ustoz san’atini, arxiv esa Valixo‘jayev ta’lim olgan muhitni yaxshiroq anglashga yordam beradi.
+Arxiv surati ustoz va yosh rassomni umumiy ijodiy muhitda yonma-yon ko‘rsatadi. Ahmedovning o‘z asarlarini Sotheby’s kataloglarida ko‘rish mumkin: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** va **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Havolalar ustoz san’atini, arxiv esa Valixo‘jayev ta’lim olgan muhitni yaxshiroq anglashga yordam beradi.
 
 [Vladimir Ivanovich Burmakin ustoz Rahim Ahmedovni tabriklamoqda. Rassomning shaxsiy arxividan.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ Bozor mavzusi rassomni diplom ishi ustida ishlayotgan paytda o‘ziga jalb qildi
 
 2002-yilgi «Do‘ppi bozori»da bozor hayotini kuzatish mustaqil rangtasvir tuzilishiga aylanganini ko‘rish mumkin. Oq ro‘mol va kiyimlar takrorlanuvchi yorug‘ shakllarni hosil qiladi; figuralar bir-biriga yaqinlashib, bir-birini qisman to‘sadi va deyarli butun xolstni egallaydi. Oldingi plandagi mayda buyumlar va naqshli detallar muayyan savdo manzarasi bilan bog‘liqlikni saqlaydi. O‘sha yilgi «Beshik bozori»da makon boshqacha — katta qizil, to‘q va sariq tekisliklar orqali tashkil etilgan. Bular talabalik davrida boshlangan mavzuning keyingi rivojlanish bosqichiga mansub. Ular diplom ishining tasvirlari emas, kundalik hayot mavzusi rang va shaklning yangi tiliga ega bo‘lgan asarlardir.
 
-[Yuqoridagi video · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[Yuqoridagi video · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [«Do‘ppi bozori», 2002. 100 × 120 sm. Rassom arxividan olingan reproduksiya.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ Rassom me’moriy yodgorlik yonida. Rassom arxivi.
 
 Bu yo‘l O‘zbekiston badiiy muassasalaridagi o‘zgarishlar bilan yonma-yon kechdi. Badiiy akademiya 1997-yil 23-yanvarda tashkil etildi; shu yili Valixodjayev Rassomlar uyushmasining Namangan bo‘limiga rahbar bo‘ldi. Keyinchalik Akademiyaning Maxsus fondini 1999–2005-yillarda, O‘zbekiston Badiiy fondini esa 1999–2012-yillarda boshqardi. 2017-yildan uyushma raisi sifatidagi faoliyati, 2023-yilda akademik bo‘lishi, galereya ishlari va xalqaro loyihalari shaxsiy ijodning boshqa rassomlar uchun sharoit yaratish bilan bog‘lanishini ko‘rsatadi. Bu tarjimai hol va madaniy muhit o‘rtasidagi parallel; muhit rivojini bitta rassom belgilagan degan fikr emas.
 
-[Tarixiy kontekst: O‘zbekiston Badiiy akademiyasi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[Tarixiy kontekst: O‘zbekiston Badiiy akademiyasi](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## Toshkent: fondlardagi faoliyat bilan yonma-yon davom etgan ijod
 
@@ -239,9 +241,9 @@ Tashkiliy vazifalar uning ijodiy mehnatini to‘xtatmadi. 2005-yilda Maxsus fond
 
 Ibrohim Valixodjayev 2008-yildagi yubiley ko‘rgazmasida. Rassom arxivi.
 
-Uning sermahsulligi 2012-yilgi Chernogoriya safarida yaqqol ko‘rinadi. Oila ma’lumotiga ko‘ra, 21 kunlik plenerda 42 ta kartina yaratib, ularni O‘zbekistonga olib qaytgan. 28-iyundan 13-iyulgacha Toshkentda «Chernogoriyada 21 kun» shaxsiy ko‘rgazmasi o‘tkazilgan. Plener va ko‘rgazma bitta ish jarayonining davomidir: yangi joyni ko‘rish, naturadan ko‘p ishlash va natijani ekspozitsiyaga jamlash.
+Uning sermahsulligi 2012-yilgi **[Chernogoriya](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)** safarida yaqqol ko‘rinadi. Oila ma’lumotiga ko‘ra, 21 kunlik plenerda 42 ta kartina yaratib, ularni O‘zbekistonga olib qaytgan. 28-iyundan 13-iyulgacha Toshkentda «Chernogoriyada 21 kun» shaxsiy ko‘rgazmasi o‘tkazilgan. Plener va ko‘rgazma bitta ish jarayonining davomidir: yangi joyni ko‘rish, naturadan ko‘p ishlash va natijani ekspozitsiyaga jamlash.
 
-Bunday sur’at doimiy kuzatish va rangtasvir yechimlarini izlashni anglatadi. Quyidagi plener suratlari shu mehnatning boshqa tomonini — rassomning qishloq ko‘chalari, hovlilar, toshlar va daraxtlar orasida bo‘lishini ko‘rsatadi. Bu arxiv kadrlari uning O‘zbekistondagi plener amaliyotiga oid; ular Chernogoriya safarining suratlari emas. Keyingi ko‘rgazmalar, mahorat darslari va xalqaro loyihalar ham shaxsiy ijodi bilan yonma-yon davom etadi.
+Bunday sur’at doimiy kuzatish va rangtasvir yechimlarini izlashni anglatadi. Quyidagi **[plener](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html>)** suratlari shu mehnatning boshqa tomonini — rassomning qishloq ko‘chalari, hovlilar, toshlar va daraxtlar orasida bo‘lishini ko‘rsatadi. Bu arxiv kadrlari uning O‘zbekistondagi plener amaliyotiga oid; ular Chernogoriya safarining suratlari emas. Keyingi ko‘rgazmalar, mahorat darslari va xalqaro loyihalar ham shaxsiy ijodi bilan yonma-yon davom etadi.
 
 ### Plener sinchiklab kuzatishdan boshlanadi
 
@@ -267,21 +269,21 @@ Plener safarida: hovli va qishloq imoratlari. Rassom arxivi.
 
 Bolalar rassomning plenerdagi ishini kuzatmoqda. Rassom arxividan.
 
-[Ko‘rgazmaga tayyorgarlik videoyozuvi: Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Ko‘rgazmaga tayyorgarlik videoyozuvi: Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Ibrohim Valixodjayev Turkiyadagi plenerda. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 Ibrohim Valixodjayev Turkiyadagi plenerda. Rassom arxivi.
 
-[Dias Rahmatov ustaxonada: uchrashuvdan portretgacha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html#iv-dias-rakhmatov>)
+**[Dias Rahmatov ustaxonada: uchrashuvdan portretgacha](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html#iv-dias-rakhmatov>)**
 
 ## Rang tadqiqot mavzusiga aylanadi
 
-2017-yilgi RED ko‘rgazmasida qizil rang o‘ziga xos badiiy yo‘nalishga aylandi. nuz.uz nashriga bergan intervyusida Valixo‘jayev o‘z asarlarida bitta rangga alohida e'tibor qaratilgan davrlar borligini tushuntiradi. Qizil rang uni o‘zining hissiy kuchi va boshqa ranglar bilan uyg‘unligining murakkabligi bilan o‘ziga jalb qildi.
+2017-yilgi **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** ko‘rgazmasida qizil rang o‘ziga xos badiiy yo‘nalishga aylandi. nuz.uz nashriga bergan intervyusida Valixo‘jayev o‘z asarlarida bitta rangga alohida e'tibor qaratilgan davrlar borligini tushuntiradi. Qizil rang uni o‘zining hissiy kuchi va boshqa ranglar bilan uyg‘unligining murakkabligi bilan o‘ziga jalb qildi.
 
 Bu rang munosabatlarini izlashdir. Rang sirtning qaysi qismini egallaydi? Qo‘shni ohang bilan chegarada nima sodir bo‘ladi? Rangga ko‘proq avtonomiya berish bilan birga manzara tuzilishini qanday saqlab qolish mumkin? Bu asarlarda qizil rang tasvirni yaratishda rol o‘ynaydi va uning hissiy rezonansini belgilaydi.
 
-[Yuqoridagi video · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yuqoridagi video · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED: tomoshabinlar oldida rangtasvir
 
@@ -289,7 +291,7 @@ Toshkentdagi RED ko‘rgazmasiga hamroh bo‘lgan 2017-yilgi mahorat darsining i
 
 O‘zbekiston elchixonasining ko‘rgazma haqidagi xabarida 31 asar va tashrifchilar uchun mahorat darsi qayd etilgan. Suratlar qo‘l holatini, palitrani va yuzaga kelayotgan tasvirni qiyoslash imkonini beradi. Qizil rang tadqiqi uning qo‘shni tuslar bilan aloqasi va butun mato yuzasining tashkil etilishida namoyon bo‘ladi.
 
-[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED mahorat darsi: tashrifchilar rassomning ishini kuzatmoqda, O‘zbekiston, Toshkent, 2017. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ Ibrohim Valixodjayevning shaxsiy ko‘rgazmasi, O‘zbekiston Respublikasi Milli
 
 ## Topilgan til o‘zgarish uchun joy qoldiradi
 
-“Men har doim tanish narsalarni yangi, gʻayrioddiy tarzda koʻrishga harakat qilaman”, dedi rassom 2017-yilda bergan intervyusida (rus tilidan tarjima qilingan). Bu gʻoya uning janr rasmlarini keyinchalik abstraksiyaga oʻtishi bilan bogʻlashga yordam beradi. “Yangi nigoh”da tasvir katta rang maydonlari, konturlar va geometrik munosabatlar orqali qurilgan. Bozor sahnasida personajlarni birlashtirgan kompozitsion aloqalar endi mustaqil shakllar orasida paydo boʻladi.
+“Men har doim tanish narsalarni yangi, gʻayrioddiy tarzda koʻrishga harakat qilaman”, dedi rassom 2017-yilda bergan intervyusida (rus tilidan tarjima qilingan). Bu gʻoya uning janr rasmlarini keyinchalik abstraksiyaga oʻtishi bilan bogʻlashga yordam beradi. “**[Yangi nigoh](<https://ibragim-valikhodjaev.blogspot.com/2026/10/rangning-oz-ovozi-ibrohim.html>)**”da tasvir katta rang maydonlari, konturlar va geometrik munosabatlar orqali qurilgan. Bozor sahnasida personajlarni birlashtirgan kompozitsion aloqalar endi mustaqil shakllar orasida paydo boʻladi.
 
 Rassomni doimo qiziqish, izlanuvchanlik va yangilik kashf etish istagi oldinga yetaklagan. Shakllangan dastxat keyingi tajribalar uchun tayanch bo‘ldi: rang, shakl va kompozitsiyani yana qanday tashkil etish mumkin, mavzu yoki ko‘lam o‘zgarsa nima yuz beradi? Shu sababli bozor turkumi bilan yonma-yon portretlar, natyurmortlar, manzaralar, REDdagi qizil rang izlanishlari, «Yangi nigoh» abstraksiyasi va haykaltaroshlik rivojlanadi. Televizion suhbatda Valixo‘jayev taniqli uslub to‘xtash uchun asos bo‘la olmasligini ta’kidlaydi: har bir yangi asar yana bir badiiy yechim imkoniyatini ochishi kerak.
 
-[Yuqoridagi video · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Yuqoridagi video · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 2017-yil 18-aprel](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ["Yangi nigoh" ko‘rgazmasining ochilishi, O‘zbekiston, Toshkent, 2024. Surat O‘zbekiston Badiiy akademiyasi tomonidan nashr etilgan.](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ Sayohat bu tadqiqot uchun yangi kontekst yaratadi. 2012-yilda Valixo‘jayev Che
 
 2026-yilda Xitoyning Xarbin shahridagi Yu Shun muzeyida bo‘lib o‘tgan "Qor ustidagi quyosh" nomli shaxsiy ko‘rgazma uning keng ko‘lamli rasmlariga yangi o‘lcham bag‘ishladi. Yuqoridagi video zalning miqyosga ta’sirini namoyish etadi: uzoqdan umumiy tuzilishni ko‘rish mumkin, ammo yaqindan ko‘rib chiqilsa, aniq ranglar maydoni tomoshabinning ko‘rish maydonining katta qismini egallaydi. Rassomning asarlari ushbu muzeyda, Turkiyaning Istanbul shahridagi Maltepe munitsipaliteti kolleksiyasida va Rossiyaning Moskva shahridagi shaxsiy kolleksiyada, shuningdek, boshqa davlat va xususiy kolleksiyalarda saqlanadi.
 
-[Yuqoridagi video · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[Yuqoridagi video · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 Quyidagi arxiv fotosuratida rassomning yana bir ko‘rgazma uchrashuvida tasvirlangan. Suratning aniq sanasi va joylashuvi noma'lum; Xarbindagi namoyishni yuqoridagi videoda ko‘rish mumkin.
 
@@ -345,7 +347,7 @@ Valixo‘jayev o‘z ishini Turkiya va O‘zbekistonda sakkizta xalqaro haykalta
 
 Tajriba almashish istagi galereya ishlarida va o‘qitishda yaqqol ko‘rinadi. Valikhodjaev Gallery House’ning ikkinchi galereyasi 2021-yil 5-avgustda ochildi. Talabalar bilan rasm chizish bo‘yicha namoyishlar va mashg‘ulotlar professional ishni yaqindan kuzatish imkonini beradi: rassom rasm chizishni qanday boshlaydi, qismni qanday o‘zgartiradi va natijani qanday baholaydi. Uchrashuvni tashkil qilish, ochiq havoda yig‘ilishda ishtirok etish va o‘z asarini yaratish - bu har xil rollar bo‘lib, ularning har biri o‘z majburiyatlariga ega.
 
-[Kultura.uz · 2024-yil 10-sentabr](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 2024-yil 10-sentabr](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## Bugun: ijod va badiiy muhit oldidagi mas’uliyat
 
@@ -390,7 +392,7 @@ Biografiya bizga ko‘rgazmalar va professional faoliyatini kuzatish imkonini be
 
 Uning ijodiy yo‘li asarlarida davom etadi: bozor odamlarida, qizil rangning o‘zgaruvchan aks sadosi, abstrakt polotnolarning qurilishi va haykaltaroshlikning jamoat maydoni bilan uchrashuvi. Bu turli harakatlar yangicha qarash va boshqa tasviriy javob topish odati bilan birlashadi.
 
-[Yuqoridagi video · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[Yuqoridagi video · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 Bugungi kunda Ibrohim Valixodjayevning 600 dan ortiq asari ma’lum; ularning asosiy qismini rangtasvir tashkil etadi. Ular ilk vazmin palitra, Namangan bozori, portret, natyurmort, yalang‘och natura, plener manzaralari, RED va abstraksiya kabi turli davr va yo‘nalishlarni qamrab oladi. Rassom rang, shakl va kompozitsiyaning yangi imkoniyatlarini izlashda davom etmoqda.
 
@@ -436,16 +438,16 @@ Rassom havolalari: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) ·
 
 [Videoyozuv](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 Xitoydagi ko‘rgazmaga tayyorgarlikni hikoya qilarkan, u avval zal haqida gapiradi. Bu joyni ilgari ko‘rgan; reja va o‘lchamlarni olgach, qaysi asarlarni olib borish va qanday joylashtirishni o‘ylagan. Katta, yorug‘ zal yirik polotnolarni ko‘rsatish imkonini bergan. Keyin badiiy qaror amaliy vazifaga aylangan: xolstlar tagromlardan yechilib, rulon qilingan va yuk samolyotida yuborilgan. Rassom asarlardan oldin yetib kelgan, ularni kutib olgan va ekspozitsiyani tayyorlashda qatnashgan. Teleko‘rsatuvdagi hikoyada ko‘rgazma shu qarorlar ketma-ketligidan — kartina ko‘lamidan tortib uni tashish va zalga joylashtirishgacha bo‘lgan jarayondan shakllanadi.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 Ibrohim Valixo‘jayev muzlagan daryodagi o‘zining suzuvchi haykali fonida, Xitoy, Xarbin, 2026-yil 25-fevral. Rassom arxivi.
 
-[Xarbindagi ko‘rgazma ochilishining videoyozuvi, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[Xarbindagi ko‘rgazma ochilishining videoyozuvi, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**

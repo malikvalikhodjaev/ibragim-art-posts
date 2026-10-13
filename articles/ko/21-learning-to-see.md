@@ -4,12 +4,14 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_925.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
+
+[영상](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 예술과 함께한 삶 · 나망간, 작업실, 회화
 
@@ -73,11 +75,11 @@ edition_date: "2026-10-12"
 
 한 텔레비전 인터뷰에서 작가는 드로잉과 예술가로서의 성장 과정을 구분했다. 훈련은 무궁무진한 가능성의 세계를 열어주지만, 그 안에서 자신만의 방향을 찾는 것은 예술가 본인의 몫이다. 그의 작품, 즉 초상화, 정물화, 풍경화, 그리고 여러 인물이 등장하는 풍속화들을 통해 이러한 여정을 엿볼 수 있다.
 
-[위에 있는 영상 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[위에 있는 영상 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ‘Ijod formulasi’에서는 전혀 다른 작업 속도도 회상한다. 학생 시절 한 달 동안 그림이 원하는 모습으로 풀리지 않았던 때다. 시장을 그린 한 작품은 대학 작업실에서, 다른 작품은 작업 공간으로 꾸민 집의 발코니에서 그렸다. 캔버스로 돌아가 물감을 짜고 작업했지만, 저녁이면 결과가 마음에 들지 않아 다시 물감을 긁어냈다. 이런 일이 한 달가량 이어졌다. 어느 날 가족과 텔레비전을 보다가 갑자기 그림을 그리고 싶어졌다. 발코니로 나가, 그의 기억으로는 반 시간 만에 집의 그림을 완성했다. 다음 날에는 작업실의 그림도 같은 속도로 마쳤다. 이 이야기는 관람자가 마지막에 보는 빠른 완성 뒤에 몇 주의 탐색과 불만족이 있을 수 있음을 보여 준다.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 가족의 회고에 따르면 졸업 작품의 주제에도 스승의 신뢰가 담겨 있었다. 학생들에게는 보통 아카데믹한 습작이 요구되었지만, 발리호자예프만은 바자르를 주제로 독자적인 구성을 시도하도록 허락받았다. 라힘 아흐메도프는 이브라김이 이미 아카데믹한 기초를 익혔으며 자신의 창작 과제를 탐구할 수 있다고 보았다. 시장에 대한 관찰은 졸업 작품에 담겼고, 이후 여러 인물이 등장하는 대형 회화와 작가를 알아볼 수 있는 고유한 회화 언어로 발전했다.
 
@@ -87,9 +89,9 @@ edition_date: "2026-10-12"
 
 ## 스승 라힘 아흐메도프와 함께
 
-라힘 아흐메도프는 우즈베키스탄 회화를 대표하는 거장이자 여러 세대의 미술가를 길러낸 교육자다. 우즈베크 소비에트 공화국과 소련의 인민예술가, 교수, 소련 미술아카데미 통신회원이라는 이력은 [러시아 미술아카데미의 공식 약력](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)에 기록되어 있다. 심리적 깊이를 담은 초상화, 풍속화, 풍경화는 탄탄한 회화 전통을 사람과 우즈베키스탄 문화에 대한 관심과 결합한다. 발리호자예프는 1986~1991년 그의 작업실에서 공부했고, 이 사제 관계는 전문적인 성장의 중요한 부분이다.
+라힘 아흐메도프는 우즈베키스탄 회화를 대표하는 거장이자 여러 세대의 미술가를 길러낸 교육자다. 우즈베크 소비에트 공화국과 소련의 인민예술가, 교수, 소련 미술아카데미 통신회원이라는 이력은 **[러시아 미술아카데미의 공식 약력](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**에 기록되어 있다. 심리적 깊이를 담은 초상화, 풍속화, 풍경화는 탄탄한 회화 전통을 사람과 우즈베키스탄 문화에 대한 관심과 결합한다. 발리호자예프는 1986~1991년 그의 작업실에서 공부했고, 이 사제 관계는 전문적인 성장의 중요한 부분이다.
 
-기록 사진은 스승과 젊은 화가가 같은 미술계의 환경에서 함께하는 모습을 보여준다. 아흐메도프 자신의 작품은 소더비 카탈로그에서 볼 수 있다. [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)와 [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)다. 링크는 스승의 예술을, 기록 사진은 발리호자예프가 배운 환경을 이해하게 한다.
+기록 사진은 스승과 젊은 화가가 같은 미술계의 환경에서 함께하는 모습을 보여준다. 아흐메도프 자신의 작품은 소더비 카탈로그에서 볼 수 있다. **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**와 **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**다. 링크는 스승의 예술을, 기록 사진은 발리호자예프가 배운 환경을 이해하게 한다.
 
 [스승 라힘 아흐메도프에게 축하를 전하는 블라디미르 이바노비치 부르마킨. 화가의 개인 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ edition_date: "2026-10-12"
 
 2002년의 《도피 시장》에서는 시장 생활에 대한 관찰이 이미 독자적인 회화 구조로 바뀌어 있다. 흰 머릿수건과 옷이 밝은 형태로 반복되고, 인물들은 가까이 모여 서로 겹치며 화면을 거의 가득 채운다. 전경의 작은 물건과 무늬가 있는 세부는 구체적인 거래 장면과의 연결을 유지한다. 같은 해의 《요람 시장》은 넓은 빨강, 어두운 색, 노랑의 면으로 공간을 다르게 조직한다. 이 작품들은 학생 시절에 시작된 주제가 이후 발전한 단계를 보여준다. 졸업 작품의 도판이 아니라, 일상의 소재가 새로운 색채와 형태의 언어를 얻은 회화다.
 
-[위에 있는 영상 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[위에 있는 영상 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [《도피 시장 — 전통 모자 시장》, 2002. 100 × 120 cm. 화가의 아카이브에서 가져온 도판.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ edition_date: "2026-10-12"
 
 그의 경력은 우즈베키스탄 미술 기관의 변화와 나란히 이어졌다. 예술아카데미는 1997년 1월 23일 설립되었으며, 같은 해 발리호자예프는 예술가연맹 나망간 지부 회장이 되었다. 이후 아카데미 특별기금을 1999~2005년, 우즈베키스탄 미술기금을 1999~2012년에 이끌었다. 2017년부터의 연맹 회장직, 2023년 아카데미 회원 선임, 갤러리 활동과 국제 프로젝트는 개인의 창작이 다른 작가를 위한 여건 마련과 어떻게 연결되는지 보여 준다. 이는 생애를 문화적 배경 속에 놓는 비교이지, 한 작가가 그 환경의 발전을 결정했다는 뜻은 아니다.
 
-[역사적 배경: 우즈베키스탄 예술아카데미](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[역사적 배경: 우즈베키스탄 예술아카데미](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## 타슈켄트: 예술기금 업무와 나란히 이어진 창작
 
@@ -239,7 +241,7 @@ edition_date: "2026-10-12"
 
 2008년 기념 전시에서의 이브라김 발리호자예프. 작가 소장 사진.
 
-2012년 몬테네그로 방문은 그의 생산성을 특히 잘 보여준다. 가족에 따르면 21일간의 야외 제작 프로그램에서 그림 42점을 완성해 우즈베키스탄으로 가져왔다. 개인전 ‘몬테네그로에서의 21일’은 6월 28일부터 7월 13일까지 타슈켄트에서 열렸다. 새로운 장소를 만나 현장에서 집중적으로 그린 뒤, 결과를 전시로 모으는 하나의 작업 주기다.
+2012년 **[몬테네그로](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_7.html>)** 방문은 그의 생산성을 특히 잘 보여준다. 가족에 따르면 21일간의 야외 제작 프로그램에서 그림 42점을 완성해 우즈베키스탄으로 가져왔다. 개인전 ‘몬테네그로에서의 21일’은 6월 28일부터 7월 13일까지 타슈켄트에서 열렸다. 새로운 장소를 만나 현장에서 집중적으로 그린 뒤, 결과를 전시로 모으는 하나의 작업 주기다.
 
 이 속도에는 끊임없는 관찰과 회화적 판단이 따른다. 아래 사진들은 마을길과 마당, 바위와 나무 사이에 있는 화가를 통해 같은 실천의 또 다른 모습을 보여준다. 이 기록 사진들은 우즈베키스탄에서의 야외 작업을 담은 것으로, 몬테네그로 여행 사진이 아니다. 이후에도 전시와 실기 시연, 국제 프로젝트는 개인 창작과 나란히 이어진다.
 
@@ -267,21 +269,21 @@ edition_date: "2026-10-12"
 
 야외에서 작업하는 화가를 지켜보는 아이들. 화가의 아카이브.
 
-[전시 준비 영상: 우즈베키스탄 예술가연맹 회장으로 활동하는 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[전시 준비 영상: 우즈베키스탄 예술가연맹 회장으로 활동하는 이브라김 발리호자예프](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [튀르키예의 야외 사생 행사에 참여한 이브라힘 발리호자예프. 화가의 아카이브.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 튀르키예의 야외 사생 행사에 참여한 이브라힘 발리호자예프. 화가의 아카이브.
 
-[작업실의 디아스 라흐마토프: 만남에서 초상화까지](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html#iv-dias-rakhmatov>)
+**[작업실의 디아스 라흐마토프: 만남에서 초상화까지](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_276.html#iv-dias-rakhmatov>)**
 
 ## 색채가 연구의 주제가 되다
 
-2017년 RED 전시회에서 붉은색은 뚜렷한 예술적 초점이 되었다. nuz.uz와의 인터뷰에서 발리호자예프는 자신의 작품에서 특정 색에 집중하는 시기가 있다고 설명했다. 그는 붉은색이 지닌 감정적 힘과 다른 색과의 복잡한 조합 가능성에 매료되었다고 말했다.
+2017년 **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_5.html>)** 전시회에서 붉은색은 뚜렷한 예술적 초점이 되었다. nuz.uz와의 인터뷰에서 발리호자예프는 자신의 작품에서 특정 색에 집중하는 시기가 있다고 설명했다. 그는 붉은색이 지닌 감정적 힘과 다른 색과의 복잡한 조합 가능성에 매료되었다고 말했다.
 
 이 작품들은 색채 간의 관계를 탐구한다. 색은 표면의 어느 부분을 차지하는가? 인접한 색조와의 경계에서는 어떤 일이 일어나는가? 색채에 더 큰 자율성을 부여하면서 풍경의 구조는 어떻게 보존할 수 있는가? 이 작품들에서 붉은색은 이미지 구성에 중요한 역할을 하며 감정적 울림을 결정짓는다.
 
-[위에 있는 영상 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[위에 있는 영상 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED: 관객 앞에서 그리기
 
@@ -289,7 +291,7 @@ edition_date: "2026-10-12"
 
 우즈베키스탄 대사관의 전시 보도에는 작품 31점과 관람객을 위한 시연이 기록되어 있다. 사진은 손의 위치, 팔레트와 만들어지는 이미지를 비교하게 한다. 붉은색 연구는 인접한 색조와의 관계, 캔버스 전체의 구성에서 구체화된다.
 
-[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED와 시연: 우즈베키스탄 대사관 보도, 2017년](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED 시연: 작가의 작업을 지켜보는 관람객, 우즈베키스탄, 타슈켄트, 2017년. 작가 소장 사진.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -317,7 +319,7 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 화가를 움직인 것은 관심과 호기심, 새로운 것을 발견하려는 의지였다. 이미 형성한 표현 방식은 다음 실험의 출발점이 된다. 색채와 형태, 구도를 또 어떻게 조직할 수 있을까? 소재나 규모가 바뀌면 무엇이 달라질까? 시장 연작과 나란히 초상화, 정물화, 풍경화, RED의 빨강 탐구, New View의 추상회화, 조각이 전개된다. 텔레비전 대담에서 발리호자예프는 알아볼 수 있는 양식을 얻었다고 해서 멈출 이유는 없다고 강조한다. 새로운 작품은 매번 또 다른 조형적 해결의 가능성을 열어야 한다.
 
-[위에 있는 영상 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[위에 있는 영상 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 2017년 4월 18일](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [2024년 우즈베키스탄 타슈켄트에서 열린 전시회 "New View" 개막식. 우즈베키스탄 예술 아카데미 제공 사진.](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 2026년 중국 하얼빈의 위순(禹舜) 미술관에서 열린 개인전 "눈 위의 태양"은 그의 대형 캔버스 작품들에 새로운 차원을 부여했다. 위에 있는 영상은 전시 공간이 주는 효과를 보여준다. 멀리서 보면 전체적인 구조가 드러나지만, 가까이서 보면 뚜렷한 색채의 영역이 관람객의 시야를 상당 부분 차지한다. 작가의 작품은 이 미술관을 비롯하여 터키 이스탄불의 말테페 자치구 컬렉션, 러시아 모스크바의 개인 컬렉션, 그리고 기타 공공 및 개인 컬렉션에 소장되어 있다.
 
-[위에 있는 영상 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[위에 있는 영상 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 다음은 작가가 또 다른 전시에서 대화를 나누는 모습이다. 사진의 정확한 날짜와 장소는 알 수 없으며, 하얼빈 전시는 위에 있는 영상에서 확인할 수 있다.
 
@@ -345,7 +347,7 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 갤러리 운영과 교육 활동에서 경험을 공유하고자 하는 열망이 뚜렷하게 드러난다. 두 번째 갤러리인 Valikhodjaev Gallery House는 2021년 8월 5일에 문을 열었다. 학생들을 위한 회화 시연과 수업을 통해 전문 작가의 작업 과정을 가까이서 관찰할 수 있다. 작가가 그림을 어떻게 시작하고, 어떤 부분을 수정하며, 결과물을 어떻게 평가하는지 직접 볼 수 있다. 모임을 조직하고, 야외 스케치 모임에 참여하고, 자신만의 작품을 창작하는 것은 각각 고유한 책임이 따르는 다양한 역할이다.
 
-[Kultura.uz · 2024년 9월 10일](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 2024년 9월 10일](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## 오늘: 창작과 미술계에 대한 책임
 
@@ -390,7 +392,7 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 그의 작품 세계는 시장 사람들, 변화하는 붉은색의 울림, 추상적인 캔버스 구성, 그리고 조각과 공공 공간의 만남 등 다양한 측면에서 계속된다. 이러한 여러 움직임들은 탐구 정신, 즉 새롭게 바라보고 다른 회화적 반응을 찾아내는 습관으로 하나로 묶인다.
 
-[위에 있는 영상 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[위에 있는 영상 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 현재 발리호자예프의 작품은 600점 이상이 알려져 있으며, 대부분은 회화다. 초기의 절제된 색조, 나망간 시장, 초상, 정물, 누드, 야외 풍경, RED, 추상 등 시기와 탐구의 방향이 다양하다. 그는 색채, 형태, 구성에 대한 새로운 질문을 통해 작업을 이어 간다.
 
@@ -432,13 +434,13 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 중국 전시 준비를 이야기할 때 그는 먼저 전시 공간을 설명한다. 전에 그 장소를 보았으며, 평면도와 치수를 받은 뒤 어떤 작품을 가져가 어떻게 배치할지 생각했다. 넓고 밝은 전시실에서는 대형 캔버스를 보여 줄 수 있었다. 그다음 예술적 결정은 실제 작업이 되었다. 캔버스를 나무 틀에서 분리해 말아 화물기로 보냈다. 화가는 작품보다 먼저 도착해 작품을 기다리고 전시 설치에 참여했다. 텔레비전 대담에서 전시는 그림의 크기부터 운송과 전시실 배치까지 이어지는 결정의 과정 속에서 만들어진다.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 얼어붙은 강에 설치된 자신의 부유 조각 앞에 선 이브라김 발리호자예프. 중국 하얼빈, 2026년 2월 25일. 작가 소장 자료.
 
-[하얼빈 전시 개막 영상, 2026년](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[하얼빈 전시 개막 영상, 2026년](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**
 
 ## 경험을 전하다: 시안의 회화 전공 학생들을 위한 실기 수업
 
@@ -446,6 +448,6 @@ RED 시연: 구도를 만들어 가는 과정, 우즈베키스탄, 타슈켄트,
 
 [영상](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[마스터클래스 영상 · 중국 시안, 2025년](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[방문 및 마스터클래스 소식 · Facebook, 2025년 10월 8일](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**

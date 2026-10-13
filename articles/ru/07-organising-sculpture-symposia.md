@@ -4,7 +4,7 @@ language: "ru"
 theme: 7
 description: "Опыт Ибрагима Валиходжаева в организации восьми скульптурных симпозиумов в Турции и Узбекистане: авторы, процесс и общественное пространство."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_894.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # От камня к общественному пространству: скульптурные симпозиумы Ибрагима Валиходжаева
@@ -76,15 +76,15 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 ## Видео
 
-[Репортаж с симпозиума, Самарканд, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Репортаж с симпозиума, Самарканд, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Видеозапись](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Закрытие симпозиума, Самарканд, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Закрытие симпозиума, Самарканд, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Видеозапись](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-Телесюжет CNN Türk о проекте «Мраморная волна» в Турции, Стамбуле, 2021: [смотреть видеозапись](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>). Архивная фотография выше относится к другой рабочей площадке.
+Телесюжет CNN Türk о проекте «Мраморная волна» в Турции, Стамбуле, 2021: **[смотреть видеозапись](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)**. Архивная фотография выше относится к другой рабочей площадке.
 
 ## О художнике
 

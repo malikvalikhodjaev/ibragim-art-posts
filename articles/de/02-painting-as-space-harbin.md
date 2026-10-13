@@ -4,7 +4,7 @@ language: "de"
 theme: 2
 description: "Valikhodjaevs Einzelausstellung Sonne auf Schnee im Yu Shun Art Museum in Harbin, 2026: großformatige Malerei und der Blick des Publikums."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/wenn-ein-gemalde-zum-raum-wird-eine.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Wenn ein Gemälde zum Raum wird: eine Ausstellung in Harbin
@@ -33,9 +33,9 @@ In diesem Artikel
 
 ## Video
 
-[Ein Kurzfilm über die Museumsausstellung](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)
+**[Ein Kurzfilm über die Museumsausstellung](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)**
 
-[Vollständige Aufzeichnung der Ausstellungseröffnung](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Vollständige Aufzeichnung der Ausstellungseröffnung](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Blick in die Ausstellung „Sonne auf Schnee“, Yu Shun Art Museum, China, Harbin, 21. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
@@ -43,7 +43,7 @@ Blick in die Ausstellung „Sonne auf Schnee“, Yu Shun Art Museum, China, Harb
 
 Auf dem Eingangsbild steht Ibragim Valikhodjaev vor einem monumentalen geometrischen Gemälde. Seine Gestalt macht die Größe der bemalten Fläche anschaulich. Rote, gelbe, weiße und dunkle Formen erstrecken sich entlang der Wand; um ihre Beziehungen und einzelne Partien zu erfassen, muss der Betrachter seinen Standpunkt verändern.
 
-Die Einzelausstellung „Sonne auf Schnee“ fand vom 19. Februar bis 19. März 2026 im Yu Shun Art Museum in Harbin, China, statt. Eine chinesische [Kunstzeitung](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) berichtete über 19 großformatige Gemälde und eine 22,24 x 3 Meter große Leinwand. Die Ausstellung stellt den Betrachter vor eine besondere Herausforderung: Die Wahrnehmung des Gemäldes wird Teil der Bewegung durch den Raum, und die Architektur des Museums trägt zum Kunsterlebnis bei.
+Die Einzelausstellung „Sonne auf Schnee“ fand vom 19. Februar bis 19. März 2026 im Yu Shun Art Museum in Harbin, China, statt. Eine chinesische **[Kunstzeitung](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)** berichtete über 19 großformatige Gemälde und eine 22,24 x 3 Meter große Leinwand. Die Ausstellung stellt den Betrachter vor eine besondere Herausforderung: Die Wahrnehmung des Gemäldes wird Teil der Bewegung durch den Raum, und die Architektur des Museums trägt zum Kunsterlebnis bei.
 
 Die Dimensionen der Harbiner Ausstellung unterstreichen eine fortwährende Auseinandersetzung mit Farbe, Form und Komposition. Für Valikhodjaev eröffnet das Großformat neue Beziehungen zwischen einer einzelnen Farbfläche und der gesamten Leinwand, zwischen Malerei und der körperlichen Erfahrung des Betrachters. Dieses Interesse an den Möglichkeiten der Abstraktion kam in der Ausstellung „Neuer Blick (New View)“ in Taschkent besonders deutlich zum Ausdruck; in Harbin lässt es sich durch die Weite des Gemäldes und seine Präsenz in der Museumshalle besonders gut erkunden.
 
@@ -77,7 +77,7 @@ Die Suche hier lässt sich in konkreten Entscheidungen nachvollziehen: Wie weit 
 
 Die oben verlinkte Videoaufzeichnung der Eröffnung fängt einen weiteren Aspekt der Veranstaltung ein: die Reden, die Ausführungen des Künstlers und die Interaktion der Gäste vor den Werken. Die Museumshalle wird zum Ort eines öffentlichen Dialogs über Malerei. Die Gestalten der Besucher vermitteln einen Eindruck von der Dimension der Werke, und ihre Anwesenheit erinnert uns daran, dass die Ausstellung in der Erfahrung einzelner Personen existiert.
 
-[Der chinesische Bericht](<https://www.sohu.com/a/990524748_121106822>) datiert die Eröffnungszeremonie auf den 24. Februar 2026. In Harbin wird Valikhodjaev vor allem als Künstler einer Einzelausstellung präsentiert. Zu seinen beruflichen Tätigkeiten zählen außerdem Bildhauerei, Lehre, Kuratieren und die Organisation internationaler Projekte. Hier liegt der Fokus darauf, wie seine Farb- und Kompositionsansätze dem Museumspublikum in einem monumentalen Format vermittelt werden.
+**[Der chinesische Bericht](<https://www.sohu.com/a/990524748_121106822>)** datiert die Eröffnungszeremonie auf den 24. Februar 2026. In Harbin wird Valikhodjaev vor allem als Künstler einer Einzelausstellung präsentiert. Zu seinen beruflichen Tätigkeiten zählen außerdem Bildhauerei, Lehre, Kuratieren und die Organisation internationaler Projekte. Hier liegt der Fokus darauf, wie seine Farb- und Kompositionsansätze dem Museumspublikum in einem monumentalen Format vermittelt werden.
 
 Die beiden oben verlinkten Videos – ein Kurzfilm über die Ausstellung und die vollständige Aufzeichnung der Eröffnung – sind auf unterschiedliche Weise nützlich. Das erste Video ermöglicht es, die Raumaufteilung nachzuvollziehen und die Gemälde aus verschiedenen Blickwinkeln zu betrachten. Das zweite Video vermittelt die Atmosphäre und den sozialen Kontext der Veranstaltung. Zusammen tragen sie dazu bei, die Ausstellung als ganzheitliches Erlebnis zu präsentieren: das Werk, der Raum und die Anwesenheit des Betrachters.
 
@@ -124,4 +124,4 @@ Redaktionelles Material des Valikhodjaev Gallery House. Die Bildquellen sind in 
 
 [Panorama der Ausstellungseröffnung, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
 
-[Das in der Ausstellung gezeigte Videoprogramm — 50 Minuten](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
+**[Das in der Ausstellung gezeigte Videoprogramm — 50 Minuten](<https://www.youtube.com/watch?v=XNCh44JMBYM>)**

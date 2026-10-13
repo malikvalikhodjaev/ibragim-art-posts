@@ -4,7 +4,7 @@ language: "es"
 theme: 7
 description: "Ocho simposios de escultura organizados y comisariados por Valikhodjaev en Turquía y Uzbekistán: material, lugar e intercambio."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-la-piedra-al-espacio-publico-los.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # De la piedra al espacio público: los simposios de escultura de Ibragim Valikhodjaev
@@ -76,15 +76,15 @@ Ibragim Valikhodjaev trabajando en una escultura de metal en un lugar de trabajo
 
 ## Video
 
-[Informe del simposio, Samarcanda, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Informe del simposio, Samarcanda, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Clausura del simposio, Samarcanda, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Clausura del simposio, Samarcanda, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-Reportaje de CNN Türk sobre el proyecto Marble Wave en Estambul, Turquía, 2021: [vea el vídeo](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . La foto de archivo que aparece arriba corresponde a otro lugar de trabajo.
+Reportaje de CNN Türk sobre el proyecto Marble Wave en Estambul, Turquía, 2021: **[vea el vídeo](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . La foto de archivo que aparece arriba corresponde a otro lugar de trabajo.
 
 ## Sobre el artista
 

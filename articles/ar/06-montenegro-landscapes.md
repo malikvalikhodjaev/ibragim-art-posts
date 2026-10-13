@@ -4,12 +4,14 @@ language: "ar"
 theme: 6
 description: "ميناء بيراست ونخيل الكورنيش: قراءة لوحتين من مشاركة فاليخودجاييف في ملتقى الرسم بالجبل الأسود عام 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_955.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # واحد وعشرون يومًا في الجبل الأسود: لوحات الساحل عند فاليخودجاييف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_955.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_955.html>)
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 <div dir="rtl" lang="ar">
 

@@ -4,7 +4,7 @@ language: "it"
 theme: 5
 description: "Dall’atelier di Rahim Ahmedov al lavoro con gli allievi: osservare, comporre e imparare a dipingere con Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nello-studio-osservare-dipingere-e.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Nello studio: osservare, dipingere e imparare con Ibragim Valikhodjaev
@@ -34,9 +34,9 @@ In questo articolo
 
 Un dipinto finito cela le numerose decisioni che hanno portato alla sua creazione. In studio, questo processo è visibile: l'artista confronta le relazioni cromatiche, affina la silhouette, modifica la dimensione della macchia e si allontana dalla tela per riesaminare l'insieme. La pittura si rivela come un'attenta opera di osservazione e forma, in cui ogni nuova pennellata dipende da quella già eseguita.
 
-La pratica creativa di Ibragim Valikhodjaev è intrinsecamente legata all'insegnamento. Filmati d'archivio dell'8 agosto 2014 lo ritraggono al lavoro in studio con e per gli studenti. Un video girato in Azerbaigian nel 2026 cattura il processo creativo della pittura en plein air. Entrambi i formati offrono allo spettatore l'opportunità di assistere alla nascita di una soluzione professionale.
+La pratica creativa di Ibragim Valikhodjaev è intrinsecamente legata all'insegnamento. Filmati d'archivio dell'8 agosto 2014 lo ritraggono al lavoro in studio con e per gli studenti. Un video girato in Azerbaigian nel 2026 cattura il processo creativo della **[pittura en plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html>)**. Entrambi i formati offrono allo spettatore l'opportunità di assistere alla nascita di una soluzione professionale.
 
-Lo studio ci permette di osservare come la curiosità artistica si traduca in lavoro pratico. Valikhodjaev ricerca costantemente nuovi approcci al colore, alla forma e alla composizione: nella serie Namangan, si è interessato alle persone e alla vita del bazar; in RED, alle possibilità del rosso; e in New View, al linguaggio astratto. Ogni direzione richiede i propri esperimenti, osservazioni e perfezionamenti sulla tela.
+Lo studio ci permette di osservare come la curiosità artistica si traduca in lavoro pratico. Valikhodjaev ricerca costantemente nuovi approcci al colore, alla forma e alla composizione: nella serie Namangan, si è interessato alle persone e alla vita del bazar; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**, alle possibilità del rosso; e in New View, al linguaggio astratto. Ogni direzione richiede i propri esperimenti, osservazioni e perfezionamenti sulla tela.
 
 ## L’atelier del maestro Rahim Ahmedov
 
@@ -74,11 +74,11 @@ Una visita allo studio arricchisce la successiva percezione dei dipinti finiti. 
 
 ## Video
 
-[Pittura con gli studenti, 8 agosto 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Pittura con gli studenti, 8 agosto 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[La pittura en plein air: il processo di lavoro, Azerbaigian, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[La pittura en plein air: il processo di lavoro, Azerbaigian, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Nel settembre 2025 Valikhodjaev ha tenuto una masterclass per gli studenti di pi
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Video della masterclass · Cina, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Video della masterclass · Cina, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Resoconto della visita e della masterclass · Facebook, 8 ottobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Resoconto della visita e della masterclass · Facebook, 8 ottobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Nello studio, prima e dopo la mostra
 
@@ -177,4 +177,4 @@ Masterclass RED: il pubblico osserva il pittore, Uzbekistan, Tashkent, 2017. Arc
 
 Masterclass RED: sviluppo della composizione, Uzbekistan, Tashkent, 2017. Archivio dell’artista.
 
-[RED e la masterclass: Ambasciata dell’Uzbekistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED e la masterclass: Ambasciata dell’Uzbekistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

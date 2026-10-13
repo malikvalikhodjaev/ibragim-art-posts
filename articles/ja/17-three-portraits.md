@@ -4,12 +4,14 @@ language: "ja"
 theme: 17
 description: "ディアス・ラフマトフ、レナ、サーシャ。三つの肖像画に見る顔、姿勢、衣服、余白の関係。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 顔、姿勢、空間――三つの肖像画を読み解く
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_87.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html>)
+
+[映像](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 人物像と絵画空間
 
@@ -43,7 +45,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## アトリエのディアス・ラフマトフ：出会いから肖像へ
 
-[ディアス・ラフマトフ](<https://uzbekkino.glob.uz/person/109>)はウズベキスタンの舞台・映画俳優だった。これらの資料写真は、ヴァリホジャエフのアトリエにいる姿と、肖像を制作する過程を伝えている。完成作と並べることで、モデルの存在、イーゼルの前での位置、顔と姿勢に向けられた画家の注意が見えてくる。
+**[ディアス・ラフマトフ](<https://uzbekkino.glob.uz/person/109>)**はウズベキスタンの舞台・映画俳優だった。これらの資料写真は、ヴァリホジャエフのアトリエにいる姿と、肖像を制作する過程を伝えている。完成作と並べることで、モデルの存在、イーゼルの前での位置、顔と姿勢に向けられた画家の注意が見えてくる。
 
 [アトリエでのイブラギム・ヴァリホジャエフと俳優ディアス・ラフマトフ。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

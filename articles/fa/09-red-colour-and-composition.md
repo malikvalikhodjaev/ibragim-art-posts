@@ -4,12 +4,14 @@ language: "fa"
 theme: 9
 description: "از «اسب‌های سرخ» تا مناظر مجموعهٔ RED؛ قدرت رنگ قرمز و رابطهٔ آن با خط، معماری و رنگ‌های مجاور."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_1.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: رنگ قرمز چگونه نقاشی را می‌سازد
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_1.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_1.html>)
+
+[ویدئو](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 <div dir="rtl" lang="fa">
 
@@ -103,7 +105,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ویدئو
 
-[ضبط ویدیویی نمایشگاه «نگاه نو»](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) بینش بیشتری از کاوش هنرمند در رنگ، فرم و مقیاس ارائه می‌دهد. کپی‌های ارائه شده در بالا مربوط به موضوع قرمز هستند؛ این ویدیو جهت‌گیری متفاوتی را برای کار هنرمند آشکار می‌کند.
+**[ضبط ویدیویی نمایشگاه «نگاه نو»](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** بینش بیشتری از کاوش هنرمند در رنگ، فرم و مقیاس ارائه می‌دهد. کپی‌های ارائه شده در بالا مربوط به موضوع قرمز هستند؛ این ویدیو جهت‌گیری متفاوتی را برای کار هنرمند آشکار می‌کند.
 
 ## درباره هنرمند
 
@@ -157,7 +159,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 کلاس عملی RED: شکل‌گیری ترکیب‌بندی، ازبکستان، تاشکند، 2017 میلادی. آرشیو هنرمند.
 
-[RED و کلاس عملی: گزارش سفارت ازبکستان، 2017 میلادی](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED و کلاس عملی: گزارش سفارت ازبکستان، 2017 میلادی](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## در آتلیه، پیش و پس از نمایشگاه
 

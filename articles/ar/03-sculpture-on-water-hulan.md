@@ -4,12 +4,14 @@ language: "ar"
 theme: 3
 description: "فاليخودجاييف نحاتًا في هولان، الصين، عام 2024: المعدن والماء والمقياس في مشروع النحت العائم."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # نحت على الماء: إبراهيم فاليخودجاييف في هولان
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_090.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>)
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 <div dir="rtl" lang="ar">
 
@@ -32,7 +34,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 ## فيديو
 
-[عملية العمل والمنحوتات العائمة](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[عملية العمل والمنحوتات العائمة](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [تسجيل الفيديو](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -115,7 +117,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 [الفنان يتجه إلى النهر المتجمد](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[جولة على الجليد بين منحوتات لفنانين مختلفين](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[جولة على الجليد بين منحوتات لفنانين مختلفين](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## من أرشيف مشروع نحتي في الصين
 

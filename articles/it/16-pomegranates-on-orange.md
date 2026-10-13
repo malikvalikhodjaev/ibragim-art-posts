@@ -4,12 +4,14 @@ language: "it"
 theme: 16
 description: "Melagrane, 2012: frutti scuri, campiture arancioni e pennellate dense. Un’analisi ravvicinata della natura morta."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/melagrane-su-fondo-arancione-il-piccolo.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Melagrane su fondo arancione: il piccolo mondo di una natura morta
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/melagrane-su-fondo-arancione-il-piccolo.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/melagrane-su-fondo-arancione-il-piccolo.html>)
+
+[Video](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Un dipinto in primo piano
 
@@ -68,7 +70,7 @@ La natura morta è facilmente riconoscibile, ma la sua struttura offre un second
 
 ## Un tema all'interno di un'esplorazione più ampia
 
-L'interesse di Valikhodjaev per il colore e la forma permea diverse tematiche: le persone e la vita quotidiana della serie Namangan, l'esplorazione del rosso in RED e l'astrazione di New View. "Melagrane" permette di esplorare una gamma simile di interrogativi nella natura morta: cosa cattura l'attenzione, come collegare le ripetizioni e quanto può essere potente un campo di colore?
+L'interesse di Valikhodjaev per il colore e la forma permea diverse tematiche: le persone e la vita quotidiana della serie Namangan, l'esplorazione del rosso in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)** e l'astrazione di New View. "Melagrane" permette di esplorare una gamma simile di interrogativi nella natura morta: cosa cattura l'attenzione, come collegare le ripetizioni e quanto può essere potente un campo di colore?
 
 Partite dalla composizione generale, individuate un singolo frutto e seguite con lo sguardo il suo contorno. Dopo aver studiato un dettaglio, osservate nuovamente il dipinto nel suo insieme: le piccole pennellate d'ocra e le torsioni delle forme risulteranno più evidenti. Un attento sguardo successivo rivelerà un motivo familiare come una sequenza di precise scelte pittoriche.
 

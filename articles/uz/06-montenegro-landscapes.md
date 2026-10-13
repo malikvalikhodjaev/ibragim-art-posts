@@ -4,12 +4,14 @@ language: "uz"
 theme: 6
 description: "Perastning ikki manzarasi, 2012: qayiq, sohil, palma va tog‘lar Valixo‘jayevning Chernogoriya turkumida."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Chernogoriyada yigirma bir kun: Perastning sohil manzaralari
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Chernogoriya manzarasi
 
@@ -64,7 +66,7 @@ Yorqin old plandan nisbatan tinch masofaga o‘tish kuzatuv ketma-ketligini belg
 
 ## Plenerda ishlash va motivga qaytish
 
-Asar 2012-yilda, Valixo‘jayev Chernogoriyada plener loyihasida ishtirok etgan paytda yaratilgan. "Chernogoriyada 21 kun" ko‘rgazmasi o‘sha yili O‘zbekistonning Toshkent shahrida bo‘lib o‘tdi. Ushbu ma'lumot bizga ijodiy sayohat joyi va undan keyingi ko‘rgazma o‘rtasidagi farqni aniqlashga yordam beradi. Rasmning o‘zi bizga sayohat rassomga nima berganini ko‘rish imkonini beradi: yangi motiv, arxitektura va suv o‘rtasidagi boshqacha munosabat va fazoviy o‘tishlarning boshqacha xarakteri.
+Asar 2012-yilda, Valixo‘jayev Chernogoriyada **[plener](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html>)** loyihasida ishtirok etgan paytda yaratilgan. "Chernogoriyada 21 kun" ko‘rgazmasi o‘sha yili O‘zbekistonning Toshkent shahrida bo‘lib o‘tdi. Ushbu ma'lumot bizga ijodiy sayohat joyi va undan keyingi ko‘rgazma o‘rtasidagi farqni aniqlashga yordam beradi. Rasmning o‘zi bizga sayohat rassomga nima berganini ko‘rish imkonini beradi: yangi motiv, arxitektura va suv o‘rtasidagi boshqacha munosabat va fazoviy o‘tishlarning boshqacha xarakteri.
 
 Sayohatda kuzatuv yangi kontekstlarni egallaydi. Aylanuvchi qayiqlar oldingi planni tashkil qiladi, qirg‘oq uni shahar bilan bog‘laydi va sovuq masofa makonni kengaytiradi. Tayyor rasm bu munosabatlarni saqlab qoladi va bizga ko‘rgazma zalida ko‘rgan narsalarimizga qaytish imkonini beradi.
 

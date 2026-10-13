@@ -4,12 +4,14 @@ language: "uz"
 theme: 12
 description: "«Oliy uyg‘unlik», «Uyquda» va «Yalang‘och»: Valixo‘jayevning nyu asarlarida siluet, kontur va atrofdagi rang sohasi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Yonboshlagan qomat: chiziq, poza va rangning uch xil munosabati
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/oq-romollar-va-rang-barang-olomon.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Nyu · Inson qomati
 
@@ -79,7 +81,7 @@ Ibrohim Valixo‘jayev. "Yalang‘och", 2010. Arxiv yozuviga ko‘ra o‘lchami:
 
 "Oliy uyg‘unlik", «Uyquda» va "Nyu janri" ni yonboshlagan tananing shakli va harakatiga e'tibor qaratish birlashtiradi, ammo ular boshqacha tarzda ishlangan. Boy muhit, vazmin kulrang muhit va mavimsi maydon yorug‘ figuraning og‘irligini va ko‘rish tezligini o‘zgartiradi. Qorong‘u kontur ustunlik qilishi yoki nozikroq o‘tishga yo‘l qo‘yishi mumkin.
 
-Bu asarlar Valixo‘jayev ijodining bozor kompozitsiyalari, portretlar, RED va abstraksiya bilan bir qatorda o‘ziga xos tomonini ochib beradi. Nyu janri shaklni o‘rganish uchun materialga aylanadi: rassom pozani, chiziqni va tana atrofidagi bo‘shliqni taqqoslaydi, tanish janr ichida turli xil ifodali yechimlarni topadi.
+Bu asarlar Valixo‘jayev ijodining bozor kompozitsiyalari, portretlar, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** va abstraksiya bilan bir qatorda o‘ziga xos tomonini ochib beradi. Nyu janri shaklni o‘rganish uchun materialga aylanadi: rassom pozani, chiziqni va tana atrofidagi bo‘shliqni taqqoslaydi, tanish janr ichida turli xil ifodali yechimlarni topadi.
 
 ## Qomat konturiga yaqindan qarash
 

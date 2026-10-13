@@ -4,12 +4,14 @@ language: "es"
 theme: 17
 description: "Dias Rakhmatov, Lena y Sasha: rostro, pose, ropa y espacio en tres retratos de Valikhodjaev de 1987, 2006 y 2013."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-un-retrato-la-presencia.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Rostro, pose y espacio: tres retratos de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-un-retrato-la-presencia.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-un-retrato-la-presencia.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 La figura y el espacio pictórico
 
@@ -43,7 +45,7 @@ Los hombros ocupan una parte importante de la mitad inferior del cuadro. Los ton
 
 ## Dias Rakhmatov en el estudio: del encuentro al retrato
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) fue un actor uzbeko de teatro y cine. Estas fotografías de archivo lo muestran en el estudio de Valikhodjaev y documentan la elaboración de su retrato. Junto a la pintura terminada, permiten observar la presencia del modelo, su posición ante el caballete y la atención del pintor al rostro y la postura.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)** fue un actor uzbeko de teatro y cine. Estas fotografías de archivo lo muestran en el estudio de Valikhodjaev y documentan la elaboración de su retrato. Junto a la pintura terminada, permiten observar la presencia del modelo, su posición ante el caballete y la atención del pintor al rostro y la postura.
 
 [Ibragim Valikhodjaev y el actor Dias Rakhmatov en el estudio. Archivo del artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

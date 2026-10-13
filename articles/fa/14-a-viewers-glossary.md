@@ -4,7 +4,7 @@ language: "fa"
 theme: 14
 description: "از موضوع و ترکیب‌بندی تا بافت و مقیاس؛ ده اصطلاح برای نگاه دقیق‌تر به نقاشی‌های ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_64.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # واژه‌نامهٔ بیننده: ده کلید برای خواندن نقاشی
@@ -63,7 +63,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ۴. ترکیب‌بندی
 
-ترکیب‌بندی، اجزای یک اثر را به یک کل واحد متصل می‌کند. در «سوئیت نامانگان»، قرارگیری گروه‌ها، هم‌پوشانی فیگورها و حرکت در امتداد قالب افقی مهم هستند. هر شخصیت فضای خاصی را اشغال می‌کند و نور و رنگ‌های تکرارشونده، نواحی دور از هم را به هم متصل می‌کنند. از خود بپرسید که این چیدمان چه مسیری را در نقاشی نشان می‌دهد.
+ترکیب‌بندی، اجزای یک اثر را به یک کل واحد متصل می‌کند. در «**[سوئیت نامانگان](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_25.html>)**»، قرارگیری گروه‌ها، هم‌پوشانی فیگورها و حرکت در امتداد قالب افقی مهم هستند. هر شخصیت فضای خاصی را اشغال می‌کند و نور و رنگ‌های تکرارشونده، نواحی دور از هم را به هم متصل می‌کنند. از خود بپرسید که این چیدمان چه مسیری را در نقاشی نشان می‌دهد.
 
 [ابراهیم ولی‌خوجایف، «سوئیت نامانگان». ترکیب‌بندی و فرمت افقی.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -75,7 +75,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ۶. رنگ
 
-طرح رنگی، سیستمی از روابط بین رنگ‌ها در یک نقاشی است. در اثر "میراکی"، پهنهٔ قرمز، جاده آبی، دیوار روشن و درختان تیره به صورت به هم پیوسته درک می‌شوند. رنگ، اندازه و نزدیکی هر بخش، همگی قابل توجه هستند. بررسی رنگ قرمز در مجموعهٔ RED نشان می‌دهد که یک رنگ غالب واحد چه اهداف زیادی را می‌تواند منتقل کند.
+طرح رنگی، سیستمی از روابط بین رنگ‌ها در یک نقاشی است. در اثر "میراکی"، پهنهٔ قرمز، جاده آبی، دیوار روشن و درختان تیره به صورت به هم پیوسته درک می‌شوند. رنگ، اندازه و نزدیکی هر بخش، همگی قابل توجه هستند. بررسی رنگ قرمز در مجموعهٔ **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_1.html>)** نشان می‌دهد که یک رنگ غالب واحد چه اهداف زیادی را می‌تواند منتقل کند.
 
 [ابراهیم ولی‌خوجایف، "میراکی". طرح رنگی بر اساس روابط بین نواحی رنگی بزرگ بنا شده است.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -107,7 +107,7 @@ Valikhodjaev Gallery House · ۶ اکتبر ۲۰۲۶
 
 ## ویدئو را ببینید
 
-[«نگاه نو»: رنگ و هندسه در فضای نمایشگاه](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[«نگاه نو»: رنگ و هندسه در فضای نمایشگاه](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [ویدئو](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

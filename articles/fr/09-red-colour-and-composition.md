@@ -4,12 +4,14 @@ language: "fr"
 theme: 9
 description: "Chevaux rouges, paysages RED et abstraction : comment Valikhodjaev construit ses tableaux par les rapports de couleur."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED : comment le rouge construit un tableau
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Couleur et forme
 
@@ -101,7 +103,7 @@ Dans « New View », la curiosité de l’artiste se porte sur l’abstraction :
 
 ## Vidéo
 
-[L'enregistrement vidéo de l'exposition « New View »](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) offre un éclairage nouveau sur l'exploration par l'artiste des thèmes de la couleur, de la forme et de l'échelle. Les reproductions présentées ci-dessus sont liées à la recherche développée dans RED ; la vidéo révèle une autre orientation dans le travail de l'artiste.
+**[L'enregistrement vidéo de l'exposition « New View »](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** offre un éclairage nouveau sur l'exploration par l'artiste des thèmes de la couleur, de la forme et de l'échelle. Les reproductions présentées ci-dessus sont liées à la recherche développée dans RED ; la vidéo révèle une autre orientation dans le travail de l'artiste.
 
 ## À propos de l'artiste
 
@@ -155,7 +157,7 @@ Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017.
 
 Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
 
-[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Dans l’atelier, avant et après l’exposition
 

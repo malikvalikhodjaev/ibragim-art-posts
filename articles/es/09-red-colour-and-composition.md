@@ -4,12 +4,14 @@ language: "es"
 theme: 9
 description: "Caballos rojos, Miraki y RED: cómo el color dominante, los contornos y el azul construyen la imagen en Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: cómo el rojo construye un cuadro
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Color y forma
 
@@ -101,7 +103,7 @@ En «Nueva mirada (New View)», la curiosidad del artista se dirige hacia la abs
 
 ## Video
 
-[Una grabación en vídeo de la exposición "Nueva mirada (New View)"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) ofrece una visión más profunda de la exploración del color, la forma y la escala por parte del artista. Las reproducciones presentadas anteriormente están relacionadas con el tema RED; el vídeo revela una dirección diferente en la obra del artista.
+**[Una grabación en vídeo de la exposición "Nueva mirada (New View)"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** ofrece una visión más profunda de la exploración del color, la forma y la escala por parte del artista. Las reproducciones presentadas anteriormente están relacionadas con el tema RED; el vídeo revela una dirección diferente en la obra del artista.
 
 ## Sobre el artista
 
@@ -155,7 +157,7 @@ Clase magistral de RED: el público observa al pintor, Uzbekistán, Taskent, 201
 
 Clase magistral de RED: desarrollo de la composición, Uzbekistán, Taskent, 2017. Archivo del artista.
 
-[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED y su clase magistral: Embajada de Uzbekistán, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## En el taller, antes y después de la exposición
 

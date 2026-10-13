@@ -4,7 +4,7 @@ language: "es"
 theme: 18
 description: "Ramos de flores, margaritas y rosas: cerámica, pétalos, intervalos y pinceladas en tres bodegones de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/mas-que-un-ramo-flores-ceramica-y.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Más que un ramo: flores, cerámica y pinceladas de Valikhodjaev
@@ -80,7 +80,7 @@ La mesa negra sirve de soporte inferior. El jarrón claro y algunos toques amari
 
 ## Naturaleza muerta dentro de la exploración más amplia del artista.
 
-Valikhodjaev aborda diversos retos artísticos: la observación de personas en la serie Namangan, la exploración del rojo en RED y las formas autónomas en «New View». En su bodegón floral, explora diversas cuestiones a través de la textura, el contraste y la naturaleza de las pinceladas. Este tema recurrente ofrece oportunidades únicas para la experimentación.
+Valikhodjaev aborda diversos retos artísticos: la observación de personas en la serie Namangan, la exploración del rojo en **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)** y las formas autónomas en «New View». En su bodegón floral, explora diversas cuestiones a través de la textura, el contraste y la naturaleza de las pinceladas. Este tema recurrente ofrece oportunidades únicas para la experimentación.
 
 Compara la vista general con un fragmento de flores y luego examina la ornamentación del jarrón. Al volver a la vista completa, podrás percibir con mayor claridad la conexión entre ambos ritmos. El ramo, el jarrón y el entorno adquieren expresividad gracias a la forma en que están pintados y conectados en la superficie del cuadro.
 

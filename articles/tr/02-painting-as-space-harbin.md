@@ -4,7 +4,7 @@ language: "tr"
 theme: 2
 description: "Harbin’de Kar Üzerinde Güneş, 2026: Yu Shun Art Museum’da Valikhodjaev’in büyük boyutlu resimleri ve izleyicinin mekân deneyimi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resim-bir-mekana-donustugunde-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Bir resim mekâna dönüştüğünde: Harbin’de «Kar Üzerinde Güneş»
@@ -33,9 +33,9 @@ Bu makalede
 
 ## Video
 
-[Müze sergisi hakkında kısa bir film.](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)
+**[Müze sergisi hakkında kısa bir film.](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)**
 
-[Sergi açılışının tam kaydı](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Sergi açılışının tam kaydı](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [“Kar Üzerinde Güneş” sergisinden genel görünüm, Yu Shun Sanat Müzesi, Çin, Harbin, 21 Şubat 2026. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
@@ -43,7 +43,7 @@ Bu makalede
 
 Açılış fotoğrafında İbragim Valikhodjaev anıtsal geometrik tablosunun önünde duruyor. Sanatçının figürü, resim yüzeyinin ölçeğini kavramamıza yardımcı oluyor. Kırmızı, sarı, beyaz ve koyu biçimler duvar boyunca uzanıyor; aralarındaki ilişkileri ve tek tek bölümleri görmek için izleyicinin konumunu değiştirmesi gerekiyor.
 
-"Kar Üzerinde Güneş" adlı kişisel sergi, 19 Şubat - 19 Mart 2026 tarihleri ​​arasında Çin'in Harbin şehrindeki Yu Shun Art Museum’da düzenlendi. Bir Çin [sanat gazetesi,](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) 19 büyük resim ve 22,24 x 3 metrelik bir tuval hakkında haber yaptı. Bu sergi, izleyici için özel bir meydan okuma sunuyor: resmin algılanması, mekân içindeki hareketin bir parçası haline geliyor ve müzenin mimarisi sanatsal deneyime katkıda bulunuyor.
+"Kar Üzerinde Güneş" adlı kişisel sergi, 19 Şubat - 19 Mart 2026 tarihleri ​​arasında Çin'in Harbin şehrindeki Yu Shun Art Museum’da düzenlendi. Bir Çin **[sanat gazetesi,](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)** 19 büyük resim ve 22,24 x 3 metrelik bir tuval hakkında haber yaptı. Bu sergi, izleyici için özel bir meydan okuma sunuyor: resmin algılanması, mekân içindeki hareketin bir parçası haline geliyor ve müzenin mimarisi sanatsal deneyime katkıda bulunuyor.
 
 Harbin sergisinin ölçeği, renk, biçim ve kompozisyon üzerine süregelen bir keşfin temelini oluşturuyor. Valikhodjaev için büyük format, tek bir renk lekesi ile tuvalin bütünü arasında, resim ile izleyicinin bedensel deneyimi arasında yeni ilişkiler kuruyor. Soyutlamanın olanaklarına olan bu ilgi, özellikle Taşkent'teki "Yeni Bakış (New View)" sergisinde açıkça ifade edilmişti; Harbin'de ise resmin genişliği ve müze salonundaki varlığı sayesinde bu ilgi rahatlıkla keşfedilebiliyor.
 
@@ -77,7 +77,7 @@ Buradaki arayış, belirli kararlarda izlenebilir: renk alanını ne kadar geni�
 
 Yukarıda bağlantısı verilen açılışın video kaydı, etkinliğin başka bir yönünü de yakalıyor: konuşmalar, sanatçının açıklamaları ve konukların eserlerin önünde etkileşimleri. Müze salonu, resim üzerine halka açık bir sohbet mekanı haline geliyor. Ziyaretçilerin figürleri, eserlerin ölçeği hakkında bir fikir veriyor ve varlıkları, serginin belirli bireylerin deneyiminde var olduğunu hatırlatıyor.
 
-[Çin raporuna](<https://www.sohu.com/a/990524748_121106822>) göre açılış töreni 24 Şubat 2026'da gerçekleştirildi. Harbin'de Valikhodjaev öncelikle kişisel sergideki resimlerin yaratıcısı olarak tanıtılıyor. Profesyonel çalışmaları arasında heykel, öğretmenlik, küratörlük ve uluslararası projeler düzenlemek de yer alıyor. Burada dikkatler, renk ve kompozisyon yaklaşımlarının müze izleyicilerine anıtsal bir formatta nasıl sunulduğuna odaklanıyor.
+**[Çin raporuna](<https://www.sohu.com/a/990524748_121106822>)** göre açılış töreni 24 Şubat 2026'da gerçekleştirildi. Harbin'de Valikhodjaev öncelikle kişisel sergideki resimlerin yaratıcısı olarak tanıtılıyor. Profesyonel çalışmaları arasında heykel, öğretmenlik, küratörlük ve uluslararası projeler düzenlemek de yer alıyor. Burada dikkatler, renk ve kompozisyon yaklaşımlarının müze izleyicilerine anıtsal bir formatta nasıl sunulduğuna odaklanıyor.
 
 Yukarıda bağlantısı verilen iki video – sergi hakkında kısa bir film ve açılışın tam kaydı – farklı açılardan faydalı. Birincisi, salonların düzenini takip etmenize ve resimleri çeşitli açılardan görmenize olanak tanıyor. İkincisi ise etkinliğin atmosferini ve sosyal bağlamını aktarıyor. Birlikte, sergiyi bütünsel bir deneyim olarak sunmaya yardımcı oluyorlar: eser, mekan ve izleyicinin varlığı.
 
@@ -124,4 +124,4 @@ Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsel kaynakları al
 
 [Sergi açılışının panoramik görüntüsü, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
 
-[Sergide gösterilen video programı — 50 dakika](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
+**[Sergide gösterilen video programı — 50 dakika](<https://www.youtube.com/watch?v=XNCh44JMBYM>)**

@@ -4,12 +4,14 @@ language: "es"
 theme: 3
 description: "Valikhodjaev en Hulan, China, 2024: su participación como escultor, las formas metálicas, el agua y el reflejo."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Esculturas sobre el río: Ibragim Valikhodjaev en Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Escultura y entorno
 
@@ -30,7 +32,7 @@ En este artículo
 
 ## Video
 
-[El proceso de trabajo y las esculturas flotantes](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[El proceso de trabajo y las esculturas flotantes](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ Estas grabaciones del invierno de 2026 muestran al artista junto a la ribera y l
 
 [El artista se dirige al río helado](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[Un paseo sobre el hielo entre esculturas de distintos artistas](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[Un paseo sobre el hielo entre esculturas de distintos artistas](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## Del archivo de un proyecto escultórico en China
 

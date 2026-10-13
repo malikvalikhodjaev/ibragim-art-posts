@@ -4,7 +4,7 @@ language: "en"
 theme: 5
 description: "From Master Rahim Ahmedov’s studio to teaching his own students: looking, composing and developing a painting with Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-artists-studio-looking-learning.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Inside the Artist’s Studio: Looking, Learning and Making with Ibragim Valikhodjaev
@@ -34,9 +34,9 @@ In this article
 
 A finished painting conceals the many decisions that led to its creation. In the studio, this process is visible: the artist compares colour relationships, refines the silhouette, changes the size of the spot, and steps back from the canvas to re-examine the whole. Painting reveals itself as a careful work of observation and form, in which each new brushstroke depends on the one already painted.
 
-Ibragim Valikhodjaev's creative practice is intertwined with teaching. Archival footage from August 8, 2014, shows him working in a studio with and for students. Video footage from Azerbaijan from 2026 captures the open process of painting during plein air. Both formats offer the opportunity to witness a professional solution emerge directly before the viewer.
+Ibragim Valikhodjaev's creative practice is intertwined with teaching. Archival footage from August 8, 2014, shows him working in a studio with and for students. Video footage from Azerbaijan from 2026 captures the open process of painting during **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)**. Both formats offer the opportunity to witness a professional solution emerge directly before the viewer.
 
-The studio allows us to see how artistic curiosity translates into practical work. Valikhodjaev constantly seeks new approaches to colour, form, and composition: in the Namangan series, he was interested in the people and life of the bazaar; in RED, the possibilities of red; and in New View, abstract language. Each direction requires its own experiments, observations, and refinements on the canvas.
+The studio allows us to see how artistic curiosity translates into practical work. Valikhodjaev constantly seeks new approaches to colour, form, and composition: in the Namangan series, he was interested in the people and life of the bazaar; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, the possibilities of red; and in New View, abstract language. Each direction requires its own experiments, observations, and refinements on the canvas.
 
 ## The studio of Master Rahim Ahmedov
 
@@ -74,11 +74,11 @@ A tour of the studio enriches the subsequent perception of the finished painting
 
 ## Video
 
-[Painting with students, August 8, 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Painting with students, August 8, 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[Open Painting Process, Azerbaijan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Open Painting Process, Azerbaijan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ In September 2025, Valikhodjaev led a painting masterclass for students of the P
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Inside the studio: before and after the exhibition
 
@@ -177,4 +177,4 @@ RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 201
 
 RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.
 
-[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

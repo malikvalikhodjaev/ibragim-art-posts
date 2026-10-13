@@ -4,12 +4,14 @@ language: "de"
 theme: 16
 description: "Granatäpfel und Krüge: Wie Valikhodjaev im Stillleben Farbe, Tischfläche und Zwischenräume zu einer Komposition verbindet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/granatapfel-auf-orange-die-kleine-welt.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Granatäpfel auf Orange: die kleine Welt eines Stilllebens
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/granatapfel-auf-orange-die-kleine-welt.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/granatapfel-auf-orange-die-kleine-welt.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Ein Gemälde aus der Nähe
 
@@ -68,7 +70,7 @@ Das Stillleben ist leicht erkennbar, doch seine Struktur eröffnet eine zweite I
 
 ## Ein Thema im Rahmen einer umfassenderen Untersuchung
 
-Valikhodjaevs Interesse an Farbe und Form durchdringt verschiedene Themen: die Menschen und den Alltag der Namangan-Serie, die Auseinandersetzung mit Rot in RED und die Abstraktion von New View. „Granatäpfel“ ermöglicht es, ähnliche Fragen im Stillleben zu erforschen: Was fesselt die Aufmerksamkeit, wie lassen sich Wiederholungen verbinden und wie wirkungsvoll kann ein Farbfeld sein?
+Valikhodjaevs Interesse an Farbe und Form durchdringt verschiedene Themen: die Menschen und den Alltag der Namangan-Serie, die Auseinandersetzung mit Rot in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)** und die Abstraktion von New View. „Granatäpfel“ ermöglicht es, ähnliche Fragen im Stillleben zu erforschen: Was fesselt die Aufmerksamkeit, wie lassen sich Wiederholungen verbinden und wie wirkungsvoll kann ein Farbfeld sein?
 
 Beginnen Sie mit der Gesamtkomposition, suchen Sie sich eine einzelne Frucht aus und folgen Sie mit dem Blick ihrer Kontur. Nachdem Sie ein Detail untersucht haben, betrachten Sie das Gemälde erneut als Ganzes: Die kleinen ockerfarbenen Pinselstriche und die Formveränderungen treten nun deutlicher hervor. Bei genauer Betrachtung offenbart sich ein vertrautes Motiv als Folge präziser malerischer Entscheidungen.
 

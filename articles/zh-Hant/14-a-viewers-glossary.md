@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 14
 description: "以《古爾切赫拉肖像》和市集畫為例，理解構圖、母題、節奏、肌理與尺度等繪畫術語。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_8.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 從《古爾切赫拉肖像》出發：觀看繪畫的十個關鍵詞
@@ -61,7 +61,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 4. 構圖
 
-構圖將作品的各個部分連結成一個整體。在《納曼干組曲》中，人物群像的佈局、重疊的構圖以及橫向構圖的動線都至關重要。每個人物都佔據著特定的空間，重複的光影和色彩形式連接著遠處的區域。請思考一下，這樣的安排暗示了怎樣的觀畫路徑。
+構圖將作品的各個部分連結成一個整體。在《**[納曼干組曲](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_7.html>)**》中，人物群像的佈局、重疊的構圖以及橫向構圖的動線都至關重要。每個人物都佔據著特定的空間，重複的光影和色彩形式連接著遠處的區域。請思考一下，這樣的安排暗示了怎樣的觀畫路徑。
 
 [伊布拉吉姆‧瓦利霍賈耶夫，《納曼干組曲》。構圖和水平格式。](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 6. 色彩關係
 
-色彩方案是指繪畫中色彩之間相互關係的系統。在《米拉基》這幅畫中，紅色色域、藍色的道路、淺色的牆壁和深色的樹木被視為相互關聯的。每個部分的色調、大小和鄰近程度都至關重要。 RED 系列對紅色的探索展現了單一主色調可以傳達的多種意義。
+色彩方案是指繪畫中色彩之間相互關係的系統。在《米拉基》這幅畫中，紅色色域、藍色的道路、淺色的牆壁和深色的樹木被視為相互關聯的。每個部分的色調、大小和鄰近程度都至關重要。 **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html>)** 系列對紅色的探索展現了單一主色調可以傳達的多種意義。
 
 [伊布拉吉姆·瓦利霍賈耶夫，《米拉基》。色彩方案建立在大色塊之間的關係之上。](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 觀看影片
 
-[「新視角」：展覽空間中的色彩與幾何](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[「新視角」：展覽空間中的色彩與幾何](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [影片](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

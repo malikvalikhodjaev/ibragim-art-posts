@@ -4,12 +4,14 @@ language: "zh-CN"
 theme: 9
 description: "从《红马》到米拉基风景与 RED 系列：红色、蓝色、轮廓和色块如何构成画面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_816.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED：红色如何组织瓦利霍贾耶夫的画面
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_816.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_816.html>)
+
+[视频](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 红色 · 颜色和形状
 
@@ -101,7 +103,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 视频
 
-[“新视角”展览的视频录像](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)进一步展现了艺术家对色彩、形式和比例的探索。上文展示的作品复制品与“红色”主题相关；而视频则揭示了艺术家创作的另一种方向。
+**[“新视角”展览的视频录像](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**进一步展现了艺术家对色彩、形式和比例的探索。上文展示的作品复制品与“红色”主题相关；而视频则揭示了艺术家创作的另一种方向。
 
 ## 关于艺术家
 
@@ -155,7 +157,7 @@ RED绘画示范：观众观看创作，乌兹别克斯坦，塔什干，2017年�
 
 RED绘画示范：构图的形成，乌兹别克斯坦，塔什干，2017年。 艺术家档案。
 
-[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及绘画示范：乌兹别克斯坦使馆报道，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## 画室内：展览前后的工作
 

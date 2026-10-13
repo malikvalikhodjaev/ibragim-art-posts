@@ -4,12 +4,14 @@ language: "it"
 theme: 3
 description: "Valikhodjaev a Hulan, Cina, 2024: la sua partecipazione come scultore, il metallo, l’acqua e il riflesso."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Sculture sul fiume: Ibragim Valikhodjaev a Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>)
+
+[Video](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Scultura e ambiente
 
@@ -30,7 +32,7 @@ In questo articolo
 
 ## Video
 
-[Il processo di lavoro e le sculture galleggianti](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[Il processo di lavoro e le sculture galleggianti](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Video](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ Questi video girati nell’inverno 2026 mostrano l’artista sul lungofiume e le
 
 [L’artista si dirige verso il fiume ghiacciato](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[Una passeggiata sul ghiaccio tra sculture di diversi artisti](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[Una passeggiata sul ghiaccio tra sculture di diversi artisti](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## Dall’archivio di un progetto scultoreo in Cina
 

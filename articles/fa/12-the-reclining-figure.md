@@ -4,12 +4,14 @@ language: "fa"
 theme: 12
 description: "«هماهنگی والاتر»، «خوابیده» و «برهنه»: سه نگاه به بدن، خطوط بیرونی و رنگ در نقاشی ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_04.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # پیکرهٔ لمیده: خط و رنگ در برهنه‌نگاری‌های ابراهیم ولی‌خوجایف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_04.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_04.html>)
+
+[ویدئو](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 <div dir="rtl" lang="fa">
 

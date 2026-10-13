@@ -4,12 +4,14 @@ language: "en"
 theme: 19
 description: "Prayer, Jugs, Gaze and Holy Stones: restrained colour, tonal nuances and the expressive forms of Valikhodjaev’s early paintings."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # The quiet of a restricted palette: early paintings in white and grey
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html>)
+
+[Video](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Early Works · Subdued Palette
 
@@ -64,7 +66,7 @@ Ibragim Valikhodjaev. "Jugs." According to the archival caption: 1997, 54 × 68 
 
 The still life retains warm and cool nuances. The light field around the vessels is uneven; the paint marks continue to move even where no individual object is visible. Therefore, the background is part of the image rather than serving as a blank backdrop for the row of jugs.
 
-This task is related to a later study of a large colour field, although the artistic result is different. In RED, the dominant colour can immediately attract attention; here, the viewer discerns subtle transitions. The comparison reveals the artist's range of interest in colour, without reducing the restrained palette to a preparation for future vibrancy.
+This task is related to a later study of a large colour field, although the artistic result is different. In **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, the dominant colour can immediately attract attention; here, the viewer discerns subtle transitions. The comparison reveals the artist's range of interest in colour, without reducing the restrained palette to a preparation for future vibrancy.
 
 ## "Gaze": the border hides and reveals
 

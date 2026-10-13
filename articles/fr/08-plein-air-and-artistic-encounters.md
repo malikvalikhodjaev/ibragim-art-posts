@@ -4,7 +4,7 @@ language: "fr"
 theme: 8
 description: "Peindre en plein air au Monténégro, en Turquie, à Samarcande et à Chabran : rencontres et expériences de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Faire place à la peinture : plein air et rencontres artistiques
@@ -30,17 +30,17 @@ Dans cet article
 
 ## Vidéo
 
-[Plein air à Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Plein air à Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Peinture en public, Azerbaïdjan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Peinture en public, Azerbaïdjan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 En plein air, l'artiste travaille dans un monde en perpétuelle mutation. La lumière se déplace sur la toile, les ombres s'allongent, les passants apparaissent et disparaissent. L'observation exige une sélection rapide : quelles relations formeront la base de la future peinture, que faut-il préserver, quels détails peuvent rester hors toile ? Ce travail allie impressions immédiates et une maîtrise acquise de la sélection et de la composition.
 
-Ibragim Valikhodjaev a participé à des rencontres de peinture en plein air en Turquie en 2023, puis à Samarcande (Ouzbékistan) et à Shabran (Azerbaïdjan) en 2026. Toujours en 2026, il a été commissaire du Festival des Beaux-Arts d'Andijan. Son travail d'artiste et de commissaire d'exposition offre différentes perspectives sur les rencontres artistiques et constitue une facette distincte de son expérience professionnelle. En 2012, il a également participé à des rencontres de peinture en plein air au Monténégro.
+Ibragim Valikhodjaev a participé à des rencontres de peinture en plein air en Turquie en 2023, puis à Samarcande (Ouzbékistan) et à Shabran (Azerbaïdjan) en 2026. Toujours en 2026, il a été commissaire du Festival des Beaux-Arts d'Andijan. Son travail d'artiste et de commissaire d'exposition offre différentes perspectives sur les rencontres artistiques et constitue une facette distincte de son expérience professionnelle. En 2012, il a également participé à des rencontres de peinture en plein air au **[Monténégro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)**.
 
 Pour Valikhodjaev, la peinture en plein air s'inscrit dans une quête permanente de nouvelles orientations et solutions artistiques. Un environnement différent offre des couleurs inattendues, une lumière d'une autre nature et de nouvelles relations entre les formes. La passion de l'observation se conjugue à une exploration de la composition : l'artiste choisit le sujet principal de sa toile et la manière de traduire cette impression à travers son propre langage artistique.
 
@@ -60,7 +60,7 @@ Le moment de la journée est également important. La lumière du matin met en v
 
 Voyager et participer à des séances de peinture en plein air offrent de nouveaux défis à un langage artistique déjà établi. L'artiste découvre des architectures, des éclairages et des relations spatiales différents. La peinture révèle les qualités du lieu qu'il met en valeur et la manière dont il les intègre à sa propre pratique de la composition. Cette expérience développe son sens de l'observation et son champ de choix.
 
-Cette curiosité se manifeste sous différents aspects de sa pratique. Dans la série Namangan, le point de départ était les gens et le quotidien du bazar ; dans RED, une exploration de la couleur rouge ; et dans New View, les possibilités de l’abstraction. La peinture en plein air enrichit cette exploration d’une rencontre directe avec une nature changeante. Les échanges avec d’autres artistes lui offrent l’opportunité de comparer ses solutions et de découvrir de nouvelles pistes de réflexion pour son propre travail.
+Cette curiosité se manifeste sous différents aspects de sa pratique. Dans la série Namangan, le point de départ était les gens et le quotidien du bazar ; dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)**, une exploration de la couleur rouge ; et dans New View, les possibilités de l’abstraction. La peinture en plein air enrichit cette exploration d’une rencontre directe avec une nature changeante. Les échanges avec d’autres artistes lui offrent l’opportunité de comparer ses solutions et de découvrir de nouvelles pistes de réflexion pour son propre travail.
 
 ## Le plein air, une rencontre entre artistes
 

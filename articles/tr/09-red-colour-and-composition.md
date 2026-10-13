@@ -4,12 +4,14 @@ language: "tr"
 theme: 9
 description: "Kırmızı Atlar, Miraki ve RED: Valikhodjaev’in resimlerinde baskın renk, kontur ve maviyle karşıtlığın oluşturduğu yapı."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: Kırmızının bir resmin yapısını belirlemesi
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Renk ve biçim
 
@@ -101,7 +103,7 @@ Eserleri incelerken, genel görünümden detaylara geçmek faydalıdır: önce a
 
 ## Video
 
-["Yeni Bakış (New View)" sergisinin video kaydı,](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) sanatçının renk, biçim ve ölçek üzerine yaptığı araştırmalara dair daha fazla bilgi sunuyor. Yukarıda sunulan reprodüksiyonlar RED temasıyla ilgiliyken, video sanatçının çalışmalarında farklı bir yönü ortaya koyuyor.
+**["Yeni Bakış (New View)" sergisinin video kaydı,](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** sanatçının renk, biçim ve ölçek üzerine yaptığı araştırmalara dair daha fazla bilgi sunuyor. Yukarıda sunulan reprodüksiyonlar RED temasıyla ilgiliyken, video sanatçının çalışmalarında farklı bir yönü ortaya koyuyor.
 
 ## Sanatçı hakkında
 
@@ -155,7 +157,7 @@ RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekis
 
 RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
 
-[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Atölyede, sergiden önce ve sonra
 

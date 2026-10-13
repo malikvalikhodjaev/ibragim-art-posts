@@ -4,12 +4,14 @@ language: "he"
 theme: 9
 description: "«סוסים אדומים», RED ונופי מיראקי: איך וליכודג'ייב בוחן את כוחו של האדום לצד צבעים אחרים."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_4.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: איך הצבע האדום בונה ציור
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_4.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_4.html>)
+
+[סרטון](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 <div dir="rtl" lang="he">
 
@@ -103,7 +105,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## וידאו
 
-[הקלטת וידאו של התערוכה "מבט חדש"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) מציעה הצצה נוספת לחקר הצבע, הצורה והקנה מידה של האמן. הרפרודוקציות המוצגות לעיל קשורות לנושא האדום; הסרטון חושף כיוון שונה לעבודתו של האמן.
+**[הקלטת וידאו של התערוכה "מבט חדש"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** מציעה הצצה נוספת לחקר הצבע, הצורה והקנה מידה של האמן. הרפרודוקציות המוצגות לעיל קשורות לנושא האדום; הסרטון חושף כיוון שונה לעבודתו של האמן.
 
 ## אודות האמן
 
@@ -157,7 +159,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 הדגמת RED: בניית הקומפוזיציה, אוזבקיסטן, טשקנט, 2017. ארכיון האמן.
 
-[RED והדגמת הציור: דיווח שגרירות אוזבקיסטן, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED והדגמת הציור: דיווח שגרירות אוזבקיסטן, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## בסטודיו, לפני התערוכה ואחריה
 

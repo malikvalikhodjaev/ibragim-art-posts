@@ -4,12 +4,14 @@ language: "zh-Hant"
 theme: 21
 description: "依據公開訪談與藝術家檔案，回望瓦利霍賈耶夫從納曼干市集到抽象、雕塑與教學的藝術探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 學會觀看：伊布拉吉姆·瓦利霍賈耶夫的藝術人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_08.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
+
+[影片](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 藝術人生 · 納曼干、工作室與繪畫
 
@@ -57,7 +59,7 @@ edition_date: "2026-10-12"
 
 進入學院之前，瓦利霍賈耶夫當了十年的裝飾畫師。當時各單位有自己的畫師，圖像和文字是機構日常生活的需要。家人回憶，他在納曼干的工作包括海報、招牌和室內裝飾，也負責帶領工匠團隊。這些委託依靠手工勞動：畫圖、寫字、裝飾、商定工作並完成它。對年輕的伊布拉吉姆而言，在取得繪畫文憑很久以前，這已經是一門掌握的職業和收入來源。
 
-裝飾工作並非他全部的繪畫活動。他還到戶外畫習作，直接觀察人物，繪製寫生肖像。回憶中也出現一家茶館：一個手持碗的人物圖像留在他的記憶裡。這些在普通城市環境中遇見的圖像，喚起了他自己成為畫家的願望。通向繪畫的道路，也經過日常場所、對人的觀察，以及他親自進行的顏料實驗。
+裝飾工作並非他全部的繪畫活動。他還到戶外畫習作，直接觀察人物，繪製**[寫生](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_81.html>)**肖像。回憶中也出現一家茶館：一個手持碗的人物圖像留在他的記憶裡。這些在普通城市環境中遇見的圖像，喚起了他自己成為畫家的願望。通向繪畫的道路，也經過日常場所、對人的觀察，以及他親自進行的顏料實驗。
 
 那個環境的另一部分，是當時出版、刊載藝術家作品的美術雜誌。年輕的伊布拉吉姆觀看複製圖，關注拉希姆·艾哈邁多夫的繪畫，尤其記得那些肖像。他尚未與大師見面，最初的相遇發生在雜誌頁面上。這些圖像讓他能夠反覆觀看一幅畫，仔細研究，發現自己想要學習的東西。因此，在學院選擇艾哈邁多夫的工作室，延續了此前已經形成的興趣。
 
@@ -73,11 +75,11 @@ edition_date: "2026-10-12"
 
 在一次電視採訪中，這位藝術家區分了繪畫和藝術家自身的發展。訓練開啟了廣闊的可能性世界，但如何在其中找到自己的方向取決於藝術家本人。這一歷程可以從他的作品中追溯，包括肖像畫、靜物畫、風景畫和多人物風俗畫。
 
-[上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方影片· 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 在《Ijod formulasi》中，他還回憶過完全不同的工作節奏：學生時代有一個月，一幅畫始終無法達到理想效果。他在學院工作室畫一幅市集題材的作品，也在家中改作工作空間的陽臺上畫另一幅。他反覆回到畫布前，擠出顏料作畫，到晚上又因不滿意而刮去畫層。這樣的過程持續了約一個月。一天，與家人看電視時，他忽然想要畫畫。走到陽臺後，據他回憶，半小時便完成了家中的畫作；第二天，又同樣迅速地完成了工作室裡的作品。這段經歷說明，觀眾最後看到的迅速完成，背後可能是數週的探索與不滿意。
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 據家人回憶，畢業創作的選題也體現了導師的信任。學生通常需要完成學院式習作，只有瓦利霍賈耶夫獲准以市集為題展開獨立創作。拉希姆·艾哈邁多夫認為，伊布拉吉姆已經掌握學院訓練的基礎，可以探索自己的藝術課題。對市集生活的觀察進入他的畢業作品，後來發展為大型多人物畫，並形成鮮明的個人繪畫語言。
 
@@ -87,9 +89,9 @@ edition_date: "2026-10-12"
 
 ## 與拉希姆・艾哈邁多夫老師在一起
 
-拉希姆·艾哈邁多夫是烏茲別克繪畫的重要名家，也是一位培養了數代藝術家的教師。他獲得烏茲別克蘇維埃社會主義共和國及蘇聯人民藝術家稱號，任教授，並為蘇聯藝術科學院通訊院士；這些資歷見於[俄羅斯藝術科學院的官方傳記](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)。他的心理性肖像、風俗畫和風景畫，將紮實的繪畫傳統與對人物及烏茲別克文化的關注結合起來。瓦利霍賈耶夫於1986至1991年在其工作室學習，這段師承關係是其專業成長的重要部分。
+拉希姆·艾哈邁多夫是烏茲別克繪畫的重要名家，也是一位培養了數代藝術家的教師。他獲得烏茲別克蘇維埃社會主義共和國及蘇聯人民藝術家稱號，任教授，並為蘇聯藝術科學院通訊院士；這些資歷見於**[俄羅斯藝術科學院的官方傳記](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**。他的心理性肖像、風俗畫和風景畫，將紮實的繪畫傳統與對人物及烏茲別克文化的關注結合起來。瓦利霍賈耶夫於1986至1991年在其工作室學習，這段師承關係是其專業成長的重要部分。
 
-檔案照片呈現老師與年輕畫家並肩處於同一藝術圈中的情景。艾哈邁多夫本人的作品可見於蘇富比目錄：[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)及[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)。這些連結展示的是老師的藝術，檔案則幫助讀者了解瓦利霍賈耶夫受訓的環境。
+檔案照片呈現老師與年輕畫家並肩處於同一藝術圈中的情景。艾哈邁多夫本人的作品可見於蘇富比目錄：**[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**及**[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**。這些連結展示的是老師的藝術，檔案則幫助讀者了解瓦利霍賈耶夫受訓的環境。
 
 [弗拉基米爾・伊萬諾維奇・布爾馬金向拉希姆・艾哈邁多夫老師致賀。藝術家私人檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ edition_date: "2026-10-12"
 
 在2002年的《多普帽市》中，對巴扎生活的觀察已經轉化為獨立的繪畫結構。白色頭巾與衣服形成反覆出現的明亮形狀，人物彼此靠近、相互遮疊，幾乎佔滿畫布。前景的小物件與帶花紋的細節，仍讓畫面與具體的交易場景相連。同年的《搖籃市場》以另一種方式組織空間：大片紅色、深色與黃色平面彼此分隔。這些作品屬於學生時代確立題材之後的發展階段，並不是畢業創作的圖像；在其中，日常生活已經獲得了新的色彩與形態語言。
 
-[上方影片· 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[上方影片· 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [《多普帽市（Duppi Bazaar）》, 2002. 100 × 120 公分. 複製圖像來自藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ edition_date: "2026-10-12"
 
 他的職業道路與烏茲別克藝術機構的變化並行。藝術科學院於1997年1月23日成立；同年，瓦利霍賈耶夫擔任藝術家聯盟納曼干分會主席。此後，他於1999至2005年領導科學院專項基金，於1999至2012年領導烏茲別克藝術基金。自2017年擔任聯盟主席、2023年成為院士，加上畫廊工作與國際計畫，展現出個人創作如何與為其他藝術家創造條件相連結。這是一種把生平放回文化環境中的對照，並不意味著整個環境的發展由一位藝術家決定。
 
-[歷史背景：烏茲別克藝術科學院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[歷史背景：烏茲別克藝術科學院](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## 塔什干：在藝術基金的工作之外持續創作
 
@@ -267,13 +269,13 @@ edition_date: "2026-10-12"
 
 孩子們圍觀藝術家的戶外創作。 藝術家檔案。
 
-[展覽籌備錄影：以烏茲別克藝術家聯盟主席身分參與工作的伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[展覽籌備錄影：以烏茲別克藝術家聯盟主席身分參與工作的伊布拉吉姆·瓦利霍賈耶夫](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [伊布拉吉姆・瓦利霍賈耶夫參加土耳其的戶外寫生活動。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 伊布拉吉姆・瓦利霍賈耶夫參加土耳其的戶外寫生活動。藝術家檔案。
 
-[迪亞斯·拉赫馬托夫在畫室：從相見到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html#iv-dias-rakhmatov>)
+**[迪亞斯·拉赫馬托夫在畫室：從相見到肖像](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_426.html#iv-dias-rakhmatov>)**
 
 ## 色彩成為研究對象
 
@@ -281,7 +283,7 @@ edition_date: "2026-10-12"
 
 這是一場色彩關係的探索。色彩佔據了畫面的哪個部分？它與相鄰色調的邊界處會發生什麼變化？如何在保留風景結構的同時，賦予色彩更大的自主性？在這些作品中，紅色在圖像的建構中扮演著重要角色，並決定圖像的情感共鳴。
 
-[上方影片· 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方影片· 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED：在觀眾面前作畫
 
@@ -289,7 +291,7 @@ edition_date: "2026-10-12"
 
 烏茲別克使館的展覽報導記載了31件作品，以及面向觀眾的繪畫示範。照片讓人比較手的位置、調色盤和正在形成的畫面。對紅色的研究，由它與相鄰色調的關係，以及整張畫布的組織方式具體呈現。
 
-[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED及繪畫示範：烏茲別克使館報導，2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED繪畫示範：觀眾觀看創作，烏茲別克，塔什干，2017年。 藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 ## 現有的藝術語言仍可繼續探索
 
-「我總是嘗試用一種新穎獨特的方式看待熟悉的事物，」這位藝術家在2017年的一次採訪中說道（譯自俄語）。這個理念有助於將他早期的風俗畫與後來的抽象創作連結起來。在《新視角》展覽的作品中，畫面由大片色塊、輪廓和幾何關係所構成。原本連結市場場景中人物的構圖聯繫，如今則在獨立的形體之間顯現出來。
+「我總是嘗試用一種新穎獨特的方式看待熟悉的事物，」這位藝術家在2017年的一次採訪中說道（譯自俄語）。這個理念有助於將他早期的風俗畫與後來的抽象創作連結起來。在《**[新視角](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_628.html>)**》展覽的作品中，畫面由大片色塊、輪廓和幾何關係所構成。原本連結市場場景中人物的構圖聯繫，如今則在獨立的形體之間顯現出來。
 
 推動藝術家向前的，是興趣、好奇心與發現新事物的願望。已經形成的繪畫語言為下一步實驗提供了起點：色彩、形態與構圖還能怎樣組織？題材或尺度改變之後，又會發生什麼？因此，巴扎系列之外還有肖像、靜物、風景，RED對紅色的探索、New View的抽象繪畫，以及雕塑。在電視訪談中，瓦利霍賈耶夫強調，形成可辨識的風格並不是停下來的理由：每一件新作都應開啟另一種藝術解決方式。
 
-[上方影片· 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上方影片· 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [「新視角」展覽開幕，烏茲別克斯坦，塔什干，2024 年。照片由烏茲別克藝術科學院發布。](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 2026年，在中國哈爾濱禹舜美術館舉辦的個展「雪地之陽」賦予了他的巨幅畫布全新的維度。上方的影片展現了展廳的震撼力：遠觀，整體結構清晰可辨；近距離觀察，一片鮮明的色彩佔據了觀者視野的相當一部分。這位藝術家的作品收藏於禹舜美術館、土耳其伊斯坦堡馬爾特佩市政府、俄羅斯莫斯科的私人收藏以及其他公共和私人機構。
 
-[上方影片· 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[上方影片· 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 以下這張檔案照片展示了藝術家在另一次展覽見面會上的情景。照片的確切日期和地點不詳；哈爾濱的展覽可以在上面的影片中看到。
 
@@ -343,9 +345,9 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 瓦利霍賈耶夫除了自己的創作之外，還負責在土耳其和烏茲別克組織和策劃八屆國際雕塑創作營。這包括邀請藝術家並為他們創造創作條件。在2024年接受Kultura.uz採訪時，他特別強調了烏茲別克雕塑家，尤其是年輕一代雕塑家所累積的知識和經驗。
 
-在畫廊工作和教學中，分享經驗的願望顯而易見。 Valikhodjaev Gallery House 的第二家畫廊於2021年8月5日開幕。繪畫示範和為學生開設的課程讓學生有機會近距離觀察專業藝術家的創作過程：藝術家如何開始一幅畫作，如何修改局部，以及如何評估最終效果。組織聚會、參與戶外寫生活動以及創作自己的作品，這些都是不同的角色，各自承擔著不同的責任。
+在畫廊工作和教學中，分享經驗的願望顯而易見。 **[Valikhodjaev Gallery House](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_387.html>)** 的第二家畫廊於2021年8月5日開幕。繪畫示範和為學生開設的課程讓學生有機會近距離觀察專業藝術家的創作過程：藝術家如何開始一幅畫作，如何修改局部，以及如何評估最終效果。組織聚會、參與戶外寫生活動以及創作自己的作品，這些都是不同的角色，各自承擔著不同的責任。
 
-[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## 今天：藝術創作與藝術共同體的責任
 
@@ -390,7 +392,7 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 他的探索之旅在他的作品中得以延續：從市場人群、紅色變幻的意象、抽象畫布的構建，到雕塑與公共空間的碰撞。這些不同的創作方向都貫穿著一種探索精神——不斷以全新的視角審視事物，並尋求不同的繪畫表達方式。
 
-[上方影片· 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[上方影片· 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 目前已知瓦利霍賈耶夫的作品超過600件，以繪畫為主。它們橫跨不同階段與探索方向：早期克制的色調、納曼干市集、肖像、靜物、人體、戶外寫生風景、RED與抽象。他仍透過色彩、形態和構圖的新問題推進創作。
 
@@ -432,13 +434,13 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 談到中國展覽的籌備時，他先說起展廳。此前他已看過這一空間，收到平面圖和尺寸後，又思考帶哪些作品、如何安排。寬敞明亮的展廳能夠展示大幅畫作。隨後，藝術上的決定成為實際的任務：畫布從內框上取下，捲成捲，透過貨運飛機運送。藝術家先於作品抵達，等待它們到來，並參與布展。在電視訪談中，展覽由這一連串決定逐步形成，從畫作的尺度，到運輸，再到展廳中的位置。
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [伊布拉吉姆·瓦利霍賈耶夫站在自己創作的漂浮雕塑前；河面已結冰。中國哈爾濱，2026年2月25日。藝術家檔案。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 伊布拉吉姆·瓦利霍賈耶夫站在自己創作的漂浮雕塑前；河面已結冰。中國哈爾濱，2026年2月25日。藝術家檔案。
 
-[哈爾濱展覽開幕影片，2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[哈爾濱展覽開幕影片，2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**
 
 ## 傳授經驗：在西安為繪畫專業學生舉辦大師課
 
@@ -446,6 +448,6 @@ RED繪畫示範：構圖的形成，烏茲別克，塔什干，2017年。 藝術
 
 [影片](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[大師課影片 · 中國，西安，2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[訪問及大師課報導 · Facebook，2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**

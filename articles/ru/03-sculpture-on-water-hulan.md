@@ -4,12 +4,14 @@ language: "ru"
 theme: 3
 description: "Плавающие скульптуры в Хулане, Китай, 2024: участие Ибрагима Валиходжаева как скульптора, работа с силуэтом, водой и отражением."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Скульптура на воде: Ибрагим Валиходжаев в Хулане, Китай
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_823.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>)
+
+[Видеозапись](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 Скульптура и среда
 
@@ -28,7 +30,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 ## Видео
 
-[Процесс работы и плавающие скульптуры](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[Процесс работы и плавающие скульптуры](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [Видеозапись](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -121,4 +123,4 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 [Художник идёт к замёрзшей реке](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[Прогулка по льду и скульптуры разных авторов](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[Прогулка по льду и скульптуры разных авторов](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**

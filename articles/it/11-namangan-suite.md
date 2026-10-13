@@ -4,12 +4,14 @@ language: "it"
 theme: 11
 description: "Dentro la Suite di Namangan: gesti quotidiani, foulard bianchi e copricapi ricamati nella grande scena di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # «Suite di Namangan»: la vita dentro una grande tela
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html>)
+
+[Video](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 La storia di un dipinto
 
@@ -84,7 +86,7 @@ Tornando alla visione d'insieme, si può notare come queste relazioni locali con
 
 La potenza di "Suite di Namangan" si rivela a un'osservazione più attenta. Riconosciamo persone e oggetti, e notiamo con quanta precisione sono disposti sulla superficie. Le azioni quotidiane assumono una silhouette nitida; gli abiti uniscono il gruppo attraverso il colore; il ritorno del foulard collega le parti più distanti della tela.
 
-Il tema del bazar ha offerto a Valikhodjaev l'opportunità di esplorare l'ambiente umano e di ricercare continuamente soluzioni compositive diverse. In seguito, il suo interesse per le nuove sfide si è manifestato nell'esplorazione del colore rosso in "RED" e nell'astrazione in "New View". La "Suite di Namangan" dimostra uno dei pilastri di questa ricerca: l'attenzione alla scena vivente e la capacità di conferirle un'immagine artistica coerente.
+Il tema del bazar ha offerto a Valikhodjaev l'opportunità di esplorare l'ambiente umano e di ricercare continuamente soluzioni compositive diverse. In seguito, il suo interesse per le nuove sfide si è manifestato nell'esplorazione del colore rosso in "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**" e nell'astrazione in "New View". La "Suite di Namangan" dimostra uno dei pilastri di questa ricerca: l'attenzione alla scena vivente e la capacità di conferirle un'immagine artistica coerente.
 
 ## Come la scena quotidiana preserva una moltitudine di voci
 

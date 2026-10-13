@@ -4,7 +4,7 @@ language: "tr"
 theme: 18
 description: "Buketler ve Seramik Vazoda Papatyalar, 2008: Valikhodjaev’in çiçekli natürmortlarında vazo, fırça izi ve renk ritmi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-buketten-fazlas-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Bir buketten fazlası: çiçekler, seramik ve fırça izleri
@@ -80,7 +80,7 @@ Siyah masa alt desteği oluşturuyor. Açık renkli vazo ve soldaki birkaç sar�
 
 ## Sanatçının Daha Geniş Kapsamlı Keşifleri İçinde Natürmort
 
-Valikhodjaev çeşitli sanatsal zorluklara değiniyor: Namangan serisinde insanları gözlemliyor, RED'de kırmızıyı keşfediyor ve "Yeni Bakış (New View)" sergisinde özerk formları inceliyor. Çiçekli natürmortlarında ise doku, kontrast ve fırça darbelerinin doğası aracılığıyla bir dizi soruyu ele alıyor. Bu tanıdık tema, benzersiz deneysel fırsatlar sunuyor.
+Valikhodjaev çeşitli sanatsal zorluklara değiniyor: Namangan serisinde insanları gözlemliyor, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**'de kırmızıyı keşfediyor ve "Yeni Bakış (New View)" sergisinde özerk formları inceliyor. Çiçekli natürmortlarında ise doku, kontrast ve fırça darbelerinin doğası aracılığıyla bir dizi soruyu ele alıyor. Bu tanıdık tema, benzersiz deneysel fırsatlar sunuyor.
 
 Genel görünümü bir çiçek parçasıyla karşılaştırın, ardından vazonun süslemelerini inceleyin. Daha geniş görünüme geri dönmek, iki ritim arasındaki bağlantıyı daha net bir şekilde algılamanıza olanak tanıyacaktır. Buket, vazo ve çevre, resmin yüzeyinde boyanma ve bağlantı biçimleriyle ifade kazanır.
 

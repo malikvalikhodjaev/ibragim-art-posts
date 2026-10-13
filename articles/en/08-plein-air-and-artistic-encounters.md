@@ -4,7 +4,7 @@ language: "en"
 theme: 8
 description: "Painting outdoors in Turkey, Montenegro, Samarkand and Shabran: Valikhodjaev’s plein-air participation and curatorial work in Andijan."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Making Room for Painting: Plein Air and Artistic Encounters
@@ -30,17 +30,17 @@ In this article
 
 ## Video
 
-[Plein air in Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Plein air in Maltepe, Istanbul, 2023](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Video](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Open Painting Process, Azerbaijan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Open Painting Process, Azerbaijan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
 En plein air, the artist works in a changing world. Light shifts across the surface, shadows lengthen, people enter and leave the field of view. Observation requires a quick selection: which relationships form the basis of the future painting, what should be preserved, what details can remain beyond the canvas. This work combines immediate impressions with a trained ability to select and compose.
 
-Ibragim Valikhodjaev participated as a painter in plein air painting in Turkey in 2023, and in 2026 in Samarkand, Uzbekistan, and Shabran, Azerbaijan. Also in 2026, he curated the Andijan Fine Arts Festival. His work as an artist and as a curator offer different perspectives on artistic encounters and constitute independent parts of his professional experience. In 2012, Ibragim Valikhodjaev also participated as a painter in plein air painting in Montenegro.
+Ibragim Valikhodjaev participated as a painter in plein air painting in Turkey in 2023, and in 2026 in Samarkand, Uzbekistan, and Shabran, Azerbaijan. Also in 2026, he curated the Andijan Fine Arts Festival. His work as an artist and as a curator offer different perspectives on artistic encounters and constitute independent parts of his professional experience. In 2012, Ibragim Valikhodjaev also participated as a painter in plein air painting in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)**.
 
 For Valikhodjaev, plein air is part of a constant search for new artistic directions and solutions. A different environment offers unexpected colour, a different character of light, and new relationships of form. A passion for observation combines with an exploration of composition: the artist chooses what will be the main focus of the painting and how to convey the impression through his own artistic language.
 
@@ -60,7 +60,7 @@ Timing is also important. Morning light highlights some surfaces, evening light 
 
 Travelling and participating in plein-air painting sessions offer new challenges to an already established artistic language. The artist encounters different architecture, lighting, and spatial relationships. The painting reveals the qualities of the place he highlights and how he incorporates them into his own compositional practice. This experience expands his powers of observation and choice.
 
-This curiosity manifests itself in various aspects of his practice. In the Namangan series, the starting point was the people and everyday life of the bazaar; in RED, an exploration of the colour red; and in New View, the possibilities of abstraction. Plein air adds to this exploration a direct encounter with changing nature. Communication with other artists provides the opportunity to compare solutions and discover new questions for one's own work.
+This curiosity manifests itself in various aspects of his practice. In the Namangan series, the starting point was the people and everyday life of the bazaar; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, an exploration of the colour red; and in New View, the possibilities of abstraction. Plein air adds to this exploration a direct encounter with changing nature. Communication with other artists provides the opportunity to compare solutions and discover new questions for one's own work.
 
 ## Plein air as a professional meeting
 

@@ -4,12 +4,14 @@ language: "ja"
 theme: 9
 description: "「赤い馬」、REDの風景、ミラキ。ヴァリホジャエフが探る赤の表現力を、色面と輪郭から読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED――赤はどのように絵画を組み立てるのか
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_54.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)
+
+[映像](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 赤・色と形
 
@@ -101,7 +103,7 @@ REDは、赤色への情熱的な探求と結びついている。ヴァリホ�
 
 ## ビデオ
 
-[「New View」展の映像記録は、](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)アーティストによる色彩、形態、スケールの探求について、より深い洞察を与えてくれる。上に掲載した複製画は赤という色をテーマにしたものだが、映像はアーティストの作品における別の方向性を示している。
+**[「New View」展の映像記録は、](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**アーティストによる色彩、形態、スケールの探求について、より深い洞察を与えてくれる。上に掲載した複製画は赤という色をテーマにしたものだが、映像はアーティストの作品における別の方向性を示している。
 
 ## アーティストについて
 
@@ -155,7 +157,7 @@ REDの制作実演を見守る来場者。ウズベキスタン、タシケン�
 
 REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
 
-[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## アトリエで：展覧会の前と後
 

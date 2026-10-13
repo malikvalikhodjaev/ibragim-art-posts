@@ -4,7 +4,7 @@ language: "en"
 theme: 15
 description: "Valikhodjaev’s works in museum, municipal and private collections: how to distinguish an exhibition record from a collection holding."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/after-exhibition-ibragim-valikhodjaevs.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # After the Exhibition: Ibragim Valikhodjaev’s Paintings in Museums and Collections
@@ -70,11 +70,11 @@ Ibragim Valikhodjaev, "Namangan Suite." Reproduction from the artist's archive. 
 
 Accurate information about a work's title, artist, material, and history supports its future life. Documents and images that allow for recognition in new publications are also important alongside the painting. In this blog, archival reproductions are accompanied by titles, and details are linked to the complete images.
 
-A biography, exhibition notes, and photographs of his works help connect the various facets of Valikhodjaev's practice. In his "Bazaar" series, he was interested in people and everyday life; in "RED," in the possibilities of the colour red; in "New View," in abstraction. Museums and collections preserve the results of this exploration, and new viewers continue it with their attention to his works.
+A biography, exhibition notes, and photographs of his works help connect the various facets of Valikhodjaev's practice. In his "Bazaar" series, he was interested in people and everyday life; in "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**," in the possibilities of the colour red; in "New View," in abstraction. Museums and collections preserve the results of this exploration, and new viewers continue it with their attention to his works.
 
 ## Watch the video
 
-[Opening of the solo exhibition "Sun on Snow", China, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Opening of the solo exhibition "Sun on Snow", China, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Video](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

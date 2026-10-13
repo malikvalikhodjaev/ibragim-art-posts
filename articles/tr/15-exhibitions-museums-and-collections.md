@@ -4,7 +4,7 @@ language: "tr"
 theme: 15
 description: "Valikhodjaev’in eserleri Harbin’de Yu Shun Art Museum’da, İstanbul’da Maltepe koleksiyonunda ve Moskova’da özel bir koleksiyonda."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sergiden-sonra-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Sergiden sonra: Valikhodjaev’in eserleri müzelerde ve koleksiyonlarda
@@ -70,11 +70,11 @@ Tanınabilir bir insan sahnesi, bir jest veya tanıdık bir eylem aracılığıy
 
 Bir eserin adı, sanatçısı, malzemesi ve tarihi hakkında doğru bilgiler, eserin gelecekteki yaşamını destekler. Yeni yayınlarda tanınmasını sağlayan belgeler ve görseller de resmin yanı sıra önemlidir. Bu blogda, arşiv reprodüksiyonlarına başlıklar eşlik eder ve ayrıntılar tam görsellere bağlantılıdır.
 
-Biyografisi, sergi notları ve eserlerinin fotoğrafları, Valikhodjaev'in pratiğinin çeşitli yönlerini birbirine bağlamaya yardımcı oluyor. "Bazar" serisinde insanlarla ve günlük yaşamla; "RED"de kırmızı rengin olanaklarıyla; "Yeni Bakış (New View)" sergisinde ise soyutlamayla ilgileniyordu. Müzeler ve koleksiyonlar bu keşfin sonuçlarını korurken, yeni izleyiciler de eserlerine olan ilgileriyle bu keşfi sürdürüyor.
+Biyografisi, sergi notları ve eserlerinin fotoğrafları, Valikhodjaev'in pratiğinin çeşitli yönlerini birbirine bağlamaya yardımcı oluyor. "Bazar" serisinde insanlarla ve günlük yaşamla; "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**"de kırmızı rengin olanaklarıyla; "Yeni Bakış (New View)" sergisinde ise soyutlamayla ilgileniyordu. Müzeler ve koleksiyonlar bu keşfin sonuçlarını korurken, yeni izleyiciler de eserlerine olan ilgileriyle bu keşfi sürdürüyor.
 
 ## Videoyu izleyin
 
-["Kar Üzerinde Güneş" adlı kişisel serginin açılışı, Çin, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**["Kar Üzerinde Güneş" adlı kişisel serginin açılışı, Çin, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

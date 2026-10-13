@@ -4,7 +4,7 @@ language: "ja"
 theme: 13
 description: "「村の中庭」「訪問」「ヴァルジク」「仕事帰り」。建築、色、人の小さな姿に見る村の日常。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_35.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 家、庭、曲がり道――ウズベキスタンの村を描く
@@ -122,7 +122,7 @@ Valikhodjaev Gallery House提供の編集資料。図版の出典はキャプシ
 
 戸外制作は最初の一筆より前、歩きながら視点を選ぶところから始まる。写真には村の道、囲まれた中庭、岩の斜面、秋の木々が写る。明るい壁と暗い開口部の交互の配置として見える風景もあれば、建物の間を通る道の動きとして見える風景もある。画家は題材とともに、画面を支える大きな形の関係を選ぶ。
 
-これらの制作記録は、風景画に場所の大きさ、変化する光、表面の質感を補う。壁、屋根、地面の帯、木の枝葉が色彩関係の素材となる。完成作では観察がより自由で簡潔になることもあるが、実景とのつながりは空間の構成に残る。写真の撮影場所と年は確定していない。見た目だけから、ミラキ、モンテネグロ、アゼルバイジャンでの特定の制作滞在に結びつけることはできない。
+これらの制作記録は、風景画に場所の大きさ、変化する光、表面の質感を補う。壁、屋根、地面の帯、木の枝葉が色彩関係の素材となる。完成作では観察がより自由で簡潔になることもあるが、実景とのつながりは空間の構成に残る。写真の撮影場所と年は確定していない。見た目だけから、ミラキ、**[モンテネグロ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html>)**、アゼルバイジャンでの特定の制作滞在に結びつけることはできない。
 
 [戸外制作の旅：村の道と山の風景。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

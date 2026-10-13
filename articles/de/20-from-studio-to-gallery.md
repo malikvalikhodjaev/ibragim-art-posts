@@ -4,7 +4,7 @@ language: "de"
 theme: 20
 description: "Valikhodjaev als Künstler, Organisator und Galeriegründer: Wie Atelier, Ausstellungsraum und Begegnungen mit dem Publikum zusammenwirken."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-atelier-zur-galerie-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Vom Atelier zur Galerie: Valikhodjaev schafft Räume für die Kunst
@@ -40,7 +40,7 @@ Valikhodjaev gründete das Valikhodjaev Gallery House; eine zweite Galerie wurde
 
 ## Eine persönliche Suche findet ihr Publikum
 
-Im Atelier setzt sich der Künstler mit dem Verhältnis von Farbe, Form und Komposition auseinander. Die Serie „Namangan“ entspringt Valikhodjaevs Interesse an den Menschen und dem Alltag des Basars; „RED“ seiner Auseinandersetzung mit der Farbe Rot; und „New View“ den Möglichkeiten der Abstraktion. Jede dieser Richtungen entwickelt sich aus spezifischen künstlerischen Zielen.
+Im Atelier setzt sich der Künstler mit dem Verhältnis von Farbe, Form und Komposition auseinander. Die Serie „Namangan“ entspringt Valikhodjaevs Interesse an den Menschen und dem Alltag des Basars; „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ seiner Auseinandersetzung mit der Farbe Rot; und „New View“ den Möglichkeiten der Abstraktion. Jede dieser Richtungen entwickelt sich aus spezifischen künstlerischen Zielen.
 
 In der Ausstellung werden diese Entscheidungen für den Betrachter zu einem Erlebnis. Abstand, Lichtverhältnisse und die Anordnung der Werke verändern sich; einzelne Werke können verglichen werden. Die Galerieumgebung hilft uns, den künstlerischen Entstehungsprozess zu verfolgen und nach dem gesamten Rundgang zu einem einzigen Gemälde zurückzukehren.
 
@@ -74,7 +74,7 @@ Hinter seinen vielfältigen beruflichen Rollen bewahrt Valikhodjaev ein beständ
 
 ## Video ansehen
 
-[Arbeit mit Schülern, 8. August 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Arbeit mit Schülern, 8. August 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Die beiden Archivvideos zeigen den Künstler bei der Vorbereitung und Besichtigu
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Ausstellungsvorbereitung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Ausstellungsvorbereitung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Rundgang durch die Ausstellung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Rundgang durch die Ausstellung — Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## Das Gemälde im Ausstellungsraum
 

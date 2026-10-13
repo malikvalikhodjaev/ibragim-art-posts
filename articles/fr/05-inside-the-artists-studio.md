@@ -4,7 +4,7 @@ language: "fr"
 theme: 5
 description: "De l’atelier de Rahim Ahmedov à ses propres élèves : observer, composer et apprendre à peindre avec Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dans-latelier-observer-peindre-et.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Dans l’atelier : observer, peindre et apprendre avec Ibragim Valikhodjaev
@@ -34,9 +34,9 @@ Dans cet article
 
 Un tableau achevé dissimule les multiples décisions qui ont mené à sa création. Dans l'atelier, ce processus est visible : l'artiste compare les harmonies chromatiques, affine la silhouette, modifie la taille des taches et prend du recul par rapport à la toile pour réexaminer l'ensemble. La peinture se révèle ainsi comme un travail minutieux d'observation et de forme, où chaque nouveau coup de pinceau s'appuie sur le précédent.
 
-La pratique artistique d'Ibragim Valikhodjaev est intimement liée à son enseignement. Des images d'archives du 8 août 2014 le montrent travaillant dans un atelier avec et pour ses élèves. Des séquences vidéo tournées en Azerbaïdjan en 2026 capturent le processus créatif d'une œuvre peinte en plein air. Ces deux formats offrent au spectateur la possibilité d'assister à l'émergence d'un choix pictural sous ses yeux.
+La pratique artistique d'Ibragim Valikhodjaev est intimement liée à son enseignement. Des images d'archives du 8 août 2014 le montrent travaillant dans un atelier avec et pour ses élèves. Des séquences vidéo tournées en Azerbaïdjan en 2026 capturent le processus créatif d'une œuvre peinte en **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html>)**. Ces deux formats offrent au spectateur la possibilité d'assister à l'émergence d'un choix pictural sous ses yeux.
 
-L'atelier nous permet de voir comment la curiosité artistique se concrétise dans un travail pratique. Valikhodjaev explore sans cesse de nouvelles approches de la couleur, de la forme et de la composition : dans la série Namangan, il s'est intéressé aux gens et à la vie du bazar ; dans RED, aux possibilités du rouge ; et dans New View, au langage abstrait. Chaque direction artistique requiert ses propres expérimentations, observations et perfectionnements sur la toile.
+L'atelier nous permet de voir comment la curiosité artistique se concrétise dans un travail pratique. Valikhodjaev explore sans cesse de nouvelles approches de la couleur, de la forme et de la composition : dans la série Namangan, il s'est intéressé aux gens et à la vie du bazar ; dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)**, aux possibilités du rouge ; et dans New View, au langage abstrait. Chaque direction artistique requiert ses propres expérimentations, observations et perfectionnements sur la toile.
 
 ## Atelier du maître Rahim Ahmedov
 
@@ -74,11 +74,11 @@ La visite de l'atelier enrichit la perception des tableaux achevés. La palette 
 
 ## Vidéo
 
-[Peinture avec les élèves, le 8 août 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Peinture avec les élèves, le 8 août 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[Peinture en public, Azerbaïdjan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Peinture en public, Azerbaïdjan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ En septembre 2025, Valikhodjaev a animé une masterclass pour les étudiants en 
 
 [Vidéo](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Vidéo de la masterclass · Chine, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Vidéo de la masterclass · Chine, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Compte rendu de la visite et de la masterclass · Facebook, 8 octobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Compte rendu de la visite et de la masterclass · Facebook, 8 octobre 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Dans l’atelier, avant et après l’exposition
 
@@ -177,4 +177,4 @@ Démonstration RED : le public observe le peintre, Ouzbékistan, Tachkent, 2017.
 
 Démonstration RED : élaboration de la composition, Ouzbékistan, Tachkent, 2017. Archives de l’artiste.
 
-[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED et sa démonstration : ambassade d’Ouzbékistan, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

@@ -4,7 +4,7 @@ language: "he"
 theme: 7
 description: "ארגון ואוצרות של שמונה סימפוזיוני פיסול: עבודתו של וליכודג'ייב והמפגש בין חומר, אמנים ומרחב ציבורי."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_645.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # מאבן למרחב המשותף: סימפוזיוני הפיסול של וליכודג'ייב
@@ -78,15 +78,15 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## וידאו
 
-[דו"ח מהסימפוזיון, סמרקנד, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[דו"ח מהסימפוזיון, סמרקנד, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [סרטון](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[סיום הסימפוזיון, סמרקנד, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[סיום הסימפוזיון, סמרקנד, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [סרטון](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-דיווח של CNN Türk על פרויקט Marble Wave באיסטנבול, טורקיה, 2021: [צפו בסרטון](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . תמונת הארכיון למעלה היא מאתר עבודה אחר.
+דיווח של CNN Türk על פרויקט Marble Wave באיסטנבול, טורקיה, 2021: **[צפו בסרטון](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . תמונת הארכיון למעלה היא מאתר עבודה אחר.
 
 ## אודות האמן
 

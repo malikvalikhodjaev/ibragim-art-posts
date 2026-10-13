@@ -4,7 +4,7 @@ language: "it"
 theme: 14
 description: "Dieci termini per guardare la pittura: soggetto, composizione, ritmo e materia attraverso ritratti, paesaggi e scene di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-lessico-dello-sguardo-dieci-chiavi.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Il lessico dello sguardo: dieci chiavi per capire la pittura
@@ -61,7 +61,7 @@ La silhouette è il profilo generale di una figura o di un oggetto. Un foulard b
 
 ## 4. Composizione
 
-La composizione unisce le parti di un'opera in un tutto. Nella "Suite di Namangan", la disposizione dei gruppi, la sovrapposizione delle figure e il movimento lungo il formato orizzontale sono elementi fondamentali. Ogni personaggio occupa uno spazio specifico e la ripetizione di luci e colori collega aree distanti. Chiedetevi quale percorso suggerisca questa disposizione all'interno del dipinto.
+La composizione unisce le parti di un'opera in un tutto. Nella "**[Suite di Namangan](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html>)**", la disposizione dei gruppi, la sovrapposizione delle figure e il movimento lungo il formato orizzontale sono elementi fondamentali. Ogni personaggio occupa uno spazio specifico e la ripetizione di luci e colori collega aree distanti. Chiedetevi quale percorso suggerisca questa disposizione all'interno del dipinto.
 
 [Ibragim Valikhodjaev, "Suite di Namangan". Composizione e formato orizzontale.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Il ritmo emerge dalla ripetizione e dalla variazione. Le foulard bianchi si ripe
 
 ## 6. Colore
 
-Una combinazione di colori è il sistema di relazioni tra i colori in un dipinto. In "Miraki", il campo rosso, la strada blu, il muro chiaro e gli alberi scuri sono percepiti come interconnessi. La tonalità, le dimensioni e la prossimità di ogni sezione sono tutte significative. L'esplorazione del rosso in RED dimostra quanti significati possa trasmettere un singolo colore dominante.
+Una combinazione di colori è il sistema di relazioni tra i colori in un dipinto. In "Miraki", il campo rosso, la strada blu, il muro chiaro e gli alberi scuri sono percepiti come interconnessi. La tonalità, le dimensioni e la prossimità di ogni sezione sono tutte significative. L'esplorazione del rosso in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)** dimostra quanti significati possa trasmettere un singolo colore dominante.
 
 [Ibragim Valikhodjaev, "Miraki". La combinazione di colori si basa sulle relazioni tra ampie aree di colore.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Un dizionario diventa utile quando ci riporta all'opera. Scegliamo due concetti 
 
 ## Video da guardare
 
-["Nuovo sguardo (New View)": Colore e geometria nello spazio espositivo](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Nuovo sguardo (New View)": Colore e geometria nello spazio espositivo](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Video](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

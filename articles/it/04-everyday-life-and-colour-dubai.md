@@ -4,7 +4,7 @@ language: "it"
 theme: 4
 description: "In Silence alla Mondoir Gallery di Dubai, 2024: vita quotidiana uzbeka e colore in una mostra curata da Zahra Habibizad."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/i-colori-della-vita-quotidiana.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # I colori della vita quotidiana: Valikhodjaev a Dubai
@@ -30,7 +30,7 @@ Una scena quotidiana si trasforma in un dipinto quando l'artista ne scopre la st
 
 Nel 2024, presso la Mondoir Gallery di Dubai, negli Emirati Arabi Uniti, si è tenuta una mostra personale intitolata "In Silence". Curata da Zahra Habibizad, nota anche come Zara, la mostra ha presentato i dipinti di Valikhodjaev a un pubblico internazionale e ha offerto uno spaccato di come i temi della vita quotidiana uzbeka si inseriscano in un dialogo più ampio sull'umanità, la memoria e il linguaggio artistico.
 
-La mostra di Dubai può essere vista anche come un incontro di diverse correnti artistiche. Nella sua serie Namangan, Valikhodjaev era affascinato dal bazar, dalle persone e dalla vita quotidiana; in RED, dal potenziale espressivo del rosso; e nell'astrazione, dalle relazioni indipendenti tra forme e piani cromatici. Questi interessi ci aiutano a comprendere l'ampiezza della sua pratica e il suo costante desiderio di trovare nuove soluzioni all'interno della pittura.
+La mostra di Dubai può essere vista anche come un incontro di diverse correnti artistiche. Nella sua serie Namangan, Valikhodjaev era affascinato dal bazar, dalle persone e dalla vita quotidiana; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**, dal potenziale espressivo del rosso; e nell'astrazione, dalle relazioni indipendenti tra forme e piani cromatici. Questi interessi ci aiutano a comprendere l'ampiezza della sua pratica e il suo costante desiderio di trovare nuove soluzioni all'interno della pittura.
 
 ## La vita quotidiana come tema della pittura
 
@@ -86,7 +86,7 @@ La presentazione video e le pubblicazioni relative alla mostra ne preservano la 
 
 ## Video
 
-[Video presentazione della mostra In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[Video presentazione della mostra In Silence](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Video](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

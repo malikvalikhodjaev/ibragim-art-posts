@@ -4,7 +4,7 @@ language: "ar"
 theme: 7
 description: "ثمانية ملتقيات نحت في تركيا وأوزبكستان: دور فاليخودجاييف في التنظيم والقيّمية الفنية وشروط إنجاز الأعمال."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_78.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # من الحجر إلى الفضاء المشترك: إبراهيم فاليخودجاييف وملتقيات النحت
@@ -78,15 +78,15 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 ## فيديو
 
-[تقرير من الملتقى، سمرقند، 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[تقرير من الملتقى، سمرقند، 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [تسجيل الفيديو](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[اختتام الملتقى، سمرقند، 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[اختتام الملتقى، سمرقند، 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [تسجيل الفيديو](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-تقرير قناة سي إن إن ترك عن مشروع "موجة الرخام" في إسطنبول، تركيا، عام 2021: [شاهد الفيديو](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . الصورة الأرشيفية أعلاه مأخوذة من موقع عمل مختلف.
+تقرير قناة سي إن إن ترك عن مشروع "موجة الرخام" في إسطنبول، تركيا، عام 2021: **[شاهد الفيديو](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . الصورة الأرشيفية أعلاه مأخوذة من موقع عمل مختلف.
 
 ## نبذة عن الفنان
 

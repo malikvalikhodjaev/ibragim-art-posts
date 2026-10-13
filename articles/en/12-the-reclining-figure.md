@@ -4,12 +4,14 @@ language: "en"
 theme: 12
 description: "Higher Harmony, Sleeping and Nude: three approaches to the reclining figure, contour, colour and pictorial space in Valikhodjaev’s work."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # The reclining figure: line and colour in Ibragim Valikhodjaev’s nudes
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/following-white-headscarf-motif-in.html>)
+
+[Video](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Nude · The human figure
 
@@ -79,7 +81,7 @@ Compared to "Sleeping," the cool colour becomes a more independent participant i
 
 "Higher Harmony," "Sleeping," and "Nude" are united by their attention to the form and movement of the reclining body, but are handled differently. The rich surroundings, subdued greyish environment, and bluish field alter the weight of the light figure and the pace of viewing. The dark outline can become dominant or give way to a more subtle transition.
 
-These works reveal a distinct side of Valikhodjaev's work alongside bazaar compositions, portraits, RED, and abstraction. The nude becomes material for exploring form: the artist compares pose, line, and the space around the body, finding different expressive solutions within a familiar genre.
+These works reveal a distinct side of Valikhodjaev's work alongside bazaar compositions, portraits, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, and abstraction. The nude becomes material for exploring form: the artist compares pose, line, and the space around the body, finding different expressive solutions within a familiar genre.
 
 ## Looking closely at the figure’s contour
 

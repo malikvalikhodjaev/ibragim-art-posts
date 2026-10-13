@@ -4,12 +4,14 @@ language: "tr"
 theme: 6
 description: "Karadağ 2012: Perast’ın tekneleri, rıhtımı ve palmiyeleri. Valikhodjaev’in iki manzarasında renk ve mekânın kuruluşu."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Karadağ’da yirmi bir gün: Valikhodjaev’in kıyı manzaraları
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=iYdls56_FeA>)
 
 Karadağ Manzarası
 
@@ -64,7 +66,7 @@ Parlak ön plandan nispeten sakin uzaklığa geçiş, bakış açısının sıra
 
 ## Açık havada resim yapmak ve motife dönmek
 
-Eser, Valikhodjaev'in Karadağ'da açık havada resim yaptığı bir projeye katıldığı 2012 yılına dayanıyor. "Karadağ'da 21 Gün" sergisi aynı yıl Özbekistan'ın Taşkent şehrinde düzenlendi. Bu bilgi, yaratıcı gezinin ve ardından gelen serginin yerini ayırt etmemize yardımcı oluyor. Resmin kendisi, sanatçıya gezinin neler kazandırdığını görmemizi sağlıyor: yeni bir motif, mimari ve su arasındaki farklı bir ilişki ve mekânsal geçişlerin farklı bir karakteri.
+Eser, Valikhodjaev'in Karadağ'da **[açık havada resim](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html>)** yaptığı bir projeye katıldığı 2012 yılına dayanıyor. "Karadağ'da 21 Gün" sergisi aynı yıl Özbekistan'ın Taşkent şehrinde düzenlendi. Bu bilgi, yaratıcı gezinin ve ardından gelen serginin yerini ayırt etmemize yardımcı oluyor. Resmin kendisi, sanatçıya gezinin neler kazandırdığını görmemizi sağlıyor: yeni bir motif, mimari ve su arasındaki farklı bir ilişki ve mekânsal geçişlerin farklı bir karakteri.
 
 Yolculuk sırasında gözlem yeni bağlamlar kazanıyor. Farklı yönlere dönük tekneler ön planda yer alırken, kıyı şeridi onu şehre bağlıyor ve soğuk mesafe mekanı genişletiyor. Tamamlanmış resim bu ilişkileri koruyor ve sergi salonunda yolculuk sırasında görülenlere geri dönmemizi sağlıyor.
 

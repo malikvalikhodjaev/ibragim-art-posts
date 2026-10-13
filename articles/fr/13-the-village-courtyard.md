@@ -4,7 +4,7 @@ language: "fr"
 theme: 13
 description: "Cours, murs rouges et présences humaines : la couleur et la composition dans les paysages de villages ouzbeks."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/cours-et-chemins-sinueux-les-couleurs.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Cours et chemins sinueux : les couleurs des villages ouzbeks
@@ -120,9 +120,9 @@ Documents éditoriaux de la Valikhodjaev Gallery House. Les sources des illustra
 
 ## Le plein air commence par le regard
 
-Le plein air commence avant le premier coup de pinceau, par une promenade et le choix d’un point de vue. Ces photographies montrent une rue de village, une cour resserrée, un versant rocheux et des arbres d’automne. Un motif devient une alternance de murs clairs et d’ouvertures sombres ; un autre, le mouvement d’un chemin entre les bâtiments. Le peintre choisit le sujet et l’organisation des grandes masses qui tiendront la composition.
+Le **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/faire-place-la-peinture-plein-air-et.html>)** commence avant le premier coup de pinceau, par une promenade et le choix d’un point de vue. Ces photographies montrent une rue de village, une cour resserrée, un versant rocheux et des arbres d’automne. Un motif devient une alternance de murs clairs et d’ouvertures sombres ; un autre, le mouvement d’un chemin entre les bâtiments. Le peintre choisit le sujet et l’organisation des grandes masses qui tiendront la composition.
 
-Ces images de travail complètent les paysages en restituant l’échelle du lieu, les variations de lumière et les textures. Murs, toits, bandes de terre et frondaisons nourrissent les rapports de couleur. Dans le tableau, l’observation peut devenir plus libre et synthétique ; le lien avec le motif demeure dans la construction de l’espace. Le lieu et l’année de ces photographies ne sont pas établis : leur aspect ne suffit pas à les rattacher à un séjour précis à Miraki, au Monténégro ou en Azerbaïdjan.
+Ces images de travail complètent les paysages en restituant l’échelle du lieu, les variations de lumière et les textures. Murs, toits, bandes de terre et frondaisons nourrissent les rapports de couleur. Dans le tableau, l’observation peut devenir plus libre et synthétique ; le lien avec le motif demeure dans la construction de l’espace. Le lieu et l’année de ces photographies ne sont pas établis : leur aspect ne suffit pas à les rattacher à un séjour précis à Miraki, au **[Monténégro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)** ou en Azerbaïdjan.
 
 [Sortie de travail sur le motif : une rue de village et les montagnes. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 

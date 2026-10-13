@@ -4,7 +4,7 @@ language: "uz"
 theme: 8
 description: "Valixo‘jayevning plenerlardagi ishtiroki: o‘zgaruvchan yorug‘lik, naturadan rangtasvir va Andijon festivalidagi kuratorlik."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Naturadan ishlash: plener va ijodiy uchrashuvlar
@@ -30,11 +30,11 @@ Ushbu maqolada
 
 ## Video
 
-[Maltepedagi plener, Istanbul, 2023 yil](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[Maltepedagi plener, Istanbul, 2023 yil](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[Plenerda rangtasvir ustida ishlash, Ozarbayjon, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Plenerda rangtasvir ustida ishlash, Ozarbayjon, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -110,7 +110,7 @@ Valikhodjaev Gallery House galereyasining tahririyat materiallari. Tasvirlarning
 
 ## Sermahsullik — davomli kuzatish natijasi
 
-2012-yilgi Chernogoriya safari Valixo‘jayevning ish sur’atiga aniq misol bo‘la oladi: oila xotiralarida 21 kunda 42 kartina ishlangani qayd etilgan. Plenerda u rangtasvirchi sifatida qatnashgan. Bu son mehnatning jadalligini, manzaralarning o‘zi esa topilgan yechimlar xilma-xilligini ko‘rsatadi. Tez ishlash uchun motivdagi asosiy jihatlarni tanlash, rang va makon munosabatlarini saqlash kerak. Safar kartinalari va ularning Toshkentdagi ko‘rgazmasi haqida Chernogoriyaga bag‘ishlangan maqolada batafsil o‘qish mumkin.
+2012-yilgi **[Chernogoriya](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)** safari Valixo‘jayevning ish sur’atiga aniq misol bo‘la oladi: oila xotiralarida 21 kunda 42 kartina ishlangani qayd etilgan. Plenerda u rangtasvirchi sifatida qatnashgan. Bu son mehnatning jadalligini, manzaralarning o‘zi esa topilgan yechimlar xilma-xilligini ko‘rsatadi. Tez ishlash uchun motivdagi asosiy jihatlarni tanlash, rang va makon munosabatlarini saqlash kerak. Safar kartinalari va ularning Toshkentdagi ko‘rgazmasi haqida Chernogoriyaga bag‘ishlangan maqolada batafsil o‘qish mumkin.
 
 [Davomi: rassomning hayoti va ijodiy yo‘li](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>) · [Chernogoriyada yigirma bir kun: Perastning sohil manzaralari](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)
 

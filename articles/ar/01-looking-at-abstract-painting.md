@@ -4,7 +4,7 @@ language: "ar"
 theme: 1
 description: "مساحات اللون والخط والمقياس في تجريد إبراهيم فاليخودجاييف: قراءة قريبة للأعمال وصورها وتكوينها."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_669.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # كيف ننظر إلى الفن التجريدي؟ دليل عبر لوحات فاليخودجاييف
@@ -35,7 +35,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 ## فيديو
 
-[اطلع على مسار معرض "رؤية جديدة"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[اطلع على مسار معرض "رؤية جديدة"](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [تسجيل الفيديو](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

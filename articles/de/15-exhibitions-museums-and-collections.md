@@ -4,7 +4,7 @@ language: "de"
 theme: 15
 description: "Valikhodjaevs Werke in Museen und Sammlungen: Yu Shun Art Museum in Harbin, Maltepe in Istanbul und eine Privatsammlung in Moskau."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nach-der-ausstellung-ibragim.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Nach der Ausstellung: Ibragim Valikhodjaev in Museen und Sammlungen
@@ -70,11 +70,11 @@ Ibragim Valikhodjaev, „Namangan-Suite“. Reproduktion aus dem Archiv des Kün
 
 Genaue Informationen zu Titel, Künstler, Material und Entstehungsgeschichte eines Werkes sichern dessen Fortbestand. Dokumente und Abbildungen, die die Wiedererkennung in neuen Publikationen ermöglichen, sind neben dem Gemälde selbst ebenfalls wichtig. In diesem Blog werden Archivreproduktionen mit Titeln versehen und Details mit den vollständigen Abbildungen verlinkt.
 
-Eine Biografie, Ausstellungstexte und Fotografien seiner Werke veranschaulichen die verschiedenen Facetten von Valikhodjaevs Schaffen. In seiner Serie „Basar“ interessierte er sich für Menschen und den Alltag; in „RED“ für die Möglichkeiten der Farbe Rot; in „Neuer Blick (New View)“ für die Abstraktion. Museen und Sammlungen bewahren die Ergebnisse dieser Auseinandersetzung, und neue Betrachter führen sie mit ihrer Aufmerksamkeit für seine Werke fort.
+Eine Biografie, Ausstellungstexte und Fotografien seiner Werke veranschaulichen die verschiedenen Facetten von Valikhodjaevs Schaffen. In seiner Serie „Basar“ interessierte er sich für Menschen und den Alltag; in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ für die Möglichkeiten der Farbe Rot; in „Neuer Blick (New View)“ für die Abstraktion. Museen und Sammlungen bewahren die Ergebnisse dieser Auseinandersetzung, und neue Betrachter führen sie mit ihrer Aufmerksamkeit für seine Werke fort.
 
 ## Video ansehen
 
-[Eröffnung der Einzelausstellung „Sonne auf Schnee“, China, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Eröffnung der Einzelausstellung „Sonne auf Schnee“, China, Harbin, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

@@ -4,12 +4,14 @@ language: "uz"
 theme: 17
 description: "Dias Rahmatov, Lena va Sasha portretlari: yuzning yaqinligi, qomat, kiyim va fonning kompozitsiyadagi o‘rni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Yuz, poza va ochiq makon: Valixo‘jayevning uch portreti
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 Shakl va tasviriy makon
 
@@ -43,7 +45,7 @@ Yelkalar rasmning pastki yarmining katta qismini egallaydi. Kiyimning to‘q kul
 
 ## Dias Rahmatov ustaxonada: uchrashuvdan portretgacha
 
-[Dias Rahmatov](<https://uzbekkino.glob.uz/person/109>) — o‘zbek teatr va kino aktyori. Arxiv fotosuratlarida u Valixo‘jayevning ustaxonasida va portret ustida ishlash jarayonida aks etgan. Tayyor kartina bilan yonma-yon bu kadrlar modelning ishtirokini, molbert oldidagi holatini hamda rassomning yuz va qomatga e’tiborini ko‘rsatadi.
+**[Dias Rahmatov](<https://uzbekkino.glob.uz/person/109>)** — o‘zbek teatr va kino aktyori. Arxiv fotosuratlarida u Valixo‘jayevning ustaxonasida va portret ustida ishlash jarayonida aks etgan. Tayyor kartina bilan yonma-yon bu kadrlar modelning ishtirokini, molbert oldidagi holatini hamda rassomning yuz va qomatga e’tiborini ko‘rsatadi.
 
 [Ibrohim Valixo‘jayev va aktyor Dias Rahmatov ustaxonada. Rassom arxivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

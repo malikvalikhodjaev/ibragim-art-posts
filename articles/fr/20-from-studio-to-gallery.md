@@ -4,7 +4,7 @@ language: "fr"
 theme: 20
 description: "Peintre, enseignant, commissaire et fondateur de galerie : comment Valikhodjaev crée des lieux de rencontre avec l’art."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/de-latelier-la-galerie-valikhodjaev.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # De l’atelier à la galerie : Valikhodjaev crée des espaces pour l’art
@@ -40,7 +40,7 @@ Valikhodjaev a fondé la Valikhodjaev Gallery House ; une seconde galerie a ouve
 
 ## De la recherche personnelle à l’exposition
 
-Dans son atelier, l'artiste explore les liens entre couleur, forme et composition. La série Namangan est née de l'intérêt de Valikhodjaev pour les gens et le quotidien du bazar ; RED, de son exploration de la couleur rouge ; et New View, des possibilités offertes par l'abstraction. Chaque démarche artistique découle d'objectifs précis.
+Dans son atelier, l'artiste explore les liens entre couleur, forme et composition. La série Namangan est née de l'intérêt de Valikhodjaev pour les gens et le quotidien du bazar ; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)**, de son exploration de la couleur rouge ; et New View, des possibilités offertes par l'abstraction. Chaque démarche artistique découle d'objectifs précis.
 
 Lors de l'exposition, ces choix se transforment en expérience pour le visiteur. La distance, la lumière et la juxtaposition des œuvres évoluent ; les différentes pièces peuvent être comparées. L'espace de la galerie nous permet de suivre la démarche artistique en cours, de passer d'un parcours global à une toile en particulier.
 
@@ -74,7 +74,7 @@ Au-delà de ses multiples rôles professionnels, Valikhodjaev nourrit un intér�
 
 ## Vidéo à regarder
 
-[Travail avec les étudiants, le 8 août 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Travail avec les étudiants, le 8 août 2014.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Ces deux vidéos d’archives montrent la participation de l’artiste à la pr�
 
 [Vidéo](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Préparation d’une exposition — Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Préparation d’une exposition — Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Vidéo](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Visite de l’exposition — Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Visite de l’exposition — Ibragim Valikhodjaev, président de l’Union des artistes d’Ouzbékistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## Le tableau dans l’espace d’exposition
 

@@ -4,26 +4,28 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
+[Video](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 
 His father was a craftsman who also wrote poetry. As an adult, Ibragim published a collection of his father’s poems, preserving this part of the family’s heritage. This detail is drawn from family recollections.
 
-Born in 1958, he explores contemporary life, memory and Uzbek culture through a wide range of genres and series: Namangan bazaar scenes and everyday life; RED; early monochrome and restrained-palette paintings; nude figure studies, portraits and still lifes; village landscapes and plein air paintings of Uzbekistan, including Miraki; Montenegro landscapes; monumental abstraction; and metal sculpture, including floating works. His continuing research into colour, form, rhythm and composition connects these different directions. His colour ranges from clearly defined, contrasting planes to subtle transitions between warm and cool tones.
+Born in 1958, he explores contemporary life, memory and Uzbek culture through a wide range of genres and series: Namangan bazaar scenes and everyday life; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**; early monochrome and restrained-palette paintings; nude figure studies, portraits and still lifes; village landscapes and plein air paintings of Uzbekistan, including Miraki; Montenegro landscapes; monumental abstraction; and metal sculpture, including floating works. His continuing research into colour, form, rhythm and composition connects these different directions. His colour ranges from clearly defined, contrasting planes to subtle transitions between warm and cool tones.
 
-He combines studio practice with the organisation and curation of exhibitions and international sculpture symposia. He has organised and curated eight symposia in Turkey and Uzbekistan and participated in plein air projects in both countries. His international work and creative visits also include China, Azerbaijan, Cyprus, Georgia and Kazakhstan.
+He combines studio practice with the organisation and curation of exhibitions and international sculpture symposia. He has organised and curated eight symposia in Turkey and Uzbekistan and participated in **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)** projects in both countries. His international work and creative visits also include China, Azerbaijan, Cyprus, Georgia and Kazakhstan.
 
 As an art expert, he founded and chairs the Expert Commission for the Evaluation of Artworks in Uzbekistan and has developed valuation rates for artistic works.
 
 *Alternative transliterations of his name include Ibrahim Valikhodjaev and Ibrokhim Valikhodjaev.*
 
-[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+**[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)**
 
 ## Institutional roles and teaching
 
@@ -46,15 +48,15 @@ Another part of that environment was the art magazines published in those years,
 
 He began drawing before his first year of school and later attended the House of Pioneers during his school years. His father was a craftsman; there was nobody close at hand who could explain the route into higher art education in detail. Ibragim watched local artists working for the Art Fund and practised on his own. His first encounters with an artistic community came through those meetings and everyday observations.
 
-**1986–1991:** Studio of Master Rahim Ahmedov; Faculty of Painting, Alexander Nikolayevich Ostrovsky Institute. See the master's painting [«For Whom» at Sotheby's](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>).
+**1986–1991:** Studio of Master Rahim Ahmedov; Faculty of Painting, Alexander Nikolayevich Ostrovsky Institute. See the master's painting **[«For Whom» at Sotheby's](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**.
 
 In ‘Ijod formulasi’, he also recalls a very different pace of work: a month as a student when a painting would not come together. He was working on one bazaar composition in the teaching studio and another at home, where he had made a workspace on the balcony. He returned to the canvases, squeezed out paint and worked, only to scrape it off again in the evening, dissatisfied with the result. This continued for roughly a month. One day, watching television with his family, he suddenly wanted to paint. He went out to the balcony and, as he remembers it, finished the painting at home in half an hour; the next day, he completed the studio painting just as quickly. The story suggests how weeks of searching and dissatisfaction can lie behind a speed of execution that the viewer sees only at the end.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 Family recollections describe the choice of his graduation project as another sign of his teacher’s confidence. Students were normally expected to concentrate on academic studies; Valikhodjaev alone was allowed to pursue an independent bazaar composition. Rahim Ahmedov felt that Ibragim had already mastered the academic foundations and could tackle a subject of his own. Observations of the market entered his graduation painting and later grew into large, multi-figure canvases and a recognisable pictorial language.
 
-**2021–2026:** Founder, Valikhodjaev Gallery House, Uzbekistan, Tashkent; opened 5 August 2021.
+**2021–2026:** Founder, **[Valikhodjaev Gallery House](<https://ibragim-valikhodjaev.blogspot.com/2026/10/from-studio-to-gallery-how-ibragim.html>)**, Uzbekistan, Tashkent; opened 5 August 2021.
 
 **1993–1999:** Founder, «Tumor» Gallery Salon, Uzbekistan, Namangan; the first private art gallery in independent Uzbekistan. According to the family, his pioneering role as its founder was also recorded in an encyclopedia.
 
@@ -162,7 +164,7 @@ His works are also in private collections in the United States, Canada, Germany,
 
 ## Selected publications, interviews and videos
 
-San’at’s 2012 art-life chronicle records the Tashkent exhibition «21 Days in Montenegro», held from 28 June to 13 July, with more than 40 landscape studies made during his participation in a plein-air programme in Montenegro. This documents both the overseas painting experience and the subsequent exhibition in Uzbekistan.
+San’at’s 2012 art-life chronicle records the Tashkent exhibition «21 Days in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)**», held from 28 June to 13 July, with more than 40 landscape studies made during his participation in a plein-air programme in Montenegro. This documents both the overseas painting experience and the subsequent exhibition in Uzbekistan.
 
 - **25 June 2026 —** [«Ecological Ideas in Marble» — Sculpture symposium documentary](<https://www.youtube.com/watch?v=05o8AsE-VoY>).
 - **9 June 2026 —** [«Creative Formula» — Culture and Enlightenment Television](<https://www.youtube.com/watch?v=uQzIBpYBXD8>).
@@ -193,10 +195,10 @@ San’at’s 2012 art-life chronicle records the Tashkent exhibition «21 Days i
 - [Artwork portfolio on Google Drive](<https://drive.google.com/drive/folders/19p_F96Ha3uycrgRQFR5pm6-dJ0yCknIx>).
 - [Valikhodjaev Gallery House — Linktree](<https://linktr.ee/ibragim.valikhodjaev>).
 
-Artist: [ibragim.art@gmail.com](<mailto:ibragim.art@gmail.com>)  
-Gallery: [valikhodjaev.gallery.house@gmail.com](<mailto:valikhodjaev.gallery.house@gmail.com>)
+Artist: **[ibragim.art@gmail.com](<mailto:ibragim.art@gmail.com>)**  
+Gallery: **[valikhodjaev.gallery.house@gmail.com](<mailto:valikhodjaev.gallery.house@gmail.com>)**
 
-[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)
+**[Artist CV](<https://drive.google.com/file/d/1NV7ehs5_lQcLTeo0sDVySVHjr5PItFnx/view>)**
 
 ## Additional teaching and institutional experience
 
@@ -224,9 +226,9 @@ In September 2025, Valikhodjaev led a painting masterclass for students of the P
 
 [Video](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Masterclass video · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Visit and masterclass report · Facebook, 8 October 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Exhibition work on video
 
@@ -234,11 +236,11 @@ These two archival videos show the artist taking part in preparing and viewing a
 
 [Video](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Exhibition preparation — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Video](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Viewing an exhibition — Ibragim Valikhodjaev as chairman of the Union of Artists of Uzbekistan](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 *Updated 10 October 2026.*
 
@@ -270,7 +272,7 @@ Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist
 
 His career developed alongside changes in Uzbekistan’s art institutions. The Academy of Arts was established on 23 January 1997; that year Valikhodjaev became chairman of the Namangan branch of the Union of Artists. He later headed the Academy’s Special Fund in 1999–2005 and the Art Fund of Uzbekistan in 1999–2012. His Union chairmanship since 2017, appointment as an Academician in 2023, gallery work and international projects show how making art can connect with creating conditions for others. This is a parallel between a biography and its cultural setting, rather than a claim that one artist determined that setting’s development.
 
-[Historical context: Academy of Arts of Uzbekistan](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[Historical context: Academy of Arts of Uzbekistan](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 [Ibragim Valikhodjaev at an exhibition gathering. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGo_ts-KFUFKGcY5-84x82qPMbFd1L5Lrd95OVdJ1T1xnoTtAFrTsf9wYC_ZOcdvz2i66CLudbbwiI0WTs7FTKETjrONGVG4JF2tdXOAyWzN8ceMFSoh3u9RetFW3xxtMw75C_PEEvGaIH3ouuJKcmiWQcDrRg6aWU-ykep6wF-Dp5Z4FD7CPicwH3dUm/s1600/clipboard.png>)
 
@@ -354,7 +356,7 @@ RED masterclass: visitors watching the artist at work, Uzbekistan, Tashkent, 201
 
 RED masterclass: developing a composition, Uzbekistan, Tashkent, 2017. Artist’s archive.
 
-[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED and its masterclass: Embassy of Uzbekistan report, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Inside the studio: before and after the exhibition
 
@@ -498,7 +500,7 @@ Floral still lifes in the exhibition hall. Artist’s archive.
 
 When discussing preparations for his exhibition in China, he begins with the gallery space. He had seen it before; after receiving its plan and dimensions, he considered which works to bring and how to arrange them. The large, bright hall made it possible to show large canvases. The artistic decision then became a practical task: the paintings were taken off their stretchers, rolled and sent by cargo aircraft. He arrived before the works, waited for them and helped prepare the display. In his television account, the exhibition grows from this sequence of decisions—from the scale of a painting to its transport and placement in the hall.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [Ibragim Valikhodjaev in front of his floating sculpture on the frozen river, China, Harbin, 25 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 

@@ -4,12 +4,14 @@ language: "fr"
 theme: 10
 description: "Abstraction rose no 1 : une ligne sombre, des touches croisées et les rythmes changeants du champ coloré."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Un champ rose, une ligne sombre : le rythme selon Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Composition et rythme
 
@@ -53,7 +55,7 @@ Même d'un point de vue général, on peut observer comment une nuance de rose s
 
 Dans les peintures de bazar de Valikhodjaev, le rythme se perçoit dans les foulards, les silhouettes et les courbes des mains. Dans cette abstraction, la répétition est incarnée par la direction des coups de pinceau et l'alternance de zones denses et clairsemées. Cette juxtaposition permet de saisir les liens entre les différentes orientations de son œuvre, tout en préservant leurs spécificités.
 
-« New View » est liée à l’intérêt de l’artiste pour l’abstraction, « RED » à l’exploration de la couleur rouge, et la série Namangan aux habitants et à la vie quotidienne du bazar. « Abstraction rose n° 1 » nous invite à examiner le concept même de rythme à travers un champ de couleur singulier. La date de création et le lieu d’exposition de l’œuvre ne figurent pas dans la notice d’archives disponible ; ces informations ne sont donc pas confirmées ici.
+« **[New View](<https://ibragim-valikhodjaev.blogspot.com/2026/10/comment-regarder-labstraction-couleur.html>)** » est liée à l’intérêt de l’artiste pour l’abstraction, « RED » à l’exploration de la couleur rouge, et la série Namangan aux habitants et à la vie quotidienne du bazar. « Abstraction rose n° 1 » nous invite à examiner le concept même de rythme à travers un champ de couleur singulier. La date de création et le lieu d’exposition de l’œuvre ne figurent pas dans la notice d’archives disponible ; ces informations ne sont donc pas confirmées ici.
 
 ## Vue d'ensemble et lecture lente
 

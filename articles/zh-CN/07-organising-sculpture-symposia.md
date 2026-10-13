@@ -4,7 +4,7 @@ language: "zh-CN"
 theme: 7
 description: "瓦利霍贾耶夫在土耳其和乌兹别克斯坦组织并策划八届国际雕塑创作营的专业经验。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_700.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 从石材到公共空间：组织国际雕塑创作营
@@ -76,15 +76,15 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 视频
 
-[2025年撒马尔罕雕塑创作营报告](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[2025年撒马尔罕雕塑创作营报告](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [视频](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[雕塑创作营闭幕式，撒马尔罕，2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[雕塑创作营闭幕式，撒马尔罕，2025年](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [视频](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-CNN土耳其频道2021年报道了土耳其伊斯坦布尔的“大理石波浪”项目：[观看视频](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)。上方的存档照片来自另一个施工现场。
+CNN土耳其频道2021年报道了土耳其伊斯坦布尔的“大理石波浪”项目：**[观看视频](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)**。上方的存档照片来自另一个施工现场。
 
 ## 关于艺术家
 

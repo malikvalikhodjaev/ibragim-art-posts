@@ -4,12 +4,14 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_895.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
+
+[映像](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 芸術とともに歩む人生 · ナマンガン、工房、絵画
 
@@ -73,11 +75,11 @@ edition_date: "2026-10-12"
 
 テレビインタビューの中で、このアーティストはデッサンとアーティストの成長を区別している。訓練は可能性の広大な世界を開くが、その中で自分自身の方向性を見出すのはアーティスト自身にかかっている。この道のりは、肖像画、静物画、風景画、そして複数の人物が登場する風俗画など、彼の作品を通して辿ることができる。
 
-[上に掲載した映像 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上に掲載した映像 · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 『Ijod formulasi』では、まったく異なる制作の速度も回想している。学生時代のある一か月、絵がどうしても思うようにまとまらなかった。学院の工房で一枚の市場の構図を描き、もう一枚は仕事場にした自宅のバルコニーで描いていた。キャンバスに向かい、絵具を出して描くが、夕方には出来栄えに満足できず、また絵具を削り取った。それが一か月ほど続いた。ある日、家族とテレビを見ていると突然描きたくなり、バルコニーに出た。彼の記憶では、自宅の絵は三十分で完成し、翌日には工房の絵も同じように短時間で仕上がった。最後に見る人が感じる制作の速さの背後には、何週間もの試行と不満があることを、この話は伝えている。
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 家族の回想によれば、卒業制作の題材にも師の信頼が表れていた。学生には通常、アカデミックな習作が求められたが、ヴァリホジャエフだけは市場を題材に独自の構成を試みることを認められた。ラヒム・アフメドフは、イブラギムがすでに学院での訓練の基礎を身につけ、自らの表現課題に取り組めると考えていた。市場での観察は卒業制作に結実し、のちに多くの人物を描く大画面と、画家を特徴づける絵画言語へと発展した。
 
@@ -87,9 +89,9 @@ edition_date: "2026-10-12"
 
 ## 師ラヒム・アフメドフとともに
 
-ラヒム・アフメドフはウズベキスタン絵画を代表する画家の一人であり、幾世代もの美術家を育てた教育者である。ウズベク・ソビエト社会主義共和国とソ連の人民芸術家、教授、ソ連美術アカデミー通信会員という経歴は、[ロシア美術アカデミーの公式略歴](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)に記されている。心理描写に優れた肖像、風俗画、風景画は、確かな絵画の伝統と人々やウズベキスタン文化への関心を結びつける。ヴァリホジャエフは1986年から1991年までその工房で学び、この師弟関係は専門家としての形成に重要な役割を果たした。
+ラヒム・アフメドフはウズベキスタン絵画を代表する画家の一人であり、幾世代もの美術家を育てた教育者である。ウズベク・ソビエト社会主義共和国とソ連の人民芸術家、教授、ソ連美術アカデミー通信会員という経歴は、**[ロシア美術アカデミーの公式略歴](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**に記されている。心理描写に優れた肖像、風俗画、風景画は、確かな絵画の伝統と人々やウズベキスタン文化への関心を結びつける。ヴァリホジャエフは1986年から1991年までその工房で学び、この師弟関係は専門家としての形成に重要な役割を果たした。
 
-アーカイブ写真は、師と若い画家が同じ美術の環境に並んでいる姿を伝える。アフメドフ自身の作品はサザビーズのカタログで見られる。[For Whom、1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)と[Girl from Surkhandarya、1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)である。リンクは師の芸術を、写真はヴァリホジャエフが学んだ環境を知る手がかりとなる。
+アーカイブ写真は、師と若い画家が同じ美術の環境に並んでいる姿を伝える。アフメドフ自身の作品はサザビーズのカタログで見られる。**[For Whom、1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**と**[Girl from Surkhandarya、1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**である。リンクは師の芸術を、写真はヴァリホジャエフが学んだ環境を知る手がかりとなる。
 
 [師ラヒム・アフメドフを祝福するウラジーミル・イワノヴィチ・ブルマキン。画家の個人アーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ edition_date: "2026-10-12"
 
 2002年の《ドゥッピの市場》では、市場生活の観察がすでに独自の絵画構造へと変わっている。白い頭巾や衣服が明るい形として繰り返され、人物は近づき、重なり合い、画面のほぼ全体を埋める。前景の小さな品物や文様の細部は、具体的な売買の場面とのつながりを保つ。同年の《揺りかごの市場》では、大きな赤、暗色、黄色の面によって空間が別の仕方で整理されている。これらは学生時代に始まった主題の、その後の発展を示す作品であり、卒業制作の図版ではない。日常の情景が、新たな色彩と形態の言語を獲得している。
 
-[上に掲載した映像 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[上に掲載した映像 · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [《ドゥッピの市場 — 伝統的な帽子の市場》, 2002. 100 × 120 cm. 図版は画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ edition_date: "2026-10-12"
 
 その歩みはウズベキスタンの美術機関の変化と並行している。芸術アカデミーは1997年1月23日に設立され、同年、ヴァリホジャエフは芸術家連盟ナマンガン支部の会長となった。その後、アカデミーの特別基金を1999～2005年、ウズベキスタン美術基金を1999～2012年に率いた。2017年からの連盟会長職、2023年のアカデミー会員就任、画廊活動、国際プロジェクトは、個人の制作と他の作家のための環境づくりとの接点を示す。これは生涯を文化的背景のなかに置く比較であり、一人の画家がその発展を決めたという主張ではない。
 
-[歴史的背景：ウズベキスタン芸術アカデミー](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[歴史的背景：ウズベキスタン芸術アカデミー](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## タシケント：美術基金での仕事と並行して続く制作
 
@@ -239,9 +241,9 @@ edition_date: "2026-10-12"
 
 2008年の記念展におけるイブラギム・ヴァリホジャエフ。画家のアーカイブより。
 
-制作の多さをよく示すのが、2012年のモンテネグロ滞在である。家族によると、21日間の野外制作で42点の絵画を描き、ウズベキスタンへ持ち帰った。個展「モンテネグロの21日間」は6月28日から7月13日までタシケントで開催された。新しい土地に出会い、現地の風景を数多く描き、その成果を展覧会にまとめる。一つの制作の循環である。
+制作の多さをよく示すのが、2012年の**[モンテネグロ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html>)**滞在である。家族によると、21日間の野外制作で42点の絵画を描き、ウズベキスタンへ持ち帰った。個展「モンテネグロの21日間」は6月28日から7月13日までタシケントで開催された。新しい土地に出会い、現地の風景を数多く描き、その成果を展覧会にまとめる。一つの制作の循環である。
 
-この速さには、絶え間ない観察と絵画上の判断が伴う。下の写真は、村の道、庭、岩、木々の中に画家を置き、同じ実践の別の面を伝える。これらはウズベキスタンでの野外制作を記録したアーカイブ写真であり、モンテネグロ旅行の写真ではない。展覧会、実技指導、国際事業も、自身の創作と並行して続いていく。
+この速さには、絶え間ない観察と絵画上の判断が伴う。下の写真は、村の道、庭、岩、木々の中に画家を置き、同じ実践の別の面を伝える。これらはウズベキスタンでの**[野外制作](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_743.html>)**を記録したアーカイブ写真であり、モンテネグロ旅行の写真ではない。展覧会、実技指導、国際事業も、自身の創作と並行して続いていく。
 
 ### 戸外制作は、見ることから始まる
 
@@ -267,13 +269,13 @@ edition_date: "2026-10-12"
 
 野外で制作する画家を見守る子どもたち。 画家のアーカイブより。
 
-[展覧会準備の映像：ウズベキスタン芸術家連盟会長として活動するイブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[展覧会準備の映像：ウズベキスタン芸術家連盟会長として活動するイブラギム・ヴァリホジャエフ](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [トルコでの野外写生会に参加するイブラギム・ワリホジャエフ。画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 トルコでの野外写生会に参加するイブラギム・ワリホジャエフ。画家のアーカイブより。
 
-[アトリエのディアス・ラフマトフ：出会いから肖像へ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html#iv-dias-rakhmatov>)
+**[アトリエのディアス・ラフマトフ：出会いから肖像へ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html#iv-dias-rakhmatov>)**
 
 ## 色が研究対象となる
 
@@ -281,7 +283,7 @@ edition_date: "2026-10-12"
 
 これは色彩関係の探求である。色彩は画面のどの部分を占めるのか？隣接する色調との境界では何が起こるのか？色彩により大きな自由度を与えつつ、風景の構造をどのように維持できるのか？これらの作品において、赤はイメージの構築において重要な役割を果たし、その感情的な響きを決定づける。
 
-[上に掲載した映像 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上に掲載した映像 · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED：観客の前で描く
 
@@ -289,7 +291,7 @@ edition_date: "2026-10-12"
 
 ウズベキスタン大使館の報告には、31点の作品と来場者向けの制作実演が記されている。写真では手の位置、パレット、生まれつつある絵を比べられる。赤の探究は、隣り合う色調との関係とカンヴァス全体の構成を通じて具体化する。
 
-[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [REDの制作実演を見守る来場者。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -317,7 +319,7 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 画家を動かしてきたのは、関心、好奇心、そして新しいものを発見したいという思いだった。獲得した表現は、次の実験の足場になる。色彩、形態、構図をほかにどう組み立てられるのか。主題や尺度が変われば、何が起こるのか。バザールの連作と並行して、肖像、静物、風景、REDにおける赤の探求、New Viewの抽象画、そして彫刻が展開する。テレビの対話でヴァリホジャエフは、見分けのつく様式を得たことは立ち止まる理由にならないと強調する。新たな作品は、そのつど別の造形的な解決を開くべきなのだ。
 
-[上に掲載した映像 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[上に掲載した映像 · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 2017年4月18日](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [展覧会「New View」の開会式、ウズベキスタン、タシュケント、2024年。ウズベキスタン芸術アカデミー提供の写真。](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -325,13 +327,13 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 ## 新しい場所が作品との出会いを変える
 
-旅は、この探求に新たな視点を与えてくれる。2012年、ヴァリホジャエフはモンテネグロで開催された野外写生会に画家として参加し、そこで制作した作品をタシュケントで展示した。彼の野外写生活動は、トルコ、ウズベキスタン、アゼルバイジャンにも及ぶ。中国のフーランでは彫刻家として参加し、水上彫刻プロジェクトのために構図を金属で表現した。
+旅は、この探求に**[新たな視点](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_1.html>)**を与えてくれる。2012年、ヴァリホジャエフはモンテネグロで開催された野外写生会に画家として参加し、そこで制作した作品をタシュケントで展示した。彼の野外写生活動は、トルコ、ウズベキスタン、アゼルバイジャンにも及ぶ。中国のフーランでは彫刻家として参加し、水上彫刻プロジェクトのために構図を金属で表現した。
 
 2021年のトルコ滞在では、野外制作プログラムへの参加と、イスタンブールのマルテペ文化センターでの個展が並行して行われた。実景を描き、その成果を展示することが、一続きの制作活動を形づくった。
 
 2026年に中国・ハルビンの禹舜美術館で開催された個展「雪上の太陽」は、彼の大型キャンバス作品に新たな次元をもたらした。上の動画は、その空間が与えるインパクトを示している。遠くから見ると全体の構造が分かるが、近づいてよく見ると、はっきりとした色彩の領域が鑑賞者の視界の大部分を占めている。このアーティストの作品は、同美術館のほか、トルコ・イスタンブールのマルテペ市、ロシア・モスクワの個人コレクション、その他多くの公的および私的コレクションに所蔵されている。
 
-[上に掲載した映像 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[上に掲載した映像 · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 以下のアーカイブ写真は、別の展覧会で会話を交わすアーティストを写したものである。撮影日時と場所は不明だが、ハルビンでの展覧会の様子は上に掲載した映像で見ることができる。
 
@@ -345,7 +347,7 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 ギャラリーでの活動や教育活動には、経験を共有したいという強い思いが表れている。2つ目のギャラリー、Valikhodjaev Gallery Houseは2021年8月5日にオープンした。絵画の実演や生徒とのレッスンを通して、プロの制作過程を間近で観察することができる。アーティストがどのように絵を描き始め、部分を変え、そして結果を評価するのかを学ぶことができるのである。ミーティングの企画、野外制作会への参加、そして自身の作品制作は、それぞれ異なる役割であり、それぞれに責任が伴う。
 
-[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 2024年9月10日](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## 現在：創作と美術の環境への責任
 
@@ -390,9 +392,9 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 彼の作品を通して、その探求の旅は続いていく。市場の人々、変化する赤色の響き、抽象的なキャンバスの構築、そして彫刻と公共空間との出会い。これらの多様な動きは、探求という習慣、つまり新たな視点から物事を見つめ、異なる絵画的表現を見出すという習慣によって結びついている。
 
-[上に掲載した映像 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[上に掲載した映像 · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
-現在、ヴァリホジャエフの作品は600点以上が知られ、その大半を絵画が占める。初期の抑制された色調、ナマンガンの市場、肖像、静物、裸体、野外制作の風景、RED、抽象と、時期も探求も多岐にわたる。色、形、構図への新しい問いを通じて、制作は今も続いている。
+現在、ヴァリホジャエフの作品は600点以上が知られ、その大半を絵画が占める。初期の抑制された色調、ナマンガンの市場、肖像、静物、裸体、野外制作の風景、**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)**、抽象と、時期も探求も多岐にわたる。色、形、構図への新しい問いを通じて、制作は今も続いている。
 
 対談の終わりには、具体的な心配に戻る。画家が亡くなったあと、絵でいっぱいの工房はどうなるのか。ヴァリホジャエフは、長年の仕事が込められた作品を相続人が望まなかった例を語る。作品を集め、目録を作り、保管場所を確保して、次の世代が参照できるようにすることを提案する。この問いは彼自身の資料にも関わる。会長、画廊創設者という役割の背後にあるのは、作品の将来への配慮だ。どこに残り、誰が守り、作者の死後もどう見られるのかを考えている。
 
@@ -432,13 +434,13 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 中国での展覧会の準備を語るとき、まず展示室の話から始める。以前その場所を見ており、平面図と寸法を受け取ると、何を持参し、どう配置するかを考えた。広く明るい展示室なら、大きな絵を見せられる。美術上の判断は、次に実際の作業になった。キャンバスを木枠から外し、巻いて貨物機で送った。画家は作品より先に到着し、その到着を待ち、展示の準備に加わった。テレビでの語りでは、絵の大きさから輸送、室内の配置まで、判断の積み重ねによって展覧会が形になっていく。
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 凍結した川にある自身の浮遊彫刻の前に立つイブラギム・ヴァリホジャエフ。中国、ハルビン、2026年2月25日。画家の資料より。
 
-[ハルビンでの展覧会開幕の映像、2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[ハルビンでの展覧会開幕の映像、2026年](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**
 
 ## 経験を伝える：西安の絵画専攻学生に向けた実技講座
 
@@ -446,6 +448,6 @@ REDの制作実演：構図を組み立てる。ウズベキスタン、タシ�
 
 [映像](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**

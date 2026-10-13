@@ -4,7 +4,7 @@ language: "uz"
 theme: 5
 description: "Rahim Ahmedov ustaxonasidan shogirdlar bilan mashg‘ulotlargacha: kuzatish, kompozitsiya va professional tajribani yetkazish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tuval-ortidagi-qarorlar-ibrohim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Rassom ustaxonasida: kuzatish, ta’lim va tajriba
@@ -34,7 +34,7 @@ Ushbu maqolada
 
 Tayyor rasm uning yaratilishiga olib kelgan ko‘plab qarorlarni yashiradi. Ustaxonada bu jarayon yaqqol ko‘rinadi: rassom ranglar munosabatlarini taqqoslaydi, siluetni takomillashtiradi, dog‘ning o‘lchamini o‘zgartiradi va butunlikni qayta ko‘rib chiqish uchun polotnodan bir qadam orqaga chekinadi. Rangtasvir kuzatish va shakl ustida puxta ishlash jarayoni sifatida namoyon bo‘ladi, bunda har bir yangi mo‘yqalam harakati allaqachon chizilgan rasmga bog‘liq bo‘ladi.
 
-Ibrohim Valixo‘jayevning ijodiy amaliyoti o‘qituvchilik bilan chambarchas bog‘liq. 2014-yil 8-avgustdagi arxiv lavhalarida uning ustaxonada talabalar bilan va talabalar uchun ishlayotgani ko‘rsatilgan. 2026-yildagi Ozarbayjondan olingan videolavhalarda plener paytida rasm chizishning ochiq jarayoni tasvirlangan. Ikkala format ham tomoshabin oldida paydo bo‘ladigan professional yechimning guvohi bo‘lish imkoniyatini beradi.
+Ibrohim Valixo‘jayevning ijodiy amaliyoti o‘qituvchilik bilan chambarchas bog‘liq. 2014-yil 8-avgustdagi arxiv lavhalarida uning ustaxonada talabalar bilan va talabalar uchun ishlayotgani ko‘rsatilgan. 2026-yildagi Ozarbayjondan olingan videolavhalarda **[plener](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ochiq-osmon-ostidagi-nigoh-ibrohim.html>)** paytida rasm chizishning ochiq jarayoni tasvirlangan. Ikkala format ham tomoshabin oldida paydo bo‘ladigan professional yechimning guvohi bo‘lish imkoniyatini beradi.
 
 Ustaxona bizga badiiy qiziqishning amaliy ishga qanday aylanishini ko‘rish imkonini beradi. Valixo‘jayev doimiy ravishda rang, shakl va kompozitsiyaga yangi yondashuvlarni izlaydi: Namangan seriyasida u bozor odamlari va hayoti bilan; REDda qizilning imkoniyatlari bilan; va Yangi nigohda abstrakt til bilan qiziqdi. Har bir yo‘nalish o‘ziga xos tajribalar, kuzatuvlar va polotnoda takomillashtirishlarni talab qiladi.
 
@@ -74,11 +74,11 @@ Ustaxonaga ekskursiya tayyor rasmlar haqidagi keyingi tasavvurni boyitadi. Kolor
 
 ## Video
 
-[Talabalar bilan rasm chizish, 2014-yil 8-avgust](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Talabalar bilan rasm chizish, 2014-yil 8-avgust](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[Plenerda rangtasvir ustida ishlash, Ozarbayjon, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[Plenerda rangtasvir ustida ishlash, Ozarbayjon, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Ustaxonada Dias Rahmatov portreti ustida ishlash. Rassom arxivi.
 
 [Videoyozuv](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Mahorat darsi videoyozuvi · Xitoy, Sian, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Tashrif va mahorat darsi haqidagi xabar · Facebook, 2025-yil 8-oktabr](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Ustaxonada: ko‘rgazmadan oldin va keyin
 
@@ -165,7 +165,7 @@ Valixodjayev va ustozi Rahim Ahmedov ko‘rgazmadagi uchrashuvda. Rassom arxivi.
 
 ## RED: tomoshabinlar oldida rangtasvir
 
-Toshkentdagi RED ko‘rgazmasiga hamroh bo‘lgan 2017-yilgi mahorat darsining ikki surati rang haqidagi fikrni amaliyot bilan bog‘laydi. Tashrifchilar molbertga yaqin turib, harakatlar ketma-ketligini kuzatadi. Faqat tezlik emas, siluet, rang dog‘ining ko‘lami va shakllar oralig‘i ham ko‘zga ko‘rinadigan qarorlarga aylanadi.
+Toshkentdagi **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** ko‘rgazmasiga hamroh bo‘lgan 2017-yilgi mahorat darsining ikki surati rang haqidagi fikrni amaliyot bilan bog‘laydi. Tashrifchilar molbertga yaqin turib, harakatlar ketma-ketligini kuzatadi. Faqat tezlik emas, siluet, rang dog‘ining ko‘lami va shakllar oralig‘i ham ko‘zga ko‘rinadigan qarorlarga aylanadi.
 
 O‘zbekiston elchixonasining ko‘rgazma haqidagi xabarida 31 asar va tashrifchilar uchun mahorat darsi qayd etilgan. Suratlar qo‘l holatini, palitrani va yuzaga kelayotgan tasvirni qiyoslash imkonini beradi. Qizil rang tadqiqi uning qo‘shni tuslar bilan aloqasi va butun mato yuzasining tashkil etilishida namoyon bo‘ladi.
 
@@ -177,4 +177,4 @@ RED mahorat darsi: tashrifchilar rassomning ishini kuzatmoqda, O‘zbekiston, To
 
 RED mahorat darsi: kompozitsiya ustida ishlash, O‘zbekiston, Toshkent, 2017. Rassom arxivi.
 
-[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

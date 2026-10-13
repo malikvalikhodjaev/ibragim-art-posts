@@ -4,12 +4,14 @@ language: "uz"
 theme: 9
 description: "«Qizil otlar», «Miraki» va RED: qizil rang, kontur va katta rang massalari kartinani qanday quradi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # RED: qizil rang Valixo‘jayev kartinalarini qanday tashkil etadi
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)
+
+[Videoyozuv](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
 
 RED · Rang va shakl
 
@@ -101,7 +103,7 @@ Asarlarni o‘rganayotganda, umumiy manzaradan tafsilotlarga o‘tish foydalidir
 
 ## Video
 
-["Yangi nigoh" ko‘rgazmasining videoyozuvi](<https://www.youtube.com/watch?v=Z4kxe7w-teY>) rassomning rang, shakl va masshtabni o‘rganishi haqida qo‘shimcha ma'lumot beradi. Yuqorida taqdim etilgan reproduksiyalar RED mavzusi bilan bog‘liq; video rassomning ishining boshqa yo‘nalishini ochib beradi.
+**["Yangi nigoh" ko‘rgazmasining videoyozuvi](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)** rassomning rang, shakl va masshtabni o‘rganishi haqida qo‘shimcha ma'lumot beradi. Yuqorida taqdim etilgan reproduksiyalar RED mavzusi bilan bog‘liq; video rassomning ishining boshqa yo‘nalishini ochib beradi.
 
 ## Rassom haqida
 
@@ -155,7 +157,7 @@ RED mahorat darsi: tashrifchilar rassomning ishini kuzatmoqda, O‘zbekiston, To
 
 RED mahorat darsi: kompozitsiya ustida ishlash, O‘zbekiston, Toshkent, 2017. Rassom arxivi.
 
-[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED va mahorat darsi: O‘zbekiston elchixonasi xabari, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 ## Ustaxonada: ko‘rgazmadan oldin va keyin
 

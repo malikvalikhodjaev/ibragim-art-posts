@@ -4,12 +4,14 @@ language: "tr"
 theme: 17
 description: "Dias, Lena ve Sasha: Valikhodjaev’in üç portresinde yüz, duruş, giysi ve çevre insan varlığını farklı biçimlerde aktarır."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Yüz, duruş ve mekân: Dias, Lena ve Sasha’nın portreleri
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 Figür ve Resimsel Mekân
 
@@ -43,7 +45,7 @@ Resmin alt yarısının önemli bir bölümünü omuzlar kaplıyor. Giysilerin k
 
 ## Dias Rakhmatov atölyede: karşılaşmadan portreye
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>), Özbek tiyatro ve sinema oyuncusuydu. Bu arşiv fotoğrafları onu Valikhodjaev’in atölyesinde ve portresinin yapım sürecinde gösterir. Tamamlanmış resmin yanında modelin varlığı, şövale karşısındaki konumu ve ressamın yüze ve poza gösterdiği dikkat görünür olur.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)**, Özbek tiyatro ve sinema oyuncusuydu. Bu arşiv fotoğrafları onu Valikhodjaev’in atölyesinde ve portresinin yapım sürecinde gösterir. Tamamlanmış resmin yanında modelin varlığı, şövale karşısındaki konumu ve ressamın yüze ve poza gösterdiği dikkat görünür olur.
 
 [İbragim Valikhodjaev ve oyuncu Dias Rakhmatov atölyede. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

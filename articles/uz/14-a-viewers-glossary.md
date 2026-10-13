@@ -4,7 +4,7 @@ language: "uz"
 theme: 14
 description: "«Gulchehra portreti» va bozor panoramalari orqali syujet, siluet, kompozitsiya, kolorit, faktura va miqyosni tushunish."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/tomoshabin-lugati-ibrohim-valixodjayev.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # «Gulchehra portreti»dan boshlab: rangtasvirni tushunishning o‘nta kaliti
@@ -61,7 +61,7 @@ Siluet - bu figura yoki buyumning umumiy konturi. Oq ro‘molni uning yuzini ko�
 
 ## 4. Kompozitsiya
 
-Kompozitsiya asar qismlarini bir butunga bog‘laydi. "Namangan syuitasi"da guruhlarning joylashuvi, figuralarning bir-birining ustiga chiqishi va gorizontal format bo‘ylab harakatlanish muhimdir. Har bir personaj ma'lum bir joyni egallaydi va takroriy yorug‘lik va rang shakllari uzoq hududlarni bog‘laydi. Ushbu tartib rasm orqali qanday yo‘lni ko‘rsatishini o‘zingizdan so‘rang.
+Kompozitsiya asar qismlarini bir butunga bog‘laydi. "**[Namangan syuitasi](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html>)**"da guruhlarning joylashuvi, figuralarning bir-birining ustiga chiqishi va gorizontal format bo‘ylab harakatlanish muhimdir. Har bir personaj ma'lum bir joyni egallaydi va takroriy yorug‘lik va rang shakllari uzoq hududlarni bog‘laydi. Ushbu tartib rasm orqali qanday yo‘lni ko‘rsatishini o‘zingizdan so‘rang.
 
 [Ibrohim Valixo‘jayev, “Namangan syuitasi”. Tarkibi va gorizontal formati.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Ritm takrorlash va o‘zgaruvchanlikdan kelib chiqadi. Oq ro‘mollar turli bala
 
 ## 6. Kolorit
 
-Kolorit - bu rasmdagi ranglar o‘rtasidagi munosabatlar tizimi. "Miraki"da qizil maydon, ko‘k yo‘l, yorug‘ devor va qorong‘u daraxtlar o‘zaro bog‘liq sifatida qabul qilinadi. Har bir qismning rangi, o‘lchami va yaqinligi muhim ahamiyatga ega. RED turkumida qizil rangni o‘rganish bitta dominant rang qancha maqsadlarni ifodalashi mumkinligini ko‘rsatadi.
+Kolorit - bu rasmdagi ranglar o‘rtasidagi munosabatlar tizimi. "Miraki"da qizil maydon, ko‘k yo‘l, yorug‘ devor va qorong‘u daraxtlar o‘zaro bog‘liq sifatida qabul qilinadi. Har bir qismning rangi, o‘lchami va yaqinligi muhim ahamiyatga ega. **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida qizil rangni o‘rganish bitta dominant rang qancha maqsadlarni ifodalashi mumkinligini ko‘rsatadi.
 
 [Ibrohim Valixo‘jayev, "Miraki." Kolorit katta rang maydonlari o‘rtasidagi munosabatlarga asoslangan.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Lug‘at bizni asarga qaytarganda foydali bo‘ladi. Ikkita tushunchani tanlang 
 
 ## Videoni tomosha qiling
 
-["Yangi nigoh": Ko‘rgazma maydonida rang va geometriya](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Yangi nigoh": Ko‘rgazma maydonida rang va geometriya](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

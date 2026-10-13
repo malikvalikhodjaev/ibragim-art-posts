@@ -4,7 +4,7 @@ language: "tr"
 theme: 5
 description: "Üstat Rahim Ahmedov’un atölyesinden öğrencilerle çalışmaya: gözlem, kompozisyon ve resim deneyiminin aktarılması."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sanatcnn-atolyesinde-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Atölyede görmek, öğrenmek ve resim yapmak
@@ -34,9 +34,9 @@ Bu makalede
 
 Tamamlanmış bir resim, ortaya çıkmasını sağlayan birçok kararı gizler. Stüdyoda bu süreç görülebilir: sanatçı renk ilişkilerini karşılaştırır, silüeti iyileştirir, lekenin boyutunu değiştirir ve bütünü yeniden incelemek için tuvalden uzaklaşır. Resim, her yeni fırça darbesinin daha önce boyanmış olana bağlı olduğu, dikkatli bir gözlem ve biçim çalışması olarak kendini gösterir.
 
-İbrahim Valikhodjaev'in yaratıcı pratiği, öğretimle iç içe geçmiştir. 8 Ağustos 2014 tarihli arşiv görüntüleri, onu öğrencilerle birlikte ve onlar için bir stüdyoda çalışırken gösteriyor. 2026 yılına ait Azerbaycan'dan video görüntüleri ise açık havada resim yapma sürecini yakalıyor. Her iki format da izleyicinin önünde profesyonel bir çözümün ortaya çıkışına tanık olma fırsatı sunuyor.
+İbrahim Valikhodjaev'in yaratıcı pratiği, öğretimle iç içe geçmiştir. 8 Ağustos 2014 tarihli arşiv görüntüleri, onu öğrencilerle birlikte ve onlar için bir stüdyoda çalışırken gösteriyor. 2026 yılına ait Azerbaycan'dan video görüntüleri ise **[açık havada resim](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html>)** yapma sürecini yakalıyor. Her iki format da izleyicinin önünde profesyonel bir çözümün ortaya çıkışına tanık olma fırsatı sunuyor.
 
-Stüdyo, sanatsal merakın pratik çalışmaya nasıl dönüştüğünü görmemizi sağlıyor. Valikhodjaev sürekli olarak renk, biçim ve kompozisyona yeni yaklaşımlar arıyor: Namangan serisinde çarşının insanları ve yaşamıyla, RED serisinde kırmızının olanaklarıyla ve New View serisinde soyut dille ilgileniyor. Her bir yaklaşım, tuval üzerinde kendine özgü deneyler, gözlemler ve incelikler gerektiriyor.
+Stüdyo, sanatsal merakın pratik çalışmaya nasıl dönüştüğünü görmemizi sağlıyor. Valikhodjaev sürekli olarak renk, biçim ve kompozisyona yeni yaklaşımlar arıyor: Namangan serisinde çarşının insanları ve yaşamıyla, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)** serisinde kırmızının olanaklarıyla ve New View serisinde soyut dille ilgileniyor. Her bir yaklaşım, tuval üzerinde kendine özgü deneyler, gözlemler ve incelikler gerektiriyor.
 
 ## Üstat Rahim Ahmedov'un Atölyesi
 
@@ -74,11 +74,11 @@ Stüdyo turu, tamamlanmış resimlerin algılanışını zenginleştiriyor. Renk
 
 ## Video
 
-[Öğrencilerle resim yapma, 8 Ağustos 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Öğrencilerle resim yapma, 8 Ağustos 2014](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[İzleyici önünde resim yapma süreci, Azerbaycan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[İzleyici önünde resim yapma süreci, Azerbaycan, 2026](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [Video kaydı](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Valikhodjaev, Eylül 2025’te Çin’deki Xi’an Güzel Sanatlar Akademisi’n
 
 [Video kaydı](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Resim atölyesinin video kaydı · Çin, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Ziyaret ve resim atölyesi hakkında haber · Facebook, 8 Ekim 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## Atölyede, sergiden önce ve sonra
 
@@ -177,4 +177,4 @@ RED atölyesi: izleyiciler sanatçının çalışmasını takip ediyor, Özbekis
 
 RED atölyesi: kompozisyonun oluşumu, Özbekistan, Taşkent, 2017. Sanatçının arşivi.
 
-[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED ve uygulamalı çalışma: Özbekistan Büyükelçiliği, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**

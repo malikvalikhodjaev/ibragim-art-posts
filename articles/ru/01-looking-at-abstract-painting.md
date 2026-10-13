@@ -4,7 +4,7 @@ language: "ru"
 theme: 1
 description: "Абстрактная живопись Ибрагима Валиходжаева: цвет, ритм и масштаб на примере выставки «Новый взгляд» в Ташкенте."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_541.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Как смотреть абстрактную живопись: картины Валиходжаева
@@ -33,7 +33,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 ## Видео
 
-[Посмотреть выставочный маршрут «Нового взгляда»](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[Посмотреть выставочный маршрут «Нового взгляда»](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Видеозапись](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

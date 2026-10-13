@@ -4,7 +4,7 @@ language: "es"
 theme: 14
 description: "Diez claves para observar un cuadro: tema, motivo, silueta, composición, ritmo, colorido, contraste, textura, escala y abstracción."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-vocabulario-de-la-mirada-diez-claves.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # El vocabulario de la mirada: diez claves para entender la pintura
@@ -61,7 +61,7 @@ Una silueta es el contorno general de una figura u objeto. Una pañuelo blanco s
 
 ## 4. Composición
 
-La composición conecta las partes de una obra para formar un todo. En «Suite de Namangan», la disposición de los grupos, la superposición de figuras y el movimiento a lo largo del formato horizontal son importantes. Cada personaje ocupa un espacio específico, y la repetición de formas claras y coloreadas conecta áreas distantes. Pregúntese qué recorrido a través de la pintura sugiere esta disposición.
+La composición conecta las partes de una obra para formar un todo. En «**[Suite de Namangan](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html>)**», la disposición de los grupos, la superposición de figuras y el movimiento a lo largo del formato horizontal son importantes. Cada personaje ocupa un espacio específico, y la repetición de formas claras y coloreadas conecta áreas distantes. Pregúntese qué recorrido a través de la pintura sugiere esta disposición.
 
 [Ibragim Valikhodjaev, "Suite Namangán". Composición y formato horizontal.](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ El ritmo surge de la repetición y la variación. Las pañuelos blancos reaparec
 
 ## 6. Colorido
 
-El colorido es el sistema de relaciones entre los colores en una pintura. En «Miraki», el campo rojo, el camino azul, la pared clara y los árboles oscuros se perciben como interconectados. El tono, el tamaño y la proximidad de cada sección son significativos. La exploración del rojo en «RED» demuestra la cantidad de propósitos que puede transmitir un solo color dominante.
+El colorido es el sistema de relaciones entre los colores en una pintura. En «Miraki», el campo rojo, el camino azul, la pared clara y los árboles oscuros se perciben como interconectados. El tono, el tamaño y la proximidad de cada sección son significativos. La exploración del rojo en «**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)**» demuestra la cantidad de propósitos que puede transmitir un solo color dominante.
 
 [Ibragim Valikhodjaev, "Miraki". La paleta de colores se basa en las relaciones entre grandes áreas de color.](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Un diccionario resulta útil cuando nos remite a la obra. Elija dos conceptos y 
 
 ## Ver el vídeo
 
-["Nueva mirada (New View)": Color y geometría en el espacio expositivo.](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**["Nueva mirada (New View)": Color y geometría en el espacio expositivo.](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [Vídeo](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

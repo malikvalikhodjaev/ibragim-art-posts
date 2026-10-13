@@ -4,7 +4,7 @@ language: "de"
 theme: 18
 description: "Margeriten und Blumensträuße von 2008: Wie Valikhodjaev aus Blüten, Gefäßen und freien Farbflächen einen bildnerischen Rhythmus schafft."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/mehr-als-ein-blumenstrau-blumen-keramik.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Mehr als ein Blumenstrauß: Blumen, Keramik und Pinselspuren bei Valikhodjaev
@@ -80,7 +80,7 @@ Der schwarze Tisch bildet die untere Stütze. Besonders auffällig sind die hell
 
 ## Stillleben im Kontext der umfassenderen Erkundungen des Künstlers
 
-Valikhodjaev widmet sich verschiedenen künstlerischen Herausforderungen: der Beobachtung von Menschen in der Serie „Namangan“, der Erforschung der Farbe Rot in „RED“ und der Entwicklung autonomer Formen in „New View“. In seinem Blumenstillleben untersucht er anhand von Textur, Kontrast und Pinselstrich eine Reihe von Fragestellungen. Dieses vertraute Thema bietet einzigartige Möglichkeiten zum Experimentieren.
+Valikhodjaev widmet sich verschiedenen künstlerischen Herausforderungen: der Beobachtung von Menschen in der Serie „Namangan“, der Erforschung der Farbe Rot in „**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)**“ und der Entwicklung autonomer Formen in „New View“. In seinem Blumenstillleben untersucht er anhand von Textur, Kontrast und Pinselstrich eine Reihe von Fragestellungen. Dieses vertraute Thema bietet einzigartige Möglichkeiten zum Experimentieren.
 
 Vergleichen Sie die Gesamtansicht mit einem Blumenfragment und betrachten Sie anschließend die Verzierungen der Vase. Die Rückkehr zur Gesamtansicht ermöglicht es Ihnen, den Zusammenhang zwischen den beiden Rhythmen deutlicher zu erkennen. Der Blumenstrauß, die Vase und die Umgebung gewinnen durch ihre Malweise und ihre Anordnung auf der Bildoberfläche an Ausdruckskraft.
 

@@ -4,7 +4,7 @@ language: "ja"
 theme: 5
 description: "巨匠ラヒム・アフメドフのアトリエから自身の指導へ。ヴァリホジャエフの観察、構図、制作過程に触れる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_9.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # アトリエの内側へ――見ること、学ぶこと、描くこと
@@ -74,11 +74,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## ビデオ
 
-[生徒たちとの絵画教室、2014年8月8日](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[生徒たちとの絵画教室、2014年8月8日](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [映像](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
-[公開制作の様子、アゼルバイジャン、2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[公開制作の様子、アゼルバイジャン、2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [映像](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 
@@ -135,9 +135,9 @@ Valikhodjaev Gallery House提供の編集資料。画像出典はキャプショ
 
 [映像](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[マスタークラスの映像 · 中国・西安、2025年](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[訪問とマスタークラスの報告 · Facebook、2025年10月8日](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**
 
 ## アトリエで：展覧会の前と後
 
@@ -177,4 +177,4 @@ REDの制作実演を見守る来場者。ウズベキスタン、タシケン�
 
 REDの制作実演：構図を組み立てる。ウズベキスタン、タシケント、2017年。 画家のアーカイブより。
 
-[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)
+**[REDと制作実演：ウズベキスタン大使館の報告、2017年](<https://www.uzbekembassy.in/shades-of-red/>)**

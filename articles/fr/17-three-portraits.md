@@ -4,12 +4,14 @@ language: "fr"
 theme: 17
 description: "Dias Rakhmatov, Lena et Sasha : trois portraits, trois manières de relier un visage, une pose et l’espace environnant."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dun-portrait-la-presence.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Visage, pose et espace : trois portraits de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dun-portrait-la-presence.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dun-portrait-la-presence.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 La figure et l'espace pictural
 
@@ -43,7 +45,7 @@ Les épaules occupent une part importante de la moitié inférieure du tableau. 
 
 ## Dias Rakhmatov à l’atelier : de la rencontre au portrait
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) était un acteur ouzbek de théâtre et de cinéma. Ces photographies d’archives le montrent dans l’atelier de Valikhodjaev et documentent l’élaboration de son portrait. À côté du tableau achevé, elles révèlent la présence du modèle, sa position devant le chevalet et l’attention du peintre au visage et à la pose.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)** était un acteur ouzbek de théâtre et de cinéma. Ces photographies d’archives le montrent dans l’atelier de Valikhodjaev et documentent l’élaboration de son portrait. À côté du tableau achevé, elles révèlent la présence du modèle, sa position devant le chevalet et l’attention du peintre au visage et à la pose.
 
 [Ibragim Valikhodjaev et l’acteur Dias Rakhmatov dans l’atelier. Archives de l’artiste.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

@@ -4,7 +4,7 @@ language: "uz"
 theme: 4
 description: "Dubaydagi Mondoir galereyasida «Sukutda», 2024: maishiy motivlar, ifodali ranglar va turli davrlarga oid asarlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/kundalik-hayotning-ranglari-ibrohim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Kundalik hayot va rang ifodasi: Dubaydagi «Sukutda» ko‘rgazmasi
@@ -30,7 +30,7 @@ Kundalik manzara rassom o‘zining ichki tuzilishini: figuralarning joylashuvini
 
 2024-yilda Birlashgan Arab Amirliklarining Dubay shahridagi Mondoir galereyasida "Sukutda" nomli shaxsiy ko‘rgazma bo‘lib o‘tdi. Zara nomi bilan ham tanilgan Zahra Habibizad kuratorlik qilgan ko‘rgazma Valixo‘jayevning rasmlarini xalqaro auditoriyaga taqdim etdi va kundalik o‘zbek hayoti mavzulari insoniyat, xotira va badiiy til haqida kengroq suhbatni qanday shakllantirishini ko‘rish imkonini berdi.
 
-Dubay ko‘rgazmasini turli badiiy yo‘nalishlarning uchrashuvi sifatida ham ko‘rish mumkin. Valixo‘jayev o‘zining Namangan turkum asarlarida bozor, odamlar va kundalik hayotga; RED turkumida qizilning ifodali salohiyatiga; abstraksiyada esa shakllar va rang tekisliklarining mustaqil munosabatlariga maftun bo‘lgan. Bu qiziqishlar bizga uning amaliyotining kengligini va rangtasvirda yangi yechimlarni topishga doimiy intilishini tushunishga yordam beradi.
+Dubay ko‘rgazmasini turli badiiy yo‘nalishlarning uchrashuvi sifatida ham ko‘rish mumkin. Valixo‘jayev o‘zining Namangan turkum asarlarida bozor, odamlar va kundalik hayotga; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumida qizilning ifodali salohiyatiga; abstraksiyada esa shakllar va rang tekisliklarining mustaqil munosabatlariga maftun bo‘lgan. Bu qiziqishlar bizga uning amaliyotining kengligini va rangtasvirda yangi yechimlarni topishga doimiy intilishini tushunishga yordam beradi.
 
 ## Kundalik hayot rangtasvir mavzusi sifatida
 
@@ -86,7 +86,7 @@ Ko‘rgazma haqidagi video taqdimot va nashrlar uning ommaviy tarixini saqlab qo
 
 ## Video
 
-["Sukutda" ko‘rgazmasining video taqdimoti](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**["Sukutda" ko‘rgazmasining video taqdimoti](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

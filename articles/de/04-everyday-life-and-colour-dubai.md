@@ -4,7 +4,7 @@ language: "de"
 theme: 4
 description: "In Silence in Dubai, 2024: Valikhodjaevs Malerei, Alltagsfiguren und kulturelle Erinnerung in einer von Zahra Habibizad kuratierten Schau."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-farben-des-alltags-valikhodjaev-in.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Die Farben des Alltags: Valikhodjaev in Dubai
@@ -30,7 +30,7 @@ Eine Alltagsszene wird zum Gemälde, wenn der Künstler ihre innere Struktur ent
 
 Im Jahr 2024 fand in der Mondoir Gallery in Dubai, Vereinigte Arabische Emirate, die Einzelausstellung „In Silence“ statt. Kuratiert von Zahra Habibizad, auch bekannt als Zara, präsentierte die Ausstellung Valikhodjaevs Gemälde einem internationalen Publikum und gewährte Einblicke, wie Themen des usbekischen Alltagslebens eine breitere Auseinandersetzung mit Menschlichkeit, Erinnerung und künstlerischer Sprache prägen.
 
-Die Ausstellung in Dubai kann auch als Zusammentreffen verschiedener künstlerischer Richtungen betrachtet werden. In seiner Namangan-Serie war Valikhodjaev fasziniert vom Basar, den Menschen und dem Alltag; in RED vom Ausdruckspotenzial der Farbe Rot; und in der Abstraktion von den unabhängigen Beziehungen zwischen Formen und Farbflächen. Diese Interessen helfen uns, die Bandbreite seines Schaffens und sein ständiges Bestreben nach neuen Ausdrucksmöglichkeiten in der Malerei zu verstehen.
+Die Ausstellung in Dubai kann auch als Zusammentreffen verschiedener künstlerischer Richtungen betrachtet werden. In seiner Namangan-Serie war Valikhodjaev fasziniert vom Basar, den Menschen und dem Alltag; in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)** vom Ausdruckspotenzial der Farbe Rot; und in der Abstraktion von den unabhängigen Beziehungen zwischen Formen und Farbflächen. Diese Interessen helfen uns, die Bandbreite seines Schaffens und sein ständiges Bestreben nach neuen Ausdrucksmöglichkeiten in der Malerei zu verstehen.
 
 ## Der Alltag als Thema der Malerei
 
@@ -86,7 +86,7 @@ Die Videopräsentation und die Begleitpublikationen zur Ausstellung bewahren der
 
 ## Video
 
-[Videopräsentation der Ausstellung „In Silence“](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[Videopräsentation der Ausstellung „In Silence“](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

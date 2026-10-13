@@ -4,7 +4,7 @@ language: "it"
 theme: 15
 description: "Le opere di Valikhodjaev in musei, gallerie e collezioni private: Harbin, Tashkent, Istanbul e Mosca."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/dopo-la-mostra-ibragim-valikhodjaev-nei.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Dopo la mostra: Ibragim Valikhodjaev nei musei e nelle collezioni
@@ -70,11 +70,11 @@ Ibragim Valikhodjaev, "Suite di Namangan". Riproduzione dall'archivio dell'artis
 
 Informazioni accurate sul titolo, l'artista, il materiale e la storia di un'opera sono fondamentali per la sua conservazione futura. Anche i documenti e le immagini che ne consentono il riconoscimento in nuove pubblicazioni sono importanti, oltre al dipinto stesso. In questo blog, le riproduzioni d'archivio sono accompagnate da titoli e i dettagli sono collegati alle immagini complete.
 
-Una biografia, note di presentazione della mostra e fotografie delle sue opere contribuiscono a collegare le diverse sfaccettature della pratica artistica di Valikhodjaev. Nella serie "Bazar" si è interessato alle persone e alla vita quotidiana; in "RED", alle possibilità del colore rosso; in "Nuovo sguardo (New View)", all'astrazione. Musei e collezioni conservano i risultati di questa esplorazione, e nuovi spettatori la continuano con la loro attenzione alle sue opere.
+Una biografia, note di presentazione della mostra e fotografie delle sue opere contribuiscono a collegare le diverse sfaccettature della pratica artistica di Valikhodjaev. Nella serie "Bazar" si è interessato alle persone e alla vita quotidiana; in "**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-come-il-rosso-costruisce-un-dipinto.html>)**", alle possibilità del colore rosso; in "Nuovo sguardo (New View)", all'astrazione. Musei e collezioni conservano i risultati di questa esplorazione, e nuovi spettatori la continuano con la loro attenzione alle sue opere.
 
 ## Video da guardare
 
-[Inaugurazione della mostra personale "Sole sulla neve", Harbin, Cina, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Inaugurazione della mostra personale "Sole sulla neve", Harbin, Cina, 2026](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Video](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
 

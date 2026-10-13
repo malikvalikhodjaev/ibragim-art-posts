@@ -4,7 +4,7 @@ language: "en"
 theme: 18
 description: "Bouquets, Daisies in a Ceramic Vase and roses: flowers, painted pottery, brushwork and the changing rhythms of Valikhodjaev’s still lifes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/more-than-bouquet-flowers-ceramics-and.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # More Than a Bouquet: Flowers, Ceramics and Brushwork by Valikhodjaev
@@ -80,7 +80,7 @@ The black table creates the lower support. The light vase and a few yellow touch
 
 ## Still Life within the Artist’s Wider Exploration
 
-Valikhodjaev addresses various artistic challenges: observing people in the Namangan series, exploring red in RED, and autonomous forms in "New View." In his floral still life, a range of questions is explored through texture, contrast, and the nature of brushstrokes. This familiar theme offers unique opportunities for experimentation.
+Valikhodjaev addresses various artistic challenges: observing people in the Namangan series, exploring red in **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)**, and autonomous forms in "New View." In his floral still life, a range of questions is explored through texture, contrast, and the nature of brushstrokes. This familiar theme offers unique opportunities for experimentation.
 
 Compare the overall view with a fragment of flowers, then examine the vase's ornamentation. Returning to the larger view will allow you to more clearly perceive the connection between the two rhythms. The bouquet, the vase, and the surroundings gain expressiveness through the way they are painted and connected on the painting's surface.
 

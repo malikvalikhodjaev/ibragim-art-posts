@@ -4,7 +4,7 @@ language: "zh-Hant"
 theme: 8
 description: "土耳其、烏茲別克、亞塞拜然與蒙特內哥羅的戶外寫生：參與創作、觀察光線與專業交流。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_81.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 面對實景作畫：戶外寫生與藝術交流
@@ -30,11 +30,11 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 影片
 
-[伊斯坦堡馬爾特佩戶外寫生，2023 年](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
+**[伊斯坦堡馬爾特佩戶外寫生，2023 年](<https://www.youtube.com/watch?v=Zz74PebEWM0>)**
 
 [影片](<https://www.youtube.com/watch?v=Zz74PebEWM0>)
 
-[開放式繪畫過程，亞塞拜然，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
+**[開放式繪畫過程，亞塞拜然，2026年](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)**
 
 [影片](<https://www.youtube.com/watch?v=3TEnu2Z93ZQ>)
 

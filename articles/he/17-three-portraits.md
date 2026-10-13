@@ -4,12 +4,14 @@ language: "he"
 theme: 17
 description: "דיאס רחמטוב, לנה וסשה: פנים, תנוחה, לבוש וחלל בשלושה דיוקנאות משנים שונות."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # פנים, תנוחה ומרחב: שלושה דיוקנאות של וליכודג'ייב
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_677.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html>)
+
+[סרטון](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 <div dir="rtl" lang="he">
 
@@ -45,7 +47,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## דיאס רחמטוב בסטודיו: מהמפגש לדיוקן
 
-[דיאס רחמטוב](<https://uzbekkino.glob.uz/person/109>) היה שחקן תיאטרון וקולנוע אוזבקי. תצלומי הארכיון מציגים אותו בסטודיו של וליחודג'אייב ומתעדים את העבודה על דיוקנו. לצד הציור המוגמר, הם מאפשרים לראות את נוכחותו של היושב, את מיקומו מול כן הציור ואת תשומת לבו של הצייר לפנים ולתנוחה.
+**[דיאס רחמטוב](<https://uzbekkino.glob.uz/person/109>)** היה שחקן תיאטרון וקולנוע אוזבקי. תצלומי הארכיון מציגים אותו בסטודיו של וליחודג'אייב ומתעדים את העבודה על דיוקנו. לצד הציור המוגמר, הם מאפשרים לראות את נוכחותו של היושב, את מיקומו מול כן הציור ואת תשומת לבו של הצייר לפנים ולתנוחה.
 
 [איברגים וליחודג'אייב והשחקן דיאס רחמטוב בסטודיו. ארכיון האמן.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

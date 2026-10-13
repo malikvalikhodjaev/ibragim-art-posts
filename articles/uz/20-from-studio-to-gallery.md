@@ -4,7 +4,7 @@ language: "uz"
 theme: 20
 description: "Valixo‘jayevning rassom, ustoz, kurator va galereya asoschisi sifatidagi faoliyati: asardan tomoshabin bilan uchrashuvgacha."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ustaxonadan-galereyagacha-ibrohim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Ustaxonadan galereyagacha: ijodkor uchrashuv makonini yaratadi
@@ -40,7 +40,7 @@ Valixo‘jayev Valikhodjaev Gallery House galereyasiga asos solgan; ikkinchi gal
 
 ## Shaxsiy izlanish tomoshabin bilan uchrashadi
 
-Ustaxonada rassom rang, shakl va kompozitsiya o‘rtasidagi bog‘liqlikni ko‘rib chiqadi. Namangan seriyasi Valixo‘jayevning bozor odamlari va kundalik hayotiga bo‘lgan qiziqishidan; RED turkumi uning qizil rangni o‘rganishidan; va Yangi nigoh abstraksiya imkoniyatlaridan kelib chiqadi. Har bir yo‘nalish aniq badiiy maqsadlardan rivojlanadi.
+Ustaxonada rassom rang, shakl va kompozitsiya o‘rtasidagi bog‘liqlikni ko‘rib chiqadi. Namangan seriyasi Valixo‘jayevning bozor odamlari va kundalik hayotiga bo‘lgan qiziqishidan; **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)** turkumi uning qizil rangni o‘rganishidan; va Yangi nigoh abstraksiya imkoniyatlaridan kelib chiqadi. Har bir yo‘nalish aniq badiiy maqsadlardan rivojlanadi.
 
 Ko‘rgazmada bu qarorlar tomoshabin uchun tajribaga aylanadi. Masofa, yorug‘lik va asarlarning yonma-yon joylashishi o‘zgaradi; individual asarlarni taqqoslash mumkin. Galereya muhiti bizga butun marshrutdan bitta rasmga qaytish orqali badiiy izlanish jarayonini ko‘rishga yordam beradi.
 
@@ -74,7 +74,7 @@ Valixo‘jayev o‘zining ko‘p qirrali professional rollari ortida rang, shakl
 
 ## Videoni tomosha qiling
 
-[Talabalar bilan ishlash, 2014-yil 8-avgust.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
+**[Talabalar bilan ishlash, 2014-yil 8-avgust.](<https://www.youtube.com/watch?v=hefrpyXHNXk>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=hefrpyXHNXk>)
 
@@ -151,11 +151,11 @@ Ikki arxiv videoyozuvi rassomning ko‘rgazmani tayyorlash va ko‘zdan kechiris
 
 [Videoyozuv](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
 
-[Ko‘rgazmaga tayyorgarlik — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Ko‘rgazmaga tayyorgarlik — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Videoyozuv](<https://www.youtube.com/watch?v=VkvPfztejWY>)
 
-[Ekspozitsiyani ko‘zdan kechirish — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=VkvPfztejWY>)
+**[Ekspozitsiyani ko‘zdan kechirish — Ibrohim Valixodjayev O‘zbekiston Rassomlar uyushmasi raisi sifatida](<https://www.youtube.com/watch?v=VkvPfztejWY>)**
 
 ## Asar va ko‘rgazma makoni
 

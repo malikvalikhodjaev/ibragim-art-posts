@@ -4,12 +4,14 @@ language: "en"
 theme: 17
 description: "Portraits of Dias Rakhmatov, Lena and Sasha: how Valikhodjaev constructs an image through colour, pose and the surrounding space."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Face, Pose and Space: Three Portraits by Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html>)
+
+[Video](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 The Figure and Pictorial Space
 
@@ -43,7 +45,7 @@ The shoulders occupy a significant portion of the lower half of the painting. Th
 
 ## Dias Rakhmatov in the studio: from encounter to portrait
 
-[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>) was an Uzbek stage and screen actor. These archive photographs show him in Valikhodjaev’s studio and the portrait taking shape. Beside the finished painting, they reveal the sitter’s presence, his position before the easel and the artist’s attention to face and pose.
+**[Dias Rakhmatov](<https://uzbekkino.glob.uz/person/109>)** was an Uzbek stage and screen actor. These archive photographs show him in Valikhodjaev’s studio and the portrait taking shape. Beside the finished painting, they reveal the sitter’s presence, his position before the easel and the artist’s attention to face and pose.
 
 [Ibragim Valikhodjaev and actor Dias Rakhmatov in the studio. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

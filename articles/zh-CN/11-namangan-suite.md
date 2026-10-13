@@ -4,12 +4,14 @@ language: "zh-CN"
 theme: 11
 description: "《纳曼干组曲》中的集市生活：人物姿态、白色头巾、刺绣小帽与横幅构图。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_844.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 《纳曼干组曲》：一幅全景画中的日常生活
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_844.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_844.html>)
+
+[视频](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 一幅画的故事
 
@@ -84,7 +86,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 仔细观察《纳曼干组曲》便能领略其精妙之处。我们辨认出画中的人物和物品，然后注意到它们在画面上的排列是多么精准。日常动作被清晰地勾勒出来；服饰的色彩将人物联系在一起；一条重复出现的围巾则将画布上相距甚远的部分连接起来。
 
-集市主题让瓦利霍贾耶夫有机会探索人类环境，并不断寻求不同的构图方案。后来，他对新挑战的兴趣体现在他对红色（RED 系列）和抽象（《新视角》展览中的抽象作品）的探索中。《纳曼干组曲》展现了这一探索的支柱之一：对生活场景的关注以及赋予其连贯艺术意象的能力。
+集市主题让瓦利霍贾耶夫有机会探索人类环境，并不断寻求不同的构图方案。后来，他对新挑战的兴趣体现在他对红色（**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_816.html>)** 系列）和抽象（《新视角》展览中的抽象作品）的探索中。《纳曼干组曲》展现了这一探索的支柱之一：对生活场景的关注以及赋予其连贯艺术意象的能力。
 
 ## 日常场景如何保存多种声音
 

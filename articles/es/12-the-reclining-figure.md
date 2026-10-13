@@ -4,12 +4,14 @@ language: "es"
 theme: 12
 description: "Armonía superior, Durmiente y Desnudo: contorno, pose y relaciones entre el cuerpo y el campo de color en Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # La figura reclinada: línea y color en los desnudos de Ibragim Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-reclinada-linea-y-color-en.html>)
+
+[Vídeo](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
 
 Desnudo · La figura humana
 
@@ -79,7 +81,7 @@ En comparación con «Durmiente», el color frío se convierte en un elemento m�
 
 «Armonía superior», «Durmiente» y «Desnudo» comparten la atención a la forma y el movimiento del cuerpo reclinado, pero se abordan de manera diferente. El rico entorno, el ambiente grisáceo tenue y el campo azulado alteran el peso visual de la figura clara y el ritmo de la contemplación. El contorno oscuro puede volverse dominante o dar paso a una transición más sutil.
 
-Estas obras revelan una faceta distintiva del trabajo de Valikhodjaev, junto a las escenas de bazar, los retratos, las obras de RED y la abstracción. El desnudo se convierte en material para explorar la forma: el artista compara la pose, la línea y el espacio que rodea el cuerpo, encontrando diferentes soluciones expresivas dentro de un género familiar.
+Estas obras revelan una faceta distintiva del trabajo de Valikhodjaev, junto a las escenas de bazar, los retratos, las obras de **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-como-el-rojo-construye-un-cuadro.html>)** y la abstracción. El desnudo se convierte en material para explorar la forma: el artista compara la pose, la línea y el espacio que rodea el cuerpo, encontrando diferentes soluciones expresivas dentro de un género familiar.
 
 ## Observar de cerca el contorno de la figura
 

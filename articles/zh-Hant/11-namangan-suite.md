@@ -4,12 +4,14 @@ language: "zh-Hant"
 theme: 11
 description: "《納曼干組曲》中的市集生活：人物姿態、白色頭巾、刺繡小帽與橫幅構圖。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_7.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # 《納曼干組曲》：一幅全景畫中的日常生活
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_7.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_7.html>)
+
+[影片](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
 
 一幅畫的故事
 
@@ -84,7 +86,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 仔細觀察《納曼干組曲》便能領略其精妙之處。我們辨認出畫中的人物和物品，然後注意到它們在畫面上的排列是多麼精準。日常動作被清楚勾勒出來；服飾的色彩將人物連結在一起；一條重複出現的頭巾則將畫布上相距甚遠的部分連結起來。
 
-市集主題讓瓦利霍賈耶夫有機會探索人類環境，並不斷尋求不同的構圖方案。後來，他對新挑戰的興趣體現在他對紅色（RED 系列）和抽象（《新視角》展覽中的抽象作品）的探索中。 《納曼干組曲》展現了這項探索的支柱之一：對生活場景的關注以及賦予其連貫藝術意象的能力。
+市集主題讓瓦利霍賈耶夫有機會探索人類環境，並不斷尋求不同的構圖方案。後來，他對新挑戰的興趣體現在他對紅色（**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red.html>)** 系列）和抽象（《新視角》展覽中的抽象作品）的探索中。 《納曼干組曲》展現了這項探索的支柱之一：對生活場景的關注以及賦予其連貫藝術意象的能力。
 
 ## 日常場景如何保存多種聲音
 

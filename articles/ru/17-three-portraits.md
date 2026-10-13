@@ -4,12 +4,14 @@ language: "ru"
 theme: 17
 description: "«Портрет Диаса Рахматова», «Портрет Лены» и «Портрет Саши»: как Валиходжаев строит образ человека через цвет, позу и пространство."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_82.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Лицо, поза, пространство: три портрета Валиходжаева
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_82.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_82.html>)
+
+[Видеозапись](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 Человек и пространство картины
 
@@ -43,7 +45,7 @@ Valikhodjaev Gallery House · 6 октября 2026
 
 ## Диас Рахматов в мастерской: от встречи к портрету
 
-[Диас Рахматов](<https://uzbekkino.glob.uz/person/109>) — узбекский актёр театра и кино. Архивные фотографии показывают его в мастерской Валиходжаева и процесс работы над портретом. Рядом с законченной картиной они позволяют увидеть присутствие модели, положение перед мольбертом и внимание художника к лицу и позе.
+**[Диас Рахматов](<https://uzbekkino.glob.uz/person/109>)** — узбекский актёр театра и кино. Архивные фотографии показывают его в мастерской Валиходжаева и процесс работы над портретом. Рядом с законченной картиной они позволяют увидеть присутствие модели, положение перед мольбертом и внимание художника к лицу и позе.
 
 [Ибрагим Валиходжаев и актёр Диас Рахматов в мастерской. Архив художника.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

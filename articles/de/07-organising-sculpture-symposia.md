@@ -4,7 +4,7 @@ language: "de"
 theme: 7
 description: "Wie internationale Bildhauersymposien entstehen: Valikhodjaevs Erfahrung als Organisator, gemeinsame Arbeitsorte und künstlerische Freiheit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vom-stein-in-den-offentlichen-raum.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Vom Stein in den öffentlichen Raum: Ibragim Valikhodjaevs Bildhauersymposien
@@ -76,15 +76,15 @@ Ibragim Valikhodjaev arbeitet an einer Metallskulptur in Hulan, China. Fotografi
 
 ## Video
 
-[Bericht vom Symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
+**[Bericht vom Symposium, Samarkand, 2025](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=cD2vdRvEAZw>)
 
-[Abschluss des Symposiums, Samarkand, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
+**[Abschluss des Symposiums, Samarkand, 2025](<https://www.youtube.com/watch?v=g87H6TeNRc4>)**
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=g87H6TeNRc4>)
 
-Der Bericht von CNN Türk über das Projekt „Marble Wave“ in Istanbul, Türkei, 2021: [Video ansehen](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>) . Das obige Archivfoto stammt von einem anderen Arbeitsort.
+Der Bericht von CNN Türk über das Projekt „Marble Wave“ in Istanbul, Türkei, 2021: **[Video ansehen](<https://www.youtube.com/watch?v=rOZ7UwWkJbY>)** . Das obige Archivfoto stammt von einem anderen Arbeitsort.
 
 ## Über den Künstler
 

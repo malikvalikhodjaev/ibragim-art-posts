@@ -4,12 +4,14 @@ language: "tr"
 theme: 16
 description: "Narlar ve Sürahiler: Valikhodjaev’in natürmortlarında nesneler, masa yüzeyi, renk lekeleri ve aralıklar arasındaki ilişkiler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Turuncu zeminde narlar: bir natürmortun küçük dünyası
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html>)
+
+[Video kaydı](<https://www.youtube.com/watch?v=kouQIko-77Q>)
 
 Bir resmin yakın çekimi
 
@@ -68,7 +70,7 @@ Natürmort kolayca tanınabilir, ancak yapısı ikinci bir okuma düzeyi sunuyor
 
 ## Daha Geniş Bir Araştırmanın İçindeki Bir Konu
 
-Valikhodjaev'in renk ve biçime olan ilgisi çeşitli temalara nüfuz eder: Namangan serisindeki insanlar ve günlük yaşam, RED'deki kırmızının keşfi ve New View'deki soyutlama. "Narlar" ise natürmortta benzer bir soru yelpazesini keşfetmeye olanak tanır: dikkati ne çeker, tekrarları nasıl bir araya getiririz ve bir renk alanı ne kadar güçlü olabilir?
+Valikhodjaev'in renk ve biçime olan ilgisi çeşitli temalara nüfuz eder: Namangan serisindeki insanlar ve günlük yaşam, **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/renk-bicimi-nasl-kurar-ibragim.html>)**'deki kırmızının keşfi ve New View'deki soyutlama. "Narlar" ise natürmortta benzer bir soru yelpazesini keşfetmeye olanak tanır: dikkati ne çeker, tekrarları nasıl bir araya getiririz ve bir renk alanı ne kadar güçlü olabilir?
 
 Öncelikle genel kompozisyonla başlayın, tek bir meyve bulun ve bakışınızla konturunu takip edin. Bir detayı inceledikten sonra, resmin tamamına tekrar bakın: küçük toprak boyası fırça darbeleri ve form kıvrımları daha belirgin hale gelecektir. Dikkatli bir geri dönüş, tanıdık bir motifi, hassas resimsel kararların bir dizisi olarak ortaya çıkarır.
 

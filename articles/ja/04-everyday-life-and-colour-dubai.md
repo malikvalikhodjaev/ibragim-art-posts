@@ -4,7 +4,7 @@ language: "ja"
 theme: 4
 description: "ドバイのMondoirギャラリーで開かれた「In Silence」。ウズベキスタンの日常と色彩が新たな観客に出会う。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_65.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 日常の風景、非凡な色彩――ドバイで出会うヴァリホジャエフ
@@ -86,7 +86,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## ビデオ
 
-[展覧会「In Silence（静寂の中で）」のビデオプレゼンテーション](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
+**[展覧会「In Silence（静寂の中で）」のビデオプレゼンテーション](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)**
 
 [映像](<https://www.youtube.com/watch?v=E5rKoC3SXd8>)
 

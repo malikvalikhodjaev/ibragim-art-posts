@@ -4,7 +4,7 @@ language: "ja"
 theme: 14
 description: "主題、シルエット、構図、リズム、質感、スケール。作品を具体的に見るための10の美術用語。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_07.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 絵画を読む10の鍵――ヴァリホジャエフの作品から
@@ -61,7 +61,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 4. 構図
 
-構図は作品の各部分を全体として結びつけるものである。「ナマンガン組曲」では、人物群の配置、人物の重なり、そして水平方向の動きが重要である。それぞれの人物は特定の空間を占め、繰り返される光と色彩の形態が遠く離れた領域を結びつけている。この構図が絵画を通してどのような道筋を示唆しているか、考えてみてください。
+構図は作品の各部分を全体として結びつけるものである。「**[ナマンガン組曲](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_67.html>)**」では、人物群の配置、人物の重なり、そして水平方向の動きが重要である。それぞれの人物は特定の空間を占め、繰り返される光と色彩の形態が遠く離れた領域を結びつけている。この構図が絵画を通してどのような道筋を示唆しているか、考えてみてください。
 
 [イブラギム・ヴァリホジャエフ「ナマンガン組曲」。構図と横長のフォーマット。](<https://blogger.googleusercontent.com/img/a/AVvXsEhqNvyKNHak4hKeOrTIrXmOUEgojZJaqTZIDLD9-1ffQdaKs8kkFWK59CiZFRX5tpaiZbRsBLzmoGK6t26LQlcOcqNAdulKVGPbYk_hy53ipTjZqtx9jhAHzRBNxhxSpBXgbuS4f7m8vZa1X7OEhJAMVoiPt5Lx0ciRTJSJAvy8PLAAhauUPvrwYNT4F04u=s3944>)
 
@@ -73,7 +73,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 6. 色彩構成
 
-配色とは、絵画における色彩間の関係性を体系化したものである。「ミラキ」では、赤い色面、青い道、明るい壁、暗い木々が相互に関連しているように表現されている。それぞれの部分の色相、大きさ、近接性はすべて重要な意味を持っている。「RED」における赤色の探求は、単一の支配的な色がいかに多くの目的を表現できるかを示している。
+配色とは、絵画における色彩間の関係性を体系化したものである。「ミラキ」では、赤い色面、青い道、明るい壁、暗い木々が相互に関連しているように表現されている。それぞれの部分の色相、大きさ、近接性はすべて重要な意味を持っている。「**[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)**」における赤色の探求は、単一の支配的な色がいかに多くの目的を表現できるかを示している。
 
 [イブラギム・ヴァリホジャエフ作「ミラキ」。この色彩構成は、大きな色面同士の関係性に基づいて構築されている。](<https://blogger.googleusercontent.com/img/a/AVvXsEhhTrSBIWjxDheJLKR2sCN3_SWFLkOJNXZB6SAQj_aa68_d_3Hp-An_S-GmdEmTi2kAKG8O40ljTukEhS-mDwuIBM86jzlTmLGKw4BEFA4J7-_Oxcr-KhbKj9C-rIaUKjRIdF7sO_JnZQElj34QE_E-PtqG2J93tILGSx0dnij3nlxA4desQUoEfnFszbPU=s3252>)
 
@@ -105,7 +105,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## 動画を見る
 
-[「New View」：展示空間における色彩と幾何学](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[「New View」：展示空間における色彩と幾何学](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [映像](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

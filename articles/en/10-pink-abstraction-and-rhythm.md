@@ -4,12 +4,14 @@ language: "en"
 theme: 10
 description: "Pink Abstraction No. 1: a dark horizontal line, intersecting brushstrokes and the changing rhythms of Valikhodjaev’s colour field."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-rhythm-of-painting-how-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # A Pink Field and One Dark Line: How Valikhodjaev Creates Rhythm
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/the-rhythm-of-painting-how-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-rhythm-of-painting-how-ibragim.html>)
+
+[Video](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
 
 Composition and rhythm
 
@@ -53,7 +55,7 @@ Even in a general view, one can see how one pink shade changes next to another. 
 
 In Valikhodjaev's bazaar paintings, rhythm can be traced in the scarves, the silhouettes of people, and the curves of hands. In this abstraction, the role of repetition is played by the direction of the brushstrokes and the alternation of dense and sparse areas. This juxtaposition helps us understand the connections between the different directions of his work, while maintaining the distinctions between them.
 
-"New View" is connected to the artist's interest in abstraction, "RED" to the exploration of red, and the Namangan Series to the people and everyday life of the bazaar. "Pink Abstraction No. 1" allows us to examine the very concept of rhythm through a distinct colour field. The painting's date and exhibition affiliation are not indicated in the available archival caption, so they are not confirmed here.
+"**[New View](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_06.html>)**" is connected to the artist's interest in abstraction, "RED" to the exploration of red, and the Namangan Series to the people and everyday life of the bazaar. "Pink Abstraction No. 1" allows us to examine the very concept of rhythm through a distinct colour field. The painting's date and exhibition affiliation are not indicated in the available archival caption, so they are not confirmed here.
 
 ## General view and slow reading
 

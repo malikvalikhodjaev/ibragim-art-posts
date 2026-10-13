@@ -4,12 +4,14 @@ language: "he"
 theme: 3
 description: "וליכודג'ייב כפסל בפרויקט חולאן 2024: מתכת, מים, צללית והשתקפות במרחב הנהר."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # פיסול על פני המים: איברגים וליכודג'ייב בחולאן
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_716.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>)
+
+[סרטון](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 <div dir="rtl" lang="he">
 
@@ -32,7 +34,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 ## וידאו
 
-[תהליך העבודה והפסלים הצפים](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[תהליך העבודה והפסלים הצפים](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [סרטון](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -115,7 +117,7 @@ Valikhodjaev Gallery House · 6 באוקטובר, 2026
 
 [האמן הולך אל הנהר הקפוא](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[הליכה על הקרח בין פסלים של אמנים שונים](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[הליכה על הקרח בין פסלים של אמנים שונים](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## מארכיון פרויקט הפיסול בסין
 

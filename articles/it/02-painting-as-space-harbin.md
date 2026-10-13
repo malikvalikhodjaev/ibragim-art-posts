@@ -4,7 +4,7 @@ language: "it"
 theme: 2
 description: "Sun on Snow al Museo Yu Shun di Harbin, 2026: grandi tele geometriche, spazio museale e incontro con il pubblico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/quando-un-dipinto-diventa-uno-spazio.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Quando un dipinto diventa uno spazio: una mostra ad Harbin
@@ -33,9 +33,9 @@ In questo articolo
 
 ## Video
 
-[Un cortometraggio sulla mostra del museo.](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)
+**[Un cortometraggio sulla mostra del museo.](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)**
 
-[Registrazione integrale dell'inaugurazione della mostra.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Registrazione integrale dell'inaugurazione della mostra.](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Veduta della mostra «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 febbraio 2026. Archivio dell’artista.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
@@ -43,7 +43,7 @@ Veduta della mostra «Sole sulla neve», Yu Shun Art Museum, Cina, Harbin, 21 fe
 
 Nella fotografia di apertura, Ibragim Valikhodjaev è davanti a un dipinto geometrico monumentale. La sua figura permette di cogliere le dimensioni della superficie dipinta. Forme rosse, gialle, bianche e scure si dispiegano lungo la parete; per osservarne i rapporti e i singoli passaggi, lo spettatore deve cambiare punto di vista.
 
-La mostra personale "Sole sulla neve" si è tenuta a Harbin, in Cina, presso il Museo Yu Shun dal 19 febbraio al 19 marzo 2026. Un [giornale d'arte](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) cinese ha parlato di 19 dipinti di grandi dimensioni e di una tela di 22,24 x 3 metri. Questa mostra pone una sfida particolare allo spettatore: la percezione del dipinto diventa parte del percorso all'interno della sala, e l'architettura del museo contribuisce all'esperienza artistica.
+La mostra personale "Sole sulla neve" si è tenuta a Harbin, in Cina, presso il Museo Yu Shun dal 19 febbraio al 19 marzo 2026. Un **[giornale d'arte](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)** cinese ha parlato di 19 dipinti di grandi dimensioni e di una tela di 22,24 x 3 metri. Questa mostra pone una sfida particolare allo spettatore: la percezione del dipinto diventa parte del percorso all'interno della sala, e l'architettura del museo contribuisce all'esperienza artistica.
 
 Le dimensioni della mostra di Harbin sottolineano una continua esplorazione del colore, della forma e della composizione. Per Valikhodjaev, il grande formato apre nuove relazioni tra la singola macchia di colore e l’intera tela, tra la pittura e l'esperienza corporea dello spettatore. Questo interesse per le possibilità dell'astrazione si è espresso in modo particolarmente chiaro nella mostra "Nuovo sguardo (New View)" a Tashkent; a Harbin, può essere esplorato agevolmente attraverso l'ampiezza del dipinto e la sua presenza nella sala del museo.
 
@@ -77,7 +77,7 @@ La ricerca qui si può rintracciare in scelte specifiche: quanto ampliare il cam
 
 La registrazione video dell'inaugurazione, indicata qui sopra, cattura un altro aspetto dell'evento: i discorsi, le osservazioni dell'artista e l'interazione dei visitatori di fronte alle opere. La sala del museo si trasforma in un luogo di dialogo pubblico sulla pittura. Le figure dei visitatori offrono un'idea della scala delle opere e la loro presenza ci ricorda che la mostra esiste nell'esperienza di singoli individui.
 
-[Il resoconto cinese](<https://www.sohu.com/a/990524748_121106822>) data la cerimonia di inaugurazione al 24 febbraio 2026. A Harbin, Valikhodjaev viene presentato principalmente come autore di una mostra personale di pittura. La sua attività professionale comprende anche scultura, insegnamento, curatela e organizzazione di progetti internazionali. Qui, l'attenzione si concentra su come il suo approccio al colore e alla composizione viene presentato al pubblico del museo in un formato monumentale.
+**[Il resoconto cinese](<https://www.sohu.com/a/990524748_121106822>)** data la cerimonia di inaugurazione al 24 febbraio 2026. A Harbin, Valikhodjaev viene presentato principalmente come autore di una mostra personale di pittura. La sua attività professionale comprende anche scultura, insegnamento, curatela e organizzazione di progetti internazionali. Qui, l'attenzione si concentra su come il suo approccio al colore e alla composizione viene presentato al pubblico del museo in un formato monumentale.
 
 I due video indicati sopra – un breve filmato sulla mostra e la registrazione integrale dell'inaugurazione – sono utili in modi diversi. Il primo permette di seguire la disposizione delle sale e di osservare i dipinti da diverse angolazioni. Il secondo trasmette l'atmosfera e il contesto sociale dell'evento. Insieme, contribuiscono a presentare la mostra come un'esperienza olistica: l'opera, lo spazio e la presenza del visitatore.
 
@@ -124,4 +124,4 @@ Materiale editoriale della Valikhodjaev Gallery House. Le fonti delle immagini s
 
 [Veduta panoramica dell’inaugurazione, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
 
-[Il programma video proiettato durante la mostra — 50 minuti](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
+**[Il programma video proiettato durante la mostra — 50 minuti](<https://www.youtube.com/watch?v=XNCh44JMBYM>)**

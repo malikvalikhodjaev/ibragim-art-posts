@@ -4,7 +4,7 @@ language: "ja"
 theme: 1
 description: "イブラギム・ヴァリホジャエフの抽象画を色面、線、リズム、スケールから読む。個展「New View」に見る新たな探求。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_1.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # 抽象画をどう見るか――ヴァリホジャエフの絵画を手がかりに
@@ -33,7 +33,7 @@ Valikhodjaev Gallery House · 2026年10月6日
 
 ## ビデオ
 
-[New View展のルートを見る](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
+**[New View展のルートを見る](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)**
 
 [映像](<https://www.youtube.com/watch?v=Z4kxe7w-teY>)
 

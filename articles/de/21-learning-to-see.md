@@ -4,12 +4,14 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
+
+[Videoaufnahme](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
 
 Ein Leben in der Kunst · Namangan, Atelier und Malerei
 
@@ -73,11 +75,11 @@ Valikhodjaev wurde in Namangan geboren und absolvierte seine professionelle Ausb
 
 In einem Fernsehinterview unterscheidet der Künstler zwischen Zeichnen und der Entwicklung eines Künstlers. Eine Ausbildung eröffnet eine Welt voller Möglichkeiten, doch die eigene Richtung darin zu finden, obliegt dem Künstler selbst. Dieser Weg lässt sich in seinem Werk nachvollziehen – in Porträts, Stillleben, Landschaften und Genrebildern mit mehreren Figuren.
 
-[Videoaufzeichnung oben · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Videoaufzeichnung oben · 05:41](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=341s>)** · **[nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 In ‚Ijod formulasi‘ erinnert er sich auch an ein völlig anderes Arbeitstempo: einen Monat im Studium, in dem ein Bild nicht gelingen wollte. An einer Basarkomposition arbeitete er im Lehratelier, an einer anderen zu Hause auf dem Balkon, den er als Arbeitsplatz eingerichtet hatte. Er kehrte zu den Leinwänden zurück, drückte Farbe aus den Tuben und malte; abends kratzte er die Farbe, unzufrieden mit dem Ergebnis, wieder ab. Das ging etwa einen Monat lang so. Eines Tages sah er mit seiner Familie fern und verspürte plötzlich den Wunsch zu malen. Er ging auf den Balkon und vollendete das Bild nach seiner Erinnerung in einer halben Stunde; am nächsten Tag beendete er die Arbeit im Atelier ebenso schnell. Die Geschichte zeigt, dass hinter einer für den Betrachter sichtbar schnellen Ausführung wochenlanges Suchen und Unzufriedenheit stehen können.
 
-[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)
+**[Ijod formulasi · 27:37–29:46](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1657s>)**
 
 Nach den Erinnerungen der Familie zeigte sich das Vertrauen seines Lehrers auch bei der Wahl der Diplomarbeit. Von den Studierenden wurden gewöhnlich akademische Studien verlangt; allein Valikhodjaev durfte eine eigenständige Basarkomposition entwickeln. Rahim Ahmedov war überzeugt, dass Ibragim die akademischen Grundlagen bereits beherrschte und sich einer eigenen künstlerischen Aufgabe widmen konnte. Die Beobachtungen auf dem Markt gingen in sein Diplomgemälde ein und entwickelten sich später zu großen, vielfigurigen Bildern und einer unverwechselbaren Bildsprache.
 
@@ -87,9 +89,9 @@ Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstl
 
 ## Mit Meister Rahim Ahmedov
 
-Rahim Ahmedov zählt zu den bedeutenden Meistern der usbekischen Malerei und bildete mehrere Künstlergenerationen aus. Seine Auszeichnungen als Volkskünstler der Usbekischen SSR und der UdSSR sowie seine Stellung als Professor und korrespondierendes Mitglied der Kunstakademie der UdSSR sind in der [Biografie der Russischen Kunstakademie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>) dokumentiert. Seine psychologischen Porträts, Genrebilder und Landschaften verbinden eine fundierte Maltradition mit Aufmerksamkeit für Menschen und die usbekische Kultur. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier; diese Verbindung gehört wesentlich zu seiner Ausbildung.
+Rahim Ahmedov zählt zu den bedeutenden Meistern der usbekischen Malerei und bildete mehrere Künstlergenerationen aus. Seine Auszeichnungen als Volkskünstler der Usbekischen SSR und der UdSSR sowie seine Stellung als Professor und korrespondierendes Mitglied der Kunstakademie der UdSSR sind in der **[Biografie der Russischen Kunstakademie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** dokumentiert. Seine psychologischen Porträts, Genrebilder und Landschaften verbinden eine fundierte Maltradition mit Aufmerksamkeit für Menschen und die usbekische Kultur. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier; diese Verbindung gehört wesentlich zu seiner Ausbildung.
 
-Das Archivfoto zeigt den Meister und den jungen Künstler gemeinsam in ihrem künstlerischen Umfeld. Ahmedovs eigene Werke lassen sich in den Katalogen von Sotheby’s betrachten: [For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>) und [Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>). Die Links erschließen die Kunst des Lehrers; das Archiv vermittelt das Umfeld, in dem Valikhodjaev lernte.
+Das Archivfoto zeigt den Meister und den jungen Künstler gemeinsam in ihrem künstlerischen Umfeld. Ahmedovs eigene Werke lassen sich in den Katalogen von Sotheby’s betrachten: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** und **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Die Links erschließen die Kunst des Lehrers; das Archiv vermittelt das Umfeld, in dem Valikhodjaev lernte.
 
 [Wladimir Iwanowitsch Burmakin gratuliert Meister Rahim Ahmedov. Persönliches Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDoasl-Qkh9w4O4I0_T1XbFbfsohyphenhyphenBMphxEUgO-u9537GLOhNMxYVzSc5T5UlmBpJrZcGa3t99e5IAUIQHEOYw-cPP1Mw8WNGknyHNGPij1aL7OOATEkaDJHix9E1qvnuS8QeA8qDvKxXcqLByGgMgARLTpUMXp6mvq6CTQ3VEORGhrQxVPLZTkyeT4XY/s0/clipboard.png>)
 
@@ -163,7 +165,7 @@ Das Thema Basar fesselte den Künstler bereits während der Arbeit an seinem Dip
 
 Im Duppi-Basar von 2002 wird die Beobachtung des Marktlebens bereits zu einer eigenständigen Bildordnung. Weiße Kopftücher und Gewänder bilden wiederkehrende helle Formen; die Figuren rücken zusammen, überschneiden sich und füllen nahezu die ganze Leinwand. Kleine Gegenstände und gemusterte Details im Vordergrund bewahren den Bezug zu einer konkreten Handelsszene. Der Beshik-Basar aus demselben Jahr ordnet den Raum anders, durch große rote, dunkle und gelbe Flächen. Diese Bilder gehören zur Weiterentwicklung des Themas nach seinen Anfängen im Studium. Sie sind keine Abbildungen der Diplomarbeit, sondern Werke, in denen der Alltag eine neue Sprache von Farbe und Form erhalten hat.
 
-[Videoaufzeichnung oben · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)
+**[Videoaufzeichnung oben · 08:21](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=501s>)**
 
 [„Duppi-Basar — Markt für traditionelle Kappen“, 2002. 100 × 120 cm. Reproduktion aus dem Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKS2N8u0qmlD81ueMV_77N7oEyEu7ztX2PlPsXpQPTJnWLeJITNzRp5q6ssY1m7q-F8odp4CAgDlb2GnwDXuXo8pXjzW0SPuoBjpAH5v6GvZpt-tc4hfHt1LN7_3wIj2SpG4JCKZcJIoX4kX4Tzo-3ZFzE863_JwiLso8p0YLzs36wiDrc-5n_60AWn2S/w1920-rj/clipboard.png>)
 
@@ -211,7 +213,7 @@ Der Künstler neben einem Baudenkmal. Archiv des Künstlers.
 
 Sein Werdegang verlief parallel zum Wandel der usbekischen Kunstinstitutionen. Die Akademie der Künste wurde am 23. Januar 1997 gegründet; im selben Jahr übernahm Valikhodjaev den Vorsitz der Namanganer Sektion des Künstlerverbands. Später leitete er den Sonderfonds der Akademie von 1999 bis 2005 und den Kunstfonds Usbekistans von 1999 bis 2012. Sein Verbandsvorsitz seit 2017, die Aufnahme als Akademiemitglied 2023, Galeriearbeit und internationale Projekte verbinden persönliche Praxis mit der Schaffung von Arbeitsmöglichkeiten für andere Künstler. Diese Parallele ordnet die Biografie in ihr kulturelles Umfeld ein; sie schreibt dessen Entwicklung nicht einem Einzelnen zu.
 
-[Historischer Kontext: Akademie der Künste Usbekistans](<https://art-academy.uz/ru/pages/akademiya-tarixi>)
+**[Historischer Kontext: Akademie der Künste Usbekistans](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 
 ## Taschkent: Malerei neben der Arbeit in den Kunstfonds
 
@@ -239,13 +241,13 @@ Die organisatorischen Aufgaben unterbrachen seine künstlerische Arbeit nicht. N
 
 Ibragim Valikhodjaev bei seiner Jubiläumsausstellung 2008. Archiv des Künstlers.
 
-Besonders deutlich wird seine Produktivität beim Aufenthalt in Montenegro 2012. Nach Angaben der Familie malte er während eines 21-tägigen Freilichtprojekts 42 Bilder und brachte sie nach Usbekistan zurück. Die Einzelausstellung »21 Tage in Montenegro« fand vom 28. Juni bis 13. Juli in Taschkent statt. Projekt und Ausstellung bilden einen Arbeitszyklus: einen neuen Ort kennenlernen, intensiv vor der Natur malen und die Ergebnisse für das Publikum zusammenführen.
+Besonders deutlich wird seine Produktivität beim Aufenthalt in **[Montenegro](<https://ibragim-valikhodjaev.blogspot.com/2026/10/einundzwanzig-tage-in-montenegro.html>)** 2012. Nach Angaben der Familie malte er während eines 21-tägigen Freilichtprojekts 42 Bilder und brachte sie nach Usbekistan zurück. Die Einzelausstellung »21 Tage in Montenegro« fand vom 28. Juni bis 13. Juli in Taschkent statt. Projekt und Ausstellung bilden einen Arbeitszyklus: einen neuen Ort kennenlernen, intensiv vor der Natur malen und die Ergebnisse für das Publikum zusammenführen.
 
 Dieses Tempo beruht auf fortlaufender Beobachtung und malerischen Entscheidungen. Die folgenden Fotos zeigen eine andere Seite derselben Praxis, zwischen Dorfstraßen, Höfen, Felsen und Bäumen. Diese Archivbilder dokumentieren seine Freilichtarbeit in Usbekistan, nicht die Reise nach Montenegro. Ausstellungen, praktische Lehrveranstaltungen und internationale Projekte gingen weiterhin mit der eigenen Arbeit einher.
 
 ### Freilichtmalerei beginnt mit dem Sehen
 
-Freilichtmalerei beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
+**[Freilichtmalerei](<https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html>)** beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
 
 Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, Montenegro oder Aserbaidschan.
 
@@ -267,21 +269,21 @@ Arbeiten nach der Natur: Hof und dörfliche Bauten. Archiv des Künstlers.
 
 Kinder beobachten den Künstler bei der Arbeit im Freien. Archiv des Künstlers.
 
-[Video zur Ausstellungsvorbereitung: Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)
+**[Video zur Ausstellungsvorbereitung: Ibragim Valikhodjaev als Vorsitzender des Künstlerverbands Usbekistans](<https://www.youtube.com/watch?v=0iAqfD0q_RI>)**
 
 [Ibragim Valikhodjaev bei einem Pleinair-Treffen in der Türkei. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLesUmXVHq71hyYUDSS9_0gVPXE65UbHlVwgF2uRYECrkGo8MniukiPZ2FSXEEcbQrgSGebJVtp2iN1AS7CPTAt5rNdVOW2V1sp58_pXinUnq1qrC3XkCHoveaMF8rdj0Tp6x5Ekl-BBIe1wLc5j6JXymhx4iP-4SDvJX-ZH9Xk0gFjDpcBCo5Vh_xLF/s1600/clipboard.png>)
 
 Ibragim Valikhodjaev bei einem Pleinair-Treffen in der Türkei. Archiv des Künstlers.
 
-[Dias Rakhmatov im Atelier: von der Begegnung zum Porträt](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html#iv-dias-rakhmatov>)
+**[Dias Rakhmatov im Atelier: von der Begegnung zum Porträt](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html#iv-dias-rakhmatov>)**
 
 ## Farbe wird zum Gegenstand der Forschung
 
-Für die Ausstellung RED 2017 rückte Rot in den Mittelpunkt des künstlerischen Schaffens. In einem Interview mit nuz.uz erklärt Valikhodjaev, dass er sich in seinem Werk immer wieder phasenweise besonders intensiv mit einer Farbe auseinandersetzt. Rot faszinierte ihn aufgrund seiner emotionalen Kraft und der Komplexität seiner Kombinationsmöglichkeiten mit anderen Farben.
+Für die Ausstellung **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)** 2017 rückte Rot in den Mittelpunkt des künstlerischen Schaffens. In einem Interview mit nuz.uz erklärt Valikhodjaev, dass er sich in seinem Werk immer wieder phasenweise besonders intensiv mit einer Farbe auseinandersetzt. Rot faszinierte ihn aufgrund seiner emotionalen Kraft und der Komplexität seiner Kombinationsmöglichkeiten mit anderen Farben.
 
 Es handelt sich um eine Suche nach farblichen Beziehungen. Welchen Anteil der Oberfläche nimmt die Farbe ein? Was geschieht an der Grenze zum angrenzenden Farbton? Wie lässt sich die Struktur der Landschaft bewahren und gleichzeitig der Farbe mehr Autonomie verleihen? In diesen Arbeiten spielt Rot eine Rolle bei der Bildgestaltung und bestimmt deren emotionale Wirkung.
 
-[Videoaufzeichnung oben · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Videoaufzeichnung oben · 03:06](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=186s>)** · **[nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 ### RED: Malen vor Publikum
 
@@ -289,7 +291,7 @@ Zwei Fotos des Malkurses zur Ausstellung RED in Taschkent 2017 führen die Über
 
 Der Bericht der usbekischen Botschaft nennt 31 Werke und einen Malkurs für Besucher. Die Fotos ermöglichen den Vergleich von Handhaltung, Palette und entstehendem Bild. Die Untersuchung des Rot entfaltet sich in seinen Beziehungen zu benachbarten Tönen und im Aufbau der gesamten Leinwand.
 
-[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)
+**[RED und der Malkurs: Bericht der usbekischen Botschaft, 2017](<https://www.uzbekembassy.in/shades-of-red/>)**
 
 [RED-Malkurs: Besucher verfolgen die Arbeit des Künstlers, Usbekistan, Taschkent, 2017. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Wn-08XEoiLByt8sdDvP3mNT4m9aywnj4ybhfy0CB4NqESDJLm5XYBnFu1A95RTEEgf_VGuEuavl8oB0epIv53wP8Wlc5pKFAL308l8v1cNktSq9tZ0RXkarX6GiDE_g5AmbjWvF7NTUGGgpkUte8TmT-fwXLAIF3XTZZEq65ybltfelvL145DA8Q9kDA/s1600/clipboard.png>)
 
@@ -313,11 +315,11 @@ Einzelausstellung von Ibragim Valikhodjaev, Galerie für bildende Kunst der Nati
 
 ## Die eigene Bildsprache lässt Raum für Veränderungen
 
-„Ich versuche immer, Vertrautes auf eine neue, ungewöhnliche Weise zu sehen“, sagte der Künstler in einem Interview von 2017 (aus dem Russischen übersetzt). Diese Idee verbindet seine Genremalerei mit seiner späteren Hinwendung zur Abstraktion. In „Neuer Blick (New View)“ entsteht das Bild durch große Farbflächen, Konturen und geometrische Beziehungen. Die kompositorischen Verbindungen, die die Figuren in der Marktszene einst verbanden, treten nun zwischen unabhängigen Formen hervor.
+„Ich versuche immer, Vertrautes auf eine neue, ungewöhnliche Weise zu sehen“, sagte der Künstler in einem Interview von 2017 (aus dem Russischen übersetzt). Diese Idee verbindet seine Genremalerei mit seiner späteren Hinwendung zur Abstraktion. In „**[Neuer Blick](<https://ibragim-valikhodjaev.blogspot.com/2026/10/abstraktion-betrachten-farbe-und-form.html>)** (New View)“ entsteht das Bild durch große Farbflächen, Konturen und geometrische Beziehungen. Die kompositorischen Verbindungen, die die Figuren in der Marktszene einst verbanden, treten nun zwischen unabhängigen Formen hervor.
 
 Interesse, Neugier und der Wunsch, Neues zu entdecken, trieben den Künstler an. Die gefundene Bildsprache wird zum Ausgangspunkt weiterer Versuche: Wie lassen sich Farbe, Form und Komposition anders ordnen, was verändert sich bei einem anderen Motiv oder Maßstab? Neben der Basarserie entstehen daher Porträts, Stillleben und Landschaften, die Untersuchung von Rot in RED, die Abstraktion von New View und Skulpturen. Im Fernsehgespräch betont Valikhodjaev, dass ein erkennbarer Stil kein Grund ist, stehenzubleiben: Jedes neue Werk soll eine weitere künstlerische Lösung ermöglichen.
 
-[Videoaufzeichnung oben · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>) · [nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)
+**[Videoaufzeichnung oben · 11:39](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=699s>)** · **[nuz.uz · 18. April 2017](<https://nuz.uz/2017/04/18/ibragim-valihodzhaev-hudozhnik-dolzhen-byt-ubeditelnym/>)**
 
 [Eröffnung der Ausstellung „Neuer Blick (New View)“, Usbekistan, Taschkent, 2024. Foto veröffentlicht von der Akademie der Künste Usbekistans.](<https://art-academy.uz/uploads/images/news/org/a3MIobstnpST.jpg>)
 
@@ -331,7 +333,7 @@ Reisen eröffnen dieser Auseinandersetzung neue Perspektiven. 2012 nahm Valikhod
 
 Die Einzelausstellung „Sonne auf Schnee“ im Yu Shun Art Museum in Harbin, China, im Jahr 2026 verlieh seinen großformatigen Leinwänden eine neue Dimension. Die obenstehende Videoaufzeichnung verdeutlicht die Wirkung des Raumes: Aus der Ferne ist die Gesamtstruktur erkennbar, doch bei näherer Betrachtung nimmt ein markantes Farbfeld einen bedeutenden Teil des Blickfelds ein. Werke des Künstlers befinden sich in diesem Museum, in der Sammlung der Stadtverwaltung Maltepe in Istanbul, Türkei, und in einer Privatsammlung in Moskau, Russland, sowie in weiteren öffentlichen und privaten Sammlungen.
 
-[Videoaufzeichnung oben · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)
+**[Videoaufzeichnung oben · 09:51](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=591s>)**
 
 Das folgende Archivfoto zeigt den Künstler bei einem weiteren Ausstellungsgespräch. Datum und Ort der Aufnahme sind unbekannt; die Ausstellung in Harbin ist in der obenstehenden Videoaufzeichnung zu sehen.
 
@@ -345,7 +347,7 @@ Valikhodjaev verbindet seine eigene künstlerische Tätigkeit mit der Organisati
 
 Der Wunsch, Erfahrungen weiterzugeben, zeigt sich deutlich in der Galeriearbeit und im Unterricht. Die zweite Galerie, Valikhodjaev Gallery House, wurde am 5. August 2021 eröffnet. Malvorführungen und Kurse mit Studierenden ermöglichen es, professionelles Arbeiten aus nächster Nähe zu beobachten: wie der Künstler ein Gemälde beginnt, einen Abschnitt verändert und das Ergebnis beurteilt. Die Organisation eines Treffens, die Teilnahme an einem Pleinair-Treffen und das Schaffen eigener Werke sind unterschiedliche Aufgaben, jede mit ihren eigenen Verantwortlichkeiten.
 
-[Kultura.uz · 10. September 2024](<https://kultura.uz/view_2_r_21279.html>)
+**[Kultura.uz · 10. September 2024](<https://kultura.uz/view_2_r_21279.html>)**
 
 ## Heute: Kunst schaffen und das künstlerische Umfeld mitgestalten
 
@@ -390,7 +392,7 @@ Die Biografie lässt uns Ausstellungen und berufliche Aufträge nachvollziehen; 
 
 Seine Reise setzt sich in seinen Werken fort: in den Menschen auf dem Marktplatz, der sich wandelnden Bedeutung von Rot, der Gestaltung abstrakter Leinwände und der Begegnung von Skulptur und öffentlichem Raum. Diese verschiedenen Strömungen eint die Gewohnheit des Erkundens – des neuen Hinsehens und des Findens einer anderen bildnerischen Antwort.
 
-[Videoaufzeichnung oben · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)
+**[Videoaufzeichnung oben · 27:27](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=1647s>)**
 
 Heute sind mehr als 600 Werke von Ibragim Valikhodjaev bekannt, überwiegend Gemälde. Sie umfassen unterschiedliche Phasen und Ansätze: die zurückhaltende Palette der frühen Jahre, den Basar von Namangan, Porträts, Stillleben, Akte, Freilichtlandschaften, RED und Abstraktion. Seine Arbeit setzt sich in neuen Fragen nach Farbe, Form und Komposition fort.
 
@@ -432,13 +434,13 @@ Künstlerlinks: [YouTube](<https://www.youtube.com/@ibragim.valikhodjaev>) · [I
 
 Wenn er von den Vorbereitungen seiner Ausstellung in China erzählt, beginnt er mit dem Raum. Er hatte den Saal bereits gesehen; nachdem er den Grundriss und die Maße erhalten hatte, überlegte er, welche Werke er mitnehmen und wie er sie hängen sollte. Der große, helle Saal erlaubte es, großformatige Leinwände zu zeigen. Aus der künstlerischen Entscheidung wurde dann eine praktische Aufgabe: Die Leinwände wurden von den Keilrahmen genommen, aufgerollt und per Frachtflugzeug versandt. Der Künstler traf vor den Werken ein, wartete auf ihre Ankunft und beteiligte sich am Aufbau. In seiner Fernseherzählung entsteht die Ausstellung aus dieser Abfolge von Entscheidungen, vom Bildformat über den Transport bis zur Platzierung im Saal.
 
-[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)
+**[Ijod formulasi · 09:50–11:24](<https://www.youtube.com/watch?v=uQzIBpYBXD8&t=590s>)**
 
 [Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, Harbin, 25. Februar 2026. Archiv des Künstlers.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoxVH6PuFwPmbnG_rH1IktYi6iBRD81uNCIQXKciDSkLKYcAnxPEeHRUOYmR6dNeoFKmGkMctkWG9ijrOgP-6aelET6hVyxx_sEc6Iovc3j9G4jOAr5NtGGXrU6YD-kjtaZWgwbIPbwbh8EFjXAvHVP5lXKNZEQh-0415Y-IazK5Za3t9t0Em4vZ16C0us/w1600-rj/clipboard.png>)
 
 Ibragim Valikhodjaev vor seiner eigenen schwimmenden Skulptur auf dem zugefrorenen Fluss, China, Harbin, 25. Februar 2026. Archiv des Künstlers.
 
-[Video der Ausstellungseröffnung in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
+**[Video der Ausstellungseröffnung in Harbin, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)**
 
 ## Erfahrung weitergeben: ein Meisterkurs für Malereistudierende in Xi’an
 
@@ -446,6 +448,6 @@ Im September 2025 leitete Valikhodjaev einen Meisterkurs für Studierende der Ma
 
 [Videoaufnahme](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
 
-[Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)
+**[Video des Meisterkurses · China, Xi’an, 2025](<https://www.youtube.com/watch?v=M3A9k9jeZ8g>)**
 
-[Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)
+**[Bericht über den Besuch und den Meisterkurs · Facebook, 8. Oktober 2025](<https://www.facebook.com/story.php?story_fbid=3288760787954462&id=100009481403517>)**

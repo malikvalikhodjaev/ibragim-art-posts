@@ -4,7 +4,7 @@ language: "en"
 theme: 2
 description: "Inside Sun on Snow at Yu Shun Art Museum, Harbin: monumental paintings, geometric colour and Valikhodjaev’s encounters with China."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_883.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # When a Painting Becomes a Space: An Exhibition in Harbin
@@ -33,9 +33,9 @@ In this article
 
 ## Video
 
-[A short film about the museum exhibition](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)
+**[A short film about the museum exhibition](<https://www.youtube.com/watch?v=Rr13cfX0YZ0>)**
 
-[Full recording of the exhibition opening](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)
+**[Full recording of the exhibition opening](<https://www.youtube.com/watch?v=hZbR3LGbN0Y>)**
 
 [Installation view of “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 February 2026. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Y65HefR3TNe7myFI-FWs_6xsA3aOD_gNnAhLt-jXRVUOV6-I3cjjMcqLvwQdysPhSeNXCOgbpgufVt-AvnwBe2Oc4ubWt9ub84JB-HZP7EKOkYz6BSaGcMyd8bVSjyXe-KgG_C-iXi24YUpWDE_uC780e69EspVaLvrLMwyDqL4zM2Y5i1YLqInx6KDJ/s1600/clipboard.png>)
 
@@ -43,7 +43,7 @@ Installation view of “Sun on Snow”, Yu Shun Art Museum, China, Harbin, 21 Fe
 
 In the lead photograph, Ibragim Valikhodjaev stands before a monumental geometric painting. His figure gives a sense of the scale of the painted surface. Red, yellow, white and dark shapes extend along the wall; seeing their relationships and individual passages requires the viewer to change position.
 
-The solo exhibition "Sun on Snow" was held in Harbin, China, at the Yu Shun Museum from February 19 to March 19, 2026. A Chinese [art newspaper](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>) reported on 19 large paintings and a 22.24 x 3-meter canvas. This exhibition presents a particular challenge for the viewer: the perception of the painting becomes part of the movement through the room, and the museum's architecture contributes to the artistic experience.
+The solo exhibition "Sun on Snow" was held in Harbin, China, at the Yu Shun Museum from February 19 to March 19, 2026. A Chinese **[art newspaper](<https://msb.zjol.com.cn/html/2026-02/28/content_4466971.htm?div=-1>)** reported on 19 large paintings and a 22.24 x 3-meter canvas. This exhibition presents a particular challenge for the viewer: the perception of the painting becomes part of the movement through the room, and the museum's architecture contributes to the artistic experience.
 
 The scale of the Harbin exhibition underlies an ongoing exploration of colour, form, and composition. For Valikhodjaev, the large format opens up new relationships between the individual spot and the entire canvas, between painting and the viewer's bodily experience. This interest in the possibilities of abstraction was particularly clearly expressed in the "New View" exhibition in Tashkent; in Harbin, it can be explored through the painting’s expanse and its presence in the museum hall.
 
@@ -77,7 +77,7 @@ The search here can be traced in specific decisions: how wide to expand the colo
 
 The video recording of the opening, linked above, captures another aspect of the event: the speeches, the artist’s remarks, and the guests interacting in front of the works. The museum hall becomes a venue for a public conversation about painting. The figures of visitors provide an idea of ​​the scale of the works, and their presence reminds us that the exhibition exists in the experience of specific individuals.
 
-[The Chinese report](<https://www.sohu.com/a/990524748_121106822>) dates the opening ceremony to February 24, 2026. In Harbin, Valikhodjaev is presented primarily as the author of a solo painting exhibition. His professional work also includes sculpture, teaching, curating, and organising international projects. Here, attention is focused on how his colour and compositional approaches are presented to museum audiences in a monumental format.
+**[The Chinese report](<https://www.sohu.com/a/990524748_121106822>)** dates the opening ceremony to February 24, 2026. In Harbin, Valikhodjaev is presented primarily as the author of a solo painting exhibition. His professional work also includes sculpture, teaching, curating, and organising international projects. Here, attention is focused on how his colour and compositional approaches are presented to museum audiences in a monumental format.
 
 The two videos linked above—a short film about the exhibition and a full recording of the opening—are useful in different ways. The first allows one to follow the layout of the halls and view the paintings from several angles. The second conveys the atmosphere and social context of the event. Together, they help present the exhibition as a holistic experience: the work, the space, and the viewer's presence.
 
@@ -124,4 +124,4 @@ Editorial material from Valikhodjaev Gallery House. Image sources are indicated 
 
 [A panoramic view of the opening, 2026](<https://www.youtube.com/watch?v=fnO6PifHRKA>)
 
-[The video programme screened at the exhibition — 50 minutes](<https://www.youtube.com/watch?v=XNCh44JMBYM>)
+**[The video programme screened at the exhibition — 50 minutes](<https://www.youtube.com/watch?v=XNCh44JMBYM>)**

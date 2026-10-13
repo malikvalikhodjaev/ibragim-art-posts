@@ -4,12 +4,14 @@ language: "fr"
 theme: 19
 description: "Prière, Cruches, Regard et Pierres sacrées : nuances de tons et formes expressives dans les premières peintures."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html"
-edition_date: "2026-10-11"
+edition_date: "2026-10-13"
 ---
 
 # Le silence d’une palette retenue : les premières œuvres en blanc et gris
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html>)
+
+[Vidéo](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
 
 Premières œuvres · Palette discrète
 
@@ -64,7 +66,7 @@ Ibragim Valikhodjaev. « Cruches ». Selon la légende d'archives : 1997, 54 × 
 
 La nature morte conserve des nuances chaudes et froides. Le champ lumineux autour des récipients est irrégulier ; les traces du pinceau suggèrent encore du mouvement même là où aucun objet n’est visible. Ainsi, l’arrière-plan fait partie intégrante de l’image et ne sert pas simplement de fond neutre à la rangée de cruches.
 
-Cette recherche rejoint à une étude ultérieure d'un vaste champ coloré, bien que le résultat artistique soit différent. Dans RED, la couleur dominante attire immédiatement le regard ; ici, le spectateur perçoit des transitions subtiles. La comparaison révèle l'étendue des intérêts de l'artiste en matière de couleur, sans pour autant réduire la palette restreinte à une simple préparation à une future explosion de couleurs.
+Cette recherche rejoint à une étude ultérieure d'un vaste champ coloré, bien que le résultat artistique soit différent. Dans **[RED](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)**, la couleur dominante attire immédiatement le regard ; ici, le spectateur perçoit des transitions subtiles. La comparaison révèle l'étendue des intérêts de l'artiste en matière de couleur, sans pour autant réduire la palette restreinte à une simple préparation à une future explosion de couleurs.
 
 ## « Regard » : la frontière cache et révèle
 

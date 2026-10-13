@@ -4,12 +4,14 @@ language: "ar"
 theme: 17
 description: "دياس رحمتوف ولينا وساشا: ثلاثة بورتريهات تكشف دور الوجه والوضعية والخلفية واللون."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # الوجه والوضعية والفضاء: ثلاثة بورتريهات لفاليخودجاييف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_053.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html>)
+
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
 
 <div dir="rtl" lang="ar">
 
@@ -45,7 +47,7 @@ Valikhodjaev Gallery House · 6 أكتوبر 2026
 
 ## دياس رحمتوف في المرسم: من اللقاء إلى البورتريه
 
-كان [دياس رحمتوف](<https://uzbekkino.glob.uz/person/109>) ممثلًا أوزبكيًا في المسرح والسينما. تُظهره هذه الصور الأرشيفية في مرسم فاليخودجاييف، وتوثق العمل على بورتريهه. إلى جانب اللوحة المكتملة، تكشف الصور حضور الشخص الجالس للرسم، وموقعه أمام الحامل، واهتمام الفنان بالوجه والوضعية.
+كان **[دياس رحمتوف](<https://uzbekkino.glob.uz/person/109>)** ممثلًا أوزبكيًا في المسرح والسينما. تُظهره هذه الصور الأرشيفية في مرسم فاليخودجاييف، وتوثق العمل على بورتريهه. إلى جانب اللوحة المكتملة، تكشف الصور حضور الشخص الجالس للرسم، وموقعه أمام الحامل، واهتمام الفنان بالوجه والوضعية.
 
 [إبراهيم فاليخودجاييف والممثل دياس رحمتوف في المرسم. أرشيف الفنان.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexXfnLdUq0IxBAoPryb7V81IXx4vd-AvV3QR0STWMk9XSvNawzua1bRX_0tsWmD6OTUeO-OWkNh6ar-RrtVyVXVT2L38-BLx5fI1ZDDqd0KU_agNn6ZAWsThmU7M_Ol-tbAhOtuTTFE1pOA7emauO-DdhEmjJqqInPrQNMp_PmrB9fhZ2ultCQYnDqzT/w1200-rj/clipboard.png>)
 

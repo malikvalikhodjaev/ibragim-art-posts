@@ -4,12 +4,14 @@ language: "ko"
 theme: 3
 description: "중국 후란의 2024년 수상 조각 프로젝트. 조각가로 참여한 발리호자예프의 금속 작업과 물, 빛, 반사의 관계."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html"
-edition_date: "2026-10-12"
+edition_date: "2026-10-13"
 ---
 
 # 수면 위의 조각 — 이브라김 발리호자예프, 중국 후란에서
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_88.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
+
+[영상](<https://www.youtube.com/watch?v=a4pu76VDup0>)
 
 조각과 환경
 
@@ -30,7 +32,7 @@ Valikhodjaev Gallery House · 2026년 10월 6일
 
 ## 동영상
 
-[작업 과정과 수면에 떠 있는 조각품들](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
+**[작업 과정과 수면에 떠 있는 조각품들](<https://www.youtube.com/watch?v=R1g27MtKPZc>)**
 
 [영상](<https://www.youtube.com/watch?v=R1g27MtKPZc>)
 
@@ -113,7 +115,7 @@ Valikhodjaev Gallery House의 편집 자료이다. 이미지 출처는 캡션에
 
 [얼어붙은 강으로 걸어가는 작가](<https://www.youtube.com/watch?v=2W8N2vV9Xi8>)
 
-[얼음 위를 걸으며 여러 작가의 조각을 살펴보다](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)
+**[얼음 위를 걸으며 여러 작가의 조각을 살펴보다](<https://www.youtube.com/watch?v=gNNynTDY2Jo>)**
 
 ## 중국 조각 프로젝트의 기록
 

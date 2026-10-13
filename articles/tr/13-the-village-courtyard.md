@@ -4,7 +4,7 @@ language: "tr"
 theme: 13
 description: "Kırsal Avlu, Varzik ve İşten Dönüş: Valikhodjaev’in Özbek köylerinde mimariyi ve gündelik insan varlığını resmetmesi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/renkle-kurulan-bir-dunya-ibragim.html"
-edition_date: "2026-10-10"
+edition_date: "2026-10-13"
 ---
 
 # Avlular ve kıvrılan yollar: Özbek köylerinin renkleri
@@ -120,9 +120,9 @@ Valikhodjaev Gallery House tarafından hazırlanan yazı. Görsellerin kaynaklar
 
 ## Açık havada resim, bakmakla başlar
 
-Açık havada resim, ilk fırça darbesinden önce, bir yürüyüş ve bakış açısının seçimiyle başlar. Fotoğraflarda köy sokağı, dar bir avlu, kayalık yamaç ve sonbahar ağaçları görülür. Bir motif açık renk duvarlarla koyu açıklıkların sıralanışı olarak, diğeri yapıların arasından geçen yolun hareketi olarak okunabilir. Ressam hem konuyu hem de kompozisyonu taşıyacak büyük kütlelerin düzenini seçer.
+**[Açık havada resim](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ack-havada-resim-ibragim-valikhodjaevin.html>)**, ilk fırça darbesinden önce, bir yürüyüş ve bakış açısının seçimiyle başlar. Fotoğraflarda köy sokağı, dar bir avlu, kayalık yamaç ve sonbahar ağaçları görülür. Bir motif açık renk duvarlarla koyu açıklıkların sıralanışı olarak, diğeri yapıların arasından geçen yolun hareketi olarak okunabilir. Ressam hem konuyu hem de kompozisyonu taşıyacak büyük kütlelerin düzenini seçer.
 
-Bu çalışma fotoğrafları, manzara resimlerine yerin ölçeğini, değişken ışığını ve yüzey dokularını ekler. Duvar, çatı, toprak şeridi ve ağaç tacı renk ilişkilerinin malzemesine dönüşür. Bitmiş resimde gözlem daha serbest ve yoğun olabilir; doğayla bağ mekânın kuruluşunda sürer. Fotoğrafların kesin yeri ve yılı bilinmiyor. Yalnızca görüntülerine bakarak onları Miraki, Karadağ ya da Azerbaycan’daki belirli bir etkinliğe bağlamak mümkün değildir.
+Bu çalışma fotoğrafları, manzara resimlerine yerin ölçeğini, değişken ışığını ve yüzey dokularını ekler. Duvar, çatı, toprak şeridi ve ağaç tacı renk ilişkilerinin malzemesine dönüşür. Bitmiş resimde gözlem daha serbest ve yoğun olabilir; doğayla bağ mekânın kuruluşunda sürer. Fotoğrafların kesin yeri ve yılı bilinmiyor. Yalnızca görüntülerine bakarak onları Miraki, **[Karadağ](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)** ya da Azerbaycan’daki belirli bir etkinliğe bağlamak mümkün değildir.
 
 [Doğadan çalışma gezisi: köy sokağı ve dağ manzarası. Sanatçının arşivi.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV-hW1RDtp4xSI9OsQk39YoHg4vh9CwCxSe4N7YMalil_wdyvDrwHnMEGWTZdrT9QQ1iSdtfEq8FO7PDfgfiQJsEQ_ivivmjPuUdJMngbdhfFxCwRo6BXRvWe5J1I2_O6D3rQl9KnSEb2iO4xzStQzy6hx7pmGbhNM5BGzJTFWs7XE5sCjX7zfNS_61Ke/s1600/clipboard.png>)
 
