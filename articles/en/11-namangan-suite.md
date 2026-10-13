@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html>)
 
-[Video](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Video](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 The story of one painting
 
@@ -45,6 +45,8 @@ Ibragim Valikhodjaev was born in Namangan. In his Namangan series, he was fascin
 The horizontal format unfolds the crowded scene across the canvas. The figures stand and sit, partially overlapping, forming small groups. White headdresses appear at varying heights. Their alternation links the edges of the painting, while the red, yellow, and green sections of clothing lend their own unique intensity to individual scenes.
 
 In such a composition, the gaze chooses a route. It can begin with small objects at the bottom, move up to hands and faces, and then move on to the next light silhouette. The painting offers several routes for the eye to follow. As we examine it gradually, we notice both the structure of the crowd and the differences between individual characters.
+
+Women occupy a particularly prominent place in Valikhodjaev’s bazaar paintings. His interest grew from the distinctive life of the Namangan bazaar: the women, their clothes, their fashion and their ways of gathering. Women sometimes sew dresses together and go out in groups. These details of the local setting help us read the paintings: clothing becomes a large patch of colour, while figures standing close together create recurring silhouettes and gestures. The rhythm of the composition grows from observation of this shared everyday life.
 
 ## Everyday life in the movement of hands
 

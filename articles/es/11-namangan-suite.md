@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Vídeo](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 La historia de un cuadro
 
@@ -45,6 +45,8 @@ Ibragim Valikhodjaev nació en Namangan. En su serie sobre Namangan, quedó fasc
 El formato horizontal despliega la escena abarrotada a lo largo del lienzo. Las figuras están de pie y sentadas, parcialmente superpuestas, formando pequeños grupos. Tocados blancos aparecen a distintas alturas. Su alternancia conecta los bordes de la pintura, mientras que las secciones rojas, amarillas y verdes de la vestimenta aportan una intensidad singular a cada escena.
 
 En una composición de este tipo, la mirada elige un camino. Puede comenzar con los objetos pequeños en la parte inferior, ascender hacia las manos y los rostros, y luego continuar hacia la siguiente silueta luminosa. La pintura ofrece varios recorridos para la mirada. A medida que la observamos detenidamente, notamos tanto la estructura de la multitud como las diferencias entre los personajes individuales.
+
+Las figuras femeninas ocupan un lugar especialmente destacado en los cuadros de bazar de Valikhodjaev. Su interés surgió de la vida particular del bazar de Namangan: las mujeres, su ropa, su moda y su costumbre de reunirse. A veces cosen vestidos juntas y salen en grupo. Estos detalles de la vida local ayudan a leer los cuadros: la ropa se convierte en una gran mancha de color, mientras que las figuras próximas forman siluetas y gestos recurrentes. El ritmo de la composición nace de la observación de esa vida cotidiana compartida.
 
 ## La vida cotidiana en el movimiento de las manos
 

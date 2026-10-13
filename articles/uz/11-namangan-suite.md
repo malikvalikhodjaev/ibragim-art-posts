@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_170.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Videoyozuv](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 Bitta rasmning hikoyasi
 
@@ -45,6 +45,8 @@ Ibrohim Valixo‘jayev Namanganda tug‘ilgan. Uning Namangan turkumidagi asarla
 Gorizontal format polotno bo‘ylab gavjum sahnani ochadi. Shaxslar bir-birining ustiga chiqib, kichik guruhlarni hosil qilib, turishadi va o‘tirishadi. Oq bosh kiyimlar turli balandliklarda ko‘rinadi. Ularning almashinishi rasmning chekkalarini bog‘laydi, kiyimning qizil, sariq va yashil qismlari esa alohida sahnalarga o‘ziga xos intensivlik bag‘ishlaydi.
 
 Bunday kompozitsiyada nigoh yo‘nalishni tanlaydi. U pastki qismdagi kichik narsalardan boshlanishi, qo‘llar va yuzlarga ko‘tarilishi va keyin keyingi yorug‘lik siluetiga o‘tishi mumkin. Kartina nigoh uchun bir nechta yo‘nalish taklif etadi. Uni asta-sekin o‘rganib chiqqach, biz olomonning tuzilishini ham, individual personajlar o‘rtasidagi farqlarni ham sezamiz.
+
+Valixo‘jayevning bozor turkumida ayol qiyofalari ayniqsa ko‘p uchraydi. Uni Namangan bozorining o‘ziga xos muhiti — ayollar, ularning kiyimlari, modasi va davra bo‘lib yig‘ilish odati qiziqtirgan. Ayollar ba’zan birga ko‘ylak tikib, guruh bo‘lib yurishadi. Mahalliy hayotning bu tafsilotlari kartinalarni tushunishga yordam beradi: kiyim katta rang dog‘iga aylanadi, yonma-yon turgan qomatlar esa takrorlanuvchi siluet va imo-ishoralarni hosil qiladi. Kompozitsiya ritmi shu mushtarak kundalik hayotni kuzatishdan tug‘iladi.
 
 ## Qo‘llarning harakatidagi kundalik hayot
 

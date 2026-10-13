@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 Die Geschichte eines Gemäldes
 
@@ -45,6 +45,8 @@ Ibragim Valikhodjaev wurde in Namangan geboren. In seiner Namangan-Serie faszini
 Das horizontale Format entfaltet die dichte Szene über die gesamte Leinwand. Die Figuren stehen und sitzen, überlappen sich teilweise und bilden kleine Gruppen. Weiße Kopfbedeckungen erscheinen in unterschiedlichen Höhen. Ihr Wechsel verbindet die Ränder des Gemäldes, während die roten, gelben und grünen Kleidungsstücke den einzelnen Szenen eine jeweils eigene Intensität verleihen.
 
 In einer solchen Komposition wählt der Blick einen Weg. Er kann bei kleinen Objekten am unteren Rand beginnen, sich zu Händen und Gesichtern hocharbeiten und dann zur nächsten hellen Silhouette wandern. Das Gemälde hält mehrere Blickrichtungen gleichzeitig aufrecht. Bei genauer Betrachtung erkennen wir sowohl die Struktur der Menge als auch die Unterschiede zwischen den einzelnen Figuren.
+
+Frauenfiguren nehmen in Valikhodjaevs Basarbildern einen besonders wichtigen Platz ein. Sein Interesse galt dem unverwechselbaren Leben auf dem Basar von Namangan: den Frauen, ihrer Kleidung, ihrer Mode und ihren gemeinsamen Unternehmungen. Manchmal nähen sie zusammen Kleider und gehen in Gruppen aus. Diese Einzelheiten des örtlichen Alltags helfen beim Betrachten der Bilder: Kleidung wird zu einer großen Farbfläche, während nebeneinanderstehende Figuren wiederkehrende Silhouetten und Gesten bilden. Der Rhythmus der Komposition entsteht aus der Beobachtung dieses gemeinsamen Alltags.
 
 ## Alltag in der Bewegung der Hände
 

@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Vidéo](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 L'histoire d'un tableau
 
@@ -45,6 +45,8 @@ Ibragim Valikhodjaev est né à Namangan. Dans sa série Namangan, il s'est pass
 Le format horizontal déploie la scène foisonnante sur toute la toile. Les personnages, debout ou assis, se chevauchent partiellement, formant de petits groupes. Des coiffes blanches apparaissent à différentes hauteurs. Leur alternance relie les bords du tableau, tandis que les touches de rouge, de jaune et de vert dans les vêtements confèrent à chaque scène une intensité singulière.
 
 Dans une telle composition, le regard suit un parcours. Il peut commencer par de petits objets en bas, remonter vers les mains et les visages, puis se diriger vers la silhouette lumineuse suivante. Le tableau propose plusieurs perspectives simultanément. En l'examinant progressivement, on perçoit à la fois la structure de la foule et les différences entre les personnages.
+
+Les figures féminines occupent une place particulièrement importante dans les peintures de bazar de Valikhodjaev. Son intérêt venait de la vie singulière du bazar de Namangan : les femmes, leurs vêtements, leur mode et leurs habitudes de se retrouver. Il arrive qu’elles cousent des robes ensemble et sortent en groupe. Ces détails de la vie locale éclairent les tableaux : le vêtement devient une grande plage de couleur, tandis que les figures rapprochées dessinent des silhouettes et des gestes récurrents. Le rythme de la composition naît de l’observation de cette vie quotidienne partagée.
 
 ## La vie quotidienne dans le mouvement des mains
 

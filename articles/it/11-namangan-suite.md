@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html>)
 
-[Video](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Video](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 La storia di un dipinto
 
@@ -45,6 +45,8 @@ Ibragim Valikhodjaev è nato a Namangan. Nella sua serie dedicata a Namangan, è
 Il formato orizzontale dispiega la scena affollata sulla tela. Le figure sono in piedi e sedute, parzialmente sovrapposte, a formare piccoli gruppi. Copricapi bianchi appaiono a diverse altezze. La loro alternanza collega i bordi del dipinto, mentre le sezioni rosse, gialle e verdi degli abiti conferiscono una particolare intensità alle singole scene.
 
 In una composizione di questo tipo, lo sguardo sceglie un percorso. Può iniziare con piccoli oggetti in basso, salire verso mani e volti, per poi spostarsi sulla successiva silhouette luminosa. Il dipinto offre diversi percorsi allo sguardo. Esaminandolo gradualmente, notiamo sia la struttura della folla sia le differenze tra i singoli personaggi.
+
+Le figure femminili hanno un ruolo particolarmente importante nei dipinti di bazar di Valikhodjaev. Il suo interesse nasceva dalla vita peculiare del bazar di Namangan: le donne, i loro abiti, la moda e l’abitudine di ritrovarsi in compagnia. A volte cuciono vestiti insieme ed escono in gruppo. Questi dettagli della vita locale aiutano a leggere i quadri: l’abito diventa una grande campitura di colore, mentre le figure vicine creano sagome e gesti ricorrenti. Il ritmo della composizione nasce dall’osservazione di questa quotidianità condivisa.
 
 ## La vita quotidiana nei movimenti delle mani
 

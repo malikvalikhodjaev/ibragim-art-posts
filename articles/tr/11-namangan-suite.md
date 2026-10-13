@@ -11,7 +11,7 @@ edition_date: "2026-10-13"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim\_01557250984.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=R_l6wiIm1cc>)
+[Video kaydı](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
 
 Bir resmin hikayesi
 
@@ -45,6 +45,8 @@ Yeşil elbiseli bir kadın küçük bir el çantası tutuyor. Yakındaki oturan 
 Yatay format, kalabalık sahneyi tuvalin üzerine seriyor. Figürler ayakta ve oturarak, kısmen üst üste gelerek küçük gruplar oluşturuyor. Beyaz başlıklar farklı yüksekliklerde görünüyor. Bunların ardışık kullanımı resmin kenarlarını birbirine bağlarken, kırmızı, sarı ve yeşil giysi bölümleri her sahneye kendine özgü bir yoğunluk katıyor.
 
 Bu tür bir kompozisyonda, bakış bir rota seçer. Alttaki küçük nesnelerle başlayıp, ellere ve yüzlere doğru ilerleyebilir ve ardından bir sonraki açık renkli silüete geçebilir. Resim, bakışın izleyebileceği birkaç farklı yol sunar. Onu yavaş yavaş inceledikçe, hem kalabalığın yapısını hem de bireysel karakterler arasındaki farklılıkları fark ederiz.
+
+Valikhodjaev’in pazar resimlerinde kadın figürleri özellikle belirgin bir yer tutar. Sanatçıyı Namangan pazarının kendine özgü hayatı çekiyordu: kadınlar, giysileri, modaları ve bir araya gelme alışkanlıkları. Kadınlar bazen birlikte elbise diker, gruplar hâlinde dışarı çıkarlar. Yerel hayata ait bu ayrıntılar resimleri anlamamıza yardımcı olur: giysi büyük bir renk lekesine dönüşürken yan yana duran figürler tekrarlanan siluetler ve jestler oluşturur. Kompozisyonun ritmi, bu ortak gündelik hayatın gözlemlenmesinden doğar.
 
 ## Ellerin hareketleriyle günlük yaşam
 
