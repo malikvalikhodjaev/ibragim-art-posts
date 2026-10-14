@@ -4,14 +4,14 @@ language: "he"
 theme: 21
 description: "דיוקן ביוגרפי על סמך שיחות ופרסומים: ללמוד לראות, לצייר, ללמד ולארגן מפגשי אמנות."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # ללמוד לראות: איברגים וליכודג'ייב וחיים באמנות
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_260.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_260.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[סרטון](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 <div dir="rtl" lang="he">
 
@@ -92,6 +92,8 @@ edition_date: "2026-10-13"
 ## לצד המורה רחים אחמדוב
 
 רחים אחמדוב הוא מהאמנים הבולטים בציור האוזבקי ומורה שהכשיר כמה דורות של אמנים. תאריו — אמן העם של הרפובליקה הסובייטית האוזבקית ושל ברית המועצות, פרופסור וחבר מתכתב באקדמיה לאמנויות של ברית המועצות — מתועדים ב**[ביוגרפיה באתר האקדמיה הרוסית לאמנויות](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. דיוקנאותיו הפסיכולוגיים, סצנות חיי היום־יום והנופים שלו משלבים מסורת ציורית מבוססת עם תשומת לב לאדם ולתרבות האוזבקית. וליחודג'אייב למד בסטודיו שלו בשנים 1986–1991; קשר זה הוא חלק חשוב מהכשרתו.
+
+גם לאסכולה הזאת היה רצף משלה. בשנים 1937–1941 למד אחמדוב עצמו בטשקנט אצל **[אלכסנדר וולקוב](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** ו**[ניקולאי קראחאן](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**, ובמהלך המלחמה המשיך את לימודיו בסמרקנד אצל **[פאבל בנקוב](<https://library.orientmuseum.ru/book.php?id=243>)**. חקירותיו של וולקוב בתחום הצורה והצבע ריתקו אותו; שיעוריו של בנקוב העמיקו את הבנתו באור ובאווירה בציור בחיק הטבע. **[זיכרונותיו ממוריו שלו](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** מאפשרים לעקוב אחר שרשרת המורים הזאת, המחברת את הסטודיו של אחמדוב לזרמים חשובים בציור באוזבקיסטן.
 
 התצלום הארכיוני מציג את המורה והאמן הצעיר יחד, בתוך אותה סביבה אמנותית. את יצירותיו של אחמדוב עצמו אפשר לראות בקטלוגים של סותביס: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** ו־**[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. הקישורים מאפשרים להכיר את אמנות המורה, ואילו הארכיון מציג את הסביבה שבה למד וליחודג'אייב.
 

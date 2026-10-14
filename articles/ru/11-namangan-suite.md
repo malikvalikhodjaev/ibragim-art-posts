@@ -4,14 +4,14 @@ language: "ru"
 theme: 11
 description: "«Наманганская сюита» Ибрагима Валиходжаева: как люди, бытовые жесты, белые платки и яркая одежда складываются в живописную панораму."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_678.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # «Наманганская сюита»: жизнь внутри большой картины
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_678.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_678.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
+[Видеозапись](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
 
 История одной картины
 

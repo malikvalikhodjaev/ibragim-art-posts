@@ -4,14 +4,14 @@ language: "zh-Hant"
 theme: 19
 description: "《祈禱》《水罐》《凝視》與《聖石》：早期克制色調中的形體、邊界與緩慢觀看。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_738.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # 克制用色中的寧靜：早期白灰色調作品
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_738.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_738.html>)
 
-[影片](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[影片](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 早期作品· 柔和的色調
 

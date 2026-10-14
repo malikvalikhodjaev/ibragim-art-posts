@@ -4,14 +4,14 @@ language: "en"
 theme: 21
 description: "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Learning to See: Ibragim Valikhodjaev on a Life in Art
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_179.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
-[Video](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 A life in art · Namangan, the workshop and painting
 
@@ -90,6 +90,8 @@ Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.
 ## With Master Rahim Ahmedov
 
 Rahim Ahmedov was a major Uzbek painter and a teacher of several generations of artists. His honours—People’s Artist of the Uzbek SSR and of the USSR, professor and corresponding member of the USSR Academy of Arts—are documented in his **[Russian Academy of Arts biography](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. His psychological portraits, genre compositions and landscapes combine a rigorous painting tradition with close attention to people and Uzbek culture. Valikhodjaev studied in his studio in 1986–1991; this relationship was an important part of his formation.
+
+This school had its own lineage. In 1937–1941, Ahmedov himself studied in Tashkent with **[Alexander Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** and **[Nikolai Karakhan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**; during the war, he continued his training in Samarkand with **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)**. Volkov’s explorations of form and colour fascinated him, while Benkov’s teaching deepened his understanding of light and atmosphere in **[plein-air painting](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)**. **[His recollections of his own teachers](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** trace this chain of teachers, connecting Ahmedov’s studio with several important strands of painting in Uzbekistan.
 
 The archive photograph places the master and the younger artist together within a shared artistic community. Ahmedov’s own paintings can be explored in Sotheby’s catalogues: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** and **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. The links reveal the teacher’s art, while the archive conveys the milieu in which Valikhodjaev trained.
 
@@ -247,7 +249,7 @@ This pace reflects continuous observation and the making of painterly decisions.
 
 ### Plein air begins with looking
 
-**[Plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/making-room-for-painting-plein-air-and.html>)** begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
+Plein air begins well before the first brushstroke, with a walk and a choice of viewpoint. These photographs show a village lane, an enclosed courtyard, a rocky slope and autumn trees. One motif can be read as an alternation of pale walls and dark openings; another as a road moving between buildings. The painter chooses both what to depict and the arrangement of broad masses that will hold the future picture together.
 
 These working photographs complement the landscapes by restoring a sense of scale, uneven light and surface texture. Walls, roofs, a strip of earth and a tree crown supply material for colour relationships. In the finished painting, observation may become freer and more condensed; its connection with the motif remains in the organisation of space. The photographs have no established location or year: their appearance alone cannot assign them to a particular plein-air programme in Miraki, Montenegro or Azerbaijan.
 

@@ -4,14 +4,14 @@ language: "es"
 theme: 21
 description: "Del bazar a RED y la abstracción: un retrato biográfico de Ibragim Valikhodjaev basado en entrevistas y fuentes publicadas."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Aprender a mirar: Ibragim Valikhodjaev, una vida en el arte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Vídeo](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Una vida en el arte · Namangán, el taller y la pintura
 
@@ -90,6 +90,8 @@ El maestro Rahim Ahmedov e Ibragim Valikhodjaev. Archivo personal del artista.
 ## Junto al maestro Rahim Ahmedov
 
 Rahim Ahmedov fue uno de los grandes maestros de la pintura uzbeka y un docente que formó a varias generaciones de artistas. Sus títulos de Artista del Pueblo de la RSS de Uzbekistán y de la URSS, profesor y miembro correspondiente de la Academia de Artes de la URSS constan en su **[biografía de la Academia Rusa de las Artes](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. Sus retratos psicológicos, escenas de género y paisajes unen una sólida tradición pictórica con la atención a las personas y a la cultura uzbeka. Valikhodjaev estudió en su taller entre 1986 y 1991; esta relación fue una parte importante de su formación.
+
+Esta escuela tenía su propia continuidad. Entre 1937 y 1941, Ahmedov estudió en Taskent con **[Aleksandr Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** y **[Nikolái Karaján](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**; durante la guerra continuó su formación en Samarcanda con **[Pável Benkov](<https://library.orientmuseum.ru/book.php?id=243>)**. Le fascinaban las exploraciones de Volkov sobre la forma y el color, mientras que las lecciones de Benkov profundizaron su comprensión de la luz y la atmósfera en la **[pintura al aire libre](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html>)**. **[Sus recuerdos de sus propios maestros](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** permiten seguir esta cadena de maestros, que conecta el taller de Ahmedov con varias corrientes importantes de la pintura en Uzbekistán.
 
 La fotografía de archivo sitúa al maestro y al joven artista juntos, en un mismo entorno artístico. Las obras del propio Ahmedov pueden verse en los catálogos de Sotheby’s: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** y **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Los enlaces permiten conocer el arte del profesor; el archivo muestra el ambiente en el que se formó Valikhodjaev.
 
@@ -247,7 +249,7 @@ Este ritmo implica observación continua y decisiones pictóricas constantes. La
 
 ### Pintar al aire libre comienza por mirar
 
-La **[pintura al aire libre](<https://ibragim-valikhodjaev.blogspot.com/2026/10/dar-espacio-la-pintura-trabajo-al-aire.html>)** empieza antes de la primera pincelada, con un paseo y la elección del punto de vista. Las fotografías muestran una calle de pueblo, un patio cerrado, una ladera rocosa y árboles otoñales. Un motivo se lee como alternancia de muros claros y huecos oscuros; otro, como el recorrido de un camino entre edificios. El pintor elige el tema y la relación entre las grandes masas que sostendrán el cuadro.
+La pintura al aire libre empieza antes de la primera pincelada, con un paseo y la elección del punto de vista. Las fotografías muestran una calle de pueblo, un patio cerrado, una ladera rocosa y árboles otoñales. Un motivo se lee como alternancia de muros claros y huecos oscuros; otro, como el recorrido de un camino entre edificios. El pintor elige el tema y la relación entre las grandes masas que sostendrán el cuadro.
 
 Estas imágenes de trabajo completan los paisajes al restituir la escala, la luz desigual y las texturas. Muros, tejados, una franja de tierra y la copa de un árbol alimentan las relaciones cromáticas. En el cuadro la observación puede hacerse más libre y sintética; el vínculo con el natural permanece en la construcción del espacio. No se conocen el lugar y el año de estas fotografías: su aspecto no basta para atribuirlas a un encuentro concreto en Miraki, Montenegro o Azerbaiyán.
 

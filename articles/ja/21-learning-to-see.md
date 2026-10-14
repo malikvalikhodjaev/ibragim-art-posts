@@ -4,14 +4,14 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_895.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
-[映像](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[映像](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 芸術とともに歩む人生 · ナマンガン、工房、絵画
 
@@ -90,6 +90,8 @@ edition_date: "2026-10-13"
 ## 師ラヒム・アフメドフとともに
 
 ラヒム・アフメドフはウズベキスタン絵画を代表する画家の一人であり、幾世代もの美術家を育てた教育者である。ウズベク・ソビエト社会主義共和国とソ連の人民芸術家、教授、ソ連美術アカデミー通信会員という経歴は、**[ロシア美術アカデミーの公式略歴](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**に記されている。心理描写に優れた肖像、風俗画、風景画は、確かな絵画の伝統と人々やウズベキスタン文化への関心を結びつける。ヴァリホジャエフは1986年から1991年までその工房で学び、この師弟関係は専門家としての形成に重要な役割を果たした。
+
+この絵画教育には、さらに先へと続く系譜がある。アフメドフ自身も1937〜1941年にタシケントで**[アレクサンドル・ヴォルコフ](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)**と**[ニコライ・カラハン](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**に学び、戦時中にはサマルカンドで**[パーヴェル・ベンコフ](<https://library.orientmuseum.ru/book.php?id=243>)**のもとで学び続けた。ヴォルコフの形と色の探求に魅了される一方、ベンコフの指導を通じ、戸外制作における光と空気の表現への理解を深めた。**[自身の師について語った回想](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)**からは、アフメドフのアトリエをウズベキスタン絵画の重要な潮流につなぐ、師たちの連なりをたどることができる。
 
 アーカイブ写真は、師と若い画家が同じ美術の環境に並んでいる姿を伝える。アフメドフ自身の作品はサザビーズのカタログで見られる。**[For Whom、1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**と**[Girl from Surkhandarya、1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**である。リンクは師の芸術を、写真はヴァリホジャエフが学んだ環境を知る手がかりとなる。
 

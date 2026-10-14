@@ -4,14 +4,14 @@ language: "de"
 theme: 17
 description: "Dias, Lena und Sasha: Drei Porträts von Valikhodjaev zeigen, wie Haltung, Kleidung und Umgebung über die bloße Ähnlichkeit hinausführen."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Jenseits der Ähnlichkeit: Dias, Lena und Sasha in Valikhodjaevs Porträts
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-eines-portrats-menschliche.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
 
 Die Figur und der Bildraum
 

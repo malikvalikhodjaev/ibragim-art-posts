@@ -4,14 +4,14 @@ language: "uz"
 theme: 11
 description: "«Namangan syuitasi»da bozor hayoti: qo‘l harakatlari, do‘ppilar, oq ro‘mollar va ko‘p figurali kompozitsiya."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # «Namangan syuitasi»: katta kartina ichidagi kundalik hayot
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_170.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_170.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
+[Videoyozuv](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
 
 Bitta rasmning hikoyasi
 

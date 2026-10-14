@@ -4,14 +4,14 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_925.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
-[영상](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[영상](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 예술과 함께한 삶 · 나망간, 작업실, 회화
 
@@ -90,6 +90,8 @@ edition_date: "2026-10-13"
 ## 스승 라힘 아흐메도프와 함께
 
 라힘 아흐메도프는 우즈베키스탄 회화를 대표하는 거장이자 여러 세대의 미술가를 길러낸 교육자다. 우즈베크 소비에트 공화국과 소련의 인민예술가, 교수, 소련 미술아카데미 통신회원이라는 이력은 **[러시아 미술아카데미의 공식 약력](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**에 기록되어 있다. 심리적 깊이를 담은 초상화, 풍속화, 풍경화는 탄탄한 회화 전통을 사람과 우즈베키스탄 문화에 대한 관심과 결합한다. 발리호자예프는 1986~1991년 그의 작업실에서 공부했고, 이 사제 관계는 전문적인 성장의 중요한 부분이다.
+
+이 화풍의 교육에도 이어지는 계보가 있다. 아흐메도프 자신도 1937~1941년 타슈켄트에서 **[알렉산드르 볼코프](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)**와 **[니콜라이 카라한](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**에게 배웠고, 전쟁 중에는 사마르칸트에서 **[파벨 벤코프](<https://library.orientmuseum.ru/book.php?id=243>)**의 지도를 받으며 공부를 이어 갔다. 볼코프의 형태와 색채 탐구에 매료되었으며, 벤코프의 수업을 통해 야외 회화의 빛과 대기에 대한 이해를 깊게 했다. **[스승들에 대한 그의 회고](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)**을 통해 아흐메도프의 작업실과 우즈베키스탄 회화의 주요 흐름을 잇는 스승들의 계보를 살펴볼 수 있다.
 
 기록 사진은 스승과 젊은 화가가 같은 미술계의 환경에서 함께하는 모습을 보여준다. 아흐메도프 자신의 작품은 소더비 카탈로그에서 볼 수 있다. **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**와 **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**다. 링크는 스승의 예술을, 기록 사진은 발리호자예프가 배운 환경을 이해하게 한다.
 

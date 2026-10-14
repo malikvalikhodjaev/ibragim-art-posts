@@ -4,14 +4,14 @@ language: "en"
 theme: 17
 description: "Portraits of Dias Rakhmatov, Lena and Sasha: how Valikhodjaev constructs an image through colour, pose and the surrounding space."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Face, Pose and Space: Three Portraits by Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-quiet-of-portrait-how-ibragim.html>)
 
-[Video](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
+[Video](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
 
 The Figure and Pictorial Space
 

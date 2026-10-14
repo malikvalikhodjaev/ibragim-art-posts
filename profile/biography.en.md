@@ -4,14 +4,14 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
-[Video](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 
@@ -397,6 +397,8 @@ Ibragim Valikhodjaev at an award ceremony. Artist’s archive.
 ## With Master Rahim Ahmedov
 
 Rahim Ahmedov was an Uzbek painter and teacher, a People’s Artist and Academician whose portraiture helped shape Uzbekistan’s modern painting tradition. Valikhodjaev studied in his studio in 1986–1991. These photographs bring that professional lineage into the personal archive: the teacher and the younger artist appear within the same artistic community. The works linked below are Ahmedov’s paintings, documented in Sotheby’s catalogues.
+
+This school had its own lineage. In 1937–1941, Ahmedov himself studied in Tashkent with **[Alexander Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** and **[Nikolai Karakhan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**; during the war, he continued his training in Samarkand with **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)**. Volkov’s explorations of form and colour fascinated him, while Benkov’s teaching deepened his understanding of light and atmosphere in plein-air painting. **[His recollections of his own teachers](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** trace this chain of teachers, connecting Ahmedov’s studio with several important strands of painting in Uzbekistan.
 
 [Master Rahim Ahmedov and Ibragim Valikhodjaev. Artist’s personal archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSxwNVmfJwNVbkr9ukp5MSrJ7bqBAWOokpYCQMXDtFXmvK19HU0o8X9C1xDR3zTSg4mFsnz1BE7pC2F6zoaooQRDLXeVWN4DLgmJbeDlJo6oqcRUj63Ac7AnOmRCJawUsH3NxTGCRxM2arSxwRozlfXs5Fe7E4pd2UdBoIWBHgoblGd4gwaSOWlJEbE3fG/s0/clipboard.png>)
 

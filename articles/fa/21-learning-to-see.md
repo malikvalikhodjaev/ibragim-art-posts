@@ -4,14 +4,14 @@ language: "fa"
 theme: 21
 description: "چهره‌ای از زندگی ابراهیم ولی‌خوجایف بر پایهٔ مصاحبه‌ها و آثار آرشیوی؛ بازار، RED، انتزاع، مجسمه‌سازی و آموزش."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # آموختن دیدن: ابراهیم ولی‌خوجایف و زندگی در هنر
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_878.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[ویدئو](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 <div dir="rtl" lang="fa">
 
@@ -92,6 +92,8 @@ edition_date: "2026-10-13"
 ## در کنار استاد رحیم احمدوف
 
 رحیم احمدوف از استادان برجستهٔ نقاشی ازبکستان و آموزگار چند نسل از هنرمندان بود. عنوان‌های هنرمند مردمی جمهوری سوسیالیستی ازبکستان و اتحاد شوروی، پروفسور و عضو وابستهٔ آکادمی هنرهای شوروی در **[زندگی‌نامهٔ او در وب‌سایت آکادمی هنرهای روسیه](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** ثبت شده‌اند. پرتره‌های روان‌شناختی، صحنه‌های زندگی روزمره و منظره‌هایش سنتی استوار در نقاشی را با توجه به انسان و فرهنگ ازبکستان پیوند می‌دهند. ولی‌خوجایف در سال‌های ۱۹۸۶ تا ۱۹۹۱ در کارگاه او تحصیل کرد؛ این رابطه بخش مهمی از شکل‌گیری حرفه‌ای اوست.
+
+این مکتب نیز تداوم تاریخی خود را داشت. احمدوف در سال‌های ۱۹۳۷ تا ۱۹۴۱ در تاشکند نزد **[الکساندر ولکوف](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** و **[نیکلای کاراخان](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)** آموزش دید و در دوران جنگ، تحصیل را در سمرقند نزد **[پاول بنکوف](<https://library.orientmuseum.ru/book.php?id=243>)** ادامه داد. جست‌وجوهای ولکوف در فرم و رنگ برایش جذاب بود؛ درس‌های بنکوف نیز درک او از نور و فضای نقاشی در هوای آزاد را عمیق‌تر کرد. **[خاطرات او از استادانش](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** امکان دنبال‌کردن این سلسلهٔ استادان را فراهم می‌کند؛ سلسله‌ای که کارگاه احمدوف را به جریان‌های مهم نقاشی ازبکستان پیوند می‌دهد.
 
 عکس آرشیوی استاد و هنرمند جوان را در یک محیط هنری مشترک کنار هم نشان می‌دهد. آثار خود احمدوف در فهرست‌های ساتبیز قابل مشاهده‌اند: **[For Whom، ۱۹۷۵](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** و **[Girl from Surkhandarya، ۱۹۵۹](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. این پیوندها هنر آموزگار را معرفی می‌کنند و آرشیو، محیطی را که ولی‌خوجایف در آن آموزش دید.
 

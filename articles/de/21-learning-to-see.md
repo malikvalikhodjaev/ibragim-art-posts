@@ -4,14 +4,14 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Ein Leben in der Kunst · Namangan, Atelier und Malerei
 
@@ -90,6 +90,8 @@ Meister Rahim Ahmedov und Ibragim Valikhodjaev. Persönliches Archiv des Künstl
 ## Mit Meister Rahim Ahmedov
 
 Rahim Ahmedov zählt zu den bedeutenden Meistern der usbekischen Malerei und bildete mehrere Künstlergenerationen aus. Seine Auszeichnungen als Volkskünstler der Usbekischen SSR und der UdSSR sowie seine Stellung als Professor und korrespondierendes Mitglied der Kunstakademie der UdSSR sind in der **[Biografie der Russischen Kunstakademie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** dokumentiert. Seine psychologischen Porträts, Genrebilder und Landschaften verbinden eine fundierte Maltradition mit Aufmerksamkeit für Menschen und die usbekische Kultur. Valikhodjaev studierte von 1986 bis 1991 in seinem Atelier; diese Verbindung gehört wesentlich zu seiner Ausbildung.
+
+Diese Schule hatte ihre eigene Tradition. Ahmedov selbst studierte von 1937 bis 1941 in Taschkent bei **[Alexander Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** und **[Nikolai Karakhan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**; während des Krieges setzte er seine Ausbildung in Samarkand bei **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)** fort. Volkovs Suche nach neuen Formen und Farben faszinierte ihn. Benkovs Unterricht vertiefte sein Verständnis von Licht und Atmosphäre in der **[Freilichtmalerei](<https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html>)**. **[Seine Erinnerungen an seine eigenen Lehrer](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** machen diese Folge von Lehrern sichtbar und verbinden Ahmedovs Atelier mit wichtigen Strömungen der Malerei in Usbekistan.
 
 Das Archivfoto zeigt den Meister und den jungen Künstler gemeinsam in ihrem künstlerischen Umfeld. Ahmedovs eigene Werke lassen sich in den Katalogen von Sotheby’s betrachten: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** und **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Die Links erschließen die Kunst des Lehrers; das Archiv vermittelt das Umfeld, in dem Valikhodjaev lernte.
 
@@ -247,7 +249,7 @@ Dieses Tempo beruht auf fortlaufender Beobachtung und malerischen Entscheidungen
 
 ### Freilichtmalerei beginnt mit dem Sehen
 
-**[Freilichtmalerei](<https://ibragim-valikhodjaev.blogspot.com/2026/10/raum-fur-malerei-pleinair-und.html>)** beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
+Freilichtmalerei beginnt vor dem ersten Pinselstrich, mit einem Spaziergang und der Wahl des Standpunkts. Die Fotos zeigen eine Dorfstraße, einen engen Hof, einen felsigen Hang und Herbstbäume. Ein Motiv lässt sich als Wechsel heller Wände und dunkler Öffnungen lesen, ein anderes als Verlauf eines Weges zwischen Häusern. Der Maler wählt das Motiv und die Ordnung der großen Bildmassen.
 
 Die Arbeitsfotos ergänzen die Landschaftsbilder um Maßstab, wechselndes Licht und Oberflächen. Wände, Dächer, ein Erdstreifen und eine Baumkrone liefern Stoff für Farbbeziehungen. Im fertigen Bild kann die Beobachtung freier und verdichteter werden; die Verbindung zum Motiv bleibt im Raumaufbau erhalten. Ort und Jahr dieser Fotos sind nicht belegt. Ihr Aussehen erlaubt keine Zuordnung zu einem bestimmten Aufenthalt in Miraki, Montenegro oder Aserbaidschan.
 

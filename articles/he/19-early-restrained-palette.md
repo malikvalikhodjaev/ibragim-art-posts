@@ -4,14 +4,14 @@ language: "he"
 theme: 19
 description: "«תפילה», «כדים», «מבט» ו«אבנים קדושות»: גוונים עדינים, מרווחים ומתח בציוריו המוקדמים של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_803.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # פלטה מצומצמת, מתח רב: בציוריו המוקדמים של וליכודג'ייב
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_803.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_803.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[סרטון](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 <div dir="rtl" lang="he">
 

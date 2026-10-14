@@ -4,14 +4,14 @@ language: "tr"
 theme: 17
 description: "Dias, Lena ve Sasha: Valikhodjaev’in üç portresinde yüz, duruş, giysi ve çevre insan varlığını farklı biçimlerde aktarır."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Yüz, duruş ve mekân: Dias, Lena ve Sasha’nın portreleri
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-portrenin-sessizligi-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
+[Video kaydı](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
 
 Figür ve Resimsel Mekân
 

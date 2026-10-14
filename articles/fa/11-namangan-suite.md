@@ -4,14 +4,14 @@ language: "fa"
 theme: 11
 description: "آدم‌ها، عرقچین‌ها و روسری‌های سفید در «سوئیت نامانگان»؛ حرکت زندگی روزمره در یک ترکیب‌بندی گسترده."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_25.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # «سوئیت نامانگان»: زندگی درون یک نقاشی بزرگ
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_25.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_25.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
+[ویدئو](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
 
 <div dir="rtl" lang="fa">
 

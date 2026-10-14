@@ -4,14 +4,14 @@ language: "fr"
 theme: 21
 description: "Formation, recherches, enseignement et projets internationaux : une vie d’artiste racontée à partir d’entretiens publiés."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Apprendre à voir : Ibragim Valikhodjaev, une vie dans l’art
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Vidéo](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Une vie dans l’art · Namangan, l’atelier et la peinture
 
@@ -90,6 +90,8 @@ Le maître Rahim Ahmedov et Ibragim Valikhodjaev. Archives personnelles de l’a
 ## Auprès du maître Rahim Ahmedov
 
 Rahim Ahmedov est une figure majeure de la peinture ouzbèke et un pédagogue qui a formé plusieurs générations d’artistes. Ses titres d’artiste du peuple de la RSS d’Ouzbékistan et de l’URSS, de professeur et de membre correspondant de l’Académie des arts de l’URSS sont documentés dans sa **[biographie publiée par l’Académie des arts de Russie](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. Ses portraits psychologiques, scènes de genre et paysages associent une solide tradition picturale à l’attention portée aux personnes et à la culture ouzbèke. Valikhodjaev étudia dans son atelier de 1986 à 1991 ; ce lien constitue une part importante de sa formation.
+
+Cette école avait sa propre filiation. De 1937 à 1941, Ahmedov étudia lui-même à Tachkent auprès de **[Alexandre Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** et de **[Nikolaï Karakhan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**, puis poursuivit sa formation pendant la guerre à Samarcande auprès de **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)**. Les recherches de Volkov sur la forme et la couleur le fascinaient ; les leçons de Benkov affinèrent sa perception de la lumière et de l’atmosphère dans la peinture de plein air. **[Ses souvenirs de ses propres maîtres](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** permettent de suivre cette filiation, qui relie l’atelier d’Ahmedov à plusieurs courants importants de la peinture en Ouzbékistan.
 
 La photographie d’archives réunit le maître et le jeune artiste au sein d’un même milieu artistique. Les œuvres d’Ahmedov lui-même sont présentées dans les catalogues de Sotheby’s : **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** et **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Ces liens éclairent l’art du professeur ; les archives donnent à voir le milieu dans lequel Valikhodjaev s’est formé.
 

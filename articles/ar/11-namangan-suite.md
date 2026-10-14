@@ -4,14 +4,14 @@ language: "ar"
 theme: 11
 description: "«متتالية نامانغان»: الناس والقبعات المطرّزة والأوشحة البيضاء والإيقاع في لوحة بازار كبيرة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_708.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # «متتالية نامانغان»: الحياة داخل لوحة كبيرة
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_708.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_708.html>)
 
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
 
 <div dir="rtl" lang="ar">
 

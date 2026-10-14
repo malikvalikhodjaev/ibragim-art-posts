@@ -4,14 +4,14 @@ language: "ar"
 theme: 17
 description: "دياس رحمتوف ولينا وساشا: ثلاثة بورتريهات تكشف دور الوجه والوضعية والخلفية واللون."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # الوجه والوضعية والفضاء: ثلاثة بورتريهات لفاليخودجاييف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_053.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_053.html>)
 
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
 
 <div dir="rtl" lang="ar">
 

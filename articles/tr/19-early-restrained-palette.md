@@ -4,14 +4,14 @@ language: "tr"
 theme: 19
 description: "Dua, Sürahiler ve Bakış: Valikhodjaev’in erken dönem resimlerinde açık tonlar, ölçülü renk ve ince yüzey farklılıkları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Ölçülü bir paletin gücü: Valikhodjaev’in erken dönem resimleri
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fonun-da-bir-sesi-var-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[Video kaydı](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 Erken Dönem Eserleri · Sade Renk Paleti
 

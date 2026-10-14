@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 21
 description: "依据公开访谈与艺术家档案，回望瓦利霍贾耶夫从纳曼干集市到抽象、雕塑与教学的艺术探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # 学会观看：伊布拉吉姆·瓦利霍贾耶夫的艺术人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_373.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
 
-[视频](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[视频](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 艺术人生 · 纳曼干、工作室与绘画
 
@@ -90,6 +90,8 @@ edition_date: "2026-10-13"
 ## 与拉希姆·艾哈迈多夫老师在一起
 
 拉希姆·艾哈迈多夫是乌兹别克绘画的重要名家，也是一位培养了数代艺术家的教师。他获得乌兹别克苏维埃社会主义共和国及苏联人民艺术家称号，任教授，并为苏联艺术科学院通讯院士；这些资历见于**[俄罗斯艺术科学院的官方传记](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**。他的心理性肖像、风俗画和风景画，将扎实的绘画传统与对人物及乌兹别克文化的关注结合起来。瓦利霍贾耶夫于1986至1991年在其工作室学习，这段师承关系是其专业成长的重要部分。
+
+这一教学传统也有自己的源流。1937至1941年，艾哈迈多夫本人在塔什干师从**[亚历山大·沃尔科夫](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)**和**[尼古拉·卡拉汉](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**；战争期间，他又在撒马尔罕随**[帕维尔·本科夫](<https://library.orientmuseum.ru/book.php?id=243>)**继续学习。沃尔科夫对形式与色彩的探索令他着迷，而本科夫的指导使他更深入地理解户外写生中的光线与空气感。通过**[他对自己老师的回忆](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)**，可以追溯这条师承脉络，看到艾哈迈多夫的画室与乌兹别克斯坦绘画中几种重要传统的联系。
 
 档案照片呈现了老师与年轻画家并肩处于同一艺术圈中的情景。艾哈迈多夫本人的作品可见于苏富比目录：**[For Whom，1975年](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)**及**[Girl from Surkhandarya，1959年](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**。这些链接展示的是老师的艺术，档案则帮助读者了解瓦利霍贾耶夫受训的环境。
 

@@ -4,14 +4,14 @@ language: "fa"
 theme: 19
 description: "«دعا»، «کوزه‌ها» و «نگاه»: تفاوت‌های ظریف تُن و رنگ در نقاشی‌های آغازین ابراهیم ولی‌خوجایف."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_502.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # سکوت رنگ‌های محدود: نقاشی‌های آغازین با سفید و خاکستری
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_502.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_502.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[ویدئو](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 <div dir="rtl" lang="fa">
 

@@ -4,14 +4,14 @@ language: "uz"
 theme: 21
 description: "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_573.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Videoyozuv](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Hayot va san’at · Namangan, ustaxona, rangtasvir
 
@@ -90,6 +90,8 @@ Ustoz Rahim Ahmedov va Ibrohim Valixo‘jayev. Rassomning shaxsiy arxividan.
 ## Ustoz Rahim Ahmedov bilan
 
 Rahim Ahmedov — o‘zbek rangtasvirining yirik ustalaridan biri, bir necha avlod rassomlariga ta’lim bergan pedagog. Uning O‘zbekiston SSR va SSSR xalq rassomi, professor hamda SSSR Badiiy akademiyasining muxbir a’zosi bo‘lganligi **[Rossiya Badiiy akademiyasi saytida berilgan tarjimai holida](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** qayd etilgan. Psixologik portretlari, maishiy kompozitsiyalari va manzaralarida rangtasvir maktabi insonga hamda O‘zbekiston madaniyatiga e’tibor bilan uyg‘unlashadi. Valixo‘jayev 1986–1991-yillarda uning ustaxonasida tahsil olgan; ustoz bilan bu bog‘liqlik kasbiy kamolotining muhim qismidir.
+
+Bu maktabning o‘z davomiyligi bor edi. Ahmadovning o‘zi 1937–1941-yillarda Toshkentda **[Aleksandr Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** va **[Nikolay Karaxan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**dan ta’lim olgan, urush yillarida esa Samarqandda **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)** qo‘lida o‘qishni davom ettirgan. Volkovning shakl va rang izlanishlari uni qiziqtirgan; Benkov saboqlari plenerdagi yorug‘lik va havo muhitini chuqurroq his qilishga yordam bergan. **[Uning ustozlari haqidagi xotiralari](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** Ahmadov ustaxonasini O‘zbekiston rangtasvirining muhim yo‘nalishlari bilan bog‘laydigan shu ustozlar silsilasini ko‘rsatadi.
 
 Arxiv surati ustoz va yosh rassomni umumiy ijodiy muhitda yonma-yon ko‘rsatadi. Ahmedovning o‘z asarlarini Sotheby’s kataloglarida ko‘rish mumkin: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** va **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Havolalar ustoz san’atini, arxiv esa Valixo‘jayev ta’lim olgan muhitni yaxshiroq anglashga yordam beradi.
 

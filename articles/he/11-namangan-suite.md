@@ -4,14 +4,14 @@ language: "he"
 theme: 11
 description: "«סוויטת נמנגן»: אנשים, מחוות, מטפחות לבנות והמבנה הקצבי של סצנת השוק."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_94.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # «סוויטת נמנגן»: החיים בתוך ציור גדול
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_94.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_94.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=6HUupy5XvSs>)
+[סרטון](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
 
 <div dir="rtl" lang="he">
 

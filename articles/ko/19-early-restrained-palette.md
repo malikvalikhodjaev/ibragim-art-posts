@@ -4,14 +4,14 @@ language: "ko"
 theme: 19
 description: "「기도」「항아리들」「시선」「성스러운 돌들」. 절제된 색채와 미묘한 명암으로 형태를 만드는 초기 작품들."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_06.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # 절제된 색채의 고요 — 흰색과 회색의 초기 작품들
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_06.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_06.html>)
 
-[영상](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[영상](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 초기 작품 · 차분한 색조
 

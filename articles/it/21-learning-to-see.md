@@ -4,14 +4,14 @@ language: "it"
 theme: 21
 description: "La vita artistica di Valikhodjaev attraverso interviste pubblicate: il bazar, RED, l’astrazione, la scultura e la formazione."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Imparare a vedere: Ibragim Valikhodjaev e una vita nell’arte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
-[Video](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Una vita nell’arte · Namangan, lo studio e la pittura
 
@@ -90,6 +90,8 @@ Il maestro Rahim Ahmedov e Ibragim Valikhodjaev. Archivio personale dell’artis
 ## Accanto al maestro Rahim Ahmedov
 
 Rahim Ahmedov è uno dei grandi maestri della pittura uzbeka e un docente che ha formato diverse generazioni di artisti. I suoi titoli di Artista del popolo della RSS Uzbeka e dell’URSS, professore e membro corrispondente dell’Accademia delle arti dell’URSS sono documentati nella **[biografia dell’Accademia delle arti russa](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)**. Ritratti psicologici, scene di genere e paesaggi uniscono una solida tradizione pittorica all’attenzione per le persone e la cultura uzbeka. Valikhodjaev studiò nel suo atelier dal 1986 al 1991; questo rapporto costituisce una parte importante della sua formazione.
+
+Questa scuola aveva una propria continuità. Tra il 1937 e il 1941 Ahmedov studiò a Tashkent con **[Aleksandr Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** e **[Nikolaj Karakhan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)**; durante la guerra proseguì la formazione a Samarcanda con **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)**. Lo affascinavano le ricerche di Volkov sulla forma e sul colore, mentre le lezioni di Benkov approfondirono la sua sensibilità alla luce e all’atmosfera nella **[pittura en plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html>)**. **[I suoi ricordi dei propri maestri](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)** permettono di seguire questa successione di maestri, che collega l’atelier di Ahmedov a importanti filoni della pittura in Uzbekistan.
 
 La fotografia d’archivio mostra il maestro e il giovane artista insieme, nello stesso ambiente artistico. Le opere di Ahmedov sono consultabili nei cataloghi Sotheby’s: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** e **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. I collegamenti permettono di conoscere l’arte del docente, mentre l’archivio restituisce il contesto in cui Valikhodjaev si formò.
 
@@ -327,7 +329,7 @@ Inaugurazione della mostra "Nuovo sguardo (New View)", Uzbekistan, Tashkent, 202
 
 ## Un nuovo luogo cambia l'incontro con l'opera
 
-Viaggiare offre un nuovo contesto a questa esplorazione. Nel 2012, Valikhodjaev ha partecipato come pittore a un raduno di artisti en **[plein air](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fare-spazio-alla-pittura-plein-air-e.html>)** in Montenegro, per poi esporre le opere create in quell'occasione a Tashkent. La sua produzione en plein air comprende anche Turchia, Uzbekistan e Azerbaigian. A Hulan, in Cina, ha partecipato come scultore, traducendo una composizione in metallo per un progetto di scultura galleggiante.
+Viaggiare offre un nuovo contesto a questa esplorazione. Nel 2012, Valikhodjaev ha partecipato come pittore a un raduno di artisti en plein air in Montenegro, per poi esporre le opere create in quell'occasione a Tashkent. La sua produzione en plein air comprende anche Turchia, Uzbekistan e Azerbaigian. A Hulan, in Cina, ha partecipato come scultore, traducendo una composizione in metallo per un progetto di scultura galleggiante.
 
 Nel 2021 il soggiorno in Turchia ha unito la partecipazione a un programma di pittura en plein air a una mostra personale al Centro culturale di Maltepe, a Istanbul. Dipingere dal vero e presentare i risultati in mostra costituivano due momenti successivi del lavoro.
 

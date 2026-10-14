@@ -4,14 +4,14 @@ language: "tr"
 theme: 21
 description: "Yayımlanmış söyleşilerden bir sanatçı portresi: Valikhodjaev’in eğitimi, çarşı resmi, renk araştırmaları ve uluslararası çalışmaları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Görmeyi öğrenmek: İbrahim Valikhodjaev’in sanatla geçen hayatı
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=YDam8qV9EP0>)
+[Video kaydı](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
 
 Sanatla geçen bir hayat · Namangan, atölye ve resim
 
@@ -90,6 +90,8 @@ Usta Rahim Ahmedov ve Ibragim Valikhodjaev. Sanatçının kişisel arşivi.
 ## Usta Rahim Ahmedov ile
 
 Rahim Ahmedov, Özbek resminin önde gelen ustalarından ve birkaç kuşak sanatçı yetiştirmiş bir eğitimcidir. Özbek SSC ve SSCB Halk Sanatçısı, profesör ve SSCB Sanat Akademisi muhabir üyesi unvanları **[Rusya Sanat Akademisi’ndeki biyografisinde](<https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51494>)** yer alır. Psikolojik portreleri, gündelik yaşam kompozisyonları ve manzaraları, resim geleneğini insana ve Özbek kültürüne duyarlılıkla birleştirir. Valikhodjaev 1986–1991 yıllarında onun atölyesinde eğitim aldı; bu ilişki mesleki gelişiminin önemli bir parçasıdır.
+
+Bu okulun kendi sürekliliği vardı. Ahmedov, 1937–1941 yıllarında Taşkent’te **[Aleksandr Volkov](<https://www.sothebys.com/en/auctions/ecatalogue/2009/russian-art-n08538/lot.33.html>)** ve **[Nikolay Karahan](<https://orientmuseum.ru/events/2019/karahan/index.php?lang=en>)** ile çalışmış, savaş sırasında Semerkant’ta **[Pavel Benkov](<https://library.orientmuseum.ru/book.php?id=243>)** ile eğitimini sürdürmüştü. Volkov’un biçim ve renk arayışları onu etkilerken Benkov’un dersleri açık hava resminde ışığı ve atmosferi daha derinden kavramasını sağladı. **[Kendi öğretmenlerine ilişkin anıları](<https://sanat.orexca.com/2001-rus/2001-3-2/congratulations-2/>)**, Ahmedov’un atölyesini Özbekistan resminin önemli çizgilerine bağlayan bu öğretmenler zincirini izlememize olanak verir.
 
 Arşiv fotoğrafı, usta ile genç sanatçıyı ortak bir sanat çevresinde yan yana gösteriyor. Ahmedov’un kendi eserleri Sotheby’s kataloglarında görülebilir: **[For Whom, 1975](<https://www.sothebys.com/en/auctions/ecatalogue/2014/at-the-crossroads-2-l14009/lot.13.html>)** ve **[Girl from Surkhandarya, 1959](<https://www.sothebys.com/en/auctions/ecatalogue/2013/central-asia-selling-exhibition-l13009/lot.7.html>)**. Bağlantılar hocanın sanatını, arşiv ise Valikhodjaev’in yetiştiği ortamı tanımaya yardımcı olur.
 

@@ -4,14 +4,14 @@ language: "it"
 theme: 19
 description: "Preghiera, Brocche, Sguardo e Pietre sacre: sfumature tonali e forza espressiva della tavolozza sobria di Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # Il silenzio di una tavolozza contenuta: le prime opere in bianco e grigio
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/il-silenzio-di-una-tavolozza-contenuta.html>)
 
-[Video](<https://www.youtube.com/watch?v=mYYUV4Mg_RI>)
+[Video](<https://www.youtube.com/watch?v=1evPDLicSeM>)
 
 Opere giovanili · Tavolozza dai colori tenui
 

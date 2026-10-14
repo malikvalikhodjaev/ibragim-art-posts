@@ -4,14 +4,14 @@ language: "he"
 theme: 17
 description: "דיאס רחמטוב, לנה וסשה: פנים, תנוחה, לבוש וחלל בשלושה דיוקנאות משנים שונות."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-14"
 ---
 
 # פנים, תנוחה ומרחב: שלושה דיוקנאות של וליכודג'ייב
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_677.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_677.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=rOy6DqkvTAI>)
+[סרטון](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
 
 <div dir="rtl" lang="he">
 
