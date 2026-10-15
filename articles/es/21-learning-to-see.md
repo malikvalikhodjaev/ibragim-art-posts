@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Vídeo](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 Una vida en el arte · Namangán, el taller y la pintura
 

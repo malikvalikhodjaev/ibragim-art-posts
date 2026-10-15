@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Vidéo](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 Une vie dans l’art · Namangan, l’atelier et la peinture
 

@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_878.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[ویدئو](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 <div dir="rtl" lang="fa">
 

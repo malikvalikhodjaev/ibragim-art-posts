@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_895.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
-[映像](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[映像](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 芸術とともに歩む人生 · ナマンガン、工房、絵画
 

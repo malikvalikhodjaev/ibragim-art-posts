@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_08.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_08.html>)
 
-[影片](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[影片](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 藝術人生 · 納曼干、工作室與繪畫
 

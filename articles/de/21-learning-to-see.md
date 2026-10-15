@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 Ein Leben in der Kunst · Namangan, Atelier und Malerei
 

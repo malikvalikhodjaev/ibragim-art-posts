@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
-[Video](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Video](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 
@@ -76,7 +76,7 @@ Towards the end of the conversation, he returns to a concrete concern: what happ
 - **2018:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, Uzbekistan, Tashkent (Painter).
 - **2018:** Contemporary Art Gallery of the National Bank of Uzbekistan, «From Dream to Destiny», Uzbekistan, Tashkent (Painter).
 - **2018:** United States Embassy, Uzbekistan, Tashkent (Painter).
-- **2016:** Bonum Factum Gallery, «Red», Uzbekistan, Tashkent, April (Painter).
+- **2017:** Bonum Factum Gallery, «Red», Uzbekistan, Tashkent, opened 31 March (Painter). [Exhibition coverage](<https://www.uzbekembassy.in/shades-of-red/>).
 - **2012:** Culture and Art Exhibition Hall, «21 Days in Montenegro», Uzbekistan, Tashkent, 28 June–13 July (Painter).
 - **2008:** Central Exhibition Hall of the Academy of Arts of Uzbekistan, Uzbekistan, Tashkent (Painter).
 - **2007:** Ilkhom Theatre, Uzbekistan, Tashkent (Painter).
@@ -202,7 +202,7 @@ Gallery: **[valikhodjaev.gallery.house@gmail.com](<mailto:valikhodjaev.gallery.h
 
 ## Additional teaching and institutional experience
 
-Archival records also document his work as a tutor at the Mannon Uygur Tashkent State Art Institute (1991–1994), Chairman of the Special Fund of the Academy of Arts of Uzbekistan (1999–2005), teacher at the Kamoliddin Bekhzod National Institute of Arts and Design (2006–2007), and Head of Creative Activities and Exhibition Coordination at the Academy of Arts of Uzbekistan (2017–2018). The Special Fund is listed separately from his chairmanship of the Art Fund of the Republic of Uzbekistan (1999–2012).
+Archival records also document his work as a tutor at the Mannon Uygur Tashkent State Art Institute (1991–1994), Chairman of the Special Art Fund of the Academy of Arts of Uzbekistan (1999–2005), teacher at the Kamoliddin Bekhzod National Institute of Arts and Design (2006–2007), and Head of Creative Activities and Exhibition Coordination at the Academy of Arts of Uzbekistan (2017–2018). The Special Art Fund is listed separately from his chairmanship of the Art Fund of the Republic of Uzbekistan (1999–2012).
 
 His 50th-birthday exhibition at the Central Exhibition Hall in Uzbekistan, Tashkent, in 2008 presented more than 200 works. That year he was also awarded the Gold Medal of the Academy of Arts of Uzbekistan. The updated CV includes further exhibitions documented in the archive, including international exhibitions in the United States in 1996.
 
@@ -212,9 +212,9 @@ His 50th-birthday exhibition at the Central Exhibition Hall in Uzbekistan, Tashk
 
 Ibragim Valikhodjaev during his student years, beside a plaster study bust, 1988. Artist’s archive.
 
-[Ibragim Valikhodjaev, head of the Special Fund, 2002. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
+[Ibragim Valikhodjaev, head of the Special Art Fund, 2002. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvtL9deradVLISeKPc-1GzG9_4ZXTSLjMA0r-23FrjVku3QDnK2FO0rYN8pIpwk3ScE6dSyxWBJ2sDAM29P8I5f3O1cqnQPyYmVTD37lfImwH7o82-2xXj6mjLOocH-OLZ_gFerNmk8QfW-7egVer5DjX63JO8KCO5JVfv2bUyjIlwU3tPpcyJViUj3_e/s1600/clipboard.png>)
 
-Ibragim Valikhodjaev, head of the Special Fund, 2002. Artist’s archive.
+Ibragim Valikhodjaev, head of the Special Art Fund, 2002. Artist’s archive.
 
 [Ibragim Valikhodjaev at his jubilee exhibition in 2008. Artist’s archive.](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwO_KE089WQc4VA_ANw77EBoZLS9uUerYipKDcWyDQegdcrvqW4SPzrOjN6W00yG4-UG_UtOC_kTtvcqxIdlMXz0vG2MDN0eLSnTyMtq2GQnuG7bVXT0HdnId8r0wrNg9DP_e6Q5jufDiM7nvApYpp7cKxx5d5msuhsd8QGohB-cjT1laKLIXgu_rViN8h/s1600/clipboard.png>)
 
@@ -270,7 +270,7 @@ The relationship with Master Rahim Ahmedov illuminates this continuity. Training
 
 Ibragim Valikhodjaev and Master Rahim Ahmedov at an exhibition gathering. Artist’s archive.
 
-His career developed alongside changes in Uzbekistan’s art institutions. The Academy of Arts was established on 23 January 1997; that year Valikhodjaev became chairman of the Namangan branch of the Union of Artists. He later headed the Academy’s Special Fund in 1999–2005 and the Art Fund of Uzbekistan in 1999–2012. His Union chairmanship since 2017, appointment as an Academician in 2023, gallery work and international projects show how making art can connect with creating conditions for others. This is a parallel between a biography and its cultural setting, rather than a claim that one artist determined that setting’s development.
+His career developed alongside changes in Uzbekistan’s art institutions. The Academy of Arts was established on 23 January 1997; that year Valikhodjaev became chairman of the Namangan branch of the Union of Artists. He later headed the Academy’s Special Art Fund in 1999–2005 and the Art Fund of Uzbekistan in 1999–2012. His Union chairmanship since 2017, appointment as an Academician in 2023, gallery work and international projects show how making art can connect with creating conditions for others. This is a parallel between a biography and its cultural setting, rather than a claim that one artist determined that setting’s development.
 
 **[Historical context: Academy of Arts of Uzbekistan](<https://art-academy.uz/ru/pages/akademiya-tarixi>)**
 

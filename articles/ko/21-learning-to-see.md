@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_925.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
-[영상](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[영상](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 예술과 함께한 삶 · 나망간, 작업실, 회화
 

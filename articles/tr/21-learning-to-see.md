@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/gormeyi-ogrenmek-ibragim-valikhodjaevin.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Video kaydı](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 Sanatla geçen bir hayat · Namangan, atölye ve resim
 

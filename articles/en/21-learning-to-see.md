@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_179.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
-[Video](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Video](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 A life in art · Namangan, the workshop and painting
 

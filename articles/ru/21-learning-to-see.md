@@ -11,7 +11,7 @@ edition_date: "2026-10-15"
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
+[Видеозапись](<https://www.youtube.com/watch?v=jiMdJgI08qI>)
 
 История жизни · Наманган, мастерская, живопись
 
