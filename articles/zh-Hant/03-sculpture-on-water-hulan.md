@@ -4,14 +4,14 @@ language: "zh-Hant"
 theme: 3
 description: "呼蘭2024年漂浮雕塑計畫：瓦利霍賈耶夫以雕塑家身分參與，探索金屬造型、水面與光線。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 河面上的雕塑：伊布拉吉姆·瓦利霍賈耶夫在呼蘭
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_220.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_220.html>)
 
-[影片](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[影片](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 雕塑與環境
 

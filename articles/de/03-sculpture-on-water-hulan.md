@@ -4,14 +4,14 @@ language: "de"
 theme: 3
 description: "Hulan 2024: Valikhodjaev als Bildhauer beim Projekt schwimmender Skulpturen. Metall, Wasser und die wechselnde Wahrnehmung der Form."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Skulpturen auf dem Fluss: Ibragim Valikhodjaev in Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/skulpturen-auf-dem-fluss-ibragim.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Skulptur und Umwelt
 

@@ -4,14 +4,14 @@ language: "ja"
 theme: 9
 description: "「赤い馬」、REDの風景、ミラキ。ヴァリホジャエフが探る赤の表現力を、色面と輪郭から読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED――赤はどのように絵画を組み立てるのか
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red\_54.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red_54.html>)
 
-[映像](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[映像](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 赤・色と形
 

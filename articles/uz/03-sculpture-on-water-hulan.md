@@ -4,14 +4,14 @@ language: "uz"
 theme: 3
 description: "Xulan, Xitoy, 2024: Valixo‘jayevning haykaltarosh sifatidagi ishtiroki, metall silueti, suvdagi aks va daryo makoni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Suv ustidagi haykal: Ibrohim Valixo‘jayev Xulanda
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/daryo-ham-asarning-bir-qismi-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Videoyozuv](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Haykaltaroshlik va atrof-muhit
 

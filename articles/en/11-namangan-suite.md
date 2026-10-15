@@ -4,14 +4,14 @@ language: "en"
 theme: 11
 description: "Inside Namangan Suite: people, everyday gestures, white headscarves and vivid clothing in Valikhodjaev’s panoramic bazaar painting."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Namangan Suite: Life Inside a Large Painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/inside-namangan-suite-many-lives-in.html>)
 
-[Video](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Video](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 The story of one painting
 

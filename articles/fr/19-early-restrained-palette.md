@@ -4,14 +4,14 @@ language: "fr"
 theme: 19
 description: "Prière, Cruches, Regard et Pierres sacrées : nuances de tons et formes expressives dans les premières peintures."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Le silence d’une palette retenue : les premières œuvres en blanc et gris
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/le-silence-dune-palette-retenue-les.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Vidéo](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Premières œuvres · Palette discrète
 

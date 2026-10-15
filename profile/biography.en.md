@@ -4,14 +4,14 @@ language: "en"
 theme: 0
 description: "Ibragim Valikhodjaev — Uzbek painter, sculptor and curator. Biography, international exhibitions, public art projects, interviews and artist CV."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Ibragim Valikhodjaev — Biography, Exhibitions and Artist CV
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post.html>)
 
-[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Video](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 **Ibragim Valikhodjaev** (Ибрагим Валиходжаев) is a professional Uzbek painter and sculptor, art expert, curator and organiser of international art projects based in Uzbekistan, Tashkent. He is Chairman of the Union of Artists of Uzbekistan and an Academician of the Academy of Arts of Uzbekistan.
 

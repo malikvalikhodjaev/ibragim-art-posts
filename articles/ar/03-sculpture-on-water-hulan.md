@@ -4,14 +4,14 @@ language: "ar"
 theme: 3
 description: "فاليخودجاييف نحاتًا في هولان، الصين، عام 2024: المعدن والماء والمقياس في مشروع النحت العائم."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # نحت على الماء: إبراهيم فاليخودجاييف في هولان
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_090.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_090.html>)
 
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 <div dir="rtl" lang="ar">
 

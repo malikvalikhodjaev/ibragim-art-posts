@@ -4,14 +4,14 @@ language: "tr"
 theme: 6
 description: "Karadağ 2012: Perast’ın tekneleri, rıhtımı ve palmiyeleri. Valikhodjaev’in iki manzarasında renk ve mekânın kuruluşu."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Karadağ’da yirmi bir gün: Valikhodjaev’in kıyı manzaraları
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangandan-tuvale-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Video kaydı](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Karadağ Manzarası
 

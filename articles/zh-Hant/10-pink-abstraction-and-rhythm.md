@@ -4,14 +4,14 @@ language: "zh-Hant"
 theme: 10
 description: "細看《粉紅色抽象畫1號》：水平線、交錯筆觸、顏料層與觀看節奏；檔案未註明年份和尺寸。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_472.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 粉紅色域與一條線：抽象繪畫中的節奏
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_472.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_472.html>)
 
-[影片](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[影片](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 構成與節奏
 

@@ -4,14 +4,14 @@ language: "uz"
 theme: 10
 description: "«Pushti abstraksiya №1»: gorizontal chiziq, rangning zichligi, mo‘yqalam izlari va rangtasvirdagi pauzalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Pushti rang sohasi va bitta chiziq: abstrakt rangtasvirdagi ritm
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/kozning-kartina-boylab-sayri-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[Videoyozuv](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 Kompozitsiya va ritm
 

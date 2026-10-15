@@ -4,14 +4,14 @@ language: "de"
 theme: 9
 description: "Rote Pferde, Miraki und RED: Wie Valikhodjaev mit dominanten Farben, Konturen und dem Kontrast zu Blau Raum und Rhythmus gestaltet."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED: wie Rot ein Gemälde aufbaut
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-wie-rot-ein-gemalde-aufbaut.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 RED · Farbe und Form
 

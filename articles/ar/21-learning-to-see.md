@@ -4,14 +4,14 @@ language: "ar"
 theme: 21
 description: "بورتريه سيري لإبراهيم فاليخودجاييف من مقابلات منشورة وأعمال أرشيفية: البازار وRED والتجريد والنحت والتدريس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # تعلّم الرؤية: إبراهيم فاليخودجاييف وحياة في الفن
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_607.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_607.html>)
 
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 <div dir="rtl" lang="ar">
 

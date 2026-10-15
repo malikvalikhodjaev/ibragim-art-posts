@@ -4,14 +4,14 @@ language: "ru"
 theme: 16
 description: "«Гранаты» Ибрагима Валиходжаева: тёмные плоды, оранжевые плоскости и густая живописная поверхность. Рассматриваем картину и её детали."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_141.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Гранаты на оранжевом: маленький мир большой живописи
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_141.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_141.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=kouQIko-77Q>)
+[Видеозапись](<https://www.youtube.com/watch?v=ud3Bw3TcJoU>)
 
 Одна картина вблизи
 

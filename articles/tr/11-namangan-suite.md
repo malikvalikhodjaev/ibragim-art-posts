@@ -4,14 +4,14 @@ language: "tr"
 theme: 11
 description: "Namangan Süiti’nde çarşı hayatı: insan grupları, el hareketleri, işlemeli takkeler, beyaz başörtüleri ve canlı renkler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # «Namangan Süiti»: büyük bir tablonun içindeki hayat
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim\_01557250984.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bir-resimde-bircok-hayat-ibragim_01557250984.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Video kaydı](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 Bir resmin hikayesi
 

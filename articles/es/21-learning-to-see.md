@@ -4,14 +4,14 @@ language: "es"
 theme: 21
 description: "Del bazar a RED y la abstracción: un retrato biográfico de Ibragim Valikhodjaev basado en entrevistas y fuentes publicadas."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Aprender a mirar: Ibragim Valikhodjaev, una vida en el arte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/aprender-mirar-ibragim-valikhodjaev-una.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Vídeo](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 Una vida en el arte · Namangán, el taller y la pintura
 

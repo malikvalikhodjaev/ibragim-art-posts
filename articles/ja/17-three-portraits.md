@@ -4,14 +4,14 @@ language: "ja"
 theme: 17
 description: "ディアス・ラフマトフ、レナ、サーシャ。三つの肖像画に見る顔、姿勢、衣服、余白の関係。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 顔、姿勢、空間――三つの肖像画を読み解く
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_87.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_87.html>)
 
-[映像](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
+[映像](<https://www.youtube.com/watch?v=T9vhYsTKkDc>)
 
 人物像と絵画空間
 

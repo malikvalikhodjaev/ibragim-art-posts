@@ -4,14 +4,14 @@ language: "ar"
 theme: 19
 description: "«صلاة» و«أباريق» و«نظرة»: الفروق اللونية الدقيقة والتكوين في لوحات فاليخودجاييف المبكرة."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_048.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # هدوء الألوان القليلة: لوحات مبكرة بالأبيض والرمادي
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_048.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_048.html>)
 
-[تسجيل الفيديو](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[تسجيل الفيديو](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 <div dir="rtl" lang="ar">
 

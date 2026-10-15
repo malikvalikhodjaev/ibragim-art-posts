@@ -4,14 +4,14 @@ language: "fr"
 theme: 12
 description: "Harmonie supérieure, Dormeuse et Nu : trois études de la figure allongée, du contour et de l’espace pictural."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # La figure allongée : ligne et couleur dans les nus d’Ibragim Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figure-allongee-ligne-et-couleur.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
+[Vidéo](<https://www.youtube.com/watch?v=SxjXY3rP8Ek>)
 
 Nu · La figure humaine
 

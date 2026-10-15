@@ -4,14 +4,14 @@ language: "he"
 theme: 10
 description: "שדה ורוד, קו כהה ומרווחים: מבט מקרוב על הקצב והקומפוזיציה בציור מופשט של וליכודג'ייב."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_34.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # שדה ורוד וקו כהה: הקצב בציוריו של וליכודג'ייב
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_34.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_34.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[סרטון](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 <div dir="rtl" lang="he">
 

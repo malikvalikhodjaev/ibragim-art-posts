@@ -4,14 +4,14 @@ language: "it"
 theme: 11
 description: "Dentro la Suite di Namangan: gesti quotidiani, foulard bianchi e copricapi ricamati nella grande scena di bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # «Suite di Namangan»: la vita dentro una grande tela
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-di-namangan-la-vita-dentro-una.html>)
 
-[Video](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Video](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 La storia di un dipinto
 

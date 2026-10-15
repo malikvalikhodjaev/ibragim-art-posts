@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 10
 description: "细看《粉色抽象画1号》：水平线、交错笔触、颜料层与观看节奏；档案未注明年份和尺寸。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_185.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 粉红色域与一条线：抽象绘画中的节奏
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_185.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_185.html>)
 
-[视频](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[视频](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 构成与节奏
 

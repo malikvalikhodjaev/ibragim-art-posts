@@ -4,14 +4,14 @@ language: "ru"
 theme: 3
 description: "Плавающие скульптуры в Хулане, Китай, 2024: участие Ибрагима Валиходжаева как скульптора, работа с силуэтом, водой и отражением."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Скульптура на воде: Ибрагим Валиходжаев в Хулане, Китай
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_823.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_823.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Видеозапись](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Скульптура и среда
 

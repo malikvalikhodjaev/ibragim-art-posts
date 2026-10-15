@@ -4,14 +4,14 @@ language: "it"
 theme: 12
 description: "Armonia superiore, Dormiente e Nudo: tre studi della figura distesa, del contorno e dello spazio cromatico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # La figura distesa: linea e colore nei nudi di Ibragim Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/la-figura-distesa-linea-e-colore-nei.html>)
 
-[Video](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
+[Video](<https://www.youtube.com/watch?v=SxjXY3rP8Ek>)
 
 Nudo · La figura umana
 

@@ -4,14 +4,14 @@ language: "fr"
 theme: 11
 description: "Dans Suite de Namangan : gestes quotidiens, foulards blancs et vêtements colorés composent une vaste scène de bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # «Suite de Namangan» : la vie dans une grande toile
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vie-dans-une.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Vidéo](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 L'histoire d'un tableau
 

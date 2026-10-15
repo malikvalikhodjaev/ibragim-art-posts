@@ -4,14 +4,14 @@ language: "es"
 theme: 11
 description: "Suite de Namangan de cerca: gestos, pañuelos blancos, gorros bordados y grupos de figuras en una panorámica del bazar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # «Suite de Namangan»: la vida dentro de un gran lienzo
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/suite-de-namangan-la-vida-dentro-de-un.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Vídeo](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 La historia de un cuadro
 

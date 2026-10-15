@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 6
 description: "黑山2012年户外写生系列：比较《佩拉斯特港》与棕榈树风景中的海水、建筑和空间。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 在黑山的二十一天：佩拉斯特的海岸风景
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_812.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_812.html>)
 
-[视频](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[视频](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 黑山景观
 

@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 3
 description: "呼兰2024年漂浮雕塑项目：瓦利霍贾耶夫以雕塑家身份参与，探索金属造型、水面与光线。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 河面上的雕塑：伊布拉吉姆·瓦利霍贾耶夫在呼兰
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_232.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_232.html>)
 
-[视频](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[视频](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 雕塑与环境
 

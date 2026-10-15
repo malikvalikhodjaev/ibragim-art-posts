@@ -4,14 +4,14 @@ language: "fr"
 theme: 21
 description: "Formation, recherches, enseignement et projets internationaux : une vie d’artiste racontée à partir d’entretiens publiés."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Apprendre à voir : Ibragim Valikhodjaev, une vie dans l’art
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/apprendre-voir-ibragim-valikhodjaev-une.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Vidéo](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 Une vie dans l’art · Namangan, l’atelier et la peinture
 

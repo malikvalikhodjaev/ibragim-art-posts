@@ -4,14 +4,14 @@ language: "en"
 theme: 21
 description: "A life in art: Valikhodjaev’s education, artistic interests, teaching and international projects, drawn from published conversations."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Learning to See: Ibragim Valikhodjaev on a Life in Art
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_179.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_179.html>)
 
-[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Video](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 A life in art · Namangan, the workshop and painting
 

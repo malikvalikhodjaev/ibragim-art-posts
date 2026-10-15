@@ -4,14 +4,14 @@ language: "uz"
 theme: 19
 description: "«Ibodat», «Ko‘zalar», «Nigoh» va «Muqaddas toshlar»: ilk asarlardagi vazmin kolorit va nozik tonal munosabatlar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Vazmin palitradagi sokinlik: ilk oq-kulrang asarlar
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/fonning-ham-ovozi-bor-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Videoyozuv](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Dastlabki ishlar · Vazmin palitra
 

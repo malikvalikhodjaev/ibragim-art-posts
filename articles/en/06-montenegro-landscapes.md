@@ -4,14 +4,14 @@ language: "en"
 theme: 6
 description: "Boats, palms, pale stone and deep blue: a close look at two Perast paintings from Valikhodjaev’s Montenegro series of 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Twenty-one days in Montenegro: Valikhodjaev’s coastal paintings
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_716.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_716.html>)
 
-[Video](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Video](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Montenegro Landscape
 

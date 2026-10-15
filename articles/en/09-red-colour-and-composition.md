@@ -4,14 +4,14 @@ language: "en"
 theme: 9
 description: "Red Horses, RED landscapes and abstraction: how Valikhodjaev uses red, contrasting colour fields and expressive contours."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED: how colour builds a painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/colour-gives-form-looking-closely-at.html>)
 
-[Video](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[Video](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 RED · Colour and shape
 

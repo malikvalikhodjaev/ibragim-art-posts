@@ -4,14 +4,14 @@ language: "uz"
 theme: 17
 description: "Dias Rahmatov, Lena va Sasha portretlari: yuzning yaqinligi, qomat, kiyim va fonning kompozitsiyadagi o‘rni."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Yuz, poza va ochiq makon: Valixo‘jayevning uch portreti
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/portretdagi-sokinlik-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=soR0SbRwLqU>)
+[Videoyozuv](<https://www.youtube.com/watch?v=T9vhYsTKkDc>)
 
 Shakl va tasviriy makon
 

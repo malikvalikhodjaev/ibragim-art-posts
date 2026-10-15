@@ -4,14 +4,14 @@ language: "ja"
 theme: 12
 description: "「至高の調和」「眠る女」「ヌード」。三つの作品から、身体、輪郭、姿勢、周囲の色面を考える。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_19.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 横たわる身体――ヴァリホジャエフのヌードに見る線と色
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_19.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_19.html>)
 
-[映像](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
+[映像](<https://www.youtube.com/watch?v=SxjXY3rP8Ek>)
 
 ヌード・人体像
 

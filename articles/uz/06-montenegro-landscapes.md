@@ -4,14 +4,14 @@ language: "uz"
 theme: 6
 description: "Perastning ikki manzarasi, 2012: qayiq, sohil, palma va tog‘lar Valixo‘jayevning Chernogoriya turkumida."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Chernogoriyada yigirma bir kun: Perastning sohil manzaralari
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/bozordagi-hayot-tuvalda-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Videoyozuv](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Chernogoriya manzarasi
 

@@ -4,14 +4,14 @@ language: "fa"
 theme: 3
 description: "ولی‌خوجایف در پروژهٔ مجسمه‌های شناور هولان، چین، ۲۰۲۴: فرم فلزی، آب، بازتاب و مقیاس."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # مجسمه روی آب: ابراهیم ولی‌خوجایف در هولان
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_27.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_27.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[ویدئو](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 <div dir="rtl" lang="fa">
 

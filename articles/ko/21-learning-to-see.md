@@ -4,14 +4,14 @@ language: "ko"
 theme: 21
 description: "공개 인터뷰와 작품, 전시 자료로 읽는 발리호자예프의 삶. 관찰과 색채, 가르침, 끊임없는 예술적 탐구."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 보는 법을 배우다 — 이브라김 발리호자예프의 삶과 예술
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_925.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_925.html>)
 
-[영상](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[영상](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 예술과 함께한 삶 · 나망간, 작업실, 회화
 

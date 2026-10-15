@@ -4,14 +4,14 @@ language: "de"
 theme: 11
 description: "Die Namangan-Suite: Alltagsgesten, weiße Kopftücher und bunte Kleidung verdichten sich bei Valikhodjaev zu einer großen Basarszene."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # «Namangan-Suite»: das Leben in einem großen Gemälde
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/namangan-suite-das-leben-in-einem-groen.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 Die Geschichte eines Gemäldes
 

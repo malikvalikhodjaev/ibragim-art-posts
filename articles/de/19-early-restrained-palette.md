@@ -4,14 +4,14 @@ language: "de"
 theme: 19
 description: "Gebet, Krüge und Blick: Valikhodjaevs frühe Gemälde zeigen die expressive Kraft einer hellen, zurückhaltenden Farbpalette."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Eine zurückhaltende Palette: Valikhodjaevs frühe Gemälde
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/die-stille-einer-zuruckhaltenden.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Frühe Werke · Gedämpfte Farbpalette
 

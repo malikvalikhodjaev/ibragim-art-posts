@@ -4,14 +4,14 @@ language: "ja"
 theme: 11
 description: "「ナマンガン組曲」に描かれた人々、手の動き、白い頭布、ドッピ帽。市場の日常が絵画の構成へと変わる。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_67.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 「ナマンガン組曲」――大きな絵画の中に息づく日常
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_67.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_67.html>)
 
-[映像](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[映像](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 ある絵画の物語
 

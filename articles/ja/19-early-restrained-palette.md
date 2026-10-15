@@ -4,14 +4,14 @@ language: "ja"
 theme: 19
 description: "「祈り」「壺」「まなざし」「聖なる石」。抑制された色彩と微妙な明暗が形を生む初期作品を読む。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 抑えた色彩の静けさ――白と灰色の初期作品
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_255.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_255.html>)
 
-[映像](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[映像](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 初期作品・落ち着いた色調
 

@@ -4,14 +4,14 @@ language: "en"
 theme: 16
 description: "Pomegranates on orange: colour, intervals, texture and the relationship between near objects and distant forms in Valikhodjaev’s still life."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Pomegranates on Orange: A Small World of Painting
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/pomegranates-in-orange-small-world-of.html>)
 
-[Video](<https://www.youtube.com/watch?v=kouQIko-77Q>)
+[Video](<https://www.youtube.com/watch?v=ud3Bw3TcJoU>)
 
 One painting close up
 

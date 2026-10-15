@@ -4,14 +4,14 @@ language: "ru"
 theme: 21
 description: "Ибрагим Валиходжаев: Наманганский базар, RED, абстракция, скульптура и передача опыта. Биографический портрет по опубликованным интервью."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Учиться видеть: Ибрагим Валиходжаев о жизни в искусстве
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/resmin-ritmi-ibragim-valikhodjaev.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Видеозапись](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 История жизни · Наманган, мастерская, живопись
 

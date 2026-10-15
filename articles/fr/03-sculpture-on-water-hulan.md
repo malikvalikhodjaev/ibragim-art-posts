@@ -4,14 +4,14 @@ language: "fr"
 theme: 3
 description: "Valikhodjaev, sculpteur participant à Hulan en Chine en 2024 : métal, silhouette, reflets et sculptures flottantes."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Des sculptures sur la rivière : Ibragim Valikhodjaev à Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-sculptures-sur-la-riviere-ibragim.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Vidéo](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Sculpture et environnement
 

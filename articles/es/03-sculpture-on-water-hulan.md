@@ -4,14 +4,14 @@ language: "es"
 theme: 3
 description: "Valikhodjaev en Hulan, China, 2024: su participación como escultor, las formas metálicas, el agua y el reflejo."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Esculturas sobre el río: Ibragim Valikhodjaev en Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/esculturas-sobre-el-rio-ibragim.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Vídeo](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Escultura y entorno
 

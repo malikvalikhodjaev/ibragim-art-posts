@@ -4,14 +4,14 @@ language: "he"
 theme: 6
 description: "שני נופי פראסט משנת 2012 חושפים את המים, האדריכלות והקצב בציוריו של וליכודג'ייב במונטנגרו."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_427.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # עשרים ואחד ימים במונטנגרו: נופי החוף של וליכודג'ייב
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_427.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_427.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[סרטון](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 <div dir="rtl" lang="he">
 

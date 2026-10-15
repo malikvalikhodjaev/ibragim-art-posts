@@ -4,14 +4,14 @@ language: "fr"
 theme: 16
 description: "Grenades sur fond orange : contours, intervalles et matière picturale dans une nature morte de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Des grenades sur fond orange : le petit monde d’une nature morte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/des-grenades-sur-fond-orange-le-petit.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=kouQIko-77Q>)
+[Vidéo](<https://www.youtube.com/watch?v=ud3Bw3TcJoU>)
 
 Gros plan d'un tableau
 

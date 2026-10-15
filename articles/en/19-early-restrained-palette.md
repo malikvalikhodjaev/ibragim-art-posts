@@ -4,14 +4,14 @@ language: "en"
 theme: 19
 description: "Prayer, Jugs, Gaze and Holy Stones: restrained colour, tonal nuances and the expressive forms of Valikhodjaev’s early paintings."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # The quiet of a restricted palette: early paintings in white and grey
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/the-ground-has-voice-three-paintings-by.html>)
 
-[Video](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Video](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Early Works · Subdued Palette
 

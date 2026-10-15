@@ -4,14 +4,14 @@ language: "en"
 theme: 3
 description: "Valikhodjaev’s sculptural participation in Hulan, China, in 2024: metal, silhouette, water, reflections and an international river display."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Sculpture on Water: Ibragim Valikhodjaev in Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculpture-on-water-ibragim-valikhodjaev.html>)
 
-[Video](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Video](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Sculpture and the Environment
 

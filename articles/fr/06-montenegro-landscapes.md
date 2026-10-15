@@ -4,14 +4,14 @@ language: "fr"
 theme: 6
 description: "Barques, palmiers et pierre claire : deux paysages de Perast dans la série monténégrine de Valikhodjaev, réalisée en 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Vingt et un jours au Monténégro : les paysages côtiers de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/vingt-et-un-jours-au-montenegro-les.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Vidéo](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Paysage du Monténégro
 

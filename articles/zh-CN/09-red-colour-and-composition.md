@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 9
 description: "从《红马》到米拉基风景与 RED 系列：红色、蓝色、轮廓和色块如何构成画面。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_816.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED：红色如何组织瓦利霍贾耶夫的画面
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_816.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_816.html>)
 
-[视频](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[视频](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 红色 · 颜色和形状
 

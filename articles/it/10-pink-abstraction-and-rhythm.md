@@ -4,14 +4,14 @@ language: "it"
 theme: 10
 description: "Astrazione rosa n. 1: una linea scura, pennellate incrociate e ritmi mutevoli all’interno del campo cromatico."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Un campo rosa e una linea scura: il ritmo secondo Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/archi-piani-e-pause-il-ritmo-della.html>)
 
-[Video](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[Video](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 Composizione e ritmo
 

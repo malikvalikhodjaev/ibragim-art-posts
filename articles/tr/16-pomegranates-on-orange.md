@@ -4,14 +4,14 @@ language: "tr"
 theme: 16
 description: "Narlar ve Sürahiler: Valikhodjaev’in natürmortlarında nesneler, masa yüzeyi, renk lekeleri ve aralıklar arasındaki ilişkiler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Turuncu zeminde narlar: bir natürmortun küçük dünyası
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/turuncu-zemin-uzerinde-narlar-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=kouQIko-77Q>)
+[Video kaydı](<https://www.youtube.com/watch?v=ud3Bw3TcJoU>)
 
 Bir resmin yakın çekimi
 

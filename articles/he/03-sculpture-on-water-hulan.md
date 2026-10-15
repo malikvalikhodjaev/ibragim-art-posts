@@ -4,14 +4,14 @@ language: "he"
 theme: 3
 description: "וליכודג'ייב כפסל בפרויקט חולאן 2024: מתכת, מים, צללית והשתקפות במרחב הנהר."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # פיסול על פני המים: איברגים וליכודג'ייב בחולאן
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_716.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_716.html>)
 
-[סרטון](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[סרטון](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 <div dir="rtl" lang="he">
 

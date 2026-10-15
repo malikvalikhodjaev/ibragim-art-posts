@@ -4,14 +4,14 @@ language: "ru"
 theme: 19
 description: "«Молитва», «Кувшины», «Взгляд» и «Святые камни»: сдержанная палитра, тональные нюансы и выразительность ранней живописи Валиходжаева."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_46.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Тишина сдержанной палитры: ранняя живопись в белых и серых тонах
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_46.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_46.html>)
 
-[Видеозапись](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Видеозапись](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Ранние работы · Сдержанная палитра
 

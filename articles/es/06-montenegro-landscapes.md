@@ -4,14 +4,14 @@ language: "es"
 theme: 6
 description: "El muelle y las palmeras de Perast: color, arquitectura y espacio en los paisajes de Montenegro de Valikhodjaev, 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Veintiún días en Montenegro: los paisajes costeros de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/veintiun-dias-en-montenegro-los.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Vídeo](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Paisaje de Montenegro
 

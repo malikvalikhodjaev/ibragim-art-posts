@@ -4,14 +4,14 @@ language: "it"
 theme: 3
 description: "Valikhodjaev a Hulan, Cina, 2024: la sua partecipazione come scultore, il metallo, l’acqua e il riflesso."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Sculture sul fiume: Ibragim Valikhodjaev a Hulan
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sculture-sul-fiume-ibragim-valikhodjaev.html>)
 
-[Video](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Video](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Scultura e ambiente
 

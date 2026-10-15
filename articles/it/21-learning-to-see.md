@@ -4,14 +4,14 @@ language: "it"
 theme: 21
 description: "La vita artistica di Valikhodjaev attraverso interviste pubblicate: il bazar, RED, l’astrazione, la scultura e la formazione."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Imparare a vedere: Ibragim Valikhodjaev e una vita nell’arte
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/imparare-vedere-ibragim-valikhodjaev-e.html>)
 
-[Video](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Video](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 Una vita nell’arte · Namangan, lo studio e la pittura
 

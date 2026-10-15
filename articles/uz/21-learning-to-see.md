@@ -4,14 +4,14 @@ language: "uz"
 theme: 21
 description: "Nashr etilgan suhbatlar asosidagi biografik portret: Rahim Ahmedov, Namangan bozori, RED, abstraksiya va xalqaro loyihalar."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Ko‘rishni o‘rganish: Ibrohim Valixo‘jayevning san’atdagi hayot yo‘li
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_573.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_573.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Videoyozuv](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 Hayot va san’at · Namangan, ustaxona, rangtasvir
 

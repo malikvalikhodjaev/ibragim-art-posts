@@ -4,14 +4,14 @@ language: "ja"
 theme: 3
 description: "中国・フーランの水上彫刻プロジェクト、2024年。彫刻家として参加したヴァリホジャエフの制作と水、光、反射。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 水面に浮かぶ彫刻――イブラギム・ヴァリホジャエフ、フーランにて
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_336.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_336.html>)
 
-[映像](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[映像](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 彫刻と環境
 

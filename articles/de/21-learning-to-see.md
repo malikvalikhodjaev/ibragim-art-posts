@@ -4,14 +4,14 @@ language: "de"
 theme: 21
 description: "Sehen lernen: Ein biografisches Künstlerporträt über Valikhodjaevs Ausbildung, Basarmalerei, Abstraktion und internationale Arbeit."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Sehen lernen: Ibragim Valikhodjaev und ein Leben für die Kunst
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/sehen-lernen-ibragim-valikhodjaev-und.html>)
 
-[Videoaufnahme](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[Videoaufnahme](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 Ein Leben in der Kunst · Namangan, Atelier und Malerei
 

@@ -4,14 +4,14 @@ language: "ko"
 theme: 10
 description: "「분홍색 추상 1번」을 가까이서 읽는다. 어두운 선, 겹친 붓질, 밀도의 변화가 만들어내는 리듬."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_933.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 분홍색 색면과 어두운 선 하나 — 회화의 리듬을 읽다
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_933.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_933.html>)
 
-[영상](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[영상](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 구성과 리듬
 

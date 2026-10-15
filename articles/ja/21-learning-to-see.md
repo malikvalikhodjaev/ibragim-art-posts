@@ -4,14 +4,14 @@ language: "ja"
 theme: 21
 description: "公開インタビューと作品、展覧会の記録からたどるヴァリホジャエフの歩み。観察と色彩、教えること、探求を続けること。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 見ることを学ぶ――イブラギム・ヴァリホジャエフの芸術と人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_895.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_895.html>)
 
-[映像](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[映像](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 芸術とともに歩む人生 · ナマンガン、工房、絵画
 

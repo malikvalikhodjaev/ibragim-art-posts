@@ -4,14 +4,14 @@ language: "fr"
 theme: 9
 description: "Chevaux rouges, paysages RED et abstraction : comment Valikhodjaev construit ses tableaux par les rapports de couleur."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED : comment le rouge construit un tableau
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/red-comment-le-rouge-construit-un.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[Vidéo](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 RED · Couleur et forme
 

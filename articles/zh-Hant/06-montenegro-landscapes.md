@@ -4,14 +4,14 @@ language: "zh-Hant"
 theme: 6
 description: "蒙特內哥羅2012年戶外寫生系列：比較《佩拉斯特港》與棕櫚樹風景中的海水、建築和空間。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_351.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 在蒙特內哥羅的二十一天：佩拉斯特的海岸風景
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_351.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_351.html>)
 
-[影片](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[影片](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 蒙特內哥羅景觀
 

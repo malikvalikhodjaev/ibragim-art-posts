@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 21
 description: "依据公开访谈与艺术家档案，回望瓦利霍贾耶夫从纳曼干集市到抽象、雕塑与教学的艺术探索。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 学会观看：伊布拉吉姆·瓦利霍贾耶夫的艺术人生
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_373.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_373.html>)
 
-[视频](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[视频](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 艺术人生 · 纳曼干、工作室与绘画
 

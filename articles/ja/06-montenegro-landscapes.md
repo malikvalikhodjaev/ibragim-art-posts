@@ -4,14 +4,14 @@ language: "ja"
 theme: 6
 description: "2012年のペラストの港とヤシの風景。水、石造りの町、空を通して見るヴァリホジャエフのモンテネグロ作品。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # モンテネグロの21日間――ヴァリホジャエフが描く海辺の町
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/21\_5.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/21_5.html>)
 
-[映像](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[映像](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 モンテネグロの風景
 

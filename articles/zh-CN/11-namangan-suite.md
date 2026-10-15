@@ -4,14 +4,14 @@ language: "zh-CN"
 theme: 11
 description: "《纳曼干组曲》中的集市生活：人物姿态、白色头巾、刺绣小帽与横幅构图。"
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_844.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 《纳曼干组曲》：一幅全景画中的日常生活
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_844.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_844.html>)
 
-[视频](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[视频](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 一幅画的故事
 

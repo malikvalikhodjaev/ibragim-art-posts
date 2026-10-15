@@ -4,14 +4,14 @@ language: "tr"
 theme: 12
 description: "Yüksek Uyum, Uyuyan ve Nü: Valikhodjaev’in resimlerinde uzanan beden, koyu kontur ve çevresindeki renk alanları."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Uzanan figür: Valikhodjaev’in nü resimlerinde çizgi ve renk
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/beyaz-basortusunun-izinde-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=gv4mcE12MYM>)
+[Video kaydı](<https://www.youtube.com/watch?v=SxjXY3rP8Ek>)
 
 Nü · İnsan figürü
 

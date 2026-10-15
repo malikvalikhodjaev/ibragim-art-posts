@@ -4,14 +4,14 @@ language: "es"
 theme: 19
 description: "Oración, Jarras, Mirada y Piedras sagradas: tonos, contornos y matices en la paleta contenida de las primeras obras de Valikhodjaev."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # Una paleta contenida: las primeras pinturas de Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/el-silencio-de-una-paleta-contenida.html>)
 
-[Vídeo](<https://www.youtube.com/watch?v=1evPDLicSeM>)
+[Vídeo](<https://www.youtube.com/watch?v=ih1M1UMS3MU>)
 
 Primeras obras · Paleta de colores sobria
 

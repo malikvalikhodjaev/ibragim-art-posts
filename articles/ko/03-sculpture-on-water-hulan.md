@@ -4,14 +4,14 @@ language: "ko"
 theme: 3
 description: "중국 후란의 2024년 수상 조각 프로젝트. 조각가로 참여한 발리호자예프의 금속 작업과 물, 빛, 반사의 관계."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 수면 위의 조각 — 이브라김 발리호자예프, 중국 후란에서
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_88.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_88.html>)
 
-[영상](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[영상](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 조각과 환경
 

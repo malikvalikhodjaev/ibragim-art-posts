@@ -4,14 +4,14 @@ language: "ko"
 theme: 16
 description: "「석류」, 2012년. 주황색 바탕과 어두운 과일, 붓질을 관찰하고 초기 정물화 「항아리들」과 비교한다."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_614.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # 주황색 바탕 위의 석류 — 한 점의 정물화를 자세히 보다
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_614.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_614.html>)
 
-[영상](<https://www.youtube.com/watch?v=kouQIko-77Q>)
+[영상](<https://www.youtube.com/watch?v=ud3Bw3TcJoU>)
 
 그림 한 점을 가까이에서 본 모습
 

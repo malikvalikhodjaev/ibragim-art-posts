@@ -4,14 +4,14 @@ language: "fr"
 theme: 10
 description: "Abstraction rose no 1 : une ligne sombre, des touches croisées et les rythmes changeants du champ coloré."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Un champ rose, une ligne sombre : le rythme selon Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/arcs-plans-et-pauses-le-rythme-du.html>)
 
-[Vidéo](<https://www.youtube.com/watch?v=yIrNnzqaKnI>)
+[Vidéo](<https://www.youtube.com/watch?v=kxYsUPkDhfQ>)
 
 Composition et rythme
 

@@ -4,14 +4,14 @@ language: "ko"
 theme: 11
 description: "「나망간 모음곡」 속 인물과 손짓, 머릿수건과 도피 모자. 시장의 일상이 하나의 회화로 구성되는 방식."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_219.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # 「나망간 모음곡」 — 큰 그림 안에 살아 있는 일상
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_219.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_219.html>)
 
-[영상](<https://www.youtube.com/watch?v=YT9ORixOU1Q>)
+[영상](<https://www.youtube.com/watch?v=BosYuIfDw2A>)
 
 한 그림에 얽힌 이야기
 

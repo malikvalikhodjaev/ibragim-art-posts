@@ -4,14 +4,14 @@ language: "uz"
 theme: 9
 description: "«Qizil otlar», «Miraki» va RED: qizil rang, kontur va katta rang massalari kartinani qanday quradi."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # RED: qizil rang Valixo‘jayev kartinalarini qanday tashkil etadi
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/qizil-rang-nimaga-qodir-ibrohim.html>)
 
-[Videoyozuv](<https://www.youtube.com/watch?v=WlpSbuzWGZ8>)
+[Videoyozuv](<https://www.youtube.com/watch?v=YCgBP9V409k>)
 
 RED · Rang va shakl
 

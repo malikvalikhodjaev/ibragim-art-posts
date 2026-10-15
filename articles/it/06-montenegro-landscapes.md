@@ -4,14 +4,14 @@ language: "it"
 theme: 6
 description: "Barche, palme e pietra chiara: due paesaggi di Perast nella serie montenegrina di Valikhodjaev del 2012."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Ventuno giorni in Montenegro: i paesaggi costieri di Valikhodjaev
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/ventuno-giorni-in-montenegro-i-paesaggi.html>)
 
-[Video](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[Video](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 Paesaggio del Montenegro
 

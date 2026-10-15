@@ -4,14 +4,14 @@ language: "fa"
 theme: 6
 description: "«بندر پراست» و نخل‌های ساحل: دو نقاشی از سفر و شرکت ولی‌خوجایف در برنامهٔ نقاشی مونته‌نگرو در ۲۰۱۲."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/_58.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # بیست‌ویک روز در مونته‌نگرو: نقاشی‌های ساحلی ولی‌خوجایف
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/\_58.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/_58.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=iYdls56_FeA>)
+[ویدئو](<https://www.youtube.com/watch?v=2gu2X5NGbqI>)
 
 <div dir="rtl" lang="fa">
 

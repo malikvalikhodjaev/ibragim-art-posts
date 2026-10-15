@@ -4,14 +4,14 @@ language: "tr"
 theme: 3
 description: "Hulan 2024: Valikhodjaev’in heykeltıraş olarak katıldığı yüzen heykel projesi; metal, su, ışık ve değişen silüetler."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html"
-edition_date: "2026-10-13"
+edition_date: "2026-10-15"
 ---
 
 # Nehirde yüzen heykeller: İbrahim Valikhodjaev Hulan’da
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/nehir-uzerinde-heykel-ibragim.html>)
 
-[Video kaydı](<https://www.youtube.com/watch?v=a4pu76VDup0>)
+[Video kaydı](<https://www.youtube.com/watch?v=hFKfwNol2h0>)
 
 Heykel ve Çevre
 

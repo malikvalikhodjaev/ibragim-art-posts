@@ -4,14 +4,14 @@ language: "fa"
 theme: 21
 description: "چهره‌ای از زندگی ابراهیم ولی‌خوجایف بر پایهٔ مصاحبه‌ها و آثار آرشیوی؛ بازار، RED، انتزاع، مجسمه‌سازی و آموزش."
 published_url: "https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html"
-edition_date: "2026-10-14"
+edition_date: "2026-10-15"
 ---
 
 # آموختن دیدن: ابراهیم ولی‌خوجایف و زندگی در هنر
 
 [https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post\_878.html](<https://ibragim-valikhodjaev.blogspot.com/2026/10/blog-post_878.html>)
 
-[ویدئو](<https://www.youtube.com/watch?v=gARbc6mLo_Q>)
+[ویدئو](<https://www.youtube.com/watch?v=6ZQJnoS1wxU>)
 
 <div dir="rtl" lang="fa">
 
